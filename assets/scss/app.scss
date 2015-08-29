@@ -2,3 +2,43 @@
 @import "variables";
 
 @import "../css/vendor/normalize.css";
+
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1, h2, h3, h4 {
+  text-transform: uppercase;
+}
+p {
+  font-size: 1.2em;
+  line-height: 1.8;
+}
+a {
+  color: $secondary;
+  text-decoration: none;
+  &:active,
+  &:hover {
+    color: $secondaryLight;
+  }
+  &:link,
+  &:active,
+  &:hover,
+  &:visited {
+    outline: 0;
+  }
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+  padding: 1em;
+  @include box-sizing();
+}
+
+.home {
+  button {
+    font-size: 1.5em;
+    padding: 0.2em 0.4em;
+  }
+}
