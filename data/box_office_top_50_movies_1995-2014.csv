@@ -1,0 +1,1001 @@
+movie_id,year,rank,name,wiki_name,theaters,total_gross,studio
+1,1995,1,Toy Story,Toy Story,2574,191796233,BV
+2,1995,2,Batman Forever,Batman Forever,2893,184031112,WB
+3,1995,3,Apollo 13,Apollo 13 (film),2347,172071312,Uni.
+4,1995,4,Pocahontas,Pocahontas (1995 film),2757,141579773,BV
+5,1995,5,Ace Ventura: When Nature Calls,Ace Ventura: When Nature Calls,2705,108385533,WB
+6,1995,6,GoldenEye,GoldenEye,2667,106429941,MGM
+7,1995,7,Jumanji,Jumanji,2530,100475249,Sony
+8,1995,8,Casper,Casper (film),2757,100328194,Uni.
+9,1995,9,Seven,Seven (1995 film),2528,100125643,NL
+10,1995,10,Die Hard: With A Vengeance,Die Hard with a Vengeance,2579,100012499,Fox
+11,1995,11,Crimson Tide,Crimson Tide (film),2514,91387195,BV
+12,1995,12,Waterworld,Waterworld,2420,88246220,Uni.
+13,1995,13,Dangerous Minds,Dangerous Minds,1783,84919401,BV
+14,1995,14,Mr. Holland's Opus,Mr. Holland's Opus,1659,82569971,BV
+15,1995,15,While You Were Sleeping,While You Were Sleeping,2086,81057016,BV
+16,1995,16,Congo,Congo (film),2676,81022101,Par.
+17,1995,17,Father of the Bride Part II,Father of the Bride Part II,2148,76594107,BV
+18,1995,18,Braveheart,Braveheart,2037,75609945,Par.
+19,1995,19,Get Shorty,Get Shorty (film),2103,72101622,MGM
+20,1995,20,Grumpier Old Men,Grumpier Old Men,2037,71518503,WB
+21,1995,21,The Bridges of Madison County,The Bridges of Madison County,1986,71516617,WB
+22,1995,22,Mortal Kombat,Mortal Kombat (film),2630,70454098,NL
+23,1995,23,Nine Months,Nine Months,1795,69684532,Fox
+24,1995,24,Outbreak,Outbreak (film),2230,67659560,WB
+25,1995,25,Heat,Heat (1995 film),1704,67436818,WB
+26,1995,26,Waiting to Exhale,Waiting to Exhale,1402,67052156,Fox
+27,1995,27,Bad Boys,Bad Boys (1995 film),2132,65807024,Sony
+28,1995,28,Babe,Babe (film),1790,63658910,Uni.
+29,1995,29,The American President,The American President,1508,60079496,Sony
+30,1995,30,Species,Species (film),2310,60074103,MGM
+31,1995,31,12 Monkeys,12 Monkeys,1629,57141459,Uni.
+32,1995,32,Clueless,Clueless (film),1922,56631572,Par.
+33,1995,33,Sabrina,Sabrina (1995 film),1976,53672080,Par.
+34,1995,34,Something to Talk About,Something to Talk About (film),1787,50865589,WB
+35,1995,35,The Net,The Net (1995 film),2027,50727965,Sony
+36,1995,36,Under Siege 2: Dark Territory,Under Siege 2: Dark Territory,2150,50024083,WB
+37,1995,37,A Walk in the Clouds,A Walk in the Clouds,1755,50008143,Fox
+38,1995,38,The Brady Bunch Movie,The Brady Bunch Movie,1941,46576136,Par.
+39,1995,39,Sense and Sensibility,Sense and Sensibility (film),1054,43182776,Sony
+40,1995,40,Casino,Casino (film),1631,42512375,Uni.
+41,1995,41,Man of the House,Man of the House (1995 film),2059,40070995,BV
+42,1995,42,Dead Man Walking,Dead Man Walking (film),821,39363635,Gram.
+43,1995,43,French Kiss,French Kiss (1995 film),1754,38896854,Fox
+44,1995,44,Higher Learning,Higher Learning,1450,38290723,Sony
+45,1995,45,Mighty Morphin' Power Rangers,Mighty Morphin Power Rangers: The Movie,2409,38187431,Fox
+46,1995,46,First Knight,First Knight,2161,37600435,Sony
+47,1995,47,Just Cause,Just Cause,2059,36853222,WB
+48,1995,48,"To Wong Foo, Thanks for Everything, Julie Newmar","To Wong Foo, Thanks for Everything! Julie Newmar",1489,36474193,Uni.
+49,1995,49,The Indian in the Cupboard,The Indian in the Cupboard (film),1723,35656131,Par.
+50,1995,50,Money Train,Money Train (film),2522,35431113,Sony
+51,1996,1,Independence Day,Independence Day (1996 film),2977,306169268,Fox
+52,1996,2,Twister,Twister (1996 film),2808,241721524,WB
+53,1996,3,Mission: Impossible,Mission: Impossible (film),3012,180981856,Par.
+54,1996,4,Jerry Maguire,Jerry Maguire,2531,153952592,Sony
+55,1996,5,Ransom,Ransom (1996 film),2768,136492681,BV
+56,1996,6,101 Dalmatians (1996),101 Dalmatians (1996 film),2901,136189294,BV
+57,1996,7,The Rock,The Rock (film),2426,134069511,BV
+58,1996,8,The Nutty Professor (1996),The Nutty Professor (1996 film),2239,128814019,Uni.
+59,1996,9,The Birdcage,The Birdcage,2285,124060553,MGM
+60,1996,10,A Time to Kill,A Time to Kill (1996 film),2313,108766007,WB
+61,1996,11,The First Wives Club,The First Wives Club,2406,105489203,Par.
+62,1996,12,Phenomenon,Phenomenon (film),2139,104636382,BV
+63,1996,13,Scream,Scream (1996 film),1994,103046663,Dim.
+64,1996,14,Eraser,Eraser (film),2556,101295562,WB
+65,1996,15,The Hunchback of Notre Dame,The Hunchback of Notre Dame (1996 film),2835,100138851,BV
+66,1996,16,Michael,Michael (1996 film),2325,95318203,NL
+67,1996,17,Star Trek: First Contact,Star Trek: First Contact,2812,92027888,Par.
+68,1996,18,Space Jam,Space Jam,2650,90418342,WB
+69,1996,19,The English Patient,The English Patient (film),1409,78676425,Mira.
+70,1996,20,Broken Arrow (1996),Broken Arrow (1996 film),2392,70770147,Fox
+71,1996,21,Beavis and Butt-Head Do America,Beavis and Butt-head Do America,2417,63118386,Par.
+72,1996,22,Jingle All the Way,Jingle All the Way,2404,60592389,Fox
+73,1996,23,The Cable Guy,The Cable Guy,2657,60240295,Sony
+74,1996,24,Courage Under Fire,Courage Under Fire,2001,59031057,Fox
+75,1996,25,Jack,Jack (1996 film),2232,58620973,BV
+76,1996,26,Executive Decision,Executive Decision,2289,56569216,WB
+77,1996,27,Primal Fear,Primal Fear (film),1983,56116183,Par.
+78,1996,28,Tin Cup,Tin Cup,2102,53854588,WB
+79,1996,29,Sleepers,Sleepers (film),2080,53315285,WB
+80,1996,30,Dragonheart,Dragonheart,2193,51367375,Uni.
+81,1996,31,Up Close and Personal,Up Close & Personal,1639,51088705,BV
+82,1996,32,Evita,Evita (1996 film),1045,50047179,BV
+83,1996,33,The Preacher's Wife,The Preacher's Wife,2008,48102795,BV
+84,1996,34,Romeo + Juliet,Romeo + Juliet,1963,46351345,Fox
+85,1996,35,One Fine Day,One Fine Day,1975,46151454,Fox
+86,1996,36,The Mirror Has Two Faces,The Mirror Has Two Faces,2489,41083864,Sony
+87,1996,37,Happy Gilmore,Happy Gilmore,2069,38824099,Uni.
+88,1996,38,The Ghost and the Darkness,The Ghost and the Darkness,2202,38619405,Par.
+89,1996,39,Mars Attacks!,Mars Attacks!,1955,37771017,WB
+90,1996,40,Set It Off,Set It Off,1016,36461139,NL
+91,1996,41,Shine,Shine (film),1050,35892330,FL
+92,1996,42,The Truth About Cats & Dogs,The Truth About Cats & Dogs,1654,34861807,Fox
+93,1996,43,A Thin Line Between Love and Hate,A Thin Line Between Love and Hate,1131,34767836,NL
+94,1996,44,Muppet Treasure Island,Muppet Treasure Island,2089,34327391,BV
+95,1996,45,Matilda,Matilda (1996 film),2006,33459416,Sony
+96,1996,46,The Long Kiss Goodnight,The Long Kiss Goodnight,2404,33447612,NL
+97,1996,47,Striptease,Striptease (film),1979,33109743,Sony
+98,1996,48,Daylight,Daylight (film),2189,33023469,Uni.
+99,1996,49,Homeward Bound II: Lost in San Francisco,Homeward Bound II: Lost in San Francisco,2129,32772492,BV
+100,1996,50,Black Sheep,Black Sheep (1996 film),2092,32417995,Par.
+101,1997,1,Titanic,Titanic (1997 film),3265,600788188,Par.
+102,1997,2,Men in Black,Men in Black (film),3180,250690539,Sony
+103,1997,3,The Lost World: Jurassic Park,The Lost World: Jurassic Park,3565,229086679,Uni.
+104,1997,4,Liar Liar,Liar Liar,2909,181410615,Uni.
+105,1997,5,Air Force One,Air Force One (film),2981,172956409,Sony
+106,1997,6,As Good as It Gets,As Good as It Gets,1837,148478011,Sony
+107,1997,7,Good Will Hunting,Good Will Hunting,2203,138433435,Mira.
+108,1997,8,Star Wars (Special Edition),Star Wars (film),2375,138257865,Fox
+109,1997,9,My Best Friend's Wedding,My Best Friend's Wedding,2376,127120029,Sony
+110,1997,10,Tomorrow Never Dies,Tomorrow Never Dies,2807,125304276,MGM
+111,1997,11,Face/Off,Face/Off,2851,112276146,Par.
+112,1997,12,Batman and Robin,Batman & Robin (film),2942,107325195,WB
+113,1997,13,George of the Jungle,George of the Jungle (film),2616,105263257,BV
+114,1997,14,Scream 2,Scream 2,2688,101363301,Dim.
+115,1997,15,Con Air,Con Air,2941,101117573,BV
+116,1997,16,Contact,Contact (1997 US film),2314,100920329,WB
+117,1997,17,Hercules,Hercules (1997 film),2930,99112101,BV
+118,1997,18,Flubber,Flubber (film),2679,92977226,BV
+119,1997,19,Conspiracy Theory,Conspiracy Theory (film),2806,75982834,WB
+120,1997,20,I Know What You Did Last Summer,I Know What You Did Last Summer,2524,72586134,Sony
+121,1997,21,The Empire Strikes Back (Special Edition),The Empire Strikes Back,2322,67597694,Fox
+122,1997,22,Dante's Peak,Dante's Peak,2761,67127760,Uni.
+123,1997,23,Anaconda,Anaconda (film),2456,65885767,Sony
+124,1997,24,L.A. Confidential,L.A. Confidential (film),1625,64616940,WB
+125,1997,25,In & Out,In & Out,2452,63856929,Par.
+126,1997,26,The Fifth Element,The Fifth Element,2500,63820180,Sony
+127,1997,27,Mouse Hunt,MouseHunt (film),2233,61917389,DW
+128,1997,28,The Saint,The Saint,2500,61363304,Par.
+129,1997,29,The Devil's Advocate,The Devil's Advocate (1997 film),2404,60944660,WB
+130,1997,30,Kiss the Girls,Kiss the Girls (film),2406,60527873,Par.
+131,1997,31,Jungle 2 Jungle,Jungle 2 Jungle,2340,59927618,BV
+132,1997,32,Anastasia,Anastasia (1997 film),2511,58406347,Fox
+133,1997,33,The Jackal,The Jackal (1997 film),2309,54930280,Uni.
+134,1997,34,Spawn,Spawn (film),2604,54870175,NL
+135,1997,35,Starship Troopers,Starship Troopers (film),2971,54814377,Sony
+136,1997,36,Austin Powers: International Man of Mystery,Austin Powers: International Man of Mystery,2187,53883989,NL
+137,1997,37,Breakdown,Breakdown (1997 film),2348,50159144,Par.
+138,1997,38,Absolute Power,Absolute Power (film),2568,50068310,Sony
+139,1997,39,Volcano,Volcano (1997 film),2777,49323468,Fox
+140,1997,40,Speed 2: Cruise Control,Speed 2: Cruise Control,2625,48608066,Fox
+141,1997,41,The Game,The Game (1997 film),2521,48323648,Poly
+142,1997,42,G.I. Jane,G.I. Jane,2043,48169156,BV
+143,1997,43,Alien Resurrection,Alien: Resurrection,2449,47795658,Fox
+144,1997,44,The Full Monty,The Full Monty,783,45950122,FoxS
+145,1997,45,The Rainmaker (1997),The Rainmaker (1997 film),2369,45916769,Par.
+146,1997,46,Return of the Jedi (Special Edition),Return of the Jedi,2111,45470437,Fox
+147,1997,47,Bean,Bean (film),2015,45319423,Gram.
+148,1997,48,Cop Land,Cop Land,2233,44862187,Mira.
+149,1997,49,Nothing to Lose,Nothing to Lose (1997 film),1888,44480039,BV
+150,1997,50,Amistad,Amistad (film),1019,44229441,DW
+151,1998,1,Saving Private Ryan,Saving Private Ryan,2807,216540909,DW
+152,1998,2,Armageddon,Armageddon (1998 film),3184,201578182,BV
+153,1998,3,There's Something About Mary,There's Something About Mary,2555,176484651,Fox
+154,1998,4,A Bug's Life,A Bug's Life,2773,162798565,BV
+155,1998,5,The Waterboy,The Waterboy,2782,161491646,BV
+156,1998,6,Doctor Dolittle,Dr. Dolittle (film),2871,144156605,Fox
+157,1998,7,Rush Hour,Rush Hour (1998 film),2724,141186864,NL
+158,1998,8,Deep Impact,Deep Impact (film),3280,140464664,Par.
+159,1998,9,Godzilla,Godzilla (1998 film),3310,136314294,Sony
+160,1998,10,Patch Adams,Patch Adams (film),2909,135026902,Uni.
+161,1998,11,Lethal Weapon 4,Lethal Weapon 4,3117,130444603,WB
+162,1998,12,The Truman Show,The Truman Show,2911,125618201,Par.
+163,1998,13,Mulan,Mulan (1998 film),2953,120620254,BV
+164,1998,14,You've Got Mail,You've Got Mail,2948,115821495,WB
+165,1998,15,Enemy of the State,Enemy of the State (film),2517,111549836,BV
+166,1998,16,The Prince of Egypt,The Prince of Egypt,3218,101413188,DW
+167,1998,17,The Rugrats Movie,The Rugrats Movie,2832,100494675,Par.
+168,1998,18,Shakespeare in Love,Shakespeare in Love,2030,100317794,Mira.
+169,1998,19,The Mask of Zorro,The Mask of Zorro,2515,94095523,Sony
+170,1998,20,Stepmom,Stepmom (film),2503,91137662,Sony
+171,1998,21,Antz,Antz,2929,90757863,DW
+172,1998,22,Everest (IMAX),Everest (1998 film),62,87178599,MFF
+173,1998,23,The X-Files,The X-Files (film),2650,83898313,Fox
+174,1998,24,The Wedding Singer,The Wedding Singer,2837,80245725,NL
+175,1998,25,City of Angels,City of Angels (film),2433,78685114,WB
+176,1998,26,The Horse Whisperer,The Horse Whisperer (film),2362,75383563,BV
+177,1998,27,"Six Days, Seven Nights",Six Days Seven Nights,2606,74339294,BV
+178,1998,28,Star Trek: Insurrection,Star Trek: Insurrection,2677,70187658,Par.
+179,1998,29,Blade,Blade (film),2389,70087718,NL
+180,1998,30,Lost in Space,Lost in Space (film),3306,69117629,NL
+181,1998,31,A Perfect Murder,A Perfect Murder,2845,67638368,WB
+182,1998,32,The Parent Trap,The Parent Trap (1998 film),2407,66308518,BV
+183,1998,33,Ever After: A Cinderella Story,Ever After,2067,65705771,Fox
+184,1998,34,Hope Floats,Hope Floats,2404,60053195,Fox
+185,1998,35,Life Is Beautiful,Life Is Beautiful,1136,57247384,Mira.
+186,1998,36,U.S. Marshals,U.S. Marshals (film),2817,57167405,WB
+187,1998,37,The Man in the Iron Mask,The Man in the Iron Mask (1998 film),3101,56968902,MGM
+188,1998,38,A Civil Action,A Civil Action,2319,56709981,BV
+189,1998,39,Snake Eyes,Snake Eyes (film),2718,55591409,Par.
+190,1998,40,What Dreams May Come,What Dreams May Come (film),2531,55382927,Poly
+191,1998,41,Halloween: H20,Halloween H20: 20 Years Later,2669,55041738,Dim.
+192,1998,42,Small Soldiers,Small Soldiers,2613,54682547,DW
+193,1998,43,T-Rex: Back to the Cretaceous (IMAX),T-Rex: Back to the Cretaceous,38,53346750,Imax
+194,1998,44,Mighty Joe Young,Mighty Joe Young (1998 film),2559,50632037,BV
+195,1998,45,Practical Magic,Practical Magic,2652,46683377,WB
+196,1998,46,Meet Joe Black,Meet Joe Black,2527,44619100,Uni.
+197,1998,47,The Negotiator,The Negotiator,2436,44547681,WB
+198,1998,48,Ronin,Ronin (film),2487,41616262,MGM
+199,1998,49,The Siege,The Siege,2582,40981289,Fox
+200,1998,50,Mysteries of Egypt (IMAX),Mysteries of Egypt,27,40593486,Imax
+201,1999,1,Star Wars: Episode I - The Phantom Menace,Star Wars Episode I: The Phantom Menace,3126,431088295,Fox
+202,1999,2,The Sixth Sense,The Sixth Sense,2821,293506292,BV
+203,1999,3,Toy Story 2,Toy Story 2,3257,245852179,BV
+204,1999,4,Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,3314,206040086,NL
+205,1999,5,The Matrix,The Matrix,2903,171479930,WB
+206,1999,6,Tarzan,Tarzan (1999 film),3131,171091819,BV
+207,1999,7,Big Daddy,Big Daddy (1999 film),3254,163479795,Sony
+208,1999,8,The Mummy,The Mummy (1999 film),3411,155385488,Uni.
+209,1999,9,Runaway Bride,Runaway Bride (film),3240,152257509,Par.
+210,1999,10,The Blair Witch Project,The Blair Witch Project,2538,140539099,Art.
+211,1999,11,Stuart Little,Stuart Little (film),3151,140035367,Sony
+212,1999,12,The Green Mile,The Green Mile (film),2875,136801374,WB
+213,1999,13,American Beauty,American Beauty (1999 film),1990,130096601,DW
+214,1999,14,The World Is Not Enough,The World Is Not Enough,3163,126943684,MGM
+215,1999,15,Double Jeopardy,Double Jeopardy (film),3002,116741558,Par.
+216,1999,16,Notting Hill,Notting Hill (film),2786,116089678,Uni.
+217,1999,17,Wild Wild West,Wild Wild West,3342,113804681,WB
+218,1999,18,Analyze This,Analyze This,2537,106885658,WB
+219,1999,19,The General's Daughter,The General's Daughter (film),2858,102705852,Par.
+220,1999,20,American Pie,American Pie (film),2544,102561004,Uni.
+221,1999,21,Sleepy Hollow,Sleepy Hollow (film),3069,101071502,Par.
+222,1999,22,Inspector Gadget,Inspector Gadget (film),2877,97403112,BV
+223,1999,23,The Haunting,The Haunting (1999 film),2881,91411151,DW
+224,1999,24,Entrapment,Entrapment (film),2879,87704396,Fox
+225,1999,25,Pokemon: The First Movie,Pokmon: The First Movie,3043,85744662,WB
+226,1999,26,Payback,Payback (1999 film),2855,81526121,Par.
+227,1999,27,The Talented Mr. Ripley,The Talented Mr. Ripley (film),2369,81298265,Par.
+228,1999,28,Any Given Sunday,Any Given Sunday,2505,75530832,WB
+229,1999,29,Deep Blue Sea,Deep Blue Sea (1999 film),2901,73648142,WB
+230,1999,30,Galaxy Quest,Galaxy Quest,2450,71583916,DW
+231,1999,31,The Thomas Crown Affair,The Thomas Crown Affair (1999 film),2427,69305181,MGM
+232,1999,32,Blue Streak,Blue Streak (film),2735,68518533,Sony
+233,1999,33,End of Days,End of Days (film),2652,66889043,Uni.
+234,1999,34,The Bone Collector,The Bone Collector,2623,66518655,Uni.
+235,1999,35,Bowfinger,Bowfinger,2746,66384775,Uni.
+236,1999,36,Deuce Bigalow: Male Gigolo,Deuce Bigalow: Male Gigolo,2162,65538755,BV
+237,1999,37,Life,Life (1999 film),2613,63886029,Uni.
+238,1999,38,She's All That,She's All That,2654,63366989,Mira.
+239,1999,39,Three Kings,Three Kings (1999 film),2942,60652036,WB
+240,1999,40,Bicentennial Man,Bicentennial Man (film),2767,58223861,BV
+241,1999,41,The Cider House Rules,The Cider House Rules (film),1738,57545092,Mira.
+242,1999,42,Eyes Wide Shut,Eyes Wide Shut,2483,55691208,WB
+243,1999,43,Never Been Kissed,Never Been Kissed,2500,55474756,Fox
+244,1999,44,Varsity Blues,Varsity Blues (film),2364,52894169,Par.
+245,1999,45,Forces of Nature,Forces of Nature,2335,52888180,DW
+246,1999,46,Message in a Bottle,Message in a Bottle (film),2545,52880016,WB
+247,1999,47,"South Park - Bigger, Longer and Uncut","South Park: Bigger, Longer & Uncut",2128,52037603,Par.
+248,1999,48,The Hurricane,The Hurricane (1999 film),2148,50699241,Uni.
+249,1999,49,Stigmata,Stigmata (film),2901,50046268,MGM
+250,1999,50,House on Haunted Hill,House on Haunted Hill (1999 film),2710,40846082,WB
+251,2000,1,How the Grinch Stole Christmas,Dr. Seuss' How the Grinch Stole Christmas (film),3256,260044825,Uni.
+252,2000,2,Cast Away,Cast Away,3061,233632142,Fox
+253,2000,3,Mission: Impossible II,Mission: Impossible II,3669,215409889,Par.
+254,2000,4,Gladiator,Gladiator (2000 film),3188,187705427,DW
+255,2000,5,What Women Want,What Women Want,3092,182811707,Par.
+256,2000,6,The Perfect Storm,The Perfect Storm (film),3407,182618434,WB
+257,2000,7,Meet the Parents,Meet the Parents,2697,166244045,Uni.
+258,2000,8,X-Men,X-Men (film),3112,157299717,Fox
+259,2000,9,Scary Movie,Scary Movie,3301,157019771,Mira.
+260,2000,10,What Lies Beneath,What Lies Beneath,2925,155464351,DW
+261,2000,11,Dinosaur,Dinosaur (film),3319,137748063,BV
+262,2000,12,"Crouching Tiger, Hidden Dragon","Crouching Tiger, Hidden Dragon",2027,128078872,SPC
+263,2000,13,Erin Brockovich,Erin Brockovich (film),3070,125595205,Uni.
+264,2000,14,Charlie's Angels,Charlie's Angels (film),3037,125305545,Sony
+265,2000,15,Traffic,Traffic (2000 film),1755,124115725,USA
+266,2000,16,The Nutty Professor II: The Klumps,Nutty Professor II: The Klumps,3251,123309890,Uni.
+267,2000,17,Big Momma's House,Big Momma's House,2854,117559438,Fox
+268,2000,18,Remember the Titans,Remember the Titans,2803,115654751,BV
+269,2000,19,The Patriot,The Patriot (2000 film),3061,113330342,Sony
+270,2000,20,Chicken Run,Chicken Run,2953,106834564,DW
+271,2000,21,Miss Congeniality,Miss Congeniality (film),2668,106807667,WB
+272,2000,22,Gone in 60 Seconds,Gone in 60 Seconds (2000 film),3089,101648571,BV
+273,2000,23,Unbreakable,Unbreakable (film),2708,95011339,BV
+274,2000,24,"Me, Myself and Irene","Me, Myself & Irene",3087,90570999,Fox
+275,2000,25,Space Cowboys,Space Cowboys,2835,90464773,WB
+276,2000,26,The Emperor's New Groove,The Emperor's New Groove,2887,89302687,BV
+277,2000,27,Scream 3,Scream 3,3467,89143175,Dim.
+278,2000,28,U-571,U-571 (film),2820,77122415,Uni.
+279,2000,29,Rugrats in Paris: The Movie,Rugrats in Paris: The Movie,2937,76507756,Par.
+280,2000,30,The Family Man,The Family Man,2441,75793305,Uni.
+281,2000,31,Hollow Man,Hollow Man,2956,73209340,Sony
+282,2000,32,Chocolat,Chocolat (2000 film),1928,71509363,Mira.
+283,2000,33,Shaft,Shaft (2000 film),2433,70334258,Par.
+284,2000,34,Disney's The Kid,Disney's The Kid,2343,69691949,BV
+285,2000,35,Vertical Limit,Vertical Limit,2602,69243859,Sony
+286,2000,36,Road Trip,Road Trip (film),2654,68540777,DW
+287,2000,37,Bring It On,Bring It On (film),2466,68379000,Uni.
+288,2000,38,102 Dalmatians,102 Dalmatians,2704,66957026,BV
+289,2000,39,Rules of Engagement,Rules of Engagement (film),3220,61335230,Par.
+290,2000,40,The Cell,The Cell,2476,61334059,NL
+291,2000,41,Mission to Mars,Mission to Mars,3101,60883407,BV
+292,2000,42,Coyote Ugly,Coyote Ugly (film),2664,60786269,BV
+293,2000,43,Fantasia 2000 (35mm & IMAX),Fantasia 2000,1313,60655420,BV
+294,2000,44,Snow Day,Snow Day (film),2717,60020107,Par.
+295,2000,45,Next Friday,Next Friday,1420,57328603,NL
+296,2000,46,The Whole Nine Yards,The Whole Nine Yards (film),2910,57262492,WB
+297,2000,47,Shanghai Noon,Shanghai Noon,2751,56937502,BV
+298,2000,48,Romeo Must Die,Romeo Must Die,2641,55973336,WB
+299,2000,49,Final Destination,Final Destination (film),2587,53331147,NL
+300,2000,51,Finding Forrester,Finding Forrester,200,51804714,Sony
+301,2001,1,Harry Potter and the Sorcerer's Stone,Harry Potter and the Philosopher's Stone (film),3672,317575550,WB
+302,2001,2,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,3381,313364114,NL
+303,2001,3,Shrek,Shrek,3715,267665011,DW
+304,2001,4,"Monsters, Inc.","Monsters, Inc.",3649,255873250,BV
+305,2001,5,Rush Hour 2,Rush Hour 2,3118,226164286,NL
+306,2001,6,The Mummy Returns,The Mummy Returns,3553,202019785,Uni.
+307,2001,7,Pearl Harbor,Pearl Harbor (film),3255,198542554,BV
+308,2001,8,Ocean's Eleven,Ocean's Eleven,3075,183417150,WB
+309,2001,9,Jurassic Park III,Jurassic Park III,3462,181171875,Uni.
+310,2001,10,Planet of the Apes (2001),Planet of the Apes (2001 film),3530,180011740,Fox
+311,2001,11,A Beautiful Mind,A Beautiful Mind (film),2250,170742341,Uni.
+312,2001,12,Hannibal,Hannibal (film),3292,165092268,MGM
+313,2001,13,American Pie 2,American Pie 2,3157,145103595,Uni.
+314,2001,14,The Fast and the Furious,The Fast and the Furious (2001 film),2899,144533925,Uni.
+315,2001,15,Lara Croft: Tomb Raider,Lara Croft: Tomb Raider,3349,131168070,Par.
+316,2001,16,Dr. Dolittle 2,Dr. Dolittle 2,3053,112952899,Fox
+317,2001,17,Spy Kids,Spy Kids,3191,112719001,Mira.
+318,2001,18,Black Hawk Down,Black Hawk Down (film),3143,108638745,SonR
+319,2001,19,The Princess Diaries,The Princess Diaries (film),2749,108248956,BV
+320,2001,20,Vanilla Sky,Vanilla Sky,2842,100618344,Par.
+321,2001,21,The Others,The Others (2001 film),2843,96522687,Mira.
+322,2001,22,Legally Blonde,Legally Blonde,2725,96520674,MGM
+323,2001,23,America's Sweethearts,America's Sweethearts,3011,93607673,SonR
+324,2001,24,Cats & Dogs,Cats & Dogs,3040,93385515,WB
+325,2001,25,Save the Last Dance,Save the Last Dance,2570,91057006,Par.
+326,2001,26,Atlantis: The Lost Empire,Atlantis: The Lost Empire,3071,84056472,BV
+327,2001,27,Jimmy Neutron: Boy Genius,Jimmy Neutron: Boy Genius,3151,80936232,Par.
+328,2001,28,A.I. Artificial Intelligence,A.I. Artificial Intelligence,3242,78616689,WB
+329,2001,29,Training Day,Training Day,2712,76631907,WB
+330,2001,30,Along Came a Spider,Along Came a Spider (film),2573,74078174,Par.
+331,2001,31,Bridget Jones's Diary,Bridget Jones's Diary (film),2547,71543427,Mira.
+332,2001,32,Scary Movie 2,Scary Movie 2,3220,71308997,Mira.
+333,2001,33,The Score,The Score (2001 film),2211,71107711,Par.
+334,2001,34,Shallow Hal,Shallow Hal,2799,70839203,Fox
+335,2001,35,Swordfish,Swordfish (film),2688,69772969,WB
+336,2001,36,The Mexican,The Mexican,3162,66845033,DW
+337,2001,37,Down to Earth,Down to Earth (2001 film),2521,64186502,Par.
+338,2001,38,Spy Game,Spy Game,2770,62362560,Uni.
+339,2001,39,The Wedding Planner,The Wedding Planner,2785,60400856,Sony
+340,2001,40,Behind Enemy Lines,Behind Enemy Lines (2001 film),2844,58856790,Fox
+341,2001,41,Ali,Ali (film),2521,58203105,Sony
+342,2001,42,The Animal,Animal (2001 film),2788,57743062,SonR
+343,2001,43,Moulin Rouge!,Moulin Rouge!,2283,57386607,Fox
+344,2001,44,Rat Race,Rat Race (film),2551,56618055,Par.
+345,2001,45,A Knight's Tale,The Knight's Tale,2980,56569702,Sony
+346,2001,46,Don't Say a Word,Don't Say a Word,2842,55001642,Fox
+347,2001,47,Blow,Blow (film),2249,52990775,NL
+348,2001,48,The Royal Tenenbaums,The Royal Tenenbaums,999,52364010,BV
+349,2001,49,Exit Wounds,Exit Wounds,2830,51758599,WB
+350,2001,50,Enemy at the Gates,Enemy at the Gates,1724,51401758,Par.
+351,2002,1,Spider-Man,Spider-Man (2002 film),3876,403706375,Sony
+352,2002,2,The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,3622,339789881,NL
+353,2002,3,Star Wars: Episode II - Attack of the Clones,Star Wars Episode II: Attack of the Clones,3161,302191252,Fox
+354,2002,4,Harry Potter and the Chamber of Secrets,Harry Potter and the Chamber of Secrets (film),3682,261988482,WB
+355,2002,5,My Big Fat Greek Wedding,My Big Fat Greek Wedding,2016,241438208,IFC
+356,2002,6,Signs,Signs (film),3453,227966634,BV
+357,2002,7,Austin Powers in Goldmember,Austin Powers in Goldmember,3613,213307889,NL
+358,2002,8,Men in Black II,Men in Black II,3641,190418803,Sony
+359,2002,9,Ice Age,Ice Age (2002 film),3345,176387405,Fox
+360,2002,10,Chicago,Chicago (2002 film),2701,170687518,Mira.
+361,2002,11,Catch Me If You Can,Catch Me If You Can,3225,164615351,DW
+362,2002,12,Die Another Day,Die Another Day,3377,160942139,MGM
+363,2002,13,Scooby-Doo,Scooby-Doo (film),3447,153294164,WB
+364,2002,14,Lilo & Stitch,Lilo & Stitch,3222,145794338,BV
+365,2002,15,XXX,XXX (2002 film),3536,142109382,SonR
+366,2002,16,The Santa Clause 2,The Santa Clause 2,3352,139236327,BV
+367,2002,17,Minority Report,Minority Report (film),3001,132072926,Fox
+368,2002,18,The Ring,The Ring (2002 film),2927,129128133,DW
+369,2002,19,Sweet Home Alabama,Sweet Home Alabama (film),3313,127223418,BV
+370,2002,20,Mr. Deeds,Mr. Deeds,3239,126293452,Sony
+371,2002,21,The Bourne Identity,The Bourne Identity (2002 film),2663,121661683,Uni.
+372,2002,22,The Sum of All Fears,The Sum of All Fears (film),3230,118907036,Par.
+373,2002,23,8 Mile,8 Mile (film),2585,116750901,Uni.
+374,2002,24,Road to Perdition,Road to Perdition,2332,104454762,DW
+375,2002,25,Panic Room,Panic Room,3119,96397334,Sony
+376,2002,26,Maid in Manhattan,Maid in Manhattan,3050,94011225,SonR
+377,2002,27,Two Weeks Notice,Two Weeks Notice,2755,93354851,WB
+378,2002,28,Red Dragon,Red Dragon (film),3363,93149898,Uni.
+379,2002,29,Space Station 3-D (IMAX),Space Station 3D,64,92165012,Imax
+380,2002,30,The Scorpion King,The Scorpion King,3466,91047077,Uni.
+381,2002,31,Spy Kids 2: The Island of Lost Dreams,Spy Kids 2: The Island of Lost Dreams,3307,85846429,Dim.
+382,2002,32,Blade II,Blade II,2707,82348319,NL
+383,2002,33,Snow Dogs,Snow Dogs,2454,81172560,BV
+384,2002,34,We Were Soldiers,We Were Soldiers,3143,78122718,Par.
+385,2002,35,Gangs of New York,Gangs of New York,2340,77812000,Mira.
+386,2002,36,Barbershop,Barbershop (film),2176,75782105,MGM
+387,2002,37,The Rookie,The Rookie (2002 film),2543,75600072,BV
+388,2002,38,Spirit: Stallion of the Cimarron,Spirit: Stallion of the Cimarron,3362,73280117,DW
+389,2002,39,John Q.,John Q.,2505,71756802,NL
+390,2002,40,Divine Secrets of the Ya-Ya Sisterhood,Divine Secrets of the Ya-Ya Sisterhood (film),2792,69599016,WB
+391,2002,41,Insomnia,Insomnia (2002 film),2610,67355513,WB
+392,2002,42,Changing Lanes,Changing Lanes,2642,66818548,Par.
+393,2002,43,About Schmidt,About Schmidt,1240,65016287,NL
+394,2002,44,Stuart Little 2,Stuart Little 2,3282,64956806,Sony
+395,2002,45,Jackass: The Movie,Jackass: The Movie,2532,64255312,Par.
+396,2002,46,The Time Machine,The Time Machine (2002 film),2958,56832494,DW
+397,2002,47,Drumline,Drumline (film),1837,56399184,Fox
+398,2002,48,The Count of Monte Cristo,The Count of Monte Cristo (2002 film),2211,54234062,BV
+399,2002,49,Unfaithful,Unfaithful (2002 film),2625,52775765,Fox
+400,2002,50,Like Mike,Like Mike,2436,51432760,Fox
+401,2003,1,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,3703,377027325,NL
+402,2003,2,Finding Nemo,Finding Nemo,3425,339714978,BV
+403,2003,3,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean: The Curse of the Black Pearl,3416,305413918,BV
+404,2003,4,The Matrix Reloaded,The Matrix Reloaded,3603,281576461,WB
+405,2003,5,Bruce Almighty,Bruce Almighty,3549,242829261,Uni.
+406,2003,6,X2: X-Men United,X2 (film),3749,214949694,Fox
+407,2003,7,Elf,Elf (film),3381,173398518,NL
+408,2003,8,Terminator 3: Rise of the Machines,Terminator 3: Rise of the Machines,3504,150371112,WB
+409,2003,9,The Matrix Revolutions,The Matrix Revolutions,3502,139313948,WB
+410,2003,10,Cheaper by the Dozen,Cheaper by the Dozen (2003 film),3307,138614544,Fox
+411,2003,11,Bad Boys II,Bad Boys II,3202,138608444,Sony
+412,2003,12,Anger Management,Anger Management (film),3656,135645823,SonR
+413,2003,13,Bringing Down the House,Bringing Down the House,2910,132716677,BV
+414,2003,14,Hulk,Hulk (film),3674,132177234,Uni.
+415,2003,15,2 Fast 2 Furious,2 Fast 2 Furious,3418,127154901,Uni.
+416,2003,16,Something's Gotta Give,Something's Gotta Give (film),2876,124728738,Sony
+417,2003,17,Seabiscuit,Seabiscuit (film),2573,120277854,Uni.
+418,2003,18,S.W.A.T.,S.W.A.T. (film),3220,116934650,Sony
+419,2003,19,Spy Kids 3D: Game Over,Spy Kids 3-D: Game Over,3388,111761982,Dim.
+420,2003,20,The Last Samurai,The Last Samurai,2938,111127263,WB
+421,2003,21,Freaky Friday,Freaky Friday (2003 film),3067,110230332,BV
+422,2003,22,Scary Movie 3,Scary Movie 3,3505,110003217,Dim.
+423,2003,23,The Italian Job,The Italian Job (2003 film),2877,106128601,Par.
+424,2003,24,How to Lose a Guy in 10 Days,How to Lose a Guy in 10 Days,2923,105813373,Par.
+425,2003,25,American Wedding,American Wedding,3175,104565114,Uni.
+426,2003,26,Daddy Day Care,Daddy Day Care,3472,104297061,SonR
+427,2003,27,Daredevil,Daredevil (film),3474,102543518,Fox
+428,2003,28,The Cat in the Hat,The Cat in the Hat (film),3467,101149285,Uni.
+429,2003,29,Charlie's Angels: Full Throttle,Charlie's Angels: Full Throttle,3485,100830111,Sony
+430,2003,30,Cold Mountain,Cold Mountain (film),2802,95636509,Mira.
+431,2003,31,Master and Commander: The Far Side of the World,Master and Commander: The Far Side of the World,3101,93927920,Fox
+432,2003,32,"Legally Blonde 2: Red, White and Blonde","Legally Blonde 2: Red, White & Blonde",3375,90186328,MGM
+433,2003,33,Mystic River,Mystic River (film),1581,90135191,WB
+434,2003,34,Brother Bear,Brother Bear,3030,85336277,BV
+435,2003,35,Freddy Vs. Jason,Freddy vs. Jason,3014,82622655,NL
+436,2003,36,School of Rock,School of Rock,2951,81261177,Par.
+437,2003,37,The Texas Chainsaw Massacre,The Texas Chainsaw Massacre (2003 film),3018,80571655,NL
+438,2003,38,The Haunted Mansion,The Haunted Mansion (film),3122,75847266,BV
+439,2003,39,Old School,Old School (film),2742,75585093,DW
+440,2003,40,Kill Bill Vol. 1,Kill Bill Volume 1,3102,70099045,Mira.
+441,2003,41,Holes,Holes (film),2452,67406573,BV
+442,2003,42,Kangaroo Jack,Kangaroo Jack,2848,66934963,WB
+443,2003,43,Big Fish,Big Fish,2514,66809693,Sony
+444,2003,44,The League of Extraordinary Gentlemen,The League of Extraordinary Gentlemen (film),3002,66465204,Fox
+445,2003,45,Lara Croft Tomb Raider: The Cradle of Life,Lara Croft Tomb Raider: The Cradle of Life,3222,65660196,Par.
+446,2003,46,Mona Lisa Smile,Mona Lisa Smile,2714,63860942,SonR
+447,2003,47,Shanghai Knights,Shanghai Knights,2755,60476872,BV
+448,2003,48,Bad Santa,Bad Santa,2540,60060328,Dim.
+449,2003,49,Love Actually,Love Actually,1714,59696144,Uni.
+450,2003,50,Gothika,Gothika,2382,59694580,WB
+451,2004,1,Shrek 2,Shrek 2,4223,441226247,DW
+452,2004,2,Spider-Man 2,Spider-Man 2,4166,373585825,Sony
+453,2004,3,The Passion of the Christ,The Passion of the Christ,3408,370274604,NM
+454,2004,4,Meet the Fockers,Meet the Fockers,3554,279261160,Uni.
+455,2004,5,The Incredibles,The Incredibles,3933,261441092,BV
+456,2004,6,Harry Potter and the Prisoner of Azkaban,Harry Potter and the Prisoner of Azkaban (film),3855,249541069,WB
+457,2004,7,The Day After Tomorrow,The Day After Tomorrow,3444,186740799,Fox
+458,2004,8,The Bourne Supremacy,The Bourne Supremacy (film),3304,176241941,Uni.
+459,2004,9,National Treasure,National Treasure (film),3243,173008894,BV
+460,2004,10,The Polar Express,The Polar Express (film),3650,162775358,WB
+461,2004,11,Shark Tale,Shark Tale,4070,160861908,DW
+462,2004,12,"I, Robot","I, Robot (film)",3494,144801023,Fox
+463,2004,13,Troy,Troy (film),3411,133378256,WB
+464,2004,14,Ocean's Twelve,Ocean's Twelve,3290,125544280,WB
+465,2004,15,50 First Dates,50 First Dates,3612,120908074,Sony
+466,2004,16,Van Helsing,Van Helsing (film),3580,120177084,Uni.
+467,2004,17,Fahrenheit 9/11,Fahrenheit 9/11,2011,119194771,Lions
+468,2004,18,Lemony Snicket's A Series of Unfortunate Events,Lemony Snicket's A Series of Unfortunate Events,3623,118634549,Par.
+469,2004,19,DodgeBall: A True Underdog Story,DodgeBall: A True Underdog Story,3020,114326736,Fox
+470,2004,20,The Village,The Village (2004 film),3733,114197520,BV
+471,2004,21,The Grudge,The Grudge,3348,110359362,Sony
+472,2004,22,The Aviator,The Aviator (2004 film),2530,102610330,Mira.
+473,2004,23,Collateral,Collateral (film),3205,101005703,DW
+474,2004,24,Million Dollar Baby,Million Dollar Baby,2375,100492203,WB
+475,2004,25,The Princess Diaries 2: Royal Engagement,The Princess Diaries 2: Royal Engagement,3490,95170481,BV
+476,2004,26,Starsky and Hutch,Starsky & Hutch (film),3185,88237754,WB
+477,2004,27,Along Came Polly,Along Came Polly,3052,88097164,Uni.
+478,2004,28,Mean Girls,Mean Girls,3054,86058055,Par.
+479,2004,29,The SpongeBob SquarePants Movie,The SpongeBob SquarePants Movie,3307,85417988,Par.
+480,2004,30,Anchorman: The Legend of Ron Burgundy,Anchorman: The Legend of Ron Burgundy,3104,85288303,DW
+481,2004,31,Scooby-Doo 2: Monsters Unleashed,Scooby-Doo 2: Monsters Unleashed,3312,84216833,WB
+482,2004,32,The Notebook,The Notebook (2004 film),2323,81001787,NL
+483,2004,33,Alien Vs. Predator,Alien vs. Predator (film),3401,80282231,Fox
+484,2004,34,Man on Fire,Man on Fire (2004 film),2986,77911774,Fox
+485,2004,35,The Terminal,The Terminal,2914,77872883,DW
+486,2004,36,Garfield: The Movie,Garfield: The Movie,3150,75369589,Fox
+487,2004,37,Ray,Ray (film),2474,75331600,Uni.
+488,2004,38,Ladder 49,Ladder 49,3261,74541707,BV
+489,2004,39,Christmas with the Kranks,Christmas with the Kranks,3416,73780539,SonR
+490,2004,40,Sideways,Sideways,1786,71503593,FoxS
+491,2004,41,White Chicks,White Chicks,2800,70831760,Sony
+492,2004,42,Hidalgo,Hidalgo,3065,67303450,BV
+493,2004,43,The Forgotten,The Forgotten (2004 film),3144,67133509,SonR
+494,2004,44,Kill Bill Vol. 2,Kill Bill Volume 2,3073,66208183,Mira.
+495,2004,45,The Manchurian Candidate,The Manchurian Candidate (2004 film),2867,65955630,Par.
+496,2004,46,Barbershop 2: Back in Business,Barbershop 2: Back in Business,2711,65111277,MGM
+497,2004,47,Miracle,Miracle (film),2755,64378093,BV
+498,2004,48,Friday Night Lights,Friday Night Lights (film),3004,61255921,Uni.
+499,2004,49,Hellboy,Hellboy (film),3043,59623958,SonR
+500,2004,50,The Stepford Wives,The Stepford Wives (2004 film),3057,59484742,Par.
+501,2005,1,Star Wars: Episode III - Revenge of the Sith,Star Wars Episode III: Revenge of the Sith,3663,380270577,Fox
+502,2005,2,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",3853,291710957,BV
+503,2005,3,Harry Potter and the Goblet of Fire,Harry Potter and the Goblet of Fire (film),3858,290013036,WB
+504,2005,4,War of the Worlds,War of the Worlds (2005 film),3910,234280354,Par.
+505,2005,5,King Kong,King Kong (2005 film),3627,218080025,Uni.
+506,2005,6,Wedding Crashers,Wedding Crashers,3131,209255921,NL
+507,2005,7,Charlie and the Chocolate Factory,Charlie and the Chocolate Factory (film),3790,206459076,WB
+508,2005,8,Batman Begins,Batman Begins,3858,205343774,WB
+509,2005,9,Madagascar,Madagascar (2005 film),4142,193595521,DW
+510,2005,10,Mr. & Mrs. Smith,Mr. & Mrs. Smith (2005 film),3451,186336279,Fox
+511,2005,11,Hitch,Hitch (film),3575,179495555,Sony
+512,2005,12,The Longest Yard,The Longest Yard (2005 film),3654,158119460,Par.
+513,2005,13,Fantastic Four (2005),Fantastic Four (2005 film),3619,154696080,Fox
+514,2005,14,Chicken Little,Chicken Little (2005 film),3658,135386665,BV
+515,2005,15,Robots,Robots (2005 film),3776,128200012,Fox
+516,2005,16,Walk the Line,Walk the Line,3160,119519402,Fox
+517,2005,17,The Pacifier,The Pacifier,3181,113086868,BV
+518,2005,18,Fun with Dick and Jane,Fun with Dick and Jane (2005 film),3239,110332737,Sony
+519,2005,19,The 40-Year-Old Virgin,The 40-Year-Old Virgin,3006,109449237,Uni.
+520,2005,20,Flightplan,Flightplan,3424,89707299,BV
+521,2005,21,Saw II,Saw II,2949,87039965,Lions
+522,2005,22,Brokeback Mountain,Brokeback Mountain,2089,83043761,Focus
+523,2005,23,Monster-in-Law,Monster-in-Law,3424,82931301,NL
+524,2005,24,Are We There Yet?,Are We There Yet? (film),2810,82674398,SonR
+525,2005,25,Cheaper by the Dozen 2,Cheaper by the Dozen 2,3211,82571173,Fox
+526,2005,26,The Dukes of Hazzard,The Dukes of Hazzard,3785,80270227,WB
+527,2005,27,March of the Penguins,March of the Penguins,2506,77437223,WIP
+528,2005,28,The Ring Two,The Ring Two,3341,76231249,DW
+529,2005,29,Constantine,Constantine (film),3006,75976178,WB
+530,2005,30,The Exorcism of Emily Rose,The Exorcism of Emily Rose,3045,75072454,SGem
+531,2005,31,Four Brothers,Four Brothers (film),2649,74494381,Par.
+532,2005,32,Sin City,Sin City (film),3230,74103820,Dim.
+533,2005,33,The Interpreter,The Interpreter,2814,72708161,Uni.
+534,2005,34,Guess Who,Guess Who (film),3147,68915888,Sony
+535,2005,35,Sahara,Sahara (2005 film),3200,68671925,Par.
+536,2005,36,Coach Carter,Coach Carter,2574,67264877,Par.
+537,2005,37,Herbie: Fully Loaded,Herbie: Fully Loaded,3521,66023816,BV
+538,2005,38,The Amityville Horror (2005),The Amityville Horror (2005 film),3323,65233369,MGM
+539,2005,39,Sky High,Sky High (2005 film),2912,63946815,BV
+540,2005,40,Bewitched,Bewitched (2005 film),3188,63313159,Sony
+541,2005,41,Jarhead,Jarhead (film),2448,62658220,Uni.
+542,2005,42,Cinderella Man,Cinderella Man,2820,61649911,Uni.
+543,2005,43,The Family Stone,The Family Stone,2469,60062868,Fox
+544,2005,44,Red Eye,Red Eye (2005 American film),3134,57891803,DW
+545,2005,45,Memoirs of a Geisha,Memoirs of a Geisha (film),1654,57490508,Sony
+546,2005,46,White Noise,White Noise (film),2279,56386759,Uni.
+547,2005,47,Wallace and Gromit: The Curse of the Were-Rabbit,Wallace & Gromit: The Curse of the Were-Rabbit,3656,56110897,DW
+548,2005,48,Be Cool,Be Cool,3216,56046979,MGM
+549,2005,49,Crash,Crash (2004 film),1905,54580300,Lions
+550,2005,50,"Yours, Mine and Ours","Yours, Mine & Ours (2005 film)",3210,53412862,Par.
+551,2006,1,Pirates of the Caribbean: Dead Man's Chest,Pirates of the Caribbean: Dead Man's Chest,4133,423315812,BV
+552,2006,2,Night at the Museum,Night at the Museum,3768,250863268,Fox
+553,2006,3,Cars,Cars (film),3988,244082982,BV
+554,2006,4,X-Men: The Last Stand,X-Men: The Last Stand,3714,234362462,Fox
+555,2006,5,The Da Vinci Code,The Da Vinci Code (film),3757,217536138,Sony
+556,2006,6,Superman Returns,Superman Returns,4065,200081192,WB
+557,2006,7,Happy Feet,Happy Feet,3804,198000317,WB
+558,2006,8,Ice Age: The Meltdown,Ice Age: The Meltdown,3969,195330621,Fox
+559,2006,9,Casino Royale,Casino Royale (2006 film),3443,167445960,Sony
+560,2006,10,The Pursuit of Happyness,The Pursuit of Happyness,3169,163566459,Sony
+561,2006,11,Over the Hedge,Over the Hedge (film),4093,155019340,P/DW
+562,2006,12,Talladega Nights: The Ballad of Ricky Bobby,Talladega Nights: The Ballad of Ricky Bobby,3807,148213377,Sony
+563,2006,13,Click,Click (2006 film),3764,137355633,SonR
+564,2006,14,Mission: Impossible III,Mission: Impossible III,4059,134029801,Par.
+565,2006,15,The Departed,The Departed,3017,132384315,WB
+566,2006,16,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Borat,2611,128505958,Fox
+567,2006,17,The Devil Wears Prada,The Devil Wears Prada (film),2882,124740460,Fox
+568,2006,18,The Break-Up,The Break-Up,3146,118703275,Uni.
+569,2006,19,Dreamgirls,Dreamgirls (film),2797,103365956,P/DW
+570,2006,20,Scary Movie 4,Scary Movie 4,3674,90710620,W/Dim.
+571,2006,21,Failure to Launch,Failure to Launch,3202,88715192,Par.
+572,2006,22,Inside Man,Inside Man,2867,88513495,Uni.
+573,2006,23,Open Season,Open Season (2006 film),3833,85105259,Sony
+574,2006,24,The Santa Clause 3: The Escape Clause,The Santa Clause 3: The Escape Clause,3458,84500122,BV
+575,2006,25,Charlotte's Web (2006),Charlotte's Web (2006 film),3745,82985708,Par.
+576,2006,26,The Pink Panther (2006),The Pink Panther (2006 film),3477,82226474,Sony
+577,2006,27,Eight Below,Eight Below,3122,81612565,BV
+578,2006,28,Saw III,Saw III,3167,80238724,LGF
+579,2006,29,Nacho Libre,Nacho Libre,3083,80197993,Par.
+580,2006,30,"You, Me and Dupree","You, Me and Dupree",3137,75628110,Uni.
+581,2006,31,Eragon,Eragon (film),3030,75030163,Fox
+582,2006,32,Monster House,Monster House (film),3553,73661010,Sony
+583,2006,33,Jackass: Number Two,Jackass Number Two,3063,72778712,Par.
+584,2006,34,Barnyard: The Original Party Animals,Barnyard (film),3311,72637803,Par.
+585,2006,35,RV,RV (film),3651,71726025,Sony
+586,2006,36,V for Vendetta,V for Vendetta (film),3365,70511035,WB
+587,2006,37,World Trade Center,World Trade Center (film),3021,70278893,Par.
+588,2006,38,Rocky Balboa,Rocky Balboa (film),3019,70270943,MGM
+589,2006,39,Big Momma's House 2,Big Momma's House 2,3261,70165972,Fox
+590,2006,40,Step Up,Step Up,2647,65328121,BV
+591,2006,41,Flushed Away,Flushed Away,3707,64665672,P/DW
+592,2006,42,Deja Vu,Déjà Vu (2006 film),3108,64038616,BV
+593,2006,43,Miami Vice,Miami Vice (film),3026,63450470,Uni.
+594,2006,44,Tyler Perry's Madea's Family Reunion,Madea's Family Reunion,2194,63257940,LGF
+595,2006,45,The Holiday,Holiday (2006 film),2698,63224849,Sony
+596,2006,46,The Fast and the Furious: Tokyo Drift,The Fast and the Furious: Tokyo Drift,3030,62514415,Uni.
+597,2006,47,Underworld: Evolution,Underworld: Evolution,3207,62318875,SGem
+598,2006,48,The Shaggy Dog,The Shaggy Dog (2006 film),3501,61123569,BV
+599,2006,49,Poseidon,Poseidon (film),3555,60674817,WB
+600,2006,50,The Good Shepherd,The Good Shepherd (film),2250,59952835,Uni.
+601,2007,1,Spider-Man 3,Spider-Man 3,4324,336530303,Sony
+602,2007,2,Shrek the Third,Shrek the Third,4172,322719944,P/DW
+603,2007,3,Transformers,Transformers (film),4050,319246193,P/DW
+604,2007,4,Pirates of the Caribbean: At World's End,Pirates of the Caribbean: At World's End,4362,309420425,BV
+605,2007,5,Harry Potter and the Order of the Phoenix,Harry Potter and the Order of the Phoenix (film),4285,292004738,WB
+606,2007,6,I Am Legend,I Am Legend (film),3648,256393010,WB
+607,2007,7,The Bourne Ultimatum,The Bourne Ultimatum (film),3701,227471070,Uni.
+608,2007,8,National Treasure: Book of Secrets,National Treasure: Book of Secrets,3832,219964115,BV
+609,2007,9,Alvin and the Chipmunks,Alvin and the Chipmunks (film),3499,217326974,Fox
+610,2007,10,300,300 (film),3280,210614939,WB
+611,2007,11,Ratatouille,Ratatouille (film),3940,206445654,BV
+612,2007,12,The Simpsons Movie,The Simpsons Movie,3926,183135014,Fox
+613,2007,13,Wild Hogs,Wild Hogs,3401,168273550,BV
+614,2007,14,Knocked Up,Knocked Up,2975,148768917,Uni.
+615,2007,15,Juno,Juno (film),2534,143495265,FoxS
+616,2007,16,Rush Hour 3,Rush Hour 3,3778,140125968,NL
+617,2007,17,Live Free or Die Hard,Live Free or Die Hard,3411,134529403,Fox
+618,2007,18,Fantastic Four: Rise of the Silver Surfer,Fantastic Four: Rise of the Silver Surfer,3963,131921738,Fox
+619,2007,19,American Gangster,American Gangster (film),3110,130164645,Uni.
+620,2007,20,Enchanted,Enchanted (film),3730,127807262,BV
+621,2007,21,Bee Movie,Bee Movie,3984,126631277,P/DW
+622,2007,22,Superbad,Superbad (film),3069,121463226,Sony
+623,2007,23,I Now Pronounce You Chuck and Larry,I Now Pronounce You Chuck and Larry,3501,120059556,Uni.
+624,2007,24,Hairspray (2007),Hairspray (2007 film),3121,118871849,NL
+625,2007,25,Blades of Glory,Blades of Glory,3467,118594548,P/DW
+626,2007,26,Ocean's Thirteen,Ocean's Thirteen,3565,117154724,WB
+627,2007,27,Ghost Rider,Ghost Rider (2007 film),3620,115802596,Sony
+628,2007,28,Evan Almighty,Evan Almighty,3636,100462298,Uni.
+629,2007,29,Meet the Robinsons,Meet the Robinsons,3435,97822171,BV
+630,2007,30,Norbit,Norbit,3145,95673607,P/DW
+631,2007,31,The Bucket List,The Bucket List,2915,93466502,WB
+632,2007,32,The Game Plan,The Game Plan (film),3342,90648202,BV
+633,2007,33,Beowulf,Beowulf (2007 film),3249,82280579,Par.
+634,2007,34,Bridge to Terabithia,Bridge to Terabithia (2007 film),3210,82272442,BV
+635,2007,35,Disturbia,Disturbia (film),3132,80209692,P/DW
+636,2007,36,No Country for Old Men,No Country for Old Men (film),2037,74283625,Mira.
+637,2007,37,Fred Claus,Fred Claus,3603,72006777,WB
+638,2007,38,1408,1408 (film),2733,71985628,MGM/W
+639,2007,39,The Golden Compass,The Golden Compass (film),3528,70107728,NL
+640,2007,40,Charlie Wilson's War,Charlie Wilson's War,2594,66661095,Uni.
+641,2007,41,Saw IV,Saw IV,3183,63300095,LGF
+642,2007,42,Stomp the Yard,Stomp the Yard,2169,61356221,SGem
+643,2007,43,Surf's Up,Surf's Up (film),3531,58867694,Sony
+644,2007,44,Halloween (2007),Halloween (2007 film),3475,58272029,MGM/W
+645,2007,45,Tyler Perry's Why Did I Get Married?,Why Did I Get Married?,2034,55204525,LGF
+646,2007,46,TMNT,TMNT (film),3120,54149098,WB
+647,2007,47,P.S. I Love You,P.S. I Love You (film),2471,53695808,WB
+648,2007,48,3:10 to Yuma (2007),3:10 to Yuma (2007 film),3006,53606916,LGF
+649,2007,49,Sweeney Todd: The Demon Barber of Fleet Street,Sweeney Todd: The Demon Barber of Fleet Street (2007 film),1507,52898073,P/DW
+650,2007,50,Atonement,Atonement (film),1400,50927067,Focus
+651,2008,1,The Dark Knight,The Dark Knight (film),4366,533345358,WB
+652,2008,2,Iron Man,Iron Man (2008 film),4154,318412101,Par.
+653,2008,3,Indiana Jones and the Kingdom of the Crystal Skull,Indiana Jones and the Kingdom of the Crystal Skull,4264,317101119,Par.
+654,2008,4,Hancock,Hancock (film),3965,227946274,Sony
+655,2008,5,WALL-E,WALL-E,3992,223808164,BV
+656,2008,6,Kung Fu Panda,Kung Fu Panda,4136,215434591,P/DW
+657,2008,7,Twilight,Twilight (2008 film),3649,192769854,Sum.
+658,2008,8,Madagascar: Escape 2 Africa,Madagascar: Escape 2 Africa,4065,180010950,P/DW
+659,2008,9,Quantum of Solace,Quantum of Solace,3501,168368427,Sony
+660,2008,10,Dr. Seuss' Horton Hears a Who!,Horton Hears a Who! (film),3961,154529439,Fox
+661,2008,11,Sex and the City,Sex and the City (film),3325,152647258,WB (NL)
+662,2008,12,Gran Torino,Gran Torino,3045,148095302,WB
+663,2008,13,Mamma Mia!,Mamma Mia! (film),3194,144130063,Uni.
+664,2008,14,Marley and Me,Marley & Me (film),3505,143153751,Fox
+665,2008,15,The Chronicles of Narnia: Prince Caspian,The Chronicles of Narnia: Prince Caspian,3929,141621490,BV
+666,2008,16,Slumdog Millionaire,Slumdog Millionaire,2943,141319928,FoxS
+667,2008,17,The Incredible Hulk,The Incredible Hulk (film),3508,134806913,Uni.
+668,2008,18,Wanted,Wanted (2008 film),3185,134508551,Uni.
+669,2008,19,Get Smart,Get Smart (film),3915,130319208,WB
+670,2008,20,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button (film),2988,127509326,Par.
+671,2008,21,Four Christmases,Four Christmases,3540,120146040,WB (NL)
+672,2008,22,Bolt,Bolt (2008 film),3654,114053579,BV
+673,2008,23,Tropic Thunder,Tropic Thunder,3473,110515313,P/DW
+674,2008,24,Bedtime Stories,Bedtime Stories (film),3684,110101975,BV
+675,2008,25,The Mummy: Tomb of the Dragon Emperor,The Mummy: Tomb of the Dragon Emperor,3778,102491776,Uni.
+676,2008,26,Journey to the Center of the Earth,Journey to the Center of the Earth (2008 theatrical film),2830,101704370,WB (NL)
+677,2008,27,Eagle Eye,Eagle Eye,3614,101440743,P/DW
+678,2008,28,Step Brothers,Step Brothers (film),3182,100468793,Sony
+679,2008,29,You Don't Mess with the Zohan,You Don't Mess with the Zohan,3466,100018837,Sony
+680,2008,30,Yes Man,Yes Man (film),3434,97690976,WB
+681,2008,31,"10,000 B.C.","10,000 BC (film)",3454,94784201,WB
+682,2008,32,Beverly Hills Chihuahua,Beverly Hills Chihuahua,3239,94514402,BV
+683,2008,33,High School Musical 3: Senior Year,High School Musical 3: Senior Year,3626,90559416,BV
+684,2008,34,Pineapple Express,Pineapple Express (film),3072,87341380,Sony
+685,2008,35,Valkyrie,Valkyrie (film),2838,83077833,UA
+686,2008,36,21,21 (2008 film),2952,81159365,Sony
+687,2008,37,What Happens in Vegas,What Happens in Vegas,3255,80277646,Fox
+688,2008,38,Jumper,Jumper (2008 film),3430,80172128,Fox
+689,2008,39,Cloverfield,Cloverfield,3411,80048433,Par.
+690,2008,40,The Day the Earth Stood Still (2008),The Day the Earth Stood Still (2008 film),3560,79366978,Fox
+691,2008,41,27 Dresses,27 Dresses,3074,76808654,Fox
+692,2008,42,Hellboy II: The Golden Army,Hellboy II: The Golden Army,3212,75986503,Uni.
+693,2008,43,Vantage Point,Vantage Point (film),3163,72266306,Sony
+694,2008,44,The Spiderwick Chronicles,The Spiderwick Chronicles (film),3847,71195053,Par.
+695,2008,45,Fool's Gold,Fool's Gold (2008 film),3125,70231041,WB
+696,2008,46,Seven Pounds,Seven Pounds,2758,69951824,Sony
+697,2008,47,Role Models,Role Models,2798,67294270,Uni.
+698,2008,48,Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,687,65281781,BV
+699,2008,49,The Happening,The Happening (2008 film),2986,64506874,Fox
+700,2008,50,Forgetting Sarah Marshall,Forgetting Sarah Marshall,2872,63172463,Uni.
+701,2009,1,Avatar,Avatar (2009 film),3461,749766139,Fox
+702,2009,2,Transformers: Revenge of the Fallen,Transformers: Revenge of the Fallen,4293,402111870,P/DW
+703,2009,3,Harry Potter and the Half-Blood Prince,Harry Potter and the Half-Blood Prince (film),4455,301959197,WB
+704,2009,4,The Twilight Saga: New Moon,The Twilight Saga: New Moon,4124,296623634,Sum.
+705,2009,5,Up,Up (2009 film),3886,293004164,BV
+706,2009,6,The Hangover,The Hangover,3545,277322503,WB
+707,2009,7,Star Trek,Star Trek (film),4053,257730019,Par.
+708,2009,8,The Blind Side,The Blind Side (film),3407,255959475,WB
+709,2009,9,Alvin and the Chipmunks: The Squeakquel,Alvin and the Chipmunks: The Squeakquel,3747,219614612,Fox
+710,2009,10,Sherlock Holmes,Sherlock Holmes (2009 film),3626,209028679,WB
+711,2009,11,Monsters Vs. Aliens,Monsters vs. Aliens,4136,198351526,P/DW
+712,2009,12,Ice Age: Dawn of the Dinosaurs,Ice Age: Dawn of the Dinosaurs,4102,196573705,Fox
+713,2009,13,X-Men Origins: Wolverine,X-Men Origins: Wolverine,4102,179883157,Fox
+714,2009,14,Night at the Museum: Battle of the Smithsonian,Night at the Museum: Battle of the Smithsonian,4101,177243721,Fox
+715,2009,15,2012,2012 (film),3444,166112167,Sony
+716,2009,16,The Proposal,The Proposal (film),3158,163958031,BV
+717,2009,17,Fast and Furious,Fast & Furious (2009 film),3674,155064265,Uni.
+718,2009,18,G.I. Joe: The Rise of Cobra,G.I. Joe: The Rise of Cobra,4007,150201498,Par.
+719,2009,19,Paul Blart: Mall Cop,Paul Blart: Mall Cop,3206,146336178,Sony
+720,2009,20,Taken,Taken (film),3184,145000989,Fox
+721,2009,21,A Christmas Carol (2009),A Christmas Carol (2009 film),3683,137855863,BV
+722,2009,22,Angels & Demons,Angels & Demons (film),3527,133375846,Sony
+723,2009,23,Terminator Salvation,Terminator Salvation,3602,125322469,WB
+724,2009,24,Cloudy with a Chance of Meatballs,Cloudy with a Chance of Meatballs (film),3119,124870275,Sony
+725,2009,25,Inglourious Basterds,Inglourious Basterds,3358,120540719,Wein.
+726,2009,26,G-Force,G-Force (film),3697,119436770,BV
+727,2009,27,District 9,District 9,3180,115646235,TriS
+728,2009,28,It's Complicated,It's Complicated (film),2955,112735375,Uni.
+729,2009,29,Couples Retreat,Couples Retreat,3074,109204945,Uni.
+730,2009,30,Paranormal Activity,Paranormal Activity,2712,107918810,Par.
+731,2009,31,Watchmen,Watchmen (film),3611,107509799,WB
+732,2009,32,The Princess and the Frog,The Princess and the Frog,3475,104400899,BV
+733,2009,33,Public Enemies,Public Enemies (2009 film),3336,97104620,Uni.
+734,2009,34,Julie & Julia,Julie & Julia,2528,94125426,Sony
+735,2009,35,He's Just Not That Into You,He's Just Not That Into You (film),3175,93953653,WB (NL)
+736,2009,36,Tyler Perry's Madea Goes to Jail,Madea Goes to Jail,2203,90508336,LGF
+737,2009,37,The Ugly Truth,The Ugly Truth,2975,88915214,Sony
+738,2009,38,Up in the Air,Up in the Air (2009 film),2218,83823381,Par.
+739,2009,39,Knowing,Knowing (film),3337,79957634,Sum.
+740,2009,40,Hannah Montana The Movie,Hannah Montana: The Movie,3231,79576189,BV
+741,2009,41,Where the Wild Things Are,Where the Wild Things Are (film),3735,77233467,WB
+742,2009,42,Zombieland,Zombieland,3171,75590286,Sony
+743,2009,43,Coraline,Coraline (film),2320,75286229,Focus
+744,2009,44,Law Abiding Citizen,Law Abiding Citizen,2890,73357727,Over.
+745,2009,45,Hotel for Dogs,Hotel for Dogs (film),3271,73034460,P/DW
+746,2009,46,Michael Jackson's This Is It,Michael Jackson's This Is It,3481,72091016,Sony
+747,2009,47,"I Love You, Man","I Love You, Man",2829,71440011,P/DW
+748,2009,48,Obsessed,Obsessed (2009 film),2634,68261644,SGem
+749,2009,49,Race to Witch Mountain,Race to Witch Mountain,3268,67172594,BV
+750,2009,50,The Final Destination,The Final Destination,3121,66477700,WB (NL)
+751,2010,1,Toy Story 3,Toy Story 3,4028,415004880,BV
+752,2010,2,Alice in Wonderland (2010),Alice in Wonderland (2010 film),3739,334191110,BV
+753,2010,3,Iron Man 2,Iron Man 2,4390,312433331,Par.
+754,2010,4,The Twilight Saga: Eclipse,The Twilight Saga: Eclipse,4468,300531751,Sum.
+755,2010,5,Harry Potter and the Deathly Hallows Part 1,Harry Potter and the Deathly Hallows – Part 1,4125,295983305,WB
+756,2010,6,Inception,Inception,3792,292576195,WB
+757,2010,7,Despicable Me,Despicable Me,3602,251513985,Uni.
+758,2010,8,Shrek Forever After,Shrek Forever After,4386,238736787,P/DW
+759,2010,9,How to Train Your Dragon,How to Train Your Dragon (film),4060,217581231,P/DW
+760,2010,10,Tangled,Tangled,3603,200821936,BV
+761,2010,11,The Karate Kid,The Karate Kid (2010 film),3740,176591618,Sony
+762,2010,12,Tron Legacy,Tron: Legacy,3451,172062763,BV
+763,2010,13,True Grit,True Grit (2010 film),3464,171243005,Par.
+764,2010,14,Clash of the Titans (2010),Clash of the Titans (2010 film),3802,163214888,WB
+765,2010,15,Grown Ups,Grown Ups (film),3534,162001186,Sony
+766,2010,16,Little Fockers,Little Fockers,3675,148438600,Uni.
+767,2010,17,Megamind,Megamind,3949,148415853,P/DW
+768,2010,18,The King's Speech,The King's Speech,2584,135453143,Wein.
+769,2010,19,The Last Airbender,The Last Airbender,3203,131772187,Par.
+770,2010,20,Shutter Island,Shutter Island (film),3356,128012934,Par.
+771,2010,21,The Other Guys,The Other Guys,3651,119219978,Sony
+772,2010,22,Salt,Salt (2010 film),3612,118311368,Sony
+773,2010,23,Jackass 3-D,Jackass 3D,3139,117229692,Par.
+774,2010,24,Valentine's Day,Valentine's Day (2010 film),3665,110485654,WB
+775,2010,25,Black Swan,Black Swan (film),2407,106954678,FoxS
+776,2010,26,Robin Hood,Robin Hood (2010 film),3505,105269730,Uni.
+777,2010,27,The Chronicles of Narnia: The Voyage of the Dawn Treader,The Chronicles of Narnia: The Voyage of the Dawn Treader,3555,104386950,Fox
+778,2010,28,The Expendables,The Expendables (2010 film),3398,103068524,LGF
+779,2010,29,Due Date,Due Date,3365,100539043,WB
+780,2010,30,Yogi Bear,Yogi Bear (film),3515,100246011,WB
+781,2010,31,Date Night,Date Night,3380,98711404,Fox
+782,2010,32,The Social Network,The Social Network,2921,96962694,Sony
+783,2010,33,Sex and the City 2,Sex and the City 2,3445,95347692,WB (NL)
+784,2010,34,The Book of Eli,The Book of Eli,3111,94835059,WB
+785,2010,35,The Fighter,The Fighter,2534,93617009,Par.
+786,2010,36,The Town,The Town (2010 film),2935,92186262,WB
+787,2010,37,Prince of Persia: The Sands of Time,Prince of Persia: The Sands of Time (film),3646,90759676,BV
+788,2010,38,Red,Red (2010 film),3349,90380162,Sum.
+789,2010,39,Percy Jackson & The Olympians: The Lightning Thief,Percy Jackson & the Olympians: The Lightning Thief,3396,88768303,Fox
+790,2010,40,Paranormal Activity 2,Paranormal Activity 2,3239,84752907,Par.
+791,2010,41,Unstoppable,Unstoppable (2010 film),3261,81562942,Fox
+792,2010,42,Eat Pray Love,Eat Pray Love,3108,80574010,Sony
+793,2010,43,Dear John,Dear John (2010 film),3062,80014842,SGem
+794,2010,44,The A-Team,The A-Team (film),3544,77222099,Fox
+795,2010,45,Knight & Day,Knight and Day,3104,76423035,Fox
+796,2010,46,Dinner for Schmucks,Dinner for Schmucks,3046,73026337,P/DW
+797,2010,47,The Tourist,The Tourist (2010 film),2756,67631157,Sony
+798,2010,48,The Bounty Hunter,The Bounty Hunter (2010 film),3118,67061228,Sony
+799,2010,49,Diary of a Wimpy Kid,Diary of a Wimpy Kid (film),3083,64003625,Fox
+800,2010,50,The Sorcerer's Apprentice,The Sorcerer's Apprentice (2010 film),3504,63150991,BV
+801,2011,1,Harry Potter and the Deathly Hallows Part 2,Harry Potter and the Deathly Hallows – Part 2,4375,381011219,WB
+802,2011,2,Transformers: Dark of the Moon,Transformers: Dark of the Moon,4088,352390543,P/DW
+803,2011,3,The Twilight Saga: Breaking Dawn Part 1,The Twilight Saga: Breaking Dawn – Part 1,4066,281287133,Sum.
+804,2011,4,The Hangover Part II,The Hangover Part II,3675,254464305,WB
+805,2011,5,Pirates of the Caribbean: On Stranger Tides,Pirates of the Caribbean: On Stranger Tides,4164,241071802,BV
+806,2011,6,Fast Five,Fast Five,3793,209837675,Uni.
+807,2011,7,Mission: Impossible - Ghost Protocol,Mission: Impossible – Ghost Protocol,3555,209397903,Par.
+808,2011,8,Cars 2,Cars 2,4115,191452396,BV
+809,2011,9,Sherlock Holmes: A Game of Shadows,Sherlock Holmes: A Game of Shadows,3703,186848418,WB
+810,2011,10,Thor,Thor (film),3963,181030624,Par.
+811,2011,11,Rise of the Planet of the Apes,Rise of the Planet of the Apes,3691,176760185,Fox
+812,2011,12,Captain America: The First Avenger,Captain America: The First Avenger,3715,176654505,Par.
+813,2011,13,The Help,The Help (film),3014,169708112,BV
+814,2011,14,Bridesmaids,Bridesmaids (2011 film),2958,169106725,Uni.
+815,2011,15,Kung Fu Panda 2,Kung Fu Panda 2,3952,165249063,P/DW
+816,2011,16,Puss in Boots,Puss in Boots (2011 film),3963,149260504,P/DW
+817,2011,17,X-Men: First Class,X-Men: First Class,3692,146408305,Fox
+818,2011,18,Rio,Rio (2011 film),3842,143619809,Fox
+819,2011,19,The Smurfs,The Smurfs (film),3427,142614158,Sony
+820,2011,20,Alvin and the Chipmunks: Chipwrecked,Alvin and the Chipmunks: Chipwrecked,3734,133110742,Fox
+821,2011,21,Super 8,Super 8 (film),3424,127004179,Par.
+822,2011,22,Rango,Rango (2011 film),3923,123477607,Par.
+823,2011,23,Horrible Bosses,Horrible Bosses,3134,117538559,WB (NL)
+824,2011,24,Green Lantern,Green Lantern (film),3816,116601172,WB
+825,2011,25,Hop,Hop (film),3616,108085305,Uni.
+826,2011,26,Paranormal Activity 3,Paranormal Activity 3,3329,104028807,Par.
+827,2011,27,Just Go With It,Just Go with It,3548,103028109,Sony
+828,2011,28,The Girl with the Dragon Tattoo (2011),The Girl with the Dragon Tattoo (2011 film),2950,102515793,Sony
+829,2011,29,Bad Teacher,Bad Teacher,3049,100292856,Sony
+830,2011,30,Cowboys & Aliens,Cowboys & Aliens,3754,100240551,Uni.
+831,2011,31,Gnomeo and Juliet,Gnomeo & Juliet,3037,99967670,BV
+832,2011,32,The Green Hornet,The Green Hornet (2011 film),3584,98780042,Sony
+833,2011,33,The Lion King (in 3D),The Lion King,2340,94242001,BV
+834,2011,34,The Muppets,The Muppets (film),3440,88631237,BV
+835,2011,35,Real Steel,Real Steel,3440,85468508,BV
+836,2011,36,"Crazy, Stupid, Love.","Crazy, Stupid, Love",3020,84351197,WB
+837,2011,37,Battle: Los Angeles,Battle: Los Angeles,3417,83552429,Sony
+838,2011,38,Immortals,Immortals (2011 film),3120,83504017,Rela.
+839,2011,39,The Descendants,The Descendants,2038,82584160,FoxS
+840,2011,40,Zookeeper,Zookeeper (film),3482,80360843,Sony
+841,2011,41,War Horse,War Horse (film),2856,79884879,BV
+842,2011,42,Limitless,Limitless,2838,79249455,Rela.
+843,2011,43,Tower Heist,Tower Heist,3870,78046570,Uni.
+844,2011,44,The Adventures of Tintin,The Adventures of Tintin (film),3087,77591831,Par.
+845,2011,45,Contagion,Contagion (film),3222,75658097,WB
+846,2011,46,We Bought a Zoo,We Bought a Zoo,3170,75624550,Fox
+847,2011,47,Moneyball,Moneyball (film),3018,75605492,Sony
+848,2011,48,Jack and Jill,Jack and Jill (2011 film),3438,74158157,Sony
+849,2011,49,Hugo,Hugo (film),2608,73864507,Par.
+850,2011,50,Justin Bieber: Never Say Never,Justin Bieber: Never Say Never,3118,73013910,Par.
+851,2012,1,Marvel's The Avengers,The Avengers (2012 film),4349,623357910,BV
+852,2012,2,The Dark Knight Rises,The Dark Knight Rises,4404,448139099,WB
+853,2012,3,The Hunger Games,The Hunger Games (film),4137,408010692,LGF
+854,2012,4,Skyfall,Skyfall,3526,304360277,Sony
+855,2012,5,The Hobbit: An Unexpected Journey,The Hobbit: An Unexpected Journey,4100,303003568,WB
+856,2012,6,The Twilight Saga: Breaking Dawn Part 2,The Twilight Saga: Breaking Dawn – Part 2,4070,292324737,LG/S
+857,2012,7,The Amazing Spider-Man,The Amazing Spider-Man (2012 film),4318,262030663,Sony
+858,2012,8,Brave,Brave (2012 film),4164,237283207,BV
+859,2012,9,Ted,Ted (film),3303,218815487,Uni.
+860,2012,10,Madagascar 3: Europe's Most Wanted,Madagascar 3: Europe's Most Wanted,4263,216391482,P/DW
+861,2012,11,Dr. Seuss' The Lorax,The Lorax (film),3769,214030500,Uni.
+862,2012,12,Wreck-It Ralph,Wreck-It Ralph,3752,189422889,BV
+863,2012,13,Lincoln,Lincoln (2012 film),2293,182207973,BV
+864,2012,14,MIB 3,Men in Black 3,4248,179020854,Sony
+865,2012,15,Django Unchained,Django Unchained,3012,162805434,Wein.
+866,2012,16,Ice Age: Continental Drift,Ice Age: Continental Drift,3886,161321843,Fox
+867,2012,17,Snow White and the Huntsman,Snow White and the Huntsman,3777,155332381,Uni.
+868,2012,18,Les Miserables (2012),Les Misrables (2012 film),2927,148809770,Uni.
+869,2012,19,Hotel Transylvania,Hotel Transylvania,3375,148313048,Sony
+870,2012,20,Taken 2,Taken 2,3706,139854287,Fox
+871,2012,21,21 Jump Street,21 Jump Street (film),3148,138447667,Sony
+872,2012,22,Argo,Argo (2012 film),3247,136025503,WB
+873,2012,23,Silver Linings Playbook,Silver Linings Playbook,2809,132092958,Wein.
+874,2012,24,Prometheus,Prometheus (2012 film),3442,126477084,Fox
+875,2012,25,Safe House,Safe House (2012 film),3121,126373434,Uni.
+876,2012,26,The Vow,The Vow (2012 film),3038,125014030,SGem
+877,2012,27,Life of Pi,Life of Pi (film),2946,124987023,Fox
+878,2012,28,Magic Mike,Magic Mike,3120,113721571,WB
+879,2012,29,The Bourne Legacy,The Bourne Legacy (film),3753,113203870,Uni.
+880,2012,30,Journey 2: The Mysterious Island,Journey 2: The Mysterious Island,3500,103860290,WB
+881,2012,31,Rise of the Guardians,Rise of the Guardians,3672,103412758,P/DW
+882,2012,32,Zero Dark Thirty,Zero Dark Thirty,2946,95720716,Sony
+883,2012,33,Flight,Flight (2012 film),2638,93772375,Par.
+884,2012,34,Think Like a Man,Think Like a Man,2052,91547205,SGem
+885,2012,35,The Campaign,The Campaign (film),3302,86907746,WB
+886,2012,36,The Expendables 2,The Expendables 2,3355,85028192,LGF
+887,2012,37,Wrath of the Titans,Wrath of the Titans,3545,83670083,WB
+888,2012,38,Jack Reacher,Jack Reacher (film),3352,80070736,Par.
+889,2012,39,Dark Shadows,Dark Shadows (film),3755,79727149,WB
+890,2012,40,Parental Guidance,Parental Guidance (film),3368,77267296,Fox
+891,2012,41,John Carter,John Carter (film),3749,73078100,BV
+892,2012,42,Act of Valor,Act of Valor,3053,70012847,Rela.
+893,2012,43,This Is 40,This Is 40,2931,67544505,Uni.
+894,2012,44,Contraband,Contraband (2012 film),2870,66528000,Uni.
+895,2012,45,Looper,Looper (film),2993,66486205,TriS
+896,2012,46,Tyler Perry's Madea's Witness Protection,Madea's Witness Protection,2161,65653242,LGF
+897,2012,47,Battleship,Battleship (film),3702,65422625,Uni.
+898,2012,48,Pitch Perfect,Pitch Perfect,2787,65001093,Uni.
+899,2012,49,Mirror Mirror,Mirror Mirror (film),3618,64935167,Rela.
+900,2012,50,Chronicle (2012),Chronicle (film),2908,64575175,Fox
+901,2013,1,The Hunger Games: Catching Fire,The Hunger Games: Catching Fire,4163,424668047,LGF
+902,2013,2,Iron Man 3,Iron Man 3,4253,409013994,BV
+903,2013,3,Frozen,Frozen (2013 film),3742,400738009,BV
+904,2013,4,Despicable Me 2,Despicable Me 2,4003,368061265,Uni.
+905,2013,5,Man of Steel,Man of Steel (film),4207,291045518,WB
+906,2013,6,Gravity,Gravity (film),3820,274092705,WB
+907,2013,7,Monsters University,Monsters University,4004,268492764,BV
+908,2013,8,The Hobbit: The Desolation of Smaug,The Hobbit: The Desolation of Smaug,3928,258366855,WB
+909,2013,9,Fast & Furious 6,Fast & Furious 6,3771,238679850,Uni.
+910,2013,10,Oz The Great and Powerful,Oz the Great and Powerful,3912,234911825,BV
+911,2013,11,Star Trek Into Darkness,Star Trek Into Darkness,3907,228778661,Par.
+912,2013,12,Thor: The Dark World,Thor: The Dark World,3841,206362140,BV
+913,2013,13,World War Z,World War Z (film),3607,202359711,Par.
+914,2013,14,The Croods,The Croods,4065,187168425,Fox
+915,2013,15,The Heat,The Heat (film),3184,159582188,Fox
+916,2013,16,We're the Millers,We're the Millers,3445,150394119,WB
+917,2013,17,American Hustle,American Hustle,2629,150117807,Sony
+918,2013,18,The Great Gatsby (2013),The Great Gatsby (2013 film),3550,144840419,WB
+919,2013,19,The Conjuring,The Conjuring,3115,137400141,WB
+920,2013,20,Identity Thief,Identity Thief,3230,134506920,Uni.
+921,2013,21,Grown Ups 2,Grown Ups 2,3491,133668525,Sony
+922,2013,22,The Wolverine,The Wolverine (film),3924,132556852,Fox
+923,2013,23,Anchorman 2: The Legend Continues,Anchorman 2: The Legend Continues,3507,125168368,Par.
+924,2013,24,Lone Survivor,Lone Survivor (film),3285,125095601,Uni.
+925,2013,25,G.I. Joe: Retaliation,G.I. Joe: Retaliation,3734,122523060,Par.
+926,2013,26,Cloudy with a Chance of Meatballs 2,Cloudy with a Chance of Meatballs 2,4001,119793567,Sony
+927,2013,27,Now You See Me,Now You See Me (film),3082,117723989,LG/S
+928,2013,28,The Wolf of Wall Street,The Wolf of Wall Street (2013 film),2557,116900694,Par.
+929,2013,29,Lee Daniels' The Butler,The Butler,3330,116632095,Wein.
+930,2013,30,The Hangover Part III,The Hangover Part III,3565,112200072,WB
+931,2013,31,Epic,Epic (2013 film),3894,107518682,Fox
+932,2013,32,Captain Phillips,Captain Phillips (film),3143,107100855,Sony
+933,2013,33,Jackass Presents: Bad Grandpa,Jackass Presents: Bad Grandpa,3345,102003019,Par.
+934,2013,34,Pacific Rim,Pacific Rim (film),3285,101802906,WB
+935,2013,35,This is the End,This Is the End,3055,101470202,Sony
+936,2013,36,Olympus Has Fallen,Olympus Has Fallen,3106,98925640,FD
+937,2013,37,42,42 (film),3405,95020213,WB
+938,2013,38,Elysium,Elysium (film),3284,93050117,TriS
+939,2013,39,Planes,Planes (film),3716,90288712,BV
+940,2013,40,The Lone Ranger,The Lone Ranger (2013 film),3904,89302115,BV
+941,2013,41,Oblivion,Oblivion (2013 film),3792,89107235,Uni.
+942,2013,42,Insidious Chapter 2,Insidious: Chapter 2,3155,83586447,FD
+943,2013,43,Saving Mr. Banks,Saving Mr. Banks,2671,83301580,BV
+944,2013,44,Turbo,Turbo (film),3809,83028128,Fox
+945,2013,45,2 Guns,2 Guns,3028,75612460,Uni.
+946,2013,46,White House Down,White House Down,3222,73103784,Sony
+947,2013,47,Mama,Mama (2013 film),2781,71628180,Uni.
+948,2013,48,Safe Haven,Safe Haven (film),3223,71349120,Rela.
+949,2013,49,The Smurfs 2,The Smurfs 2,3867,71017784,Sony
+950,2013,50,The Best Man Holiday,The Best Man Holiday,2041,70525195,Uni.
+951,2014,1,American Sniper,American Sniper (film),3885,349973107,WB
+952,2014,2,The Hunger Games: Mockingjay - Part 1,The Hunger Games: Mockingjay – Part 1,4151,337135885,LGF
+953,2014,3,Guardians of the Galaxy,Guardians of the Galaxy (film),4088,333176600,BV
+954,2014,4,Captain America: The Winter Soldier,Captain America: The Winter Soldier,3938,259766572,BV
+955,2014,5,The LEGO Movie,The Lego Movie,3890,257760692,WB
+956,2014,6,The Hobbit: The Battle of the Five Armies,The Hobbit: The Battle of the Five Armies,3875,255119788,WB
+957,2014,7,Transformers: Age of Extinction,Transformers: Age of Extinction,4233,245439076,Par.
+958,2014,8,Maleficent,Maleficent (film),3948,241410378,BV
+959,2014,9,X-Men: Days of Future Past,X-Men: Days of Future Past,4001,233921534,Fox
+960,2014,10,Big Hero 6,Big Hero 6 (film),3773,222527828,BV
+961,2014,11,Dawn of the Planet of the Apes,Dawn of the Planet of the Apes,3969,208545589,Fox
+962,2014,12,The Amazing Spider-Man 2,The Amazing Spider-Man 2,4324,202853933,Sony
+963,2014,13,Godzilla (2014),Godzilla (2014 film),3952,200676069,WB
+964,2014,14,22 Jump Street,22 Jump Street,3426,191719337,Sony
+965,2014,15,Teenage Mutant Ninja Turtles (2014),Teenage Mutant Ninja Turtles (2014 film),3980,191204754,Par.
+966,2014,16,Interstellar,Interstellar (film),3561,188020017,Par.
+967,2014,17,How to Train Your Dragon 2,How to Train Your Dragon 2,4268,177002924,Fox
+968,2014,18,Gone Girl,Gone Girl (film),3284,167767189,Fox
+969,2014,19,Divergent,Divergent (film),3936,150947895,LG/S
+970,2014,20,Neighbors,Neighbors (2014 film),3311,150157400,Uni.
+971,2014,21,Ride Along,Ride Along (film),2867,134938200,Uni.
+972,2014,22,Rio 2,Rio 2,3975,131538435,Fox
+973,2014,23,Into the Woods,Into the Woods (film),2833,128002372,BV
+974,2014,24,Lucy,Lucy (2014 film),3202,126663600,Uni.
+975,2014,25,The Fault in our Stars,The Fault in Our Stars (film),3340,124872350,Fox
+976,2014,26,Unbroken,Unbroken (film),3301,115637895,Uni.
+977,2014,27,Night at the Museum: Secret of the Tomb,Night at the Museum: Secret of the Tomb,3914,113668526,Fox
+978,2014,28,Mr. Peabody & Sherman,Mr. Peabody & Sherman,3951,111506430,Fox
+979,2014,29,300: Rise of An Empire,300: Rise of an Empire,3490,106580051,WB
+980,2014,30,The Maze Runner,The Maze Runner (film),3638,102427862,Fox
+981,2014,31,The Equalizer,The Equalizer (film),3236,101530738,Sony
+982,2014,32,Noah,Noah (2014 film),3571,101200044,Par.
+983,2014,33,Edge of Tomorrow,Edge of Tomorrow (film),3505,100206256,WB
+984,2014,34,Non-Stop,Non-Stop (film),3183,92168600,Uni.
+985,2014,35,Heaven is for Real,Heaven Is for Real (film),3048,91443253,TriS
+986,2014,36,The Imitation Game,The Imitation Game,2402,91125683,Wein.
+987,2014,37,Dumb and Dumber To,Dumb and Dumber To,3188,86208010,Uni.
+988,2014,38,Annie (2014),Annie (2014 film),3197,85911262,Sony
+989,2014,39,Fury (2014),Fury,3313,85817906,Sony
+990,2014,40,Tammy,Tammy (film),3465,84525432,WB
+991,2014,41,Annabelle,Annabelle (film),3215,84273813,WB (NL)
+992,2014,42,The Other Woman (2014),The Other Woman,3306,83911193,Fox
+993,2014,43,Penguins of Madagascar,The Penguins of Madagascar,3775,83350911,Fox
+994,2014,44,Let's Be Cops,Let's Be Cops,3140,82390774,Fox
+995,2014,45,The Monuments Men,The Monuments Men,3083,78031620,Sony
+996,2014,46,Hercules (2014),Hercules (2014 film),3595,72688614,Par.
+997,2014,47,The Purge: Anarchy,The Purge: Anarchy,2856,71962800,Uni.
+998,2014,48,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Alexander and the Terrible, Horrible, No Good, Very Bad Day (film)",3117,66954149,BV
+999,2014,49,Think Like a Man Too,Think Like a Man Too,2225,65182182,SGem
+1000,2014,50,Exodus: Gods and Kings,Exodus: Gods and Kings,3503,65014513,Fox

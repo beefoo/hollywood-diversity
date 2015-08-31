@@ -56,3 +56,17 @@ for p in people:
             'role': r['role']
         })
 print('Found '+str(len(roles))+' roles.')
+
+# Write JSON files
+
+with open(OUTPUT_DIR + 'movies.json', 'w') as outfile:
+    json.dump(movies, outfile)
+    print('Successfully wrote movies to file: '+OUTPUT_DIR + 'movies.json')
+
+with open(OUTPUT_DIR + 'people.json', 'w') as outfile:
+    json.dump(people, outfile)
+    print('Successfully wrote people to file: '+OUTPUT_DIR + 'people.json')
+
+with open(OUTPUT_DIR + 'roles.json', 'w') as outfile:
+    json.dump(roles, outfile)
+    print('Successfully wrote roles to file: '+OUTPUT_DIR + 'roles.json')
