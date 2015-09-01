@@ -1,9 +1,12 @@
-#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import csv
+import json
 import os
 
 INPUT_FILE = '../data/people_box_office_top_50_movies_1995-2014.csv'
+NAMES_FILE = '../data/first-names.json'
+overwrite_existing = True
 
 people_movie_roles = []
 names = []
@@ -22,13 +25,23 @@ with open(INPUT_FILE, 'rb') as f:
             'name': name,
             'url': url,
             'gender': gender,
-            'race': race
+            'race': race,
+            'fname': name.split(' ')[0].lower()
         })
-names = set([p['name'] for p in people_movie_roles])
+fnames = set([p['fname'] for p in people_movie_roles])
+
+# Read names from file
+with open(NAMES_FILE) as data_file:
+    names = json.load(data_file)
 
 # Guess gender
-for name in names:
+for fname in fnames:
     gender = 'u'
+    matches = [n['g'] for n in names if n['n']==fname]
+    if len(matches) > 0:
+        for i, p in enumerate(people_movie_roles):
+            if (overwrite_existing or not p['gender']) and p['fname']==fname:
+                people_movie_roles[i]['gender'] = matches[0]
 
 # Write data back to file
 with open(INPUT_FILE, 'wb') as f:
