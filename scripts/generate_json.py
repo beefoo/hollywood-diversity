@@ -23,7 +23,9 @@ with open(INPUT_FILE, 'rb') as f:
             'movie_url': movie_url,
             'role': role,
             'name': name,
-            'url': url
+            'url': url,
+            'gender': gender,
+            'race': race
         })
 
 # Find unique movies
@@ -41,7 +43,9 @@ for n in people_names:
         url = urls[0]
     people.append({
         'name': n,
-        'url': url
+        'url': url,
+        'gender': '',
+        'race': ''
     })
 print('Found '+str(len(people))+' people.')
 print('Found '+str(len([p for p in people if p['url']]))+' people with URLS.')
