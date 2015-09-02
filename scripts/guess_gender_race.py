@@ -15,13 +15,16 @@ overwrite_existing = True
 
 people_movie_roles = []
 names = []
+surnames = []
 headers = []
+race_categories = ['w', 'b', 'a', 'h']
 
 # Read data from csv
 with open(INPUT_FILE, 'rb') as f:
     r = csv.reader(f, delimiter=',')
     headers = next(r, None) # remove header
     for movie_id, movie_name, movie_url, role, name, url, gender, race in r:
+        name_parts = name.lower().split(' ')
         people_movie_roles.append({
             'movie_id': int(movie_id),
             'movie_name': movie_name,
@@ -31,8 +34,8 @@ with open(INPUT_FILE, 'rb') as f:
             'url': url,
             'gender': gender,
             'race': race,
-            'fname': name.split(' ')[0].lower(),
-            'lnames': []
+            'fname': name_parts[0],
+            'lnames': name_parts[1:][::-1]
         })
 fnames = set([p['fname'] for p in people_movie_roles])
 
@@ -43,6 +46,17 @@ with open(NAMES_FILE, 'rb') as f:
         names.append({
             'name': name,
             'gender': gender
+        })
+
+# Read surnames from file
+with open(SURNAMES_FILE, 'rb') as f:
+    r = csv.reader(f, delimiter=',')
+    headers = next(r, None) # remove header
+    for name,rank,count,prop100k,cum_prop100k,pctwhite,pctblack,pctapi,pctaian,pct2prace,pcthispanic in r:
+        race = ''
+        surnames.append({
+            'name': name.lower(),
+            'race': race
         })
 
 # Guess gender
@@ -57,6 +71,15 @@ for fname in fnames:
                 people_movie_roles[i]['gender'] = matches[0]
 
 print('Found '+str(g_match_count)+' gender matches out of '+str(len(fnames))+' possible names.')
+
+# Guess race
+for i, p in enumerate(people_movie_roles):
+    if (overwrite_existing or not p['race']):
+        for ln in p['lnames']:
+            matches = [n['race'] for n in surnames if n['name']==ln]
+            if len(matches) > 0:
+                people_movie_roles[i]['race'] = matches[0]
+                break
 
 # Write data back to file
 with open(INPUT_FILE, 'wb') as f:
