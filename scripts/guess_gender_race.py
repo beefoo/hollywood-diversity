@@ -11,7 +11,7 @@ import os
 INPUT_FILE = '../data/people_box_office_top_50_movies_1995-2014.csv'
 NAMES_FILE = '../data/firstnames.csv'
 SURNAMES_FILE = '../data/surnames.csv'
-overwrite_existing = False
+overwrite_existing = True
 
 people_movie_roles = []
 names = []
@@ -31,19 +31,25 @@ with open(INPUT_FILE, 'rb') as f:
             'url': url,
             'gender': gender,
             'race': race,
-            'fname': name.split(' ')[0].lower()
+            'fname': name.split(' ')[0].lower(),
+            'lnames': []
         })
 fnames = set([p['fname'] for p in people_movie_roles])
 
 # Read names from file
-with open(NAMES_FILE) as data_file:
-    names = json.load(data_file)
+with open(NAMES_FILE, 'rb') as f:
+    r = csv.reader(f, delimiter=',')
+    for name, gender in r:
+        names.append({
+            'name': name,
+            'gender': gender
+        })
 
 # Guess gender
 g_match_count = 0
 for fname in fnames:
     gender = 'u'
-    matches = [n['g'] for n in names if n['n']==fname]
+    matches = [n['gender'] for n in names if n['name']==fname]
     if len(matches) > 0:
         g_match_count += 1
         for i, p in enumerate(people_movie_roles):
