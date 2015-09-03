@@ -17,7 +17,19 @@ people_movie_roles = []
 names = []
 surnames = []
 headers = []
-race_categories = ['w', 'b', 'a', 'h']
+
+def is_number(s):
+    try:
+        float(s)
+        return True
+    except ValueError:
+        return False
+
+def parse_float(s):
+    if is_number(s):
+        return float(s)
+    else:
+        return 0.0
 
 # Read data from csv
 with open(INPUT_FILE, 'rb') as f:
@@ -49,11 +61,23 @@ with open(NAMES_FILE, 'rb') as f:
         })
 
 # Read surnames from file
+race_percent_threshold = 25;
 with open(SURNAMES_FILE, 'rb') as f:
     r = csv.reader(f, delimiter=',')
-    headers = next(r, None) # remove header
+    next(r, None) # remove header
     for name,rank,count,prop100k,cum_prop100k,pctwhite,pctblack,pctapi,pctaian,pct2prace,pcthispanic in r:
+        races = [
+            {'key': 'w', 'pct': parse_float(pctwhite)}, # white
+            {'key': 'b', 'pct': parse_float(pctblack)}, # black
+            {'key': 'a', 'pct': parse_float(pctapi)}, # asian, pacific islander
+            {'key': 'h', 'pct': parse_float(pcthispanic)}, # hispanic, non-white
+            {'key': 'o', 'pct': parse_float(pctaian)}, # native american/alaskan
+            {'key': 'o', 'pct': parse_float(pct2prace)} # 2 or more races
+        ]
+        races = sorted(races, key=lambda k: k['pct'], reverse=True)
         race = ''
+        if races[0]['pct'] > race_percent_threshold:
+            race = races[0]['key']
         surnames.append({
             'name': name.lower(),
             'race': race
@@ -73,13 +97,17 @@ for fname in fnames:
 print('Found '+str(g_match_count)+' gender matches out of '+str(len(fnames))+' possible names.')
 
 # Guess race
+r_match_count = 0
 for i, p in enumerate(people_movie_roles):
-    if (overwrite_existing or not p['race']):
-        for ln in p['lnames']:
-            matches = [n['race'] for n in surnames if n['name']==ln]
-            if len(matches) > 0:
+    for ln in p['lnames']:
+        matches = [n['race'] for n in surnames if n['name']==ln]
+        if len(matches) > 0 and matches[0]:
+            r_match_count += 1
+            if (overwrite_existing or not p['race']):
                 people_movie_roles[i]['race'] = matches[0]
-                break
+            break
+
+print('Found '+str(r_match_count)+' race matches out of '+str(len(people_movie_roles))+' possible names.')
 
 # Write data back to file
 with open(INPUT_FILE, 'wb') as f:
