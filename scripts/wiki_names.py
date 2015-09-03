@@ -32,12 +32,23 @@ print('Found '+str(len(people_names))+' people without URLs.')
 
 # Add URLs if found
 for n in people_names:
-    page = wikipedia.page(n)
+    page = False
+    try:
+        page = wikipedia.page(n)
+    except wikipedia.exceptions.DisambiguationError as e:
+
+    except wikipedia.exceptions.PageError as e:
+
+    except wikipedia.exceptions.RedirectError as e:
+
     if page:
         print('Found match: '+n+' -> '+page.url)
         for i, p in enumerate(people_movie_roles):
             if p['name']==n:
                 people_movie_roles[i]['url'] = page.url
+    else:
+        print('No match for '+n)
+    break
 
 # Write data back to file
 if UPDATE_FILE:
