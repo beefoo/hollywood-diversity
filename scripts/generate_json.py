@@ -35,7 +35,6 @@ movies = {m['id']:m for m in movies}.values()
 print('Found '+str(len(movies))+' movies.')
 
 # Find unique people
-people_names = set([p['name'] for p in people_movie_roles])
 people = [{'name': p['name'], 'url': p['url'], 'gender': p['gender'], 'race': p['race']} for p in people_movie_roles]
 people = {p['name']:p for p in people}.values()
 print('Found '+str(len(people))+' people.')
