@@ -56,8 +56,8 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 4,Pocahontas (1995 film),http://en.wikipedia.org/wiki/Pocahontas_(1995_film),story,Ed Gombert,,m,w
 4,Pocahontas (1995 film),http://en.wikipedia.org/wiki/Pocahontas_(1995_film),story,Kaan Kalyon,,m,
 4,Pocahontas (1995 film),http://en.wikipedia.org/wiki/Pocahontas_(1995_film),story,Francis Glebas,http://en.wikipedia.org/wiki/Francis_Glebas,m,
-4,Pocahontas (1995 film),http://en.wikipedia.org/wiki/Pocahontas_(1995_film),story,Robert Gibbs,,m,w
-4,Pocahontas (1995 film),http://en.wikipedia.org/wiki/Pocahontas_(1995_film),story,Bruce Morris,,m,w
+4,Pocahontas (1995 film),http://en.wikipedia.org/wiki/Pocahontas_(1995_film),story,Robert Gibbs,https://en.wikipedia.org/wiki/Robert_Gibbs,m,w
+4,Pocahontas (1995 film),http://en.wikipedia.org/wiki/Pocahontas_(1995_film),story,Bruce Morris,https://en.wikipedia.org/wiki/Bruce_Morris,m,w
 4,Pocahontas (1995 film),http://en.wikipedia.org/wiki/Pocahontas_(1995_film),story,Todd Kurosawa,,m,a
 4,Pocahontas (1995 film),http://en.wikipedia.org/wiki/Pocahontas_(1995_film),story,Duncan Marjoribanks,,m,
 4,Pocahontas (1995 film),http://en.wikipedia.org/wiki/Pocahontas_(1995_film),story,Chris Buck,http://en.wikipedia.org/wiki/Chris_Buck,m,w
@@ -257,7 +257,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 23,Nine Months,http://en.wikipedia.org/wiki/Nine_Months,director,Chris Columbus (filmmaker),http://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker),m,w
 23,Nine Months,http://en.wikipedia.org/wiki/Nine_Months,producer,Michael Barnathan,http://en.wikipedia.org/wiki/Michael_Barnathan,m,
 23,Nine Months,http://en.wikipedia.org/wiki/Nine_Months,producer,Anne François,,f,
-23,Nine Months,http://en.wikipedia.org/wiki/Nine_Months,producer,Mark Radcliffe,,m,w
+23,Nine Months,http://en.wikipedia.org/wiki/Nine_Months,producer,Mark Radcliffe,https://en.wikipedia.org/wiki/Mark_Radcliffe,m,w
 23,Nine Months,http://en.wikipedia.org/wiki/Nine_Months,producer,Chris Columbus,,m,w
 23,Nine Months,http://en.wikipedia.org/wiki/Nine_Months,screenplay,Patrick Braoudé,http://en.wikipedia.org/wiki/Patrick_Braoudé,m,
 23,Nine Months,http://en.wikipedia.org/wiki/Nine_Months,screenplay,Chris Columbus,,m,w
@@ -396,7 +396,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 36,Under Siege 2: Dark Territory,http://en.wikipedia.org/wiki/Under_Siege_2:_Dark_Territory,director,Geoff Murphy,http://en.wikipedia.org/wiki/Geoff_Murphy,m,w
 36,Under Siege 2: Dark Territory,http://en.wikipedia.org/wiki/Under_Siege_2:_Dark_Territory,producer,Arnon Milchan,http://en.wikipedia.org/wiki/Arnon_Milchan,m,
 36,Under Siege 2: Dark Territory,http://en.wikipedia.org/wiki/Under_Siege_2:_Dark_Territory,producer,Gary W. Goldstein,http://en.wikipedia.org/wiki/Gary_W._Goldstein,m,w
-36,Under Siege 2: Dark Territory,http://en.wikipedia.org/wiki/Under_Siege_2:_Dark_Territory,producer,Steve Perry,,m,w
+36,Under Siege 2: Dark Territory,http://en.wikipedia.org/wiki/Under_Siege_2:_Dark_Territory,producer,Steve Perry,https://en.wikipedia.org/wiki/Steve_Perry,m,w
 36,Under Siege 2: Dark Territory,http://en.wikipedia.org/wiki/Under_Siege_2:_Dark_Territory,producer,Steven Seagal,http://en.wikipedia.org/wiki/Steven_Seagal,m,
 36,Under Siege 2: Dark Territory,http://en.wikipedia.org/wiki/Under_Siege_2:_Dark_Territory,writer,Richard Hatem,http://en.wikipedia.org/wiki/Richard_Hatem,m,w
 36,Under Siege 2: Dark Territory,http://en.wikipedia.org/wiki/Under_Siege_2:_Dark_Territory,writer,Matt Reeves,http://en.wikipedia.org/wiki/Matt_Reeves,m,w
@@ -418,7 +418,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 37,A Walk in the Clouds,http://en.wikipedia.org/wiki/A_Walk_in_the_Clouds,starring,Giancarlo Giannini,http://en.wikipedia.org/wiki/Giancarlo_Giannini,m,w
 37,A Walk in the Clouds,http://en.wikipedia.org/wiki/A_Walk_in_the_Clouds,starring,Anthony Quinn,http://en.wikipedia.org/wiki/Anthony_Quinn,m,w
 37,A Walk in the Clouds,http://en.wikipedia.org/wiki/A_Walk_in_the_Clouds,starring,Angélica Aragón,http://en.wikipedia.org/wiki/Angélica_Aragón,,
-37,A Walk in the Clouds,http://en.wikipedia.org/wiki/A_Walk_in_the_Clouds,starring,Evangelina Elizondo,,f,h
+37,A Walk in the Clouds,http://en.wikipedia.org/wiki/A_Walk_in_the_Clouds,starring,Evangelina Elizondo,https://en.wikipedia.org/wiki/Evangelina_Elizondo,f,h
 37,A Walk in the Clouds,http://en.wikipedia.org/wiki/A_Walk_in_the_Clouds,starring,Freddy Rodriguez (actor),http://en.wikipedia.org/wiki/Freddy_Rodriguez_(actor),m,h
 37,A Walk in the Clouds,http://en.wikipedia.org/wiki/A_Walk_in_the_Clouds,starring,Debra Messing,http://en.wikipedia.org/wiki/Debra_Messing,f,w
 37,A Walk in the Clouds,http://en.wikipedia.org/wiki/A_Walk_in_the_Clouds,director,Alfonso Arau,http://en.wikipedia.org/wiki/Alfonso_Arau,m,w
@@ -461,7 +461,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 41,Man of the House (1995 film),http://en.wikipedia.org/wiki/Man_of_the_House_(1995_film),story,David E. Peckinpah,,m,
 41,Man of the House (1995 film),http://en.wikipedia.org/wiki/Man_of_the_House_(1995_film),story,Richard Jefferies (screenwriter),http://en.wikipedia.org/wiki/Richard_Jefferies_(screenwriter),m,w
 41,Man of the House (1995 film),http://en.wikipedia.org/wiki/Man_of_the_House_(1995_film),starring,Chevy Chase,http://en.wikipedia.org/wiki/Chevy_Chase,m,w
-41,Man of the House (1995 film),http://en.wikipedia.org/wiki/Man_of_the_House_(1995_film),starring,Jonathan Taylor Thomas,,m,w
+41,Man of the House (1995 film),http://en.wikipedia.org/wiki/Man_of_the_House_(1995_film),starring,Jonathan Taylor Thomas,https://en.wikipedia.org/wiki/Jonathan_Taylor_Thomas,m,w
 41,Man of the House (1995 film),http://en.wikipedia.org/wiki/Man_of_the_House_(1995_film),starring,Farrah Fawcett,http://en.wikipedia.org/wiki/Farrah_Fawcett,f,w
 41,Man of the House (1995 film),http://en.wikipedia.org/wiki/Man_of_the_House_(1995_film),starring,Tony Sampson,http://en.wikipedia.org/wiki/Tony_Sampson,m,w
 42,Dead Man Walking (film),http://en.wikipedia.org/wiki/Dead_Man_Walking_(film),director,Tim Robbins,http://en.wikipedia.org/wiki/Tim_Robbins,m,w
@@ -525,7 +525,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 46,First Knight,http://en.wikipedia.org/wiki/First_Knight,starring,Julia Ormond,http://en.wikipedia.org/wiki/Julia_Ormond,f,w
 47,Just Cause (film),http://en.wikipedia.org/wiki/Just_Cause_(film),director,Arne Glimcher,http://en.wikipedia.org/wiki/Arne_Glimcher,m,
 47,Just Cause (film),http://en.wikipedia.org/wiki/Just_Cause_(film),producer,Arne Glimcher,http://en.wikipedia.org/wiki/Arne_Glimcher,m,
-47,Just Cause (film),http://en.wikipedia.org/wiki/Just_Cause_(film),producer,Steve Perry,,m,w
+47,Just Cause (film),http://en.wikipedia.org/wiki/Just_Cause_(film),producer,Steve Perry,https://en.wikipedia.org/wiki/Steve_Perry,m,w
 47,Just Cause (film),http://en.wikipedia.org/wiki/Just_Cause_(film),producer,Lee Rich,http://en.wikipedia.org/wiki/Lee_Rich,m,w
 47,Just Cause (film),http://en.wikipedia.org/wiki/Just_Cause_(film),writer,Jeb Stuart (writer),http://en.wikipedia.org/wiki/Jeb_Stuart_(writer),m,w
 47,Just Cause (film),http://en.wikipedia.org/wiki/Just_Cause_(film),writer,Peter Stone,http://en.wikipedia.org/wiki/Peter_Stone,m,w
@@ -630,7 +630,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 55,Ransom (1996 film),http://en.wikipedia.org/wiki/Ransom_(1996_film),starring,Gary Sinise,http://en.wikipedia.org/wiki/Gary_Sinise,m,
 56,101 Dalmatians (1996 film),http://en.wikipedia.org/wiki/101_Dalmatians_(1996_film),director,Stephen Herek,http://en.wikipedia.org/wiki/Stephen_Herek,m,w
 56,101 Dalmatians (1996 film),http://en.wikipedia.org/wiki/101_Dalmatians_(1996_film),producer,John Hughes (filmmaker),http://en.wikipedia.org/wiki/John_Hughes_(filmmaker),m,w
-56,101 Dalmatians (1996 film),http://en.wikipedia.org/wiki/101_Dalmatians_(1996_film),producer,Ricardo Mestres,,m,h
+56,101 Dalmatians (1996 film),http://en.wikipedia.org/wiki/101_Dalmatians_(1996_film),producer,Ricardo Mestres,https://en.wikipedia.org/wiki/Ricardo_Mestre,m,h
 56,101 Dalmatians (1996 film),http://en.wikipedia.org/wiki/101_Dalmatians_(1996_film),screenplay,John Hughes,,m,w
 56,101 Dalmatians (1996 film),http://en.wikipedia.org/wiki/101_Dalmatians_(1996_film),starring,Glenn Close,http://en.wikipedia.org/wiki/Glenn_Close,m,w
 56,101 Dalmatians (1996 film),http://en.wikipedia.org/wiki/101_Dalmatians_(1996_film),starring,Jeff Daniels,http://en.wikipedia.org/wiki/Jeff_Daniels,m,w
@@ -642,12 +642,12 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),director,Michael Bay,http://en.wikipedia.org/wiki/Michael_Bay,m,w
 57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),producer,Don Simpson,http://en.wikipedia.org/wiki/Don_Simpson,m,w
 57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),producer,Jerry Bruckheimer,http://en.wikipedia.org/wiki/Jerry_Bruckheimer,m,
-57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),screenplay,David Weisberg,,m,w
-57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),screenplay,Douglas S. Cook,,m,w
+57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),screenplay,David Weisberg,https://en.wikipedia.org/wiki/David_Weisberg,m,w
+57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),screenplay,Douglas S. Cook,https://en.wikipedia.org/wiki/Douglas_S._Cook,m,w
 57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),screenplay,Mark Rosner,,m,w
 57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),screenplay,Quentin Tarantino,http://en.wikipedia.org/wiki/Quentin_Tarantino,m,w
-57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),story,David Weisberg,,m,w
-57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),story,Douglas S. Cook,,m,w
+57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),story,David Weisberg,https://en.wikipedia.org/wiki/David_Weisberg,m,w
+57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),story,Douglas S. Cook,https://en.wikipedia.org/wiki/Douglas_S._Cook,m,w
 57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),starring,Sean Connery,http://en.wikipedia.org/wiki/Sean_Connery,m,w
 57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),starring,Nicolas Cage,http://en.wikipedia.org/wiki/Nicolas_Cage,m,b
 57,The Rock (film),http://en.wikipedia.org/wiki/The_Rock_(film),starring,Ed Harris,http://en.wikipedia.org/wiki/Ed_Harris,m,w
@@ -675,7 +675,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 60,A Time to Kill (1996 film),http://en.wikipedia.org/wiki/A_Time_to_Kill_(1996_film),screenplay,Akiva Goldsman,http://en.wikipedia.org/wiki/Akiva_Goldsman,m,
 60,A Time to Kill (1996 film),http://en.wikipedia.org/wiki/A_Time_to_Kill_(1996_film),producer,Arnon Milchan,http://en.wikipedia.org/wiki/Arnon_Milchan,m,
 60,A Time to Kill (1996 film),http://en.wikipedia.org/wiki/A_Time_to_Kill_(1996_film),producer,John Grisham,http://en.wikipedia.org/wiki/John_Grisham,m,w
-60,A Time to Kill (1996 film),http://en.wikipedia.org/wiki/A_Time_to_Kill_(1996_film),producer,Michael Nathanson,,m,w
+60,A Time to Kill (1996 film),http://en.wikipedia.org/wiki/A_Time_to_Kill_(1996_film),producer,Michael Nathanson,https://en.wikipedia.org/wiki/Michael_Nathanson,m,w
 60,A Time to Kill (1996 film),http://en.wikipedia.org/wiki/A_Time_to_Kill_(1996_film),producer,Hunt Lowry,,m,w
 60,A Time to Kill (1996 film),http://en.wikipedia.org/wiki/A_Time_to_Kill_(1996_film),starring,Matthew McConaughey,http://en.wikipedia.org/wiki/Matthew_McConaughey,m,w
 60,A Time to Kill (1996 film),http://en.wikipedia.org/wiki/A_Time_to_Kill_(1996_film),starring,Sandra Bullock,http://en.wikipedia.org/wiki/Sandra_Bullock,f,w
@@ -751,7 +751,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 66,Michael (1996 film),http://en.wikipedia.org/wiki/Michael_(1996_film),producer,Nora Ephron,http://en.wikipedia.org/wiki/Nora_Ephron,f,b
 66,Michael (1996 film),http://en.wikipedia.org/wiki/Michael_(1996_film),producer,James Jacks,http://en.wikipedia.org/wiki/James_Jacks,m,w
 66,Michael (1996 film),http://en.wikipedia.org/wiki/Michael_(1996_film),producer,Delia Ephron,http://en.wikipedia.org/wiki/Delia_Ephron,f,b
-66,Michael (1996 film),http://en.wikipedia.org/wiki/Michael_(1996_film),story,Jim Quinlan,,m,w
+66,Michael (1996 film),http://en.wikipedia.org/wiki/Michael_(1996_film),story,Jim Quinlan,https://en.wikipedia.org/wiki/Jim_Quinlan,m,w
 66,Michael (1996 film),http://en.wikipedia.org/wiki/Michael_(1996_film),screenplay,Nora Ephron,http://en.wikipedia.org/wiki/Nora_Ephron,f,b
 66,Michael (1996 film),http://en.wikipedia.org/wiki/Michael_(1996_film),screenplay,Delia Ephron,http://en.wikipedia.org/wiki/Delia_Ephron,f,b
 66,Michael (1996 film),http://en.wikipedia.org/wiki/Michael_(1996_film),screenplay,Peter Dexter,http://en.wikipedia.org/wiki/Peter_Dexter,m,w
@@ -826,7 +826,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 72,Jingle All the Way,http://en.wikipedia.org/wiki/Jingle_All_the_Way,starring,James Belushi,http://en.wikipedia.org/wiki/James_Belushi,m,
 72,Jingle All the Way,http://en.wikipedia.org/wiki/Jingle_All_the_Way,producer,Chris Columbus (filmmaker),http://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker),m,w
 72,Jingle All the Way,http://en.wikipedia.org/wiki/Jingle_All_the_Way,producer,Michael Barnathan,http://en.wikipedia.org/wiki/Michael_Barnathan,m,
-72,Jingle All the Way,http://en.wikipedia.org/wiki/Jingle_All_the_Way,producer,Mark Radcliffe,,m,w
+72,Jingle All the Way,http://en.wikipedia.org/wiki/Jingle_All_the_Way,producer,Mark Radcliffe,https://en.wikipedia.org/wiki/Mark_Radcliffe,m,w
 72,Jingle All the Way,http://en.wikipedia.org/wiki/Jingle_All_the_Way,director,Brian Levant,http://en.wikipedia.org/wiki/Brian_Levant,m,w
 72,Jingle All the Way,http://en.wikipedia.org/wiki/Jingle_All_the_Way,writer,Randy Kornfield,,m,w
 72,Jingle All the Way,http://en.wikipedia.org/wiki/Jingle_All_the_Way,writer,Chris Columbus,,m,w
@@ -874,7 +874,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 77,Primal Fear (film),http://en.wikipedia.org/wiki/Primal_Fear_(film),director,Gregory Hoblit,http://en.wikipedia.org/wiki/Gregory_Hoblit,m,w
 77,Primal Fear (film),http://en.wikipedia.org/wiki/Primal_Fear_(film),producer,Gary Lucchesi,http://en.wikipedia.org/wiki/Gary_Lucchesi,m,w
 77,Primal Fear (film),http://en.wikipedia.org/wiki/Primal_Fear_(film),producer,"Howard W. Koch, Jr.","http://en.wikipedia.org/wiki/Howard_W._Koch,_Jr.",m,
-77,Primal Fear (film),http://en.wikipedia.org/wiki/Primal_Fear_(film),screenplay,Steve Shagan,,m,
+77,Primal Fear (film),http://en.wikipedia.org/wiki/Primal_Fear_(film),screenplay,Steve Shagan,https://en.wikipedia.org/wiki/Steve_Shagan,m,
 77,Primal Fear (film),http://en.wikipedia.org/wiki/Primal_Fear_(film),screenplay,Ann Biderman,http://en.wikipedia.org/wiki/Ann_Biderman,f,w
 77,Primal Fear (film),http://en.wikipedia.org/wiki/Primal_Fear_(film),starring,Richard Gere,http://en.wikipedia.org/wiki/Richard_Gere,m,w
 77,Primal Fear (film),http://en.wikipedia.org/wiki/Primal_Fear_(film),starring,Laura Linney,http://en.wikipedia.org/wiki/Laura_Linney,f,w
@@ -1157,7 +1157,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 103,The Lost World: Jurassic Park,http://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park,screenplay,David Koepp,http://en.wikipedia.org/wiki/David_Koepp,m,w
 104,Liar Liar,http://en.wikipedia.org/wiki/Liar_Liar,director,Tom Shadyac,http://en.wikipedia.org/wiki/Tom_Shadyac,m,
 104,Liar Liar,http://en.wikipedia.org/wiki/Liar_Liar,producer,Brian Grazer,http://en.wikipedia.org/wiki/Brian_Grazer,m,w
-104,Liar Liar,http://en.wikipedia.org/wiki/Liar_Liar,writer,Paul Guay,,m,w
+104,Liar Liar,http://en.wikipedia.org/wiki/Liar_Liar,writer,Paul Guay,https://en.wikipedia.org/wiki/Paul_Guay,m,w
 104,Liar Liar,http://en.wikipedia.org/wiki/Liar_Liar,writer,Stephen Mazur,,m,w
 104,Liar Liar,http://en.wikipedia.org/wiki/Liar_Liar,starring,Jim Carrey,http://en.wikipedia.org/wiki/Jim_Carrey,m,w
 104,Liar Liar,http://en.wikipedia.org/wiki/Liar_Liar,starring,Maura Tierney,http://en.wikipedia.org/wiki/Maura_Tierney,f,w
@@ -1312,7 +1312,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 117,Hercules (1997 film),http://en.wikipedia.org/wiki/Hercules_(1997_film),starring,Rip Torn,http://en.wikipedia.org/wiki/Rip_Torn,m,w
 118,Flubber (film),http://en.wikipedia.org/wiki/Flubber_(film),director,Les Mayfield,http://en.wikipedia.org/wiki/Les_Mayfield,m,w
 118,Flubber (film),http://en.wikipedia.org/wiki/Flubber_(film),producer,John Hughes (filmmaker),http://en.wikipedia.org/wiki/John_Hughes_(filmmaker),m,w
-118,Flubber (film),http://en.wikipedia.org/wiki/Flubber_(film),producer,Ricardo Mestres,,m,h
+118,Flubber (film),http://en.wikipedia.org/wiki/Flubber_(film),producer,Ricardo Mestres,https://en.wikipedia.org/wiki/Ricardo_Mestre,m,h
 118,Flubber (film),http://en.wikipedia.org/wiki/Flubber_(film),screenplay,Bill Walsh (producer),http://en.wikipedia.org/wiki/Bill_Walsh_(producer),m,w
 118,Flubber (film),http://en.wikipedia.org/wiki/Flubber_(film),screenplay,Karey Kirkpatrick,http://en.wikipedia.org/wiki/Karey_Kirkpatrick,f,w
 118,Flubber (film),http://en.wikipedia.org/wiki/Flubber_(film),screenplay,John Hughes,,m,w
@@ -1474,7 +1474,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 132,Anastasia (1997 film),http://en.wikipedia.org/wiki/Anastasia_(1997_film),producer,Don Bluth,http://en.wikipedia.org/wiki/Don_Bluth,m,w
 132,Anastasia (1997 film),http://en.wikipedia.org/wiki/Anastasia_(1997_film),producer,Gary Goldman,http://en.wikipedia.org/wiki/Gary_Goldman,m,w
 132,Anastasia (1997 film),http://en.wikipedia.org/wiki/Anastasia_(1997_film),writer,Susan Gauthier,,f,w
-132,Anastasia (1997 film),http://en.wikipedia.org/wiki/Anastasia_(1997_film),writer,Bruce Graham,,m,w
+132,Anastasia (1997 film),http://en.wikipedia.org/wiki/Anastasia_(1997_film),writer,Bruce Graham,https://en.wikipedia.org/wiki/Bruce_Graham,m,w
 132,Anastasia (1997 film),http://en.wikipedia.org/wiki/Anastasia_(1997_film),writer,Bob Tzudiker,,m,
 132,Anastasia (1997 film),http://en.wikipedia.org/wiki/Anastasia_(1997_film),writer,Noni White,,f,w
 132,Anastasia (1997 film),http://en.wikipedia.org/wiki/Anastasia_(1997_film),writer,Eric Tuchman,,m,w
@@ -1556,7 +1556,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 139,Volcano (1997 film),http://en.wikipedia.org/wiki/Volcano_(1997_film),producer,Andrew Z. Davis,,m,w
 139,Volcano (1997 film),http://en.wikipedia.org/wiki/Volcano_(1997_film),producer,Neal H. Moritz,http://en.wikipedia.org/wiki/Neal_H._Moritz,m,w
 139,Volcano (1997 film),http://en.wikipedia.org/wiki/Volcano_(1997_film),producer,Lauren Shuler Donner,http://en.wikipedia.org/wiki/Lauren_Shuler_Donner,f,w
-139,Volcano (1997 film),http://en.wikipedia.org/wiki/Volcano_(1997_film),writer,Jerome Armstrong,,m,w
+139,Volcano (1997 film),http://en.wikipedia.org/wiki/Volcano_(1997_film),writer,Jerome Armstrong,https://en.wikipedia.org/wiki/Jerome_Armstrong,m,w
 139,Volcano (1997 film),http://en.wikipedia.org/wiki/Volcano_(1997_film),writer,Billy Ray (screenwriter),http://en.wikipedia.org/wiki/Billy_Ray_(screenwriter),m,w
 139,Volcano (1997 film),http://en.wikipedia.org/wiki/Volcano_(1997_film),starring,Tommy Lee Jones,http://en.wikipedia.org/wiki/Tommy_Lee_Jones,m,w
 139,Volcano (1997 film),http://en.wikipedia.org/wiki/Volcano_(1997_film),starring,Anne Heche,http://en.wikipedia.org/wiki/Anne_Heche,f,
@@ -1566,8 +1566,8 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 139,Volcano (1997 film),http://en.wikipedia.org/wiki/Volcano_(1997_film),starring,Keith David,http://en.wikipedia.org/wiki/Keith_David,m,w
 140,Speed 2: Cruise Control,http://en.wikipedia.org/wiki/Speed_2:_Cruise_Control,director,Jan de Bont,http://en.wikipedia.org/wiki/Jan_de_Bont,m,w
 140,Speed 2: Cruise Control,http://en.wikipedia.org/wiki/Speed_2:_Cruise_Control,producer,Jan de Bont,http://en.wikipedia.org/wiki/Jan_de_Bont,m,w
-140,Speed 2: Cruise Control,http://en.wikipedia.org/wiki/Speed_2:_Cruise_Control,producer,Steve Perry,,m,w
-140,Speed 2: Cruise Control,http://en.wikipedia.org/wiki/Speed_2:_Cruise_Control,producer,Michael Peyser,,m,w
+140,Speed 2: Cruise Control,http://en.wikipedia.org/wiki/Speed_2:_Cruise_Control,producer,Steve Perry,https://en.wikipedia.org/wiki/Steve_Perry,m,w
+140,Speed 2: Cruise Control,http://en.wikipedia.org/wiki/Speed_2:_Cruise_Control,producer,Michael Peyser,https://en.wikipedia.org/wiki/Michael_Peyser,m,w
 140,Speed 2: Cruise Control,http://en.wikipedia.org/wiki/Speed_2:_Cruise_Control,screenplay,Randall McCormick,,m,w
 140,Speed 2: Cruise Control,http://en.wikipedia.org/wiki/Speed_2:_Cruise_Control,screenplay,Jeff Nathanson,http://en.wikipedia.org/wiki/Jeff_Nathanson,m,w
 140,Speed 2: Cruise Control,http://en.wikipedia.org/wiki/Speed_2:_Cruise_Control,story,Jan de Bont,http://en.wikipedia.org/wiki/Jan_de_Bont,m,w
@@ -1746,7 +1746,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 154,A Bug's Life,http://en.wikipedia.org/wiki/A_Bug's_Life,producer,Kevin Reher,,m,w
 154,A Bug's Life,http://en.wikipedia.org/wiki/A_Bug's_Life,screenplay,Andrew Stanton,http://en.wikipedia.org/wiki/Andrew_Stanton,m,w
 154,A Bug's Life,http://en.wikipedia.org/wiki/A_Bug's_Life,screenplay,Donald McEnery,,m,w
-154,A Bug's Life,http://en.wikipedia.org/wiki/A_Bug's_Life,screenplay,Bob Shaw,,m,w
+154,A Bug's Life,http://en.wikipedia.org/wiki/A_Bug's_Life,screenplay,Bob Shaw,https://en.wikipedia.org/wiki/Bob_Shaw,m,w
 154,A Bug's Life,http://en.wikipedia.org/wiki/A_Bug's_Life,story,John Lasseter,http://en.wikipedia.org/wiki/John_Lasseter,m,w
 154,A Bug's Life,http://en.wikipedia.org/wiki/A_Bug's_Life,story,Andrew Stanton,http://en.wikipedia.org/wiki/Andrew_Stanton,m,w
 154,A Bug's Life,http://en.wikipedia.org/wiki/A_Bug's_Life,story,Joe Ranft,http://en.wikipedia.org/wiki/Joe_Ranft,m,w
@@ -1956,7 +1956,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 168,Shakespeare in Love,http://en.wikipedia.org/wiki/Shakespeare_in_Love,starring,Judi Dench,http://en.wikipedia.org/wiki/Judi_Dench,f,w
 169,The Mask of Zorro,http://en.wikipedia.org/wiki/The_Mask_of_Zorro,director,Martin Campbell,http://en.wikipedia.org/wiki/Martin_Campbell,m,w
 169,The Mask of Zorro,http://en.wikipedia.org/wiki/The_Mask_of_Zorro,producer,Doug Claybourne,,m,b
-169,The Mask of Zorro,http://en.wikipedia.org/wiki/The_Mask_of_Zorro,producer,David Foster,,m,w
+169,The Mask of Zorro,http://en.wikipedia.org/wiki/The_Mask_of_Zorro,producer,David Foster,https://en.wikipedia.org/wiki/David_Foster,m,w
 169,The Mask of Zorro,http://en.wikipedia.org/wiki/The_Mask_of_Zorro,screenplay,John Eskow,http://en.wikipedia.org/wiki/John_Eskow,m,w
 169,The Mask of Zorro,http://en.wikipedia.org/wiki/The_Mask_of_Zorro,screenplay,Ted Elliott (screenwriter),http://en.wikipedia.org/wiki/Ted_Elliott_(screenwriter),m,w
 169,The Mask of Zorro,http://en.wikipedia.org/wiki/The_Mask_of_Zorro,screenplay,Terry Rossio,http://en.wikipedia.org/wiki/Terry_Rossio,m,w
@@ -1972,7 +1972,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 170,Stepmom (film),http://en.wikipedia.org/wiki/Stepmom_(film),producer,Chris Columbus (filmmaker),http://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker),m,w
 170,Stepmom (film),http://en.wikipedia.org/wiki/Stepmom_(film),producer,Wendy Finerman,http://en.wikipedia.org/wiki/Wendy_Finerman,f,
 170,Stepmom (film),http://en.wikipedia.org/wiki/Stepmom_(film),producer,Michael Barnathan,http://en.wikipedia.org/wiki/Michael_Barnathan,m,
-170,Stepmom (film),http://en.wikipedia.org/wiki/Stepmom_(film),producer,Mark Radcliffe,,m,w
+170,Stepmom (film),http://en.wikipedia.org/wiki/Stepmom_(film),producer,Mark Radcliffe,https://en.wikipedia.org/wiki/Mark_Radcliffe,m,w
 170,Stepmom (film),http://en.wikipedia.org/wiki/Stepmom_(film),producer,Ronald Bass,http://en.wikipedia.org/wiki/Ronald_Bass,m,w
 170,Stepmom (film),http://en.wikipedia.org/wiki/Stepmom_(film),producer,Julia Roberts,http://en.wikipedia.org/wiki/Julia_Roberts,f,w
 170,Stepmom (film),http://en.wikipedia.org/wiki/Stepmom_(film),producer,Susan Sarandon,http://en.wikipedia.org/wiki/Susan_Sarandon,f,
@@ -2081,8 +2081,8 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 178,Star Trek: Insurrection,http://en.wikipedia.org/wiki/Star_Trek:_Insurrection,screenplay,Michael Piller,http://en.wikipedia.org/wiki/Michael_Piller,m,w
 179,Blade (film),http://en.wikipedia.org/wiki/Blade_(film),producer,Peter Frankfurt,,m,w
 179,Blade (film),http://en.wikipedia.org/wiki/Blade_(film),producer,Wesley Snipes,http://en.wikipedia.org/wiki/Wesley_Snipes,m,w
-179,Blade (film),http://en.wikipedia.org/wiki/Blade_(film),producer,Robert Engelman,,m,w
-179,Blade (film),http://en.wikipedia.org/wiki/Blade_(film),producer,Andrew J. Horne,,m,w
+179,Blade (film),http://en.wikipedia.org/wiki/Blade_(film),producer,Robert Engelman,https://en.wikipedia.org/wiki/Robert_Engelman,m,w
+179,Blade (film),http://en.wikipedia.org/wiki/Blade_(film),producer,Andrew J. Horne,https://en.wikipedia.org/wiki/Andrew_Horne,m,w
 179,Blade (film),http://en.wikipedia.org/wiki/Blade_(film),producer,Avi Arad,http://en.wikipedia.org/wiki/Avi_Arad,m,w
 179,Blade (film),http://en.wikipedia.org/wiki/Blade_(film),starring,Wesley Snipes,http://en.wikipedia.org/wiki/Wesley_Snipes,m,w
 179,Blade (film),http://en.wikipedia.org/wiki/Blade_(film),starring,Stephen Dorff,http://en.wikipedia.org/wiki/Stephen_Dorff,m,w
@@ -2356,7 +2356,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 203,Toy Story 2,http://en.wikipedia.org/wiki/Toy_Story_2,screenplay,Andrew Stanton,http://en.wikipedia.org/wiki/Andrew_Stanton,m,w
 203,Toy Story 2,http://en.wikipedia.org/wiki/Toy_Story_2,screenplay,Rita Hsiao,,f,a
 203,Toy Story 2,http://en.wikipedia.org/wiki/Toy_Story_2,screenplay,Doug Chamberlin,,m,w
-203,Toy Story 2,http://en.wikipedia.org/wiki/Toy_Story_2,screenplay,Chris Webb,,m,w
+203,Toy Story 2,http://en.wikipedia.org/wiki/Toy_Story_2,screenplay,Chris Webb,https://en.wikipedia.org/wiki/Chris_Webb,m,w
 203,Toy Story 2,http://en.wikipedia.org/wiki/Toy_Story_2,story,John Lasseter,http://en.wikipedia.org/wiki/John_Lasseter,m,w
 203,Toy Story 2,http://en.wikipedia.org/wiki/Toy_Story_2,story,Pete Docter,http://en.wikipedia.org/wiki/Pete_Docter,m,w
 203,Toy Story 2,http://en.wikipedia.org/wiki/Toy_Story_2,story,Ash Brannon,http://en.wikipedia.org/wiki/Ash_Brannon,m,w
@@ -2498,7 +2498,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 214,The World Is Not Enough,http://en.wikipedia.org/wiki/The_World_Is_Not_Enough,producer,Barbara Broccoli,http://en.wikipedia.org/wiki/Barbara_Broccoli,f,w
 214,The World Is Not Enough,http://en.wikipedia.org/wiki/The_World_Is_Not_Enough,screenplay,Neal Purvis and Robert Wade,http://en.wikipedia.org/wiki/Neal_Purvis_and_Robert_Wade,m,w
 214,The World Is Not Enough,http://en.wikipedia.org/wiki/The_World_Is_Not_Enough,screenplay,Bruce Feirstein,http://en.wikipedia.org/wiki/Bruce_Feirstein,m,
-214,The World Is Not Enough,http://en.wikipedia.org/wiki/The_World_Is_Not_Enough,story,Neal Purvis,,m,w
+214,The World Is Not Enough,http://en.wikipedia.org/wiki/The_World_Is_Not_Enough,story,Neal Purvis,https://en.wikipedia.org/wiki/Neal_Purvis_and_Robert_Wade,m,w
 214,The World Is Not Enough,http://en.wikipedia.org/wiki/The_World_Is_Not_Enough,story,Robert Wade,,m,w
 214,The World Is Not Enough,http://en.wikipedia.org/wiki/The_World_Is_Not_Enough,starring,Pierce Brosnan,http://en.wikipedia.org/wiki/Pierce_Brosnan,m,w
 214,The World Is Not Enough,http://en.wikipedia.org/wiki/The_World_Is_Not_Enough,starring,Sophie Marceau,http://en.wikipedia.org/wiki/Sophie_Marceau,f,w
@@ -2508,7 +2508,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 214,The World Is Not Enough,http://en.wikipedia.org/wiki/The_World_Is_Not_Enough,starring,Judi Dench,http://en.wikipedia.org/wiki/Judi_Dench,f,w
 215,Double Jeopardy (film),http://en.wikipedia.org/wiki/Double_Jeopardy_(film),director,Bruce Beresford,http://en.wikipedia.org/wiki/Bruce_Beresford,m,w
 215,Double Jeopardy (film),http://en.wikipedia.org/wiki/Double_Jeopardy_(film),producer,Leonard Goldberg,http://en.wikipedia.org/wiki/Leonard_Goldberg,m,w
-215,Double Jeopardy (film),http://en.wikipedia.org/wiki/Double_Jeopardy_(film),writer,David Weisberg,,m,w
+215,Double Jeopardy (film),http://en.wikipedia.org/wiki/Double_Jeopardy_(film),writer,David Weisberg,https://en.wikipedia.org/wiki/David_Weisberg,m,w
 215,Double Jeopardy (film),http://en.wikipedia.org/wiki/Double_Jeopardy_(film),writer,Douglas Cook,,m,w
 215,Double Jeopardy (film),http://en.wikipedia.org/wiki/Double_Jeopardy_(film),starring,Tommy Lee Jones,http://en.wikipedia.org/wiki/Tommy_Lee_Jones,m,w
 215,Double Jeopardy (film),http://en.wikipedia.org/wiki/Double_Jeopardy_(film),starring,Ashley Judd,http://en.wikipedia.org/wiki/Ashley_Judd,f,w
@@ -2621,7 +2621,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,producer,Choji Yoshikawa,,,a
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,producer,Tomoyuki Igarashi,,m,a
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,producer,Takemoto Mori,,,a
-225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,writer,Takeshi Shudō,,m,
+225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,writer,Takeshi Shudō,https://en.wikipedia.org/wiki/Takeshi_Shudo,m,
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,starring,Rica Matsumoto,http://en.wikipedia.org/wiki/Rica_Matsumoto,f,a
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,starring,Ikue Ōtani,http://en.wikipedia.org/wiki/Ikue_Ōtani,,
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,starring,Mayumi Iizuka,http://en.wikipedia.org/wiki/Mayumi_Iizuka,f,a
@@ -2629,7 +2629,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,starring,Satomi Kōrogi,http://en.wikipedia.org/wiki/Satomi_Kōrogi,f,
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,starring,Megumi Hayashibara,http://en.wikipedia.org/wiki/Megumi_Hayashibara,f,
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,starring,Shin-ichiro Miki,http://en.wikipedia.org/wiki/Shin-ichiro_Miki,,a
-225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,starring,Inuko Inuyama,,,
+225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,starring,Inuko Inuyama,https://en.wikipedia.org/wiki/Inuko_Inuyama,,
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,starring,Masachika Ichimura,http://en.wikipedia.org/wiki/Masachika_Ichimura,,a
 225,Pokémon: The First Movie,http://en.wikipedia.org/wiki/Pokémon:_The_First_Movie,starring,Kōichi Yamadera,http://en.wikipedia.org/wiki/Kōichi_Yamadera,,
 226,Payback (1999 film),http://en.wikipedia.org/wiki/Payback_(1999_film),director,Brian Helgeland,http://en.wikipedia.org/wiki/Brian_Helgeland,m,w
@@ -2713,7 +2713,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 231,The Thomas Crown Affair (1999 film),http://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1999_film),producer,Beau St. Clair,,m,w
 231,The Thomas Crown Affair (1999 film),http://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1999_film),screenplay,Leslie Dixon,http://en.wikipedia.org/wiki/Leslie_Dixon,f,w
 231,The Thomas Crown Affair (1999 film),http://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1999_film),screenplay,Kurt Wimmer,http://en.wikipedia.org/wiki/Kurt_Wimmer,m,w
-231,The Thomas Crown Affair (1999 film),http://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1999_film),story,Alan Trustman,,m,
+231,The Thomas Crown Affair (1999 film),http://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1999_film),story,Alan Trustman,https://en.wikipedia.org/wiki/Alan_Trustman,m,
 231,The Thomas Crown Affair (1999 film),http://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1999_film),starring,Pierce Brosnan,http://en.wikipedia.org/wiki/Pierce_Brosnan,m,w
 231,The Thomas Crown Affair (1999 film),http://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1999_film),starring,Rene Russo,http://en.wikipedia.org/wiki/Rene_Russo,m,w
 231,The Thomas Crown Affair (1999 film),http://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1999_film),starring,Denis Leary,http://en.wikipedia.org/wiki/Denis_Leary,m,w
@@ -2774,7 +2774,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 237,Life (1999 film),http://en.wikipedia.org/wiki/Life_(1999_film),producer,Brian Grazer,http://en.wikipedia.org/wiki/Brian_Grazer,m,w
 237,Life (1999 film),http://en.wikipedia.org/wiki/Life_(1999_film),producer,Eddie Murphy,http://en.wikipedia.org/wiki/Eddie_Murphy,m,w
 237,Life (1999 film),http://en.wikipedia.org/wiki/Life_(1999_film),writer,Robert Ramsey,,m,w
-237,Life (1999 film),http://en.wikipedia.org/wiki/Life_(1999_film),writer,Matthew Stone,,m,w
+237,Life (1999 film),http://en.wikipedia.org/wiki/Life_(1999_film),writer,Matthew Stone,https://en.wikipedia.org/wiki/Matthew_Stone,m,w
 237,Life (1999 film),http://en.wikipedia.org/wiki/Life_(1999_film),story,Eddie Murphy,http://en.wikipedia.org/wiki/Eddie_Murphy,m,w
 237,Life (1999 film),http://en.wikipedia.org/wiki/Life_(1999_film),starring,Eddie Murphy,http://en.wikipedia.org/wiki/Eddie_Murphy,m,w
 237,Life (1999 film),http://en.wikipedia.org/wiki/Life_(1999_film),starring,Martin Lawrence,http://en.wikipedia.org/wiki/Martin_Lawrence,m,w
@@ -2801,7 +2801,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 238,She's All That,http://en.wikipedia.org/wiki/She's_All_That,writer,M. Night Shyamalan,http://en.wikipedia.org/wiki/M._Night_Shyamalan,,w
 239,Three Kings (1999 film),http://en.wikipedia.org/wiki/Three_Kings_(1999_film),director,David O. Russell,http://en.wikipedia.org/wiki/David_O._Russell,m,w
 239,Three Kings (1999 film),http://en.wikipedia.org/wiki/Three_Kings_(1999_film),producer,Michael Hertzberg,http://en.wikipedia.org/wiki/Michael_Hertzberg,m,w
-239,Three Kings (1999 film),http://en.wikipedia.org/wiki/Three_Kings_(1999_film),producer,Edward McDonnell,,m,w
+239,Three Kings (1999 film),http://en.wikipedia.org/wiki/Three_Kings_(1999_film),producer,Edward McDonnell,https://en.wikipedia.org/wiki/Edward_Orrick_McDonnell,m,w
 239,Three Kings (1999 film),http://en.wikipedia.org/wiki/Three_Kings_(1999_film),producer,Charles Roven,http://en.wikipedia.org/wiki/Charles_Roven,m,
 239,Three Kings (1999 film),http://en.wikipedia.org/wiki/Three_Kings_(1999_film),producer,Paul Junger Witt,http://en.wikipedia.org/wiki/Paul_Junger_Witt,m,w
 239,Three Kings (1999 film),http://en.wikipedia.org/wiki/Three_Kings_(1999_film),screenplay,David O. Russell,http://en.wikipedia.org/wiki/David_O._Russell,m,w
@@ -2818,8 +2818,8 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 240,Bicentennial Man (film),http://en.wikipedia.org/wiki/Bicentennial_Man_(film),producer,Wolfgang Petersen,http://en.wikipedia.org/wiki/Wolfgang_Petersen,m,w
 240,Bicentennial Man (film),http://en.wikipedia.org/wiki/Bicentennial_Man_(film),producer,Gail Katz,http://en.wikipedia.org/wiki/Gail_Katz,f,w
 240,Bicentennial Man (film),http://en.wikipedia.org/wiki/Bicentennial_Man_(film),producer,Laurence Mark,http://en.wikipedia.org/wiki/Laurence_Mark,m,w
-240,Bicentennial Man (film),http://en.wikipedia.org/wiki/Bicentennial_Man_(film),producer,Neal Miller,,m,w
-240,Bicentennial Man (film),http://en.wikipedia.org/wiki/Bicentennial_Man_(film),producer,Mark Radcliffe,,m,w
+240,Bicentennial Man (film),http://en.wikipedia.org/wiki/Bicentennial_Man_(film),producer,Neal Miller,https://en.wikipedia.org/wiki/Neal_E._Miller,m,w
+240,Bicentennial Man (film),http://en.wikipedia.org/wiki/Bicentennial_Man_(film),producer,Mark Radcliffe,https://en.wikipedia.org/wiki/Mark_Radcliffe,m,w
 240,Bicentennial Man (film),http://en.wikipedia.org/wiki/Bicentennial_Man_(film),producer,Michael Barnathan,http://en.wikipedia.org/wiki/Michael_Barnathan,m,
 240,Bicentennial Man (film),http://en.wikipedia.org/wiki/Bicentennial_Man_(film),screenplay,Nicholas Kazan,http://en.wikipedia.org/wiki/Nicholas_Kazan,m,w
 240,Bicentennial Man (film),http://en.wikipedia.org/wiki/Bicentennial_Man_(film),starring,Robin Williams,http://en.wikipedia.org/wiki/Robin_Williams,f,w
@@ -2871,7 +2871,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 244,Varsity Blues (film),http://en.wikipedia.org/wiki/Varsity_Blues_(film),starring,Ron Lester,http://en.wikipedia.org/wiki/Ron_Lester,m,w
 244,Varsity Blues (film),http://en.wikipedia.org/wiki/Varsity_Blues_(film),starring,Scott Caan,http://en.wikipedia.org/wiki/Scott_Caan,m,w
 245,Forces of Nature,http://en.wikipedia.org/wiki/Forces_of_Nature,director,Bronwen Hughes,http://en.wikipedia.org/wiki/Bronwen_Hughes,f,w
-245,Forces of Nature,http://en.wikipedia.org/wiki/Forces_of_Nature,writer,Marc Lawrence,,m,w
+245,Forces of Nature,http://en.wikipedia.org/wiki/Forces_of_Nature,writer,Marc Lawrence,https://en.wikipedia.org/wiki/Marc_Lawrence,m,w
 245,Forces of Nature,http://en.wikipedia.org/wiki/Forces_of_Nature,producer,Susan Arnold,http://en.wikipedia.org/wiki/Susan_Arnold,f,w
 245,Forces of Nature,http://en.wikipedia.org/wiki/Forces_of_Nature,producer,Ian Bryce,http://en.wikipedia.org/wiki/Ian_Bryce,m,w
 245,Forces of Nature,http://en.wikipedia.org/wiki/Forces_of_Nature,producer,Donna Roth,,f,w
@@ -2993,7 +2993,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 255,What Women Want,http://en.wikipedia.org/wiki/What_Women_Want,director,Nancy Meyers,http://en.wikipedia.org/wiki/Nancy_Meyers,f,w
 256,The Perfect Storm (film),http://en.wikipedia.org/wiki/The_Perfect_Storm_(film),director,Wolfgang Petersen,http://en.wikipedia.org/wiki/Wolfgang_Petersen,m,w
 256,The Perfect Storm (film),http://en.wikipedia.org/wiki/The_Perfect_Storm_(film),producer,Paula Weinstein,http://en.wikipedia.org/wiki/Paula_Weinstein,f,w
-256,The Perfect Storm (film),http://en.wikipedia.org/wiki/The_Perfect_Storm_(film),producer,Wolfgang Peterson,,m,w
+256,The Perfect Storm (film),http://en.wikipedia.org/wiki/The_Perfect_Storm_(film),producer,Wolfgang Peterson,https://en.wikipedia.org/wiki/Wolfgang_Petersen,m,w
 256,The Perfect Storm (film),http://en.wikipedia.org/wiki/The_Perfect_Storm_(film),producer,Gail Katz,http://en.wikipedia.org/wiki/Gail_Katz,f,w
 256,The Perfect Storm (film),http://en.wikipedia.org/wiki/The_Perfect_Storm_(film),screenplay,William D. Wittliff,http://en.wikipedia.org/wiki/William_D._Wittliff,m,w
 256,The Perfect Storm (film),http://en.wikipedia.org/wiki/The_Perfect_Storm_(film),screenplay,Bo Goldman,http://en.wikipedia.org/wiki/Bo_Goldman,m,w
@@ -3038,7 +3038,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 259,Scary Movie,http://en.wikipedia.org/wiki/Scary_Movie,producer,Lee R. Mayes,,m,w
 259,Scary Movie,http://en.wikipedia.org/wiki/Scary_Movie,writer,Shawn Wayans,http://en.wikipedia.org/wiki/Shawn_Wayans,m,
 259,Scary Movie,http://en.wikipedia.org/wiki/Scary_Movie,writer,Marlon Wayans,http://en.wikipedia.org/wiki/Marlon_Wayans,m,
-259,Scary Movie,http://en.wikipedia.org/wiki/Scary_Movie,writer,Buddy Johnson,,m,w
+259,Scary Movie,http://en.wikipedia.org/wiki/Scary_Movie,writer,Buddy Johnson,https://en.wikipedia.org/wiki/Buddy_Johnson,m,w
 259,Scary Movie,http://en.wikipedia.org/wiki/Scary_Movie,writer,Phil Beauman,,m,w
 259,Scary Movie,http://en.wikipedia.org/wiki/Scary_Movie,writer,Jason Friedberg and Aaron Seltzer,http://en.wikipedia.org/wiki/Jason_Friedberg_and_Aaron_Seltzer,m,w
 259,Scary Movie,http://en.wikipedia.org/wiki/Scary_Movie,starring,Anna Faris,http://en.wikipedia.org/wiki/Anna_Faris,f,w
@@ -3066,7 +3066,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 261,Dinosaur (film),http://en.wikipedia.org/wiki/Dinosaur_(film),director,Eric Leighton,,m,w
 261,Dinosaur (film),http://en.wikipedia.org/wiki/Dinosaur_(film),screenplay,John Harrison (filmmaker),http://en.wikipedia.org/wiki/John_Harrison_(filmmaker),m,w
 261,Dinosaur (film),http://en.wikipedia.org/wiki/Dinosaur_(film),screenplay,Robert Nelson Jacobs,http://en.wikipedia.org/wiki/Robert_Nelson_Jacobs,m,w
-261,Dinosaur (film),http://en.wikipedia.org/wiki/Dinosaur_(film),story,John Harrison,,m,w
+261,Dinosaur (film),http://en.wikipedia.org/wiki/Dinosaur_(film),story,John Harrison,https://en.wikipedia.org/wiki/John_Harrison,m,w
 261,Dinosaur (film),http://en.wikipedia.org/wiki/Dinosaur_(film),story,Robert Nelson Jacobs,http://en.wikipedia.org/wiki/Robert_Nelson_Jacobs,m,w
 261,Dinosaur (film),http://en.wikipedia.org/wiki/Dinosaur_(film),story,Thom Enriquez,,m,h
 261,Dinosaur (film),http://en.wikipedia.org/wiki/Dinosaur_(film),story,Ralph Zondag,http://en.wikipedia.org/wiki/Ralph_Zondag,m,
@@ -3230,12 +3230,12 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 273,Unbreakable (film),http://en.wikipedia.org/wiki/Unbreakable_(film),starring,Samuel L. Jackson,http://en.wikipedia.org/wiki/Samuel_L._Jackson,m,b
 273,Unbreakable (film),http://en.wikipedia.org/wiki/Unbreakable_(film),starring,Robin Wright,http://en.wikipedia.org/wiki/Robin_Wright,f,w
 273,Unbreakable (film),http://en.wikipedia.org/wiki/Unbreakable_(film),starring,Spencer Treat Clark,http://en.wikipedia.org/wiki/Spencer_Treat_Clark,m,w
-274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",producer,Peter Farrelly,,m,w
-274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",producer,Bobby Farrelly,,m,w
+274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",producer,Peter Farrelly,https://en.wikipedia.org/wiki/Peter_Farrelly,m,w
+274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",producer,Bobby Farrelly,https://en.wikipedia.org/wiki/Bobby_Farrelly,m,w
 274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",producer,Charles B. Wessler,http://en.wikipedia.org/wiki/Charles_B._Wessler,m,w
 274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",producer,Bradley Thomas,,m,w
-274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",writer,Peter Farrelly,,m,w
-274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",writer,Bobby Farrelly,,m,w
+274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",writer,Peter Farrelly,https://en.wikipedia.org/wiki/Peter_Farrelly,m,w
+274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",writer,Bobby Farrelly,https://en.wikipedia.org/wiki/Bobby_Farrelly,m,w
 274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",writer,Mike Cerrone,http://en.wikipedia.org/wiki/Mike_Cerrone,m,w
 274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",starring,Jim Carrey,http://en.wikipedia.org/wiki/Jim_Carrey,m,w
 274,"Me, Myself & Irene","http://en.wikipedia.org/wiki/Me,_Myself_&_Irene",starring,Renée Zellweger,http://en.wikipedia.org/wiki/Renée_Zellweger,,w
@@ -3247,7 +3247,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 275,Space Cowboys,http://en.wikipedia.org/wiki/Space_Cowboys,producer,Clint Eastwood,http://en.wikipedia.org/wiki/Clint_Eastwood,m,w
 275,Space Cowboys,http://en.wikipedia.org/wiki/Space_Cowboys,producer,Andrew Lazar,http://en.wikipedia.org/wiki/Andrew_Lazar,m,w
 275,Space Cowboys,http://en.wikipedia.org/wiki/Space_Cowboys,writer,Ken Kaufman,,m,w
-275,Space Cowboys,http://en.wikipedia.org/wiki/Space_Cowboys,writer,Howard Klausner,,m,w
+275,Space Cowboys,http://en.wikipedia.org/wiki/Space_Cowboys,writer,Howard Klausner,https://en.wikipedia.org/wiki/Howard_Klausner,m,w
 275,Space Cowboys,http://en.wikipedia.org/wiki/Space_Cowboys,starring,Clint Eastwood,http://en.wikipedia.org/wiki/Clint_Eastwood,m,w
 275,Space Cowboys,http://en.wikipedia.org/wiki/Space_Cowboys,starring,Tommy Lee Jones,http://en.wikipedia.org/wiki/Tommy_Lee_Jones,m,w
 275,Space Cowboys,http://en.wikipedia.org/wiki/Space_Cowboys,starring,Donald Sutherland,http://en.wikipedia.org/wiki/Donald_Sutherland,m,w
@@ -3363,7 +3363,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 285,Vertical Limit,http://en.wikipedia.org/wiki/Vertical_Limit,producer,Martin Campbell,http://en.wikipedia.org/wiki/Martin_Campbell,m,w
 285,Vertical Limit,http://en.wikipedia.org/wiki/Vertical_Limit,producer,Robert King (writer),http://en.wikipedia.org/wiki/Robert_King_(writer),m,w
 285,Vertical Limit,http://en.wikipedia.org/wiki/Vertical_Limit,producer,Marcia Nasatir,,f,
-285,Vertical Limit,http://en.wikipedia.org/wiki/Vertical_Limit,producer,Lloyd Phillips,,m,w
+285,Vertical Limit,http://en.wikipedia.org/wiki/Vertical_Limit,producer,Lloyd Phillips,https://en.wikipedia.org/wiki/Lloyd_Phillips,m,w
 285,Vertical Limit,http://en.wikipedia.org/wiki/Vertical_Limit,screenplay,Robert King,,m,w
 285,Vertical Limit,http://en.wikipedia.org/wiki/Vertical_Limit,screenplay,Terry Hayes,http://en.wikipedia.org/wiki/Terry_Hayes,m,w
 285,Vertical Limit,http://en.wikipedia.org/wiki/Vertical_Limit,story,Robert King,,m,w
@@ -3420,7 +3420,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 289,Rules of Engagement (film),http://en.wikipedia.org/wiki/Rules_of_Engagement_(film),starring,Tommy Lee Jones,http://en.wikipedia.org/wiki/Tommy_Lee_Jones,m,w
 289,Rules of Engagement (film),http://en.wikipedia.org/wiki/Rules_of_Engagement_(film),starring,Samuel L. Jackson,http://en.wikipedia.org/wiki/Samuel_L._Jackson,m,b
 290,The Cell,http://en.wikipedia.org/wiki/The_Cell,director,Tarsem Singh,http://en.wikipedia.org/wiki/Tarsem_Singh,,a
-290,The Cell,http://en.wikipedia.org/wiki/The_Cell,producer,Julio Caro,,m,h
+290,The Cell,http://en.wikipedia.org/wiki/The_Cell,producer,Julio Caro,https://en.wikipedia.org/wiki/Julio_de_Caro,m,h
 290,The Cell,http://en.wikipedia.org/wiki/The_Cell,producer,Eric McLeod,,m,w
 290,The Cell,http://en.wikipedia.org/wiki/The_Cell,writer,Mark Protosevich,http://en.wikipedia.org/wiki/Mark_Protosevich,m,
 290,The Cell,http://en.wikipedia.org/wiki/The_Cell,starring,Jennifer Lopez,http://en.wikipedia.org/wiki/Jennifer_Lopez,f,h
@@ -3593,7 +3593,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 304,"Monsters, Inc.","http://en.wikipedia.org/wiki/Monsters,_Inc.",starring,Jennifer Tilly,http://en.wikipedia.org/wiki/Jennifer_Tilly,f,w
 305,Rush Hour 2,http://en.wikipedia.org/wiki/Rush_Hour_2,producer,Roger Birnbaum,http://en.wikipedia.org/wiki/Roger_Birnbaum,m,w
 305,Rush Hour 2,http://en.wikipedia.org/wiki/Rush_Hour_2,producer,Jonathan Glickman,http://en.wikipedia.org/wiki/Jonathan_Glickman,m,w
-305,Rush Hour 2,http://en.wikipedia.org/wiki/Rush_Hour_2,producer,Arthur Sarkissian,,m,w
+305,Rush Hour 2,http://en.wikipedia.org/wiki/Rush_Hour_2,producer,Arthur Sarkissian,https://en.wikipedia.org/wiki/Arthur_Sarkissian,m,w
 305,Rush Hour 2,http://en.wikipedia.org/wiki/Rush_Hour_2,producer,Jay Stern,http://en.wikipedia.org/wiki/Jay_Stern,m,w
 305,Rush Hour 2,http://en.wikipedia.org/wiki/Rush_Hour_2,starring,Jackie Chan,http://en.wikipedia.org/wiki/Jackie_Chan,m,a
 305,Rush Hour 2,http://en.wikipedia.org/wiki/Rush_Hour_2,starring,Chris Tucker,http://en.wikipedia.org/wiki/Chris_Tucker,m,w
@@ -3804,7 +3804,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 323,America's Sweethearts,http://en.wikipedia.org/wiki/America's_Sweethearts,starring,John Cusack,http://en.wikipedia.org/wiki/John_Cusack,m,w
 324,Cats & Dogs,http://en.wikipedia.org/wiki/Cats_&_Dogs,director,Lawrence Guterman,http://en.wikipedia.org/wiki/Lawrence_Guterman,m,w
 324,Cats & Dogs,http://en.wikipedia.org/wiki/Cats_&_Dogs,producer,Ed Jones,,m,w
-324,Cats & Dogs,http://en.wikipedia.org/wiki/Cats_&_Dogs,producer,Christopher de Faria,,m,w
+324,Cats & Dogs,http://en.wikipedia.org/wiki/Cats_&_Dogs,producer,Christopher de Faria,https://en.wikipedia.org/wiki/Christopher_DeFaria,m,w
 324,Cats & Dogs,http://en.wikipedia.org/wiki/Cats_&_Dogs,producer,Andrew Lazar,http://en.wikipedia.org/wiki/Andrew_Lazar,m,w
 324,Cats & Dogs,http://en.wikipedia.org/wiki/Cats_&_Dogs,producer,Craig Perry,,m,w
 324,Cats & Dogs,http://en.wikipedia.org/wiki/Cats_&_Dogs,producer,Warren Zide,,m,w
@@ -3937,7 +3937,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 334,Shallow Hal,http://en.wikipedia.org/wiki/Shallow_Hal,producer,Bradley Thomas,,m,w
 335,Swordfish (film),http://en.wikipedia.org/wiki/Swordfish_(film),director,Dominic Sena,http://en.wikipedia.org/wiki/Dominic_Sena,m,h
 335,Swordfish (film),http://en.wikipedia.org/wiki/Swordfish_(film),producer,Joel Silver,http://en.wikipedia.org/wiki/Joel_Silver,m,w
-335,Swordfish (film),http://en.wikipedia.org/wiki/Swordfish_(film),producer,Jonathan D. Krane,,m,w
+335,Swordfish (film),http://en.wikipedia.org/wiki/Swordfish_(film),producer,Jonathan D. Krane,https://en.wikipedia.org/wiki/Jonathan_D._Krane,m,w
 335,Swordfish (film),http://en.wikipedia.org/wiki/Swordfish_(film),writer,Skip Woods,http://en.wikipedia.org/wiki/Skip_Woods,m,w
 335,Swordfish (film),http://en.wikipedia.org/wiki/Swordfish_(film),starring,John Travolta,http://en.wikipedia.org/wiki/John_Travolta,m,
 335,Swordfish (film),http://en.wikipedia.org/wiki/Swordfish_(film),starring,Hugh Jackman,http://en.wikipedia.org/wiki/Hugh_Jackman,m,w
@@ -3945,7 +3945,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 335,Swordfish (film),http://en.wikipedia.org/wiki/Swordfish_(film),starring,Don Cheadle,http://en.wikipedia.org/wiki/Don_Cheadle,m,w
 335,Swordfish (film),http://en.wikipedia.org/wiki/Swordfish_(film),starring,Vinnie Jones,http://en.wikipedia.org/wiki/Vinnie_Jones,m,w
 336,The Mexican,http://en.wikipedia.org/wiki/The_Mexican,director,Gore Verbinski,http://en.wikipedia.org/wiki/Gore_Verbinski,,
-336,The Mexican,http://en.wikipedia.org/wiki/The_Mexican,producer,Christopher Ball,,m,w
+336,The Mexican,http://en.wikipedia.org/wiki/The_Mexican,producer,Christopher Ball,https://en.wikipedia.org/wiki/Christopher_Ball,m,w
 336,The Mexican,http://en.wikipedia.org/wiki/The_Mexican,producer,John Baldecchi,http://en.wikipedia.org/wiki/John_Baldecchi,m,
 336,The Mexican,http://en.wikipedia.org/wiki/The_Mexican,producer,Lawrence Bender,http://en.wikipedia.org/wiki/Lawrence_Bender,m,w
 336,The Mexican,http://en.wikipedia.org/wiki/The_Mexican,writer,J.H. Wyman,http://en.wikipedia.org/wiki/J.H._Wyman,,w
@@ -4240,8 +4240,8 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 359,Ice Age (2002 film),http://en.wikipedia.org/wiki/Ice_Age_(2002_film),director,Carlos Saldanha,http://en.wikipedia.org/wiki/Carlos_Saldanha,m,a
 359,Ice Age (2002 film),http://en.wikipedia.org/wiki/Ice_Age_(2002_film),producer,Lori Forte,,f,w
 359,Ice Age (2002 film),http://en.wikipedia.org/wiki/Ice_Age_(2002_film),screenplay,Michael J. Wilson,,m,w
-359,Ice Age (2002 film),http://en.wikipedia.org/wiki/Ice_Age_(2002_film),screenplay,Michael Berg,,m,w
-359,Ice Age (2002 film),http://en.wikipedia.org/wiki/Ice_Age_(2002_film),screenplay,Peter Ackerman,,m,w
+359,Ice Age (2002 film),http://en.wikipedia.org/wiki/Ice_Age_(2002_film),screenplay,Michael Berg,https://en.wikipedia.org/wiki/Michael_Berg,m,w
+359,Ice Age (2002 film),http://en.wikipedia.org/wiki/Ice_Age_(2002_film),screenplay,Peter Ackerman,https://en.wikipedia.org/wiki/Peter_Ackerman,m,w
 359,Ice Age (2002 film),http://en.wikipedia.org/wiki/Ice_Age_(2002_film),story,Michael J. Wilson,,m,w
 359,Ice Age (2002 film),http://en.wikipedia.org/wiki/Ice_Age_(2002_film),starring,Denis Leary,http://en.wikipedia.org/wiki/Denis_Leary,m,w
 360,Chicago (2002 film),http://en.wikipedia.org/wiki/Chicago_(2002_film),director,Rob Marshall,http://en.wikipedia.org/wiki/Rob_Marshall,m,w
@@ -4367,7 +4367,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 370,Mr. Deeds,http://en.wikipedia.org/wiki/Mr._Deeds,producer,Sid Ganis,http://en.wikipedia.org/wiki/Sid_Ganis,m,w
 370,Mr. Deeds,http://en.wikipedia.org/wiki/Mr._Deeds,producer,Jack Giarraputo,http://en.wikipedia.org/wiki/Jack_Giarraputo,m,w
 371,The Bourne Identity (2002 film),http://en.wikipedia.org/wiki/The_Bourne_Identity_(2002_film),producer,Doug Liman,http://en.wikipedia.org/wiki/Doug_Liman,m,w
-371,The Bourne Identity (2002 film),http://en.wikipedia.org/wiki/The_Bourne_Identity_(2002_film),producer,Patrick Crowley,,m,w
+371,The Bourne Identity (2002 film),http://en.wikipedia.org/wiki/The_Bourne_Identity_(2002_film),producer,Patrick Crowley,https://en.wikipedia.org/wiki/Patrick_Crowley,m,w
 371,The Bourne Identity (2002 film),http://en.wikipedia.org/wiki/The_Bourne_Identity_(2002_film),producer,Richard N. Gladstein,http://en.wikipedia.org/wiki/Richard_N._Gladstein,m,w
 371,The Bourne Identity (2002 film),http://en.wikipedia.org/wiki/The_Bourne_Identity_(2002_film),screenplay,Tony Gilroy,http://en.wikipedia.org/wiki/Tony_Gilroy,m,w
 371,The Bourne Identity (2002 film),http://en.wikipedia.org/wiki/The_Bourne_Identity_(2002_film),screenplay,William Blake Herron,http://en.wikipedia.org/wiki/William_Blake_Herron,m,w
@@ -4432,7 +4432,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 376,Maid in Manhattan,http://en.wikipedia.org/wiki/Maid_in_Manhattan,starring,Ralph Fiennes,http://en.wikipedia.org/wiki/Ralph_Fiennes,m,
 376,Maid in Manhattan,http://en.wikipedia.org/wiki/Maid_in_Manhattan,starring,Natasha Richardson,http://en.wikipedia.org/wiki/Natasha_Richardson,f,w
 377,Two Weeks Notice,http://en.wikipedia.org/wiki/Two_Weeks_Notice,director,Marc Lawrence (filmmaker),http://en.wikipedia.org/wiki/Marc_Lawrence_(filmmaker),m,w
-377,Two Weeks Notice,http://en.wikipedia.org/wiki/Two_Weeks_Notice,writer,Marc Lawrence,,m,w
+377,Two Weeks Notice,http://en.wikipedia.org/wiki/Two_Weeks_Notice,writer,Marc Lawrence,https://en.wikipedia.org/wiki/Marc_Lawrence,m,w
 377,Two Weeks Notice,http://en.wikipedia.org/wiki/Two_Weeks_Notice,producer,Sandra Bullock,http://en.wikipedia.org/wiki/Sandra_Bullock,f,w
 377,Two Weeks Notice,http://en.wikipedia.org/wiki/Two_Weeks_Notice,starring,Hugh Grant,http://en.wikipedia.org/wiki/Hugh_Grant,m,w
 377,Two Weeks Notice,http://en.wikipedia.org/wiki/Two_Weeks_Notice,starring,Sandra Bullock,http://en.wikipedia.org/wiki/Sandra_Bullock,f,w
@@ -4567,7 +4567,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 387,The Rookie (2002 film),http://en.wikipedia.org/wiki/The_Rookie_(2002_film),producer,Mark Johnson (producer),http://en.wikipedia.org/wiki/Mark_Johnson_(producer),m,w
 388,Spirit: Stallion of the Cimarron,http://en.wikipedia.org/wiki/Spirit:_Stallion_of_the_Cimarron,director,Kelly Asbury,http://en.wikipedia.org/wiki/Kelly_Asbury,f,w
 388,Spirit: Stallion of the Cimarron,http://en.wikipedia.org/wiki/Spirit:_Stallion_of_the_Cimarron,director,Lorna Cook,,f,w
-388,Spirit: Stallion of the Cimarron,http://en.wikipedia.org/wiki/Spirit:_Stallion_of_the_Cimarron,producer,Max Howard,,m,w
+388,Spirit: Stallion of the Cimarron,http://en.wikipedia.org/wiki/Spirit:_Stallion_of_the_Cimarron,producer,Max Howard,https://en.wikipedia.org/wiki/Max_Howard,m,w
 388,Spirit: Stallion of the Cimarron,http://en.wikipedia.org/wiki/Spirit:_Stallion_of_the_Cimarron,producer,Mireille Soria,http://en.wikipedia.org/wiki/Mireille_Soria,f,h
 388,Spirit: Stallion of the Cimarron,http://en.wikipedia.org/wiki/Spirit:_Stallion_of_the_Cimarron,producer,Jeffrey Katzenberg,http://en.wikipedia.org/wiki/Jeffrey_Katzenberg,m,w
 388,Spirit: Stallion of the Cimarron,http://en.wikipedia.org/wiki/Spirit:_Stallion_of_the_Cimarron,writer,John Fusco,http://en.wikipedia.org/wiki/John_Fusco,m,w
@@ -4691,7 +4691,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 397,Drumline (film),http://en.wikipedia.org/wiki/Drumline_(film),producer,Wendy Finerman,http://en.wikipedia.org/wiki/Wendy_Finerman,f,
 397,Drumline (film),http://en.wikipedia.org/wiki/Drumline_(film),producer,Jody Gerson,http://en.wikipedia.org/wiki/Jody_Gerson,m,w
 397,Drumline (film),http://en.wikipedia.org/wiki/Drumline_(film),producer,Greg Mooradian,,m,w
-397,Drumline (film),http://en.wikipedia.org/wiki/Drumline_(film),writer,Tina Gordon Chism,,f,w
+397,Drumline (film),http://en.wikipedia.org/wiki/Drumline_(film),writer,Tina Gordon Chism,https://en.wikipedia.org/wiki/Tina_Gordon_Chism,f,w
 397,Drumline (film),http://en.wikipedia.org/wiki/Drumline_(film),writer,Shawn Schepps,,m,w
 397,Drumline (film),http://en.wikipedia.org/wiki/Drumline_(film),starring,Nick Cannon,http://en.wikipedia.org/wiki/Nick_Cannon,m,w
 397,Drumline (film),http://en.wikipedia.org/wiki/Drumline_(film),starring,Zoe Saldana,http://en.wikipedia.org/wiki/Zoe_Saldana,f,h
@@ -4762,7 +4762,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 402,Finding Nemo,http://en.wikipedia.org/wiki/Finding_Nemo,starring,Alexander Gould,http://en.wikipedia.org/wiki/Alexander_Gould,m,w
 402,Finding Nemo,http://en.wikipedia.org/wiki/Finding_Nemo,starring,Willem Dafoe,http://en.wikipedia.org/wiki/Willem_Dafoe,m,w
 402,Finding Nemo,http://en.wikipedia.org/wiki/Finding_Nemo,director,Andrew Stanton,http://en.wikipedia.org/wiki/Andrew_Stanton,m,w
-402,Finding Nemo,http://en.wikipedia.org/wiki/Finding_Nemo,producer,Graham Walters,,m,w
+402,Finding Nemo,http://en.wikipedia.org/wiki/Finding_Nemo,producer,Graham Walters,https://en.wikipedia.org/wiki/Graham_Walters,m,w
 402,Finding Nemo,http://en.wikipedia.org/wiki/Finding_Nemo,screenplay,Andrew Stanton,http://en.wikipedia.org/wiki/Andrew_Stanton,m,w
 402,Finding Nemo,http://en.wikipedia.org/wiki/Finding_Nemo,screenplay,Bob Peterson (filmmaker),http://en.wikipedia.org/wiki/Bob_Peterson_(filmmaker),m,w
 402,Finding Nemo,http://en.wikipedia.org/wiki/Finding_Nemo,screenplay,David Reynolds (screenwriter),http://en.wikipedia.org/wiki/David_Reynolds_(screenwriter),m,w
@@ -4787,7 +4787,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 404,The Matrix Reloaded,http://en.wikipedia.org/wiki/The_Matrix_Reloaded,starring,Gloria Foster,http://en.wikipedia.org/wiki/Gloria_Foster,f,w
 404,The Matrix Reloaded,http://en.wikipedia.org/wiki/The_Matrix_Reloaded,director,The Wachowskis,http://en.wikipedia.org/wiki/The_Wachowskis,m,
 404,The Matrix Reloaded,http://en.wikipedia.org/wiki/The_Matrix_Reloaded,producer,Joel Silver,http://en.wikipedia.org/wiki/Joel_Silver,m,w
-404,The Matrix Reloaded,http://en.wikipedia.org/wiki/The_Matrix_Reloaded,writer,The Wachowski Brothers,,m,w
+404,The Matrix Reloaded,http://en.wikipedia.org/wiki/The_Matrix_Reloaded,writer,The Wachowski Brothers,https://en.wikipedia.org/wiki/The_Wachowskis,m,w
 405,Bruce Almighty,http://en.wikipedia.org/wiki/Bruce_Almighty,producer,Tom Shadyac,http://en.wikipedia.org/wiki/Tom_Shadyac,m,
 405,Bruce Almighty,http://en.wikipedia.org/wiki/Bruce_Almighty,producer,Jim Carrey,http://en.wikipedia.org/wiki/Jim_Carrey,m,w
 405,Bruce Almighty,http://en.wikipedia.org/wiki/Bruce_Almighty,producer,James D. Brubaker,http://en.wikipedia.org/wiki/James_D._Brubaker,m,w
@@ -4859,7 +4859,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 409,The Matrix Revolutions,http://en.wikipedia.org/wiki/The_Matrix_Revolutions,starring,Jada Pinkett Smith,http://en.wikipedia.org/wiki/Jada_Pinkett_Smith,f,w
 409,The Matrix Revolutions,http://en.wikipedia.org/wiki/The_Matrix_Revolutions,director,The Wachowskis,http://en.wikipedia.org/wiki/The_Wachowskis,m,
 409,The Matrix Revolutions,http://en.wikipedia.org/wiki/The_Matrix_Revolutions,producer,Joel Silver,http://en.wikipedia.org/wiki/Joel_Silver,m,w
-409,The Matrix Revolutions,http://en.wikipedia.org/wiki/The_Matrix_Revolutions,writer,The Wachowski Brothers,,m,w
+409,The Matrix Revolutions,http://en.wikipedia.org/wiki/The_Matrix_Revolutions,writer,The Wachowski Brothers,https://en.wikipedia.org/wiki/The_Wachowskis,m,w
 410,Cheaper by the Dozen (2003 film),http://en.wikipedia.org/wiki/Cheaper_by_the_Dozen_(2003_film),director,Shawn Levy,http://en.wikipedia.org/wiki/Shawn_Levy,m,w
 410,Cheaper by the Dozen (2003 film),http://en.wikipedia.org/wiki/Cheaper_by_the_Dozen_(2003_film),producer,Robert Simonds,http://en.wikipedia.org/wiki/Robert_Simonds,m,w
 410,Cheaper by the Dozen (2003 film),http://en.wikipedia.org/wiki/Cheaper_by_the_Dozen_(2003_film),producer,Michael Barnathan,http://en.wikipedia.org/wiki/Michael_Barnathan,m,
@@ -5132,7 +5132,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 432,"Legally Blonde 2: Red, White & Blonde","http://en.wikipedia.org/wiki/Legally_Blonde_2:_Red,_White_&_Blonde",director,Charles Herman-Wurmfeld,http://en.wikipedia.org/wiki/Charles_Herman-Wurmfeld,m,
 432,"Legally Blonde 2: Red, White & Blonde","http://en.wikipedia.org/wiki/Legally_Blonde_2:_Red,_White_&_Blonde",producer,David Nicksay,,m,
 432,"Legally Blonde 2: Red, White & Blonde","http://en.wikipedia.org/wiki/Legally_Blonde_2:_Red,_White_&_Blonde",producer,Marc E. Platt,http://en.wikipedia.org/wiki/Marc_E._Platt,m,w
-432,"Legally Blonde 2: Red, White & Blonde","http://en.wikipedia.org/wiki/Legally_Blonde_2:_Red,_White_&_Blonde",producer,Jennifer Simpson,,f,w
+432,"Legally Blonde 2: Red, White & Blonde","http://en.wikipedia.org/wiki/Legally_Blonde_2:_Red,_White_&_Blonde",producer,Jennifer Simpson,https://en.wikipedia.org/wiki/Jennifer_Simpson,f,w
 432,"Legally Blonde 2: Red, White & Blonde","http://en.wikipedia.org/wiki/Legally_Blonde_2:_Red,_White_&_Blonde",producer,Stephen Traxler,,m,w
 432,"Legally Blonde 2: Red, White & Blonde","http://en.wikipedia.org/wiki/Legally_Blonde_2:_Red,_White_&_Blonde",producer,Reese Witherspoon,http://en.wikipedia.org/wiki/Reese_Witherspoon,m,b
 432,"Legally Blonde 2: Red, White & Blonde","http://en.wikipedia.org/wiki/Legally_Blonde_2:_Red,_White_&_Blonde",screenplay,Kate Kondell,,f,
@@ -5325,7 +5325,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 447,Shanghai Knights,http://en.wikipedia.org/wiki/Shanghai_Knights,starring,Fann Wong,http://en.wikipedia.org/wiki/Fann_Wong,,a
 447,Shanghai Knights,http://en.wikipedia.org/wiki/Shanghai_Knights,starring,Aidan Gillen,http://en.wikipedia.org/wiki/Aidan_Gillen,m,w
 448,Bad Santa,http://en.wikipedia.org/wiki/Bad_Santa,producer,John Cameron,,m,w
-448,Bad Santa,http://en.wikipedia.org/wiki/Bad_Santa,producer,Sarah Aubrey,,f,w
+448,Bad Santa,http://en.wikipedia.org/wiki/Bad_Santa,producer,Sarah Aubrey,https://en.wikipedia.org/wiki/Sarah_Aubrey,f,w
 448,Bad Santa,http://en.wikipedia.org/wiki/Bad_Santa,producer,Bob Weinstein,http://en.wikipedia.org/wiki/Bob_Weinstein,m,w
 448,Bad Santa,http://en.wikipedia.org/wiki/Bad_Santa,writer,Glenn Ficarra,http://en.wikipedia.org/wiki/Glenn_Ficarra,m,w
 448,Bad Santa,http://en.wikipedia.org/wiki/Bad_Santa,writer,John Requa,http://en.wikipedia.org/wiki/John_Requa,m,w
@@ -5370,7 +5370,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 451,Shrek 2,http://en.wikipedia.org/wiki/Shrek_2,director,Conrad Vernon,http://en.wikipedia.org/wiki/Conrad_Vernon,m,w
 451,Shrek 2,http://en.wikipedia.org/wiki/Shrek_2,producer,Aron Warner,http://en.wikipedia.org/wiki/Aron_Warner,m,w
 451,Shrek 2,http://en.wikipedia.org/wiki/Shrek_2,producer,John H. Williams,http://en.wikipedia.org/wiki/John_H._Williams,m,w
-451,Shrek 2,http://en.wikipedia.org/wiki/Shrek_2,producer,David Lipman,,m,w
+451,Shrek 2,http://en.wikipedia.org/wiki/Shrek_2,producer,David Lipman,https://en.wikipedia.org/wiki/David_J._Lipman,m,w
 451,Shrek 2,http://en.wikipedia.org/wiki/Shrek_2,screenplay,Andrew Adamson,http://en.wikipedia.org/wiki/Andrew_Adamson,m,w
 451,Shrek 2,http://en.wikipedia.org/wiki/Shrek_2,screenplay,Joe Stillman,http://en.wikipedia.org/wiki/Joe_Stillman,m,w
 451,Shrek 2,http://en.wikipedia.org/wiki/Shrek_2,screenplay,J. David Stem,,,w
@@ -5439,7 +5439,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 455,The Incredibles,http://en.wikipedia.org/wiki/The_Incredibles,writer,Brad Bird,http://en.wikipedia.org/wiki/Brad_Bird,m,w
 456,Harry Potter and the Prisoner of Azkaban (film),http://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film),producer,Chris Columbus (filmmaker),http://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker),m,w
 456,Harry Potter and the Prisoner of Azkaban (film),http://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film),producer,David Heyman,http://en.wikipedia.org/wiki/David_Heyman,m,w
-456,Harry Potter and the Prisoner of Azkaban (film),http://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film),producer,Mark Radcliffe,,m,w
+456,Harry Potter and the Prisoner of Azkaban (film),http://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film),producer,Mark Radcliffe,https://en.wikipedia.org/wiki/Mark_Radcliffe,m,w
 456,Harry Potter and the Prisoner of Azkaban (film),http://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film),starring,Daniel Radcliffe,http://en.wikipedia.org/wiki/Daniel_Radcliffe,m,w
 456,Harry Potter and the Prisoner of Azkaban (film),http://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film),starring,Rupert Grint,http://en.wikipedia.org/wiki/Rupert_Grint,m,
 456,Harry Potter and the Prisoner of Azkaban (film),http://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film),starring,Emma Watson,http://en.wikipedia.org/wiki/Emma_Watson,f,w
@@ -5457,7 +5457,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 457,The Day After Tomorrow,http://en.wikipedia.org/wiki/The_Day_After_Tomorrow,starring,Emmy Rossum,http://en.wikipedia.org/wiki/Emmy_Rossum,f,w
 457,The Day After Tomorrow,http://en.wikipedia.org/wiki/The_Day_After_Tomorrow,starring,Sela Ward,http://en.wikipedia.org/wiki/Sela_Ward,f,w
 458,The Bourne Supremacy (film),http://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film),producer,Frank Marshall (film producer),http://en.wikipedia.org/wiki/Frank_Marshall_(film_producer),m,w
-458,The Bourne Supremacy (film),http://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film),producer,Patrick Crowley,,m,w
+458,The Bourne Supremacy (film),http://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film),producer,Patrick Crowley,https://en.wikipedia.org/wiki/Patrick_Crowley,m,w
 458,The Bourne Supremacy (film),http://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film),producer,Paul L. Sandberg,,m,w
 458,The Bourne Supremacy (film),http://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film),starring,Matt Damon,http://en.wikipedia.org/wiki/Matt_Damon,m,w
 458,The Bourne Supremacy (film),http://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film),starring,Franka Potente,http://en.wikipedia.org/wiki/Franka_Potente,f,w
@@ -5542,7 +5542,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 465,50 First Dates,http://en.wikipedia.org/wiki/50_First_Dates,producer,Jack Giarraputo,http://en.wikipedia.org/wiki/Jack_Giarraputo,m,w
 465,50 First Dates,http://en.wikipedia.org/wiki/50_First_Dates,producer,Steve Golin,http://en.wikipedia.org/wiki/Steve_Golin,m,w
 465,50 First Dates,http://en.wikipedia.org/wiki/50_First_Dates,producer,Nancy Juvonen,http://en.wikipedia.org/wiki/Nancy_Juvonen,f,
-465,50 First Dates,http://en.wikipedia.org/wiki/50_First_Dates,writer,George Wing,,m,w
+465,50 First Dates,http://en.wikipedia.org/wiki/50_First_Dates,writer,George Wing,https://en.wikipedia.org/wiki/George_C._Wing_Jr.,m,w
 465,50 First Dates,http://en.wikipedia.org/wiki/50_First_Dates,starring,Adam Sandler,http://en.wikipedia.org/wiki/Adam_Sandler,m,w
 465,50 First Dates,http://en.wikipedia.org/wiki/50_First_Dates,starring,Drew Barrymore,http://en.wikipedia.org/wiki/Drew_Barrymore,m,w
 465,50 First Dates,http://en.wikipedia.org/wiki/50_First_Dates,starring,Rob Schneider,http://en.wikipedia.org/wiki/Rob_Schneider,m,w
@@ -5636,7 +5636,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 473,Collateral (film),http://en.wikipedia.org/wiki/Collateral_(film),starring,Bruce McGill,http://en.wikipedia.org/wiki/Bruce_McGill,m,w
 473,Collateral (film),http://en.wikipedia.org/wiki/Collateral_(film),director,Michael Mann (director),http://en.wikipedia.org/wiki/Michael_Mann_(director),m,w
 473,Collateral (film),http://en.wikipedia.org/wiki/Collateral_(film),producer,Michael Mann,,m,w
-473,Collateral (film),http://en.wikipedia.org/wiki/Collateral_(film),producer,Julie Richardson,,f,w
+473,Collateral (film),http://en.wikipedia.org/wiki/Collateral_(film),producer,Julie Richardson,https://en.wikipedia.org/wiki/Julie_Richardson,f,w
 473,Collateral (film),http://en.wikipedia.org/wiki/Collateral_(film),writer,Stuart Beattie,http://en.wikipedia.org/wiki/Stuart_Beattie,m,w
 474,Million Dollar Baby,http://en.wikipedia.org/wiki/Million_Dollar_Baby,director,Clint Eastwood,http://en.wikipedia.org/wiki/Clint_Eastwood,m,w
 474,Million Dollar Baby,http://en.wikipedia.org/wiki/Million_Dollar_Baby,producer,Clint Eastwood,http://en.wikipedia.org/wiki/Clint_Eastwood,m,w
@@ -5738,7 +5738,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 481,Scooby-Doo 2: Monsters Unleashed,http://en.wikipedia.org/wiki/Scooby-Doo_2:_Monsters_Unleashed,starring,Tim Blake Nelson,http://en.wikipedia.org/wiki/Tim_Blake_Nelson,m,w
 481,Scooby-Doo 2: Monsters Unleashed,http://en.wikipedia.org/wiki/Scooby-Doo_2:_Monsters_Unleashed,starring,Alicia Silverstone,http://en.wikipedia.org/wiki/Alicia_Silverstone,f,w
 482,The Notebook (2004 film),http://en.wikipedia.org/wiki/The_Notebook_(2004_film),director,Nick Cassavetes,http://en.wikipedia.org/wiki/Nick_Cassavetes,m,
-482,The Notebook (2004 film),http://en.wikipedia.org/wiki/The_Notebook_(2004_film),producer,Lynn Harris,,f,w
+482,The Notebook (2004 film),http://en.wikipedia.org/wiki/The_Notebook_(2004_film),producer,Lynn Harris,https://en.wikipedia.org/wiki/Lynn_Harris,f,w
 482,The Notebook (2004 film),http://en.wikipedia.org/wiki/The_Notebook_(2004_film),producer,Mark Johnson (producer),http://en.wikipedia.org/wiki/Mark_Johnson_(producer),m,w
 482,The Notebook (2004 film),http://en.wikipedia.org/wiki/The_Notebook_(2004_film),screenplay,Jeremy Leven,http://en.wikipedia.org/wiki/Jeremy_Leven,m,w
 482,The Notebook (2004 film),http://en.wikipedia.org/wiki/The_Notebook_(2004_film),story,Jan Sardi,http://en.wikipedia.org/wiki/Jan_Sardi,m,w
@@ -5793,9 +5793,9 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 486,Garfield: The Movie,http://en.wikipedia.org/wiki/Garfield:_The_Movie,starring,Jennifer Love Hewitt,http://en.wikipedia.org/wiki/Jennifer_Love_Hewitt,f,w
 486,Garfield: The Movie,http://en.wikipedia.org/wiki/Garfield:_The_Movie,starring,Stephen Tobolowsky,http://en.wikipedia.org/wiki/Stephen_Tobolowsky,m,
 487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),director,Taylor Hackford,http://en.wikipedia.org/wiki/Taylor_Hackford,f,w
-487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),screenplay,James L. White,,m,w
+487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),screenplay,James L. White,https://en.wikipedia.org/wiki/James_L._White,m,w
 487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),story,Taylor Hackford,http://en.wikipedia.org/wiki/Taylor_Hackford,f,w
-487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),story,James L. White,,m,w
+487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),story,James L. White,https://en.wikipedia.org/wiki/James_L._White,m,w
 487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),starring,Jamie Foxx,http://en.wikipedia.org/wiki/Jamie_Foxx,f,b
 487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),starring,Kerry Washington,http://en.wikipedia.org/wiki/Kerry_Washington,f,b
 487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),starring,Clifton Powell,http://en.wikipedia.org/wiki/Clifton_Powell,m,w
@@ -5807,7 +5807,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),producer,Taylor Hackford,http://en.wikipedia.org/wiki/Taylor_Hackford,f,w
 487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),producer,Stuart Benjamin,http://en.wikipedia.org/wiki/Stuart_Benjamin,m,w
 487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),producer,Howard Baldwin,http://en.wikipedia.org/wiki/Howard_Baldwin,m,w
-487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),producer,Karen Baldwin,,f,w
+487,Ray (film),http://en.wikipedia.org/wiki/Ray_(film),producer,Karen Baldwin,https://en.wikipedia.org/wiki/Karen_Dianne_Baldwin,f,w
 488,Ladder 49,http://en.wikipedia.org/wiki/Ladder_49,director,Jay Russell,http://en.wikipedia.org/wiki/Jay_Russell,m,w
 488,Ladder 49,http://en.wikipedia.org/wiki/Ladder_49,producer,Casey Silver,http://en.wikipedia.org/wiki/Casey_Silver,m,w
 488,Ladder 49,http://en.wikipedia.org/wiki/Ladder_49,writer,Lewis Colick,http://en.wikipedia.org/wiki/Lewis_Colick,m,
@@ -5819,7 +5819,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 489,Christmas with the Kranks,http://en.wikipedia.org/wiki/Christmas_with_the_Kranks,director,Joe Roth,http://en.wikipedia.org/wiki/Joe_Roth,m,w
 489,Christmas with the Kranks,http://en.wikipedia.org/wiki/Christmas_with_the_Kranks,producer,Michael Barnathan,http://en.wikipedia.org/wiki/Michael_Barnathan,m,
 489,Christmas with the Kranks,http://en.wikipedia.org/wiki/Christmas_with_the_Kranks,producer,Chris Columbus (filmmaker),http://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker),m,w
-489,Christmas with the Kranks,http://en.wikipedia.org/wiki/Christmas_with_the_Kranks,producer,Mark Radcliffe,,m,w
+489,Christmas with the Kranks,http://en.wikipedia.org/wiki/Christmas_with_the_Kranks,producer,Mark Radcliffe,https://en.wikipedia.org/wiki/Mark_Radcliffe,m,w
 489,Christmas with the Kranks,http://en.wikipedia.org/wiki/Christmas_with_the_Kranks,screenplay,Chris Columbus (filmmaker),http://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker),m,w
 489,Christmas with the Kranks,http://en.wikipedia.org/wiki/Christmas_with_the_Kranks,starring,Tim Allen,http://en.wikipedia.org/wiki/Tim_Allen,m,w
 489,Christmas with the Kranks,http://en.wikipedia.org/wiki/Christmas_with_the_Kranks,starring,Jamie Lee Curtis,http://en.wikipedia.org/wiki/Jamie_Lee_Curtis,f,w
@@ -6036,7 +6036,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 506,Wedding Crashers,http://en.wikipedia.org/wiki/Wedding_Crashers,starring,Jane Seymour (actress),http://en.wikipedia.org/wiki/Jane_Seymour_(actress),f,w
 506,Wedding Crashers,http://en.wikipedia.org/wiki/Wedding_Crashers,director,David Dobkin (director),http://en.wikipedia.org/wiki/David_Dobkin_(director),m,w
 507,Charlie and the Chocolate Factory (film),http://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film),producer,Brad Grey,http://en.wikipedia.org/wiki/Brad_Grey,m,w
-507,Charlie and the Chocolate Factory (film),http://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film),producer,Michael Siegel,,m,w
+507,Charlie and the Chocolate Factory (film),http://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film),producer,Michael Siegel,https://en.wikipedia.org/wiki/Michael_Siegel,m,w
 507,Charlie and the Chocolate Factory (film),http://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film),starring,Johnny Depp,http://en.wikipedia.org/wiki/Johnny_Depp,m,w
 507,Charlie and the Chocolate Factory (film),http://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film),starring,David Kelly (actor),http://en.wikipedia.org/wiki/David_Kelly_(actor),m,w
 507,Charlie and the Chocolate Factory (film),http://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(film),starring,Helena Bonham Carter,http://en.wikipedia.org/wiki/Helena_Bonham_Carter,f,w
@@ -6124,7 +6124,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 514,Chicken Little (2005 film),http://en.wikipedia.org/wiki/Chicken_Little_(2005_film),director,Mark Dindal,http://en.wikipedia.org/wiki/Mark_Dindal,m,
 514,Chicken Little (2005 film),http://en.wikipedia.org/wiki/Chicken_Little_(2005_film),producer,Randy Fullmer,http://en.wikipedia.org/wiki/Randy_Fullmer,m,w
 515,Robots (2005 film),http://en.wikipedia.org/wiki/Robots_(2005_film),director,Chris Wedge,http://en.wikipedia.org/wiki/Chris_Wedge,m,w
-515,Robots (2005 film),http://en.wikipedia.org/wiki/Robots_(2005_film),producer,Jerry Davis,,m,w
+515,Robots (2005 film),http://en.wikipedia.org/wiki/Robots_(2005_film),producer,Jerry Davis,https://en.wikipedia.org/wiki/Jerry_Davis,m,w
 515,Robots (2005 film),http://en.wikipedia.org/wiki/Robots_(2005_film),producer,William Joyce (writer),http://en.wikipedia.org/wiki/William_Joyce_(writer),m,w
 515,Robots (2005 film),http://en.wikipedia.org/wiki/Robots_(2005_film),producer,John C. Donkin,,m,w
 515,Robots (2005 film),http://en.wikipedia.org/wiki/Robots_(2005_film),screenplay,David Lindsay-Abaire,http://en.wikipedia.org/wiki/David_Lindsay-Abaire,m,
@@ -6230,7 +6230,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 523,Monster-in-Law,http://en.wikipedia.org/wiki/Monster-in-Law,director,Robert Luketic,http://en.wikipedia.org/wiki/Robert_Luketic,m,w
 523,Monster-in-Law,http://en.wikipedia.org/wiki/Monster-in-Law,writer,Anya Kockoff,,f,
 523,Monster-in-Law,http://en.wikipedia.org/wiki/Monster-in-Law,producer,Chris Bender (producer),http://en.wikipedia.org/wiki/Chris_Bender_(producer),m,w
-523,Monster-in-Law,http://en.wikipedia.org/wiki/Monster-in-Law,producer,J.C. Spink,,,w
+523,Monster-in-Law,http://en.wikipedia.org/wiki/Monster-in-Law,producer,J.C. Spink,https://en.wikipedia.org/wiki/J.C._Spink,,w
 523,Monster-in-Law,http://en.wikipedia.org/wiki/Monster-in-Law,producer,Paula Weinstein,http://en.wikipedia.org/wiki/Paula_Weinstein,f,w
 524,Are We There Yet? (film),http://en.wikipedia.org/wiki/Are_We_There_Yet?_(film),director,Brian Levant,http://en.wikipedia.org/wiki/Brian_Levant,m,w
 524,Are We There Yet? (film),http://en.wikipedia.org/wiki/Are_We_There_Yet?_(film),producer,Ice Cube,http://en.wikipedia.org/wiki/Ice_Cube,,a
@@ -6379,7 +6379,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 535,Sahara (2005 film),http://en.wikipedia.org/wiki/Sahara_(2005_film),director,Breck Eisner,http://en.wikipedia.org/wiki/Breck_Eisner,m,w
 535,Sahara (2005 film),http://en.wikipedia.org/wiki/Sahara_(2005_film),producer,Stephanie Austin,http://en.wikipedia.org/wiki/Stephanie_Austin,f,w
 535,Sahara (2005 film),http://en.wikipedia.org/wiki/Sahara_(2005_film),producer,Howard Baldwin,http://en.wikipedia.org/wiki/Howard_Baldwin,m,w
-535,Sahara (2005 film),http://en.wikipedia.org/wiki/Sahara_(2005_film),producer,Karen Baldwin,,f,w
+535,Sahara (2005 film),http://en.wikipedia.org/wiki/Sahara_(2005_film),producer,Karen Baldwin,https://en.wikipedia.org/wiki/Karen_Dianne_Baldwin,f,w
 535,Sahara (2005 film),http://en.wikipedia.org/wiki/Sahara_(2005_film),producer,Mace Neufeld,http://en.wikipedia.org/wiki/Mace_Neufeld,m,w
 535,Sahara (2005 film),http://en.wikipedia.org/wiki/Sahara_(2005_film),screenplay,James V. Hart,http://en.wikipedia.org/wiki/James_V._Hart,m,w
 535,Sahara (2005 film),http://en.wikipedia.org/wiki/Sahara_(2005_film),screenplay,Thomas Dean Donnelly and Joshua Oppenheimer,http://en.wikipedia.org/wiki/Thomas_Dean_Donnelly_and_Joshua_Oppenheimer,m,w
@@ -6390,7 +6390,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 535,Sahara (2005 film),http://en.wikipedia.org/wiki/Sahara_(2005_film),starring,Lambert Wilson,http://en.wikipedia.org/wiki/Lambert_Wilson,m,w
 535,Sahara (2005 film),http://en.wikipedia.org/wiki/Sahara_(2005_film),starring,William H. Macy,http://en.wikipedia.org/wiki/William_H._Macy,m,w
 536,Coach Carter,http://en.wikipedia.org/wiki/Coach_Carter,director,Thomas Carter,,m,w
-536,Coach Carter,http://en.wikipedia.org/wiki/Coach_Carter,producer,David Gale,,m,w
+536,Coach Carter,http://en.wikipedia.org/wiki/Coach_Carter,producer,David Gale,https://en.wikipedia.org/wiki/David_Gale,m,w
 536,Coach Carter,http://en.wikipedia.org/wiki/Coach_Carter,producer,Brian Robbins,http://en.wikipedia.org/wiki/Brian_Robbins,m,w
 536,Coach Carter,http://en.wikipedia.org/wiki/Coach_Carter,producer,Michael Tollin,http://en.wikipedia.org/wiki/Michael_Tollin,m,w
 536,Coach Carter,http://en.wikipedia.org/wiki/Coach_Carter,writer,Mark Schwahn,http://en.wikipedia.org/wiki/Mark_Schwahn,m,w
@@ -6498,7 +6498,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 545,Memoirs of a Geisha (film),http://en.wikipedia.org/wiki/Memoirs_of_a_Geisha_(film),starring,Suzuka Ohgo,http://en.wikipedia.org/wiki/Suzuka_Ohgo,,
 546,White Noise (film),http://en.wikipedia.org/wiki/White_Noise_(film),director,Geoffrey Sax,http://en.wikipedia.org/wiki/Geoffrey_Sax,m,w
 546,White Noise (film),http://en.wikipedia.org/wiki/White_Noise_(film),producer,Paul Brooks,http://en.wikipedia.org/wiki/Paul_Brooks,m,w
-546,White Noise (film),http://en.wikipedia.org/wiki/White_Noise_(film),writer,Niall Johnson,,m,w
+546,White Noise (film),http://en.wikipedia.org/wiki/White_Noise_(film),writer,Niall Johnson,https://en.wikipedia.org/wiki/Niall_Johnson,m,w
 546,White Noise (film),http://en.wikipedia.org/wiki/White_Noise_(film),starring,Michael Keaton,http://en.wikipedia.org/wiki/Michael_Keaton,m,w
 546,White Noise (film),http://en.wikipedia.org/wiki/White_Noise_(film),starring,Deborah Kara Unger,http://en.wikipedia.org/wiki/Deborah_Kara_Unger,f,w
 546,White Noise (film),http://en.wikipedia.org/wiki/White_Noise_(film),starring,Mike Dopud,http://en.wikipedia.org/wiki/Mike_Dopud,m,
@@ -6525,7 +6525,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 548,Be Cool,http://en.wikipedia.org/wiki/Be_Cool,producer,F. Gary Gray,http://en.wikipedia.org/wiki/F._Gary_Gray,,w
 548,Be Cool,http://en.wikipedia.org/wiki/Be_Cool,producer,Danny DeVito,http://en.wikipedia.org/wiki/Danny_DeVito,m,w
 548,Be Cool,http://en.wikipedia.org/wiki/Be_Cool,producer,Michael Shamberg,http://en.wikipedia.org/wiki/Michael_Shamberg,m,w
-548,Be Cool,http://en.wikipedia.org/wiki/Be_Cool,producer,Michael Siegel,,m,w
+548,Be Cool,http://en.wikipedia.org/wiki/Be_Cool,producer,Michael Siegel,https://en.wikipedia.org/wiki/Michael_Siegel,m,w
 548,Be Cool,http://en.wikipedia.org/wiki/Be_Cool,starring,John Travolta,http://en.wikipedia.org/wiki/John_Travolta,m,
 548,Be Cool,http://en.wikipedia.org/wiki/Be_Cool,starring,Uma Thurman,http://en.wikipedia.org/wiki/Uma_Thurman,f,w
 548,Be Cool,http://en.wikipedia.org/wiki/Be_Cool,starring,Vince Vaughn,http://en.wikipedia.org/wiki/Vince_Vaughn,m,w
@@ -6562,7 +6562,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 550,"Yours, Mine & Ours (2005 film)","http://en.wikipedia.org/wiki/Yours,_Mine_&_Ours_(2005_film)",director,Raja Gosnell,http://en.wikipedia.org/wiki/Raja_Gosnell,m,w
 550,"Yours, Mine & Ours (2005 film)","http://en.wikipedia.org/wiki/Yours,_Mine_&_Ours_(2005_film)",producer,Robert Simonds,http://en.wikipedia.org/wiki/Robert_Simonds,m,w
 550,"Yours, Mine & Ours (2005 film)","http://en.wikipedia.org/wiki/Yours,_Mine_&_Ours_(2005_film)",producer,Michael G. Nathanson,,m,w
-550,"Yours, Mine & Ours (2005 film)","http://en.wikipedia.org/wiki/Yours,_Mine_&_Ours_(2005_film)",screenplay,Ron Burch,,m,w
+550,"Yours, Mine & Ours (2005 film)","http://en.wikipedia.org/wiki/Yours,_Mine_&_Ours_(2005_film)",screenplay,Ron Burch,https://en.wikipedia.org/wiki/Ron_Burch,m,w
 550,"Yours, Mine & Ours (2005 film)","http://en.wikipedia.org/wiki/Yours,_Mine_&_Ours_(2005_film)",screenplay,David Kidd,,m,w
 550,"Yours, Mine & Ours (2005 film)","http://en.wikipedia.org/wiki/Yours,_Mine_&_Ours_(2005_film)",starring,Dennis Quaid,http://en.wikipedia.org/wiki/Dennis_Quaid,m,w
 550,"Yours, Mine & Ours (2005 film)","http://en.wikipedia.org/wiki/Yours,_Mine_&_Ours_(2005_film)",starring,Rene Russo,http://en.wikipedia.org/wiki/Rene_Russo,m,w
@@ -6660,7 +6660,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 557,Happy Feet,http://en.wikipedia.org/wiki/Happy_Feet,producer,Bill Miller (film producer),http://en.wikipedia.org/wiki/Bill_Miller_(film_producer),m,w
 557,Happy Feet,http://en.wikipedia.org/wiki/Happy_Feet,producer,George Miller,,m,w
 557,Happy Feet,http://en.wikipedia.org/wiki/Happy_Feet,producer,Doug Mitchell (film producer),http://en.wikipedia.org/wiki/Doug_Mitchell_(film_producer),m,w
-557,Happy Feet,http://en.wikipedia.org/wiki/Happy_Feet,writer,Warren Coleman,,m,w
+557,Happy Feet,http://en.wikipedia.org/wiki/Happy_Feet,writer,Warren Coleman,https://en.wikipedia.org/wiki/Warren_Coleman,m,w
 557,Happy Feet,http://en.wikipedia.org/wiki/Happy_Feet,writer,John Collee,http://en.wikipedia.org/wiki/John_Collee,m,
 557,Happy Feet,http://en.wikipedia.org/wiki/Happy_Feet,writer,George Miller,,m,w
 557,Happy Feet,http://en.wikipedia.org/wiki/Happy_Feet,writer,Judy Morris,http://en.wikipedia.org/wiki/Judy_Morris,f,w
@@ -6706,7 +6706,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 561,Over the Hedge (film),http://en.wikipedia.org/wiki/Over_the_Hedge_(film),director,Karey Kirkpatrick,http://en.wikipedia.org/wiki/Karey_Kirkpatrick,f,w
 561,Over the Hedge (film),http://en.wikipedia.org/wiki/Over_the_Hedge_(film),producer,Bonnie Arnold,http://en.wikipedia.org/wiki/Bonnie_Arnold,f,w
 562,Talladega Nights: The Ballad of Ricky Bobby,http://en.wikipedia.org/wiki/Talladega_Nights:_The_Ballad_of_Ricky_Bobby,director,Adam McKay,http://en.wikipedia.org/wiki/Adam_McKay,m,w
-562,Talladega Nights: The Ballad of Ricky Bobby,http://en.wikipedia.org/wiki/Talladega_Nights:_The_Ballad_of_Ricky_Bobby,producer,Jimmy Miller,,m,w
+562,Talladega Nights: The Ballad of Ricky Bobby,http://en.wikipedia.org/wiki/Talladega_Nights:_The_Ballad_of_Ricky_Bobby,producer,Jimmy Miller,https://en.wikipedia.org/wiki/Jimmy_Miller,m,w
 562,Talladega Nights: The Ballad of Ricky Bobby,http://en.wikipedia.org/wiki/Talladega_Nights:_The_Ballad_of_Ricky_Bobby,producer,Judd Apatow,http://en.wikipedia.org/wiki/Judd_Apatow,m,
 562,Talladega Nights: The Ballad of Ricky Bobby,http://en.wikipedia.org/wiki/Talladega_Nights:_The_Ballad_of_Ricky_Bobby,writer,Will Ferrell,http://en.wikipedia.org/wiki/Will_Ferrell,m,w
 562,Talladega Nights: The Ballad of Ricky Bobby,http://en.wikipedia.org/wiki/Talladega_Nights:_The_Ballad_of_Ricky_Bobby,writer,Adam McKay,http://en.wikipedia.org/wiki/Adam_McKay,m,w
@@ -6905,7 +6905,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 576,The Pink Panther (2006 film),http://en.wikipedia.org/wiki/The_Pink_Panther_(2006_film),starring,Henry Czerny,http://en.wikipedia.org/wiki/Henry_Czerny,m,w
 576,The Pink Panther (2006 film),http://en.wikipedia.org/wiki/The_Pink_Panther_(2006_film),starring,Beyoncé,http://en.wikipedia.org/wiki/Beyoncé,,
 577,Eight Below,http://en.wikipedia.org/wiki/Eight_Below,director,Frank Marshall (film producer),http://en.wikipedia.org/wiki/Frank_Marshall_(film_producer),m,w
-577,Eight Below,http://en.wikipedia.org/wiki/Eight_Below,producer,Patrick Crowley,,m,w
+577,Eight Below,http://en.wikipedia.org/wiki/Eight_Below,producer,Patrick Crowley,https://en.wikipedia.org/wiki/Patrick_Crowley,m,w
 577,Eight Below,http://en.wikipedia.org/wiki/Eight_Below,producer,David Hoberman,http://en.wikipedia.org/wiki/David_Hoberman,m,w
 577,Eight Below,http://en.wikipedia.org/wiki/Eight_Below,screenplay,David DiGillio,,m,
 577,Eight Below,http://en.wikipedia.org/wiki/Eight_Below,starring,Jason Biggs,http://en.wikipedia.org/wiki/Jason_Biggs,m,w
@@ -6926,7 +6926,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 579,Nacho Libre,http://en.wikipedia.org/wiki/Nacho_Libre,producer,Julia Pistor,,f,w
 579,Nacho Libre,http://en.wikipedia.org/wiki/Nacho_Libre,producer,Mike White (scriptwriter),http://en.wikipedia.org/wiki/Mike_White_(scriptwriter),m,w
 579,Nacho Libre,http://en.wikipedia.org/wiki/Nacho_Libre,producer,Ricardo Del Río Galnares,http://en.wikipedia.org/wiki/Ricardo_Del_Río_Galnares,m,w
-579,Nacho Libre,http://en.wikipedia.org/wiki/Nacho_Libre,writer,Jared Hess,,m,w
+579,Nacho Libre,http://en.wikipedia.org/wiki/Nacho_Libre,writer,Jared Hess,https://en.wikipedia.org/wiki/Jared_and_Jerusha_Hess,m,w
 579,Nacho Libre,http://en.wikipedia.org/wiki/Nacho_Libre,writer,Jared and Jerusha Hess,http://en.wikipedia.org/wiki/Jared_and_Jerusha_Hess,m,w
 579,Nacho Libre,http://en.wikipedia.org/wiki/Nacho_Libre,writer,Mike White,,m,w
 579,Nacho Libre,http://en.wikipedia.org/wiki/Nacho_Libre,director,Jared and Jerusha Hess,http://en.wikipedia.org/wiki/Jared_and_Jerusha_Hess,m,w
@@ -7240,7 +7240,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 606,I Am Legend (film),http://en.wikipedia.org/wiki/I_Am_Legend_(film),starring,Dash Mihok,http://en.wikipedia.org/wiki/Dash_Mihok,m,w
 606,I Am Legend (film),http://en.wikipedia.org/wiki/I_Am_Legend_(film),director,Francis Lawrence,http://en.wikipedia.org/wiki/Francis_Lawrence,m,w
 607,The Bourne Ultimatum (film),http://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film),producer,Frank Marshall (film producer),http://en.wikipedia.org/wiki/Frank_Marshall_(film_producer),m,w
-607,The Bourne Ultimatum (film),http://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film),producer,Patrick Crowley,,m,w
+607,The Bourne Ultimatum (film),http://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film),producer,Patrick Crowley,https://en.wikipedia.org/wiki/Patrick_Crowley,m,w
 607,The Bourne Ultimatum (film),http://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film),producer,Paul L. Sandberg,,m,w
 607,The Bourne Ultimatum (film),http://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film),screenplay,Tony Gilroy,http://en.wikipedia.org/wiki/Tony_Gilroy,m,w
 607,The Bourne Ultimatum (film),http://en.wikipedia.org/wiki/The_Bourne_Ultimatum_(film),screenplay,Scott Z. Burns,http://en.wikipedia.org/wiki/Scott_Z._Burns,m,w
@@ -7378,7 +7378,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 616,Rush Hour 3,http://en.wikipedia.org/wiki/Rush_Hour_3,starring,Jackie Chan,http://en.wikipedia.org/wiki/Jackie_Chan,m,a
 616,Rush Hour 3,http://en.wikipedia.org/wiki/Rush_Hour_3,starring,Chris Tucker,http://en.wikipedia.org/wiki/Chris_Tucker,m,w
 616,Rush Hour 3,http://en.wikipedia.org/wiki/Rush_Hour_3,starring,Hiroyuki Sanada,http://en.wikipedia.org/wiki/Hiroyuki_Sanada,m,a
-616,Rush Hour 3,http://en.wikipedia.org/wiki/Rush_Hour_3,starring,Yvan Attal,,m,w
+616,Rush Hour 3,http://en.wikipedia.org/wiki/Rush_Hour_3,starring,Yvan Attal,https://en.wikipedia.org/wiki/Yvan_Attal,m,w
 616,Rush Hour 3,http://en.wikipedia.org/wiki/Rush_Hour_3,starring,Noemie Lenoir,http://en.wikipedia.org/wiki/Noemie_Lenoir,f,b
 616,Rush Hour 3,http://en.wikipedia.org/wiki/Rush_Hour_3,starring,Tzi Ma,http://en.wikipedia.org/wiki/Tzi_Ma,,a
 616,Rush Hour 3,http://en.wikipedia.org/wiki/Rush_Hour_3,starring,Max von Sydow,http://en.wikipedia.org/wiki/Max_von_Sydow,m,w
@@ -7490,15 +7490,15 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,starring,Jenna Fischer,http://en.wikipedia.org/wiki/Jenna_Fischer,f,w
 625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,starring,Craig T. Nelson,http://en.wikipedia.org/wiki/Craig_T._Nelson,m,w
 625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,director,Will Speck,http://en.wikipedia.org/wiki/Will_Speck,m,w
-625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,director,Josh Gordon,,m,w
+625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,director,Josh Gordon,https://en.wikipedia.org/wiki/Josh_Gordon,m,w
 625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,producer,Ben Stiller,http://en.wikipedia.org/wiki/Ben_Stiller,m,w
 625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,producer,Stuart Cornfeld,http://en.wikipedia.org/wiki/Stuart_Cornfeld,m,
 625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,producer,John Jacobs,,m,w
-625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,screenplay,Jeff Cox,,m,w
+625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,screenplay,Jeff Cox,https://en.wikipedia.org/wiki/Jeff_Cox,m,w
 625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,screenplay,Craig Cox,,m,w
-625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,screenplay,John Altschuler,,m,w
+625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,screenplay,John Altschuler,https://en.wikipedia.org/wiki/John_Altschuler,m,w
 625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,screenplay,Dave Krinsky,,m,w
-625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,story,Jeff Cox,,m,w
+625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,story,Jeff Cox,https://en.wikipedia.org/wiki/Jeff_Cox,m,w
 625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,story,Craig Cox,,m,w
 625,Blades of Glory,http://en.wikipedia.org/wiki/Blades_of_Glory,story,Busy Philipps,http://en.wikipedia.org/wiki/Busy_Philipps,,w
 626,Ocean's Thirteen,http://en.wikipedia.org/wiki/Ocean's_Thirteen,director,Steven Soderbergh,http://en.wikipedia.org/wiki/Steven_Soderbergh,m,
@@ -7543,7 +7543,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 628,Evan Almighty,http://en.wikipedia.org/wiki/Evan_Almighty,director,Tom Shadyac,http://en.wikipedia.org/wiki/Tom_Shadyac,m,
 628,Evan Almighty,http://en.wikipedia.org/wiki/Evan_Almighty,screenplay,Steve Oedekerk,http://en.wikipedia.org/wiki/Steve_Oedekerk,m,
 629,Meet the Robinsons,http://en.wikipedia.org/wiki/Meet_the_Robinsons,director,Stephen J. Anderson,http://en.wikipedia.org/wiki/Stephen_J._Anderson,m,w
-629,Meet the Robinsons,http://en.wikipedia.org/wiki/Meet_the_Robinsons,producer,Dorothy McKim,,f,w
+629,Meet the Robinsons,http://en.wikipedia.org/wiki/Meet_the_Robinsons,producer,Dorothy McKim,https://en.wikipedia.org/wiki/Dorothy_McKim,f,w
 629,Meet the Robinsons,http://en.wikipedia.org/wiki/Meet_the_Robinsons,producer,John Lasseter,http://en.wikipedia.org/wiki/John_Lasseter,m,w
 629,Meet the Robinsons,http://en.wikipedia.org/wiki/Meet_the_Robinsons,screenplay,Jon A. Bernstein,,m,w
 629,Meet the Robinsons,http://en.wikipedia.org/wiki/Meet_the_Robinsons,screenplay,Michelle Spritz,,f,w
@@ -7624,10 +7624,10 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),director,D. J. Caruso,http://en.wikipedia.org/wiki/D._J._Caruso,,w
 635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),producer,Joe Medjuck,http://en.wikipedia.org/wiki/Joe_Medjuck,m,
 635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),producer,E. Bernett Walsh,,,w
-635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),producer,Jackie Marcus,,m,w
+635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),producer,Jackie Marcus,https://en.wikipedia.org/wiki/Jackie_Schaffer,m,w
 635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),screenplay,Christopher B. Landon,http://en.wikipedia.org/wiki/Christopher_B._Landon,m,w
 635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),screenplay,Carl Ellsworth,http://en.wikipedia.org/wiki/Carl_Ellsworth,m,w
-635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),story,Christopher Landon,,m,w
+635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),story,Christopher Landon,https://en.wikipedia.org/wiki/Christopher_Landon,m,w
 635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),starring,Shia LaBeouf,http://en.wikipedia.org/wiki/Shia_LaBeouf,m,
 635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),starring,David Morse (actor),http://en.wikipedia.org/wiki/David_Morse_(actor),m,w
 635,Disturbia (film),http://en.wikipedia.org/wiki/Disturbia_(film),starring,Sarah Roemer,http://en.wikipedia.org/wiki/Sarah_Roemer,f,w
@@ -7649,7 +7649,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 637,Fred Claus,http://en.wikipedia.org/wiki/Fred_Claus,director,David Dobkin (director),http://en.wikipedia.org/wiki/David_Dobkin_(director),m,w
 637,Fred Claus,http://en.wikipedia.org/wiki/Fred_Claus,producer,Joel Silver,http://en.wikipedia.org/wiki/Joel_Silver,m,w
 637,Fred Claus,http://en.wikipedia.org/wiki/Fred_Claus,producer,David Dobkin,,m,w
-637,Fred Claus,http://en.wikipedia.org/wiki/Fred_Claus,producer,Paul Hitchcock,,m,w
+637,Fred Claus,http://en.wikipedia.org/wiki/Fred_Claus,producer,Paul Hitchcock,https://en.wikipedia.org/wiki/Paul_Hitchcock,m,w
 637,Fred Claus,http://en.wikipedia.org/wiki/Fred_Claus,producer,Jessie Nelson (filmmaker),http://en.wikipedia.org/wiki/Jessie_Nelson_(filmmaker),f,w
 637,Fred Claus,http://en.wikipedia.org/wiki/Fred_Claus,writer,Dan Fogelman,http://en.wikipedia.org/wiki/Dan_Fogelman,m,w
 637,Fred Claus,http://en.wikipedia.org/wiki/Fred_Claus,writer,Jessie Nelson,,f,w
@@ -7764,7 +7764,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 645,Why Did I Get Married?,http://en.wikipedia.org/wiki/Why_Did_I_Get_Married?,producer,Tyler Perry,http://en.wikipedia.org/wiki/Tyler_Perry,m,w
 645,Why Did I Get Married?,http://en.wikipedia.org/wiki/Why_Did_I_Get_Married?,producer,Reuben Cannon,http://en.wikipedia.org/wiki/Reuben_Cannon,m,w
 645,Why Did I Get Married?,http://en.wikipedia.org/wiki/Why_Did_I_Get_Married?,writer,Tyler Perry,http://en.wikipedia.org/wiki/Tyler_Perry,m,w
-646,TMNT (film),http://en.wikipedia.org/wiki/TMNT_(film),producer,Thomas K. Gray,,m,w
+646,TMNT (film),http://en.wikipedia.org/wiki/TMNT_(film),producer,Thomas K. Gray,https://en.wikipedia.org/wiki/Thomas_Gray,m,w
 646,TMNT (film),http://en.wikipedia.org/wiki/TMNT_(film),producer,Galen Walker,,m,w
 646,TMNT (film),http://en.wikipedia.org/wiki/TMNT_(film),producer,Paul Wang,,m,a
 646,TMNT (film),http://en.wikipedia.org/wiki/TMNT_(film),starring,Kendall Schmidt,http://en.wikipedia.org/wiki/Kendall_Schmidt,f,w
@@ -7782,7 +7782,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 647,P.S. I Love You (film),http://en.wikipedia.org/wiki/P.S._I_Love_You_(film),producer,Wendy Finerman,http://en.wikipedia.org/wiki/Wendy_Finerman,f,
 647,P.S. I Love You (film),http://en.wikipedia.org/wiki/P.S._I_Love_You_(film),producer,Broderick Johnson,http://en.wikipedia.org/wiki/Broderick_Johnson,m,w
 647,P.S. I Love You (film),http://en.wikipedia.org/wiki/P.S._I_Love_You_(film),producer,Andrew Kosove,http://en.wikipedia.org/wiki/Andrew_Kosove,m,
-647,P.S. I Love You (film),http://en.wikipedia.org/wiki/P.S._I_Love_You_(film),producer,Molly Smith,,f,w
+647,P.S. I Love You (film),http://en.wikipedia.org/wiki/P.S._I_Love_You_(film),producer,Molly Smith,https://en.wikipedia.org/wiki/Molly_Smith,f,w
 647,P.S. I Love You (film),http://en.wikipedia.org/wiki/P.S._I_Love_You_(film),starring,Hilary Swank,http://en.wikipedia.org/wiki/Hilary_Swank,f,w
 647,P.S. I Love You (film),http://en.wikipedia.org/wiki/P.S._I_Love_You_(film),starring,Gerard Butler,http://en.wikipedia.org/wiki/Gerard_Butler,m,w
 647,P.S. I Love You (film),http://en.wikipedia.org/wiki/P.S._I_Love_You_(film),starring,Lisa Kudrow,http://en.wikipedia.org/wiki/Lisa_Kudrow,f,
@@ -7841,7 +7841,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 652,Iron Man (2008 film),http://en.wikipedia.org/wiki/Iron_Man_(2008_film),producer,Avi Arad,http://en.wikipedia.org/wiki/Avi_Arad,m,w
 652,Iron Man (2008 film),http://en.wikipedia.org/wiki/Iron_Man_(2008_film),screenplay,Mark Fergus and Hawk Ostby,http://en.wikipedia.org/wiki/Mark_Fergus_and_Hawk_Ostby,m,w
 652,Iron Man (2008 film),http://en.wikipedia.org/wiki/Iron_Man_(2008_film),screenplay,Art Marcum,,m,w
-652,Iron Man (2008 film),http://en.wikipedia.org/wiki/Iron_Man_(2008_film),screenplay,Matt Holloway,,m,w
+652,Iron Man (2008 film),http://en.wikipedia.org/wiki/Iron_Man_(2008_film),screenplay,Matt Holloway,https://en.wikipedia.org/wiki/Matt_Holloway,m,w
 652,Iron Man (2008 film),http://en.wikipedia.org/wiki/Iron_Man_(2008_film),starring,Robert Downey Jr.,http://en.wikipedia.org/wiki/Robert_Downey_Jr.,m,w
 652,Iron Man (2008 film),http://en.wikipedia.org/wiki/Iron_Man_(2008_film),starring,Terrence Howard,http://en.wikipedia.org/wiki/Terrence_Howard,m,w
 652,Iron Man (2008 film),http://en.wikipedia.org/wiki/Iron_Man_(2008_film),starring,Jeff Bridges,http://en.wikipedia.org/wiki/Jeff_Bridges,m,w
@@ -8045,7 +8045,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 669,Get Smart (film),http://en.wikipedia.org/wiki/Get_Smart_(film),producer,Alex Gartner,,m,w
 669,Get Smart (film),http://en.wikipedia.org/wiki/Get_Smart_(film),producer,Charles Roven,http://en.wikipedia.org/wiki/Charles_Roven,m,
 669,Get Smart (film),http://en.wikipedia.org/wiki/Get_Smart_(film),producer,Andrew Lazar,http://en.wikipedia.org/wiki/Andrew_Lazar,m,w
-669,Get Smart (film),http://en.wikipedia.org/wiki/Get_Smart_(film),producer,Michael Ewing,,m,w
+669,Get Smart (film),http://en.wikipedia.org/wiki/Get_Smart_(film),producer,Michael Ewing,https://en.wikipedia.org/wiki/Michael_Ewing_Purves,m,w
 669,Get Smart (film),http://en.wikipedia.org/wiki/Get_Smart_(film),writer,Tom J. Astle,,m,w
 669,Get Smart (film),http://en.wikipedia.org/wiki/Get_Smart_(film),writer,Matt Ember,,m,w
 669,Get Smart (film),http://en.wikipedia.org/wiki/Get_Smart_(film),starring,Steve Carell,http://en.wikipedia.org/wiki/Steve_Carell,m,w
@@ -8073,7 +8073,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 671,Four Christmases,http://en.wikipedia.org/wiki/Four_Christmases,producer,Gary Barber,http://en.wikipedia.org/wiki/Gary_Barber,m,w
 671,Four Christmases,http://en.wikipedia.org/wiki/Four_Christmases,producer,Roger Birnbaum,http://en.wikipedia.org/wiki/Roger_Birnbaum,m,w
 671,Four Christmases,http://en.wikipedia.org/wiki/Four_Christmases,producer,Jonathan Glickman,http://en.wikipedia.org/wiki/Jonathan_Glickman,m,w
-671,Four Christmases,http://en.wikipedia.org/wiki/Four_Christmases,writer,Matt Allen,,m,w
+671,Four Christmases,http://en.wikipedia.org/wiki/Four_Christmases,writer,Matt Allen,https://en.wikipedia.org/wiki/Matt_Allen,m,w
 671,Four Christmases,http://en.wikipedia.org/wiki/Four_Christmases,writer,Caleb Wilson,,m,w
 671,Four Christmases,http://en.wikipedia.org/wiki/Four_Christmases,writer,Scott Moore,,m,w
 671,Four Christmases,http://en.wikipedia.org/wiki/Four_Christmases,writer,Jon Lucas,http://en.wikipedia.org/wiki/Jon_Lucas,m,w
@@ -8158,7 +8158,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,producer,Steven Spielberg,http://en.wikipedia.org/wiki/Steven_Spielberg,m,w
 677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,producer,Alex Kurtzman,http://en.wikipedia.org/wiki/Alex_Kurtzman,m,w
 677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,producer,Roberto Orci,http://en.wikipedia.org/wiki/Roberto_Orci,m,
-677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,producer,Pat Crowley,,m,w
+677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,producer,Pat Crowley,https://en.wikipedia.org/wiki/Pat_Crowley,m,w
 677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,screenplay,John Glenn (screenwriter),http://en.wikipedia.org/wiki/John_Glenn_(screenwriter),m,w
 677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,screenplay,Travis Adam Wright,,m,w
 677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,screenplay,Dan McDermott,,m,w
@@ -8171,7 +8171,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,starring,Billy Bob Thornton,http://en.wikipedia.org/wiki/Billy_Bob_Thornton,m,w
 677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,director,D. J. Caruso,http://en.wikipedia.org/wiki/D._J._Caruso,,w
 677,Eagle Eye,http://en.wikipedia.org/wiki/Eagle_Eye,story,Dan McDermott,,m,w
-678,Step Brothers (film),http://en.wikipedia.org/wiki/Step_Brothers_(film),producer,Jimmy Miller,,m,w
+678,Step Brothers (film),http://en.wikipedia.org/wiki/Step_Brothers_(film),producer,Jimmy Miller,https://en.wikipedia.org/wiki/Jimmy_Miller,m,w
 678,Step Brothers (film),http://en.wikipedia.org/wiki/Step_Brothers_(film),producer,Judd Apatow,http://en.wikipedia.org/wiki/Judd_Apatow,m,
 678,Step Brothers (film),http://en.wikipedia.org/wiki/Step_Brothers_(film),screenplay,Will Ferrell,http://en.wikipedia.org/wiki/Will_Ferrell,m,w
 678,Step Brothers (film),http://en.wikipedia.org/wiki/Step_Brothers_(film),screenplay,Adam McKay,http://en.wikipedia.org/wiki/Adam_McKay,m,w
@@ -8288,7 +8288,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 687,What Happens in Vegas,http://en.wikipedia.org/wiki/What_Happens_in_Vegas,director,Tom Vaughan (director),http://en.wikipedia.org/wiki/Tom_Vaughan_(director),m,w
 687,What Happens in Vegas,http://en.wikipedia.org/wiki/What_Happens_in_Vegas,producer,Michael Aguilar,,m,h
 687,What Happens in Vegas,http://en.wikipedia.org/wiki/What_Happens_in_Vegas,producer,Shawn Levy,http://en.wikipedia.org/wiki/Shawn_Levy,m,w
-687,What Happens in Vegas,http://en.wikipedia.org/wiki/What_Happens_in_Vegas,producer,Jimmy Miller,,m,w
+687,What Happens in Vegas,http://en.wikipedia.org/wiki/What_Happens_in_Vegas,producer,Jimmy Miller,https://en.wikipedia.org/wiki/Jimmy_Miller,m,w
 687,What Happens in Vegas,http://en.wikipedia.org/wiki/What_Happens_in_Vegas,writer,Dana Fox,http://en.wikipedia.org/wiki/Dana_Fox,f,w
 687,What Happens in Vegas,http://en.wikipedia.org/wiki/What_Happens_in_Vegas,starring,Ashton Kutcher,http://en.wikipedia.org/wiki/Ashton_Kutcher,m,w
 687,What Happens in Vegas,http://en.wikipedia.org/wiki/What_Happens_in_Vegas,starring,Cameron Diaz,http://en.wikipedia.org/wiki/Cameron_Diaz,m,h
@@ -8424,7 +8424,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 697,Role Models,http://en.wikipedia.org/wiki/Role_Models,starring,Elizabeth Banks,http://en.wikipedia.org/wiki/Elizabeth_Banks,f,b
 697,Role Models,http://en.wikipedia.org/wiki/Role_Models,starring,Jane Lynch,http://en.wikipedia.org/wiki/Jane_Lynch,f,w
 697,Role Models,http://en.wikipedia.org/wiki/Role_Models,starring,Ken Jeong,http://en.wikipedia.org/wiki/Ken_Jeong,m,a
-698,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,http://en.wikipedia.org/wiki/Hannah_Montana_and_Miley_Cyrus:_Best_of_Both_Worlds_Concert,director,Bruce Hendricks,,m,w
+698,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,http://en.wikipedia.org/wiki/Hannah_Montana_and_Miley_Cyrus:_Best_of_Both_Worlds_Concert,director,Bruce Hendricks,https://en.wikipedia.org/wiki/Bruce_Hendricks,m,w
 698,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,http://en.wikipedia.org/wiki/Hannah_Montana_and_Miley_Cyrus:_Best_of_Both_Worlds_Concert,producer,Art Repola,,m,w
 698,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,http://en.wikipedia.org/wiki/Hannah_Montana_and_Miley_Cyrus:_Best_of_Both_Worlds_Concert,starring,Miley Cyrus,http://en.wikipedia.org/wiki/Miley_Cyrus,f,w
 698,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,http://en.wikipedia.org/wiki/Hannah_Montana_and_Miley_Cyrus:_Best_of_Both_Worlds_Concert,starring,Jonas Brothers,http://en.wikipedia.org/wiki/Jonas_Brothers,m,w
@@ -8570,7 +8570,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 711,Monsters vs. Aliens,http://en.wikipedia.org/wiki/Monsters_vs._Aliens,story,Conrad Vernon,http://en.wikipedia.org/wiki/Conrad_Vernon,m,w
 711,Monsters vs. Aliens,http://en.wikipedia.org/wiki/Monsters_vs._Aliens,director,Conrad Vernon,http://en.wikipedia.org/wiki/Conrad_Vernon,m,w
 711,Monsters vs. Aliens,http://en.wikipedia.org/wiki/Monsters_vs._Aliens,director,Rob Letterman,http://en.wikipedia.org/wiki/Rob_Letterman,m,w
-711,Monsters vs. Aliens,http://en.wikipedia.org/wiki/Monsters_vs._Aliens,producer,Lisa Stewart,,f,w
+711,Monsters vs. Aliens,http://en.wikipedia.org/wiki/Monsters_vs._Aliens,producer,Lisa Stewart,https://en.wikipedia.org/wiki/Lisa_Stewart,f,w
 711,Monsters vs. Aliens,http://en.wikipedia.org/wiki/Monsters_vs._Aliens,writer,Maya Forbes,http://en.wikipedia.org/wiki/Maya_Forbes,f,w
 711,Monsters vs. Aliens,http://en.wikipedia.org/wiki/Monsters_vs._Aliens,writer,Wallace Wolodarsky,http://en.wikipedia.org/wiki/Wallace_Wolodarsky,m,
 711,Monsters vs. Aliens,http://en.wikipedia.org/wiki/Monsters_vs._Aliens,writer,Rob Letterman,http://en.wikipedia.org/wiki/Rob_Letterman,m,w
@@ -8591,15 +8591,15 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 712,Ice Age: Dawn of the Dinosaurs,http://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs,director,Mike Thurmeier,http://en.wikipedia.org/wiki/Mike_Thurmeier,m,
 712,Ice Age: Dawn of the Dinosaurs,http://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs,producer,Lori Forte,,f,w
 712,Ice Age: Dawn of the Dinosaurs,http://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs,producer,John C. Donkin,,m,w
-712,Ice Age: Dawn of the Dinosaurs,http://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs,screenplay,Michael Berg,,m,w
-712,Ice Age: Dawn of the Dinosaurs,http://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs,screenplay,Peter Ackerman,,m,w
+712,Ice Age: Dawn of the Dinosaurs,http://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs,screenplay,Michael Berg,https://en.wikipedia.org/wiki/Michael_Berg,m,w
+712,Ice Age: Dawn of the Dinosaurs,http://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs,screenplay,Peter Ackerman,https://en.wikipedia.org/wiki/Peter_Ackerman,m,w
 712,Ice Age: Dawn of the Dinosaurs,http://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs,screenplay,Mike Reiss,http://en.wikipedia.org/wiki/Mike_Reiss,m,w
 712,Ice Age: Dawn of the Dinosaurs,http://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs,screenplay,Yoni Brenner,,m,w
 712,Ice Age: Dawn of the Dinosaurs,http://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs,story,Jason Carter Eaton,,m,w
 713,X-Men Origins: Wolverine,http://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine,producer,Lauren Shuler Donner,http://en.wikipedia.org/wiki/Lauren_Shuler_Donner,f,w
 713,X-Men Origins: Wolverine,http://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine,producer,Hugh Jackman,http://en.wikipedia.org/wiki/Hugh_Jackman,m,w
 713,X-Men Origins: Wolverine,http://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine,producer,Ralph Winter (producer),http://en.wikipedia.org/wiki/Ralph_Winter_(producer),m,w
-713,X-Men Origins: Wolverine,http://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine,producer,John Palermo,,m,w
+713,X-Men Origins: Wolverine,http://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine,producer,John Palermo,https://en.wikipedia.org/wiki/John_Palermo,m,w
 713,X-Men Origins: Wolverine,http://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine,screenplay,David Benioff,http://en.wikipedia.org/wiki/David_Benioff,m,
 713,X-Men Origins: Wolverine,http://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine,screenplay,Skip Woods,http://en.wikipedia.org/wiki/Skip_Woods,m,w
 713,X-Men Origins: Wolverine,http://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine,starring,Hugh Jackman,http://en.wikipedia.org/wiki/Hugh_Jackman,m,w
@@ -8931,11 +8931,11 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 739,Knowing (film),http://en.wikipedia.org/wiki/Knowing_(film),starring,Nadia Townsend,http://en.wikipedia.org/wiki/Nadia_Townsend,f,w
 739,Knowing (film),http://en.wikipedia.org/wiki/Knowing_(film),director,Alex Proyas,http://en.wikipedia.org/wiki/Alex_Proyas,m,
 739,Knowing (film),http://en.wikipedia.org/wiki/Knowing_(film),story,Ryne Douglas Pearson,http://en.wikipedia.org/wiki/Ryne_Douglas_Pearson,m,w
-740,Hannah Montana: The Movie,http://en.wikipedia.org/wiki/Hannah_Montana:_The_Movie,producer,David Blocker,,m,w
+740,Hannah Montana: The Movie,http://en.wikipedia.org/wiki/Hannah_Montana:_The_Movie,producer,David Blocker,https://en.wikipedia.org/wiki/David_Blocker,m,w
 740,Hannah Montana: The Movie,http://en.wikipedia.org/wiki/Hannah_Montana:_The_Movie,producer,Billy Ray Cyrus,http://en.wikipedia.org/wiki/Billy_Ray_Cyrus,m,w
 740,Hannah Montana: The Movie,http://en.wikipedia.org/wiki/Hannah_Montana:_The_Movie,producer,Alfred Gough,http://en.wikipedia.org/wiki/Alfred_Gough,m,w
 740,Hannah Montana: The Movie,http://en.wikipedia.org/wiki/Hannah_Montana:_The_Movie,producer,Miles Millar,http://en.wikipedia.org/wiki/Miles_Millar,m,w
-740,Hannah Montana: The Movie,http://en.wikipedia.org/wiki/Hannah_Montana:_The_Movie,producer,Steven Peterman,,m,w
+740,Hannah Montana: The Movie,http://en.wikipedia.org/wiki/Hannah_Montana:_The_Movie,producer,Steven Peterman,https://en.wikipedia.org/wiki/Steven_Peterman,m,w
 740,Hannah Montana: The Movie,http://en.wikipedia.org/wiki/Hannah_Montana:_The_Movie,producer,Michael Poryes,http://en.wikipedia.org/wiki/Michael_Poryes,m,
 740,Hannah Montana: The Movie,http://en.wikipedia.org/wiki/Hannah_Montana:_The_Movie,starring,Miley Cyrus,http://en.wikipedia.org/wiki/Miley_Cyrus,f,w
 740,Hannah Montana: The Movie,http://en.wikipedia.org/wiki/Hannah_Montana:_The_Movie,starring,Emily Osment,http://en.wikipedia.org/wiki/Emily_Osment,f,w
@@ -8948,7 +8948,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 741,Where the Wild Things Are (film),http://en.wikipedia.org/wiki/Where_the_Wild_Things_Are_(film),director,Spike Jonze,http://en.wikipedia.org/wiki/Spike_Jonze,m,
 741,Where the Wild Things Are (film),http://en.wikipedia.org/wiki/Where_the_Wild_Things_Are_(film),producer,Tom Hanks,http://en.wikipedia.org/wiki/Tom_Hanks,m,w
 741,Where the Wild Things Are (film),http://en.wikipedia.org/wiki/Where_the_Wild_Things_Are_(film),producer,Gary Goetzman,http://en.wikipedia.org/wiki/Gary_Goetzman,m,w
-741,Where the Wild Things Are (film),http://en.wikipedia.org/wiki/Where_the_Wild_Things_Are_(film),producer,Maurice Sendak,,m,
+741,Where the Wild Things Are (film),http://en.wikipedia.org/wiki/Where_the_Wild_Things_Are_(film),producer,Maurice Sendak,https://en.wikipedia.org/wiki/Maurice_Sendak,m,
 741,Where the Wild Things Are (film),http://en.wikipedia.org/wiki/Where_the_Wild_Things_Are_(film),producer,John Carls,,m,w
 741,Where the Wild Things Are (film),http://en.wikipedia.org/wiki/Where_the_Wild_Things_Are_(film),producer,Vincent Landay,http://en.wikipedia.org/wiki/Vincent_Landay,m,w
 741,Where the Wild Things Are (film),http://en.wikipedia.org/wiki/Where_the_Wild_Things_Are_(film),screenplay,Spike Jonze,http://en.wikipedia.org/wiki/Spike_Jonze,m,
@@ -8981,9 +8981,9 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 743,Coraline (film),http://en.wikipedia.org/wiki/Coraline_(film),starring,Ian McShane,http://en.wikipedia.org/wiki/Ian_McShane,m,w
 744,Law Abiding Citizen,http://en.wikipedia.org/wiki/Law_Abiding_Citizen,producer,Gerard Butler,http://en.wikipedia.org/wiki/Gerard_Butler,m,w
 744,Law Abiding Citizen,http://en.wikipedia.org/wiki/Law_Abiding_Citizen,producer,Kurt Wimmer,http://en.wikipedia.org/wiki/Kurt_Wimmer,m,w
-744,Law Abiding Citizen,http://en.wikipedia.org/wiki/Law_Abiding_Citizen,producer,Mark Gill,,m,w
+744,Law Abiding Citizen,http://en.wikipedia.org/wiki/Law_Abiding_Citizen,producer,Mark Gill,https://en.wikipedia.org/wiki/Mark_Gill,m,w
 744,Law Abiding Citizen,http://en.wikipedia.org/wiki/Law_Abiding_Citizen,producer,Lucas Foster,,m,w
-744,Law Abiding Citizen,http://en.wikipedia.org/wiki/Law_Abiding_Citizen,producer,Alan Siegel,,m,w
+744,Law Abiding Citizen,http://en.wikipedia.org/wiki/Law_Abiding_Citizen,producer,Alan Siegel,https://en.wikipedia.org/wiki/Alan_Siegel,m,w
 744,Law Abiding Citizen,http://en.wikipedia.org/wiki/Law_Abiding_Citizen,starring,Jamie Foxx,http://en.wikipedia.org/wiki/Jamie_Foxx,f,b
 744,Law Abiding Citizen,http://en.wikipedia.org/wiki/Law_Abiding_Citizen,starring,Gerard Butler,http://en.wikipedia.org/wiki/Gerard_Butler,m,w
 744,Law Abiding Citizen,http://en.wikipedia.org/wiki/Law_Abiding_Citizen,starring,Bruce McGill,http://en.wikipedia.org/wiki/Bruce_McGill,m,w
@@ -9013,7 +9013,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 746,Michael Jackson's This Is It,http://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It,director,Kenny Ortega,http://en.wikipedia.org/wiki/Kenny_Ortega,m,h
 746,Michael Jackson's This Is It,http://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It,producer,Kenny Ortega,http://en.wikipedia.org/wiki/Kenny_Ortega,m,h
 746,Michael Jackson's This Is It,http://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It,producer,Paul Gongaware,,m,w
-746,Michael Jackson's This Is It,http://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It,producer,Randy Phillips,,m,w
+746,Michael Jackson's This Is It,http://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It,producer,Randy Phillips,https://en.wikipedia.org/wiki/Randy_Phillips,m,w
 746,Michael Jackson's This Is It,http://en.wikipedia.org/wiki/Michael_Jackson's_This_Is_It,starring,Michael Jackson,http://en.wikipedia.org/wiki/Michael_Jackson,m,b
 747,"I Love You, Man","http://en.wikipedia.org/wiki/I_Love_You,_Man",director,John Hamburg,http://en.wikipedia.org/wiki/John_Hamburg,m,w
 747,"I Love You, Man","http://en.wikipedia.org/wiki/I_Love_You,_Man",producer,Donald De Line,http://en.wikipedia.org/wiki/Donald_De_Line,m,w
@@ -9179,7 +9179,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 762,Tron: Legacy,http://en.wikipedia.org/wiki/Tron:_Legacy,screenplay,Edward Kitsis,http://en.wikipedia.org/wiki/Edward_Kitsis,m,w
 762,Tron: Legacy,http://en.wikipedia.org/wiki/Tron:_Legacy,screenplay,Adam Horowitz (screenwriter),http://en.wikipedia.org/wiki/Adam_Horowitz_(screenwriter),m,w
 762,Tron: Legacy,http://en.wikipedia.org/wiki/Tron:_Legacy,story,Edward Kitsis,http://en.wikipedia.org/wiki/Edward_Kitsis,m,w
-762,Tron: Legacy,http://en.wikipedia.org/wiki/Tron:_Legacy,story,Adam Horowitz,,m,w
+762,Tron: Legacy,http://en.wikipedia.org/wiki/Tron:_Legacy,story,Adam Horowitz,https://en.wikipedia.org/wiki/Adam_Horowitz,m,w
 762,Tron: Legacy,http://en.wikipedia.org/wiki/Tron:_Legacy,story,Brian Klugman,http://en.wikipedia.org/wiki/Brian_Klugman,m,w
 762,Tron: Legacy,http://en.wikipedia.org/wiki/Tron:_Legacy,story,Lee Sternthal,,m,w
 762,Tron: Legacy,http://en.wikipedia.org/wiki/Tron:_Legacy,starring,Garrett Hedlund,http://en.wikipedia.org/wiki/Garrett_Hedlund,m,w
@@ -9239,8 +9239,8 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 767,Megamind,http://en.wikipedia.org/wiki/Megamind,director,Tom McGrath (animator),http://en.wikipedia.org/wiki/Tom_McGrath_(animator),m,w
 767,Megamind,http://en.wikipedia.org/wiki/Megamind,producer,Lara Breay,http://en.wikipedia.org/wiki/Lara_Breay,f,
 767,Megamind,http://en.wikipedia.org/wiki/Megamind,producer,Denise Nolan Cascino,,f,w
-767,Megamind,http://en.wikipedia.org/wiki/Megamind,writer,Alan J. Schoolcraft,,m,w
-767,Megamind,http://en.wikipedia.org/wiki/Megamind,writer,Brent Simons,,m,w
+767,Megamind,http://en.wikipedia.org/wiki/Megamind,writer,Alan J. Schoolcraft,https://en.wikipedia.org/wiki/Alan_Schoolcraft,m,w
+767,Megamind,http://en.wikipedia.org/wiki/Megamind,writer,Brent Simons,https://en.wikipedia.org/wiki/Brent_Simon,m,w
 767,Megamind,http://en.wikipedia.org/wiki/Megamind,starring,Will Ferrell,http://en.wikipedia.org/wiki/Will_Ferrell,m,w
 767,Megamind,http://en.wikipedia.org/wiki/Megamind,starring,Tina Fey,http://en.wikipedia.org/wiki/Tina_Fey,f,w
 767,Megamind,http://en.wikipedia.org/wiki/Megamind,starring,Jonah Hill,http://en.wikipedia.org/wiki/Jonah_Hill,m,w
@@ -9282,8 +9282,8 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 770,Shutter Island (film),http://en.wikipedia.org/wiki/Shutter_Island_(film),starring,Max von Sydow,http://en.wikipedia.org/wiki/Max_von_Sydow,m,w
 771,The Other Guys,http://en.wikipedia.org/wiki/The_Other_Guys,producer,Adam McKay,http://en.wikipedia.org/wiki/Adam_McKay,m,w
 771,The Other Guys,http://en.wikipedia.org/wiki/The_Other_Guys,producer,Will Ferrell,http://en.wikipedia.org/wiki/Will_Ferrell,m,w
-771,The Other Guys,http://en.wikipedia.org/wiki/The_Other_Guys,producer,Jimmy Miller,,m,w
-771,The Other Guys,http://en.wikipedia.org/wiki/The_Other_Guys,producer,Patrick Crowley,,m,w
+771,The Other Guys,http://en.wikipedia.org/wiki/The_Other_Guys,producer,Jimmy Miller,https://en.wikipedia.org/wiki/Jimmy_Miller,m,w
+771,The Other Guys,http://en.wikipedia.org/wiki/The_Other_Guys,producer,Patrick Crowley,https://en.wikipedia.org/wiki/Patrick_Crowley,m,w
 771,The Other Guys,http://en.wikipedia.org/wiki/The_Other_Guys,writer,Adam McKay,http://en.wikipedia.org/wiki/Adam_McKay,m,w
 771,The Other Guys,http://en.wikipedia.org/wiki/The_Other_Guys,writer,Chris Henchy,http://en.wikipedia.org/wiki/Chris_Henchy,m,w
 771,The Other Guys,http://en.wikipedia.org/wiki/The_Other_Guys,starring,Will Ferrell,http://en.wikipedia.org/wiki/Will_Ferrell,m,w
@@ -9349,7 +9349,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 774,Valentine's Day (2010 film),http://en.wikipedia.org/wiki/Valentine's_Day_(2010_film),story,Abby Kohn,,f,w
 774,Valentine's Day (2010 film),http://en.wikipedia.org/wiki/Valentine's_Day_(2010_film),story,Marc Silverstein,http://en.wikipedia.org/wiki/Marc_Silverstein,m,w
 775,Black Swan (film),http://en.wikipedia.org/wiki/Black_Swan_(film),producer,Ari Handel,http://en.wikipedia.org/wiki/Ari_Handel,m,w
-775,Black Swan (film),http://en.wikipedia.org/wiki/Black_Swan_(film),producer,Scott Franklin,,m,w
+775,Black Swan (film),http://en.wikipedia.org/wiki/Black_Swan_(film),producer,Scott Franklin,https://en.wikipedia.org/wiki/Scott_Franklin,m,w
 775,Black Swan (film),http://en.wikipedia.org/wiki/Black_Swan_(film),producer,Mike Medavoy,http://en.wikipedia.org/wiki/Mike_Medavoy,m,
 775,Black Swan (film),http://en.wikipedia.org/wiki/Black_Swan_(film),producer,Arnold Messer,,m,w
 775,Black Swan (film),http://en.wikipedia.org/wiki/Black_Swan_(film),producer,Brian Oliver,,m,w
@@ -9482,10 +9482,10 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,producer,Paul Tamasy,,m,w
 785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,screenplay,Scott Silver,http://en.wikipedia.org/wiki/Scott_Silver,m,w
 785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,screenplay,Paul Tamasy,,m,w
-785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,screenplay,Eric Johnson,,m,w
+785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,screenplay,Eric Johnson,https://en.wikipedia.org/wiki/Eric_Johnson,m,w
 785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,story,Keith Dorrington,,m,w
 785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,story,Paul Tamasy,,m,w
-785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,story,Eric Johnson,,m,w
+785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,story,Eric Johnson,https://en.wikipedia.org/wiki/Eric_Johnson,m,w
 785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,starring,Mark Wahlberg,http://en.wikipedia.org/wiki/Mark_Wahlberg,m,w
 785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,starring,Christian Bale,http://en.wikipedia.org/wiki/Christian_Bale,m,w
 785,The Fighter,http://en.wikipedia.org/wiki/The_Fighter,starring,Amy Adams,http://en.wikipedia.org/wiki/Amy_Adams,f,w
@@ -9529,7 +9529,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 789,Percy Jackson & the Olympians: The Lightning Thief,http://en.wikipedia.org/wiki/Percy_Jackson_&_the_Olympians:_The_Lightning_Thief,producer,Karen Rosenfelt,,f,w
 789,Percy Jackson & the Olympians: The Lightning Thief,http://en.wikipedia.org/wiki/Percy_Jackson_&_the_Olympians:_The_Lightning_Thief,producer,Chris Columbus,,m,w
 789,Percy Jackson & the Olympians: The Lightning Thief,http://en.wikipedia.org/wiki/Percy_Jackson_&_the_Olympians:_The_Lightning_Thief,producer,Michael Barnathan,http://en.wikipedia.org/wiki/Michael_Barnathan,m,
-789,Percy Jackson & the Olympians: The Lightning Thief,http://en.wikipedia.org/wiki/Percy_Jackson_&_the_Olympians:_The_Lightning_Thief,producer,Mark Radcliffe,,m,w
+789,Percy Jackson & the Olympians: The Lightning Thief,http://en.wikipedia.org/wiki/Percy_Jackson_&_the_Olympians:_The_Lightning_Thief,producer,Mark Radcliffe,https://en.wikipedia.org/wiki/Mark_Radcliffe,m,w
 789,Percy Jackson & the Olympians: The Lightning Thief,http://en.wikipedia.org/wiki/Percy_Jackson_&_the_Olympians:_The_Lightning_Thief,starring,Logan Lerman,http://en.wikipedia.org/wiki/Logan_Lerman,m,w
 789,Percy Jackson & the Olympians: The Lightning Thief,http://en.wikipedia.org/wiki/Percy_Jackson_&_the_Olympians:_The_Lightning_Thief,starring,Brandon T. Jackson,http://en.wikipedia.org/wiki/Brandon_T._Jackson,m,b
 789,Percy Jackson & the Olympians: The Lightning Thief,http://en.wikipedia.org/wiki/Percy_Jackson_&_the_Olympians:_The_Lightning_Thief,starring,Alexandra Daddario,http://en.wikipedia.org/wiki/Alexandra_Daddario,f,w
@@ -9624,7 +9624,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 795,Knight and Day,http://en.wikipedia.org/wiki/Knight_and_Day,starring,Jordi Mollà,http://en.wikipedia.org/wiki/Jordi_Mollà,m,
 796,Dinner for Schmucks,http://en.wikipedia.org/wiki/Dinner_for_Schmucks,producer,Walter F. Parkes,http://en.wikipedia.org/wiki/Walter_F._Parkes,m,w
 796,Dinner for Schmucks,http://en.wikipedia.org/wiki/Dinner_for_Schmucks,producer,Jay Roach,http://en.wikipedia.org/wiki/Jay_Roach,m,w
-796,Dinner for Schmucks,http://en.wikipedia.org/wiki/Dinner_for_Schmucks,screenplay,David Guion,,m,w
+796,Dinner for Schmucks,http://en.wikipedia.org/wiki/Dinner_for_Schmucks,screenplay,David Guion,https://en.wikipedia.org/wiki/David_Guion,m,w
 796,Dinner for Schmucks,http://en.wikipedia.org/wiki/Dinner_for_Schmucks,screenplay,Michael Handelman,,m,w
 796,Dinner for Schmucks,http://en.wikipedia.org/wiki/Dinner_for_Schmucks,starring,Steve Carell,http://en.wikipedia.org/wiki/Steve_Carell,m,w
 796,Dinner for Schmucks,http://en.wikipedia.org/wiki/Dinner_for_Schmucks,starring,Jemaine Clement,http://en.wikipedia.org/wiki/Jemaine_Clement,m,w
@@ -9804,7 +9804,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 811,Rise of the Planet of the Apes,http://en.wikipedia.org/wiki/Rise_of_the_Planet_of_the_Apes,producer,Peter Chernin,http://en.wikipedia.org/wiki/Peter_Chernin,m,w
 811,Rise of the Planet of the Apes,http://en.wikipedia.org/wiki/Rise_of_the_Planet_of_the_Apes,producer,Dylan Clark,,m,w
 811,Rise of the Planet of the Apes,http://en.wikipedia.org/wiki/Rise_of_the_Planet_of_the_Apes,producer,Rick Jaffa and Amanda Silver,http://en.wikipedia.org/wiki/Rick_Jaffa_and_Amanda_Silver,m,w
-811,Rise of the Planet of the Apes,http://en.wikipedia.org/wiki/Rise_of_the_Planet_of_the_Apes,writer,Rick Jaffa,,m,w
+811,Rise of the Planet of the Apes,http://en.wikipedia.org/wiki/Rise_of_the_Planet_of_the_Apes,writer,Rick Jaffa,https://en.wikipedia.org/wiki/Rick_Jaffa_and_Amanda_Silver,m,w
 811,Rise of the Planet of the Apes,http://en.wikipedia.org/wiki/Rise_of_the_Planet_of_the_Apes,writer,Amanda Silver,,f,w
 811,Rise of the Planet of the Apes,http://en.wikipedia.org/wiki/Rise_of_the_Planet_of_the_Apes,starring,James Franco,http://en.wikipedia.org/wiki/James_Franco,m,h
 811,Rise of the Planet of the Apes,http://en.wikipedia.org/wiki/Rise_of_the_Planet_of_the_Apes,starring,Freida Pinto,http://en.wikipedia.org/wiki/Freida_Pinto,f,w
@@ -9910,7 +9910,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 818,Rio (2011 film),http://en.wikipedia.org/wiki/Rio_(2011_film),screenplay,Sam Harper,http://en.wikipedia.org/wiki/Sam_Harper,m,w
 818,Rio (2011 film),http://en.wikipedia.org/wiki/Rio_(2011_film),story,Carlos Saldanha,http://en.wikipedia.org/wiki/Carlos_Saldanha,m,a
 818,Rio (2011 film),http://en.wikipedia.org/wiki/Rio_(2011_film),story,Earl Richey Jones,,m,w
-818,Rio (2011 film),http://en.wikipedia.org/wiki/Rio_(2011_film),story,Todd Jones,,m,w
+818,Rio (2011 film),http://en.wikipedia.org/wiki/Rio_(2011_film),story,Todd Jones,https://en.wikipedia.org/wiki/Todd_Jones,m,w
 818,Rio (2011 film),http://en.wikipedia.org/wiki/Rio_(2011_film),starring,Jesse Eisenberg,http://en.wikipedia.org/wiki/Jesse_Eisenberg,m,w
 818,Rio (2011 film),http://en.wikipedia.org/wiki/Rio_(2011_film),starring,Anne Hathaway,http://en.wikipedia.org/wiki/Anne_Hathaway,f,w
 818,Rio (2011 film),http://en.wikipedia.org/wiki/Rio_(2011_film),starring,George Lopez,http://en.wikipedia.org/wiki/George_Lopez,m,h
@@ -10020,7 +10020,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 825,Hop (film),http://en.wikipedia.org/wiki/Hop_(film),screenplay,Cinco Paul and Ken Daurio,http://en.wikipedia.org/wiki/Cinco_Paul_and_Ken_Daurio,,w
 825,Hop (film),http://en.wikipedia.org/wiki/Hop_(film),screenplay,Brian Lynch (writer),http://en.wikipedia.org/wiki/Brian_Lynch_(writer),m,w
 825,Hop (film),http://en.wikipedia.org/wiki/Hop_(film),screenplay,Cinco Paul and Ken Daurio,http://en.wikipedia.org/wiki/Cinco_Paul_and_Ken_Daurio,,w
-825,Hop (film),http://en.wikipedia.org/wiki/Hop_(film),story,Cinco Paul,,,w
+825,Hop (film),http://en.wikipedia.org/wiki/Hop_(film),story,Cinco Paul,https://en.wikipedia.org/wiki/Cinco_Paul_and_Ken_Daurio,,w
 825,Hop (film),http://en.wikipedia.org/wiki/Hop_(film),story,Ken Daurio,,m,w
 825,Hop (film),http://en.wikipedia.org/wiki/Hop_(film),starring,Russell Brand,http://en.wikipedia.org/wiki/Russell_Brand,m,w
 825,Hop (film),http://en.wikipedia.org/wiki/Hop_(film),starring,James Marsden,http://en.wikipedia.org/wiki/James_Marsden,m,w
@@ -10069,7 +10069,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 828,The Girl with the Dragon Tattoo (2011 film),http://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo_(2011_film),director,David Fincher,http://en.wikipedia.org/wiki/David_Fincher,m,w
 828,The Girl with the Dragon Tattoo (2011 film),http://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo_(2011_film),screenplay,Steven Zaillian,http://en.wikipedia.org/wiki/Steven_Zaillian,m,
 829,Bad Teacher,http://en.wikipedia.org/wiki/Bad_Teacher,director,Jake Kasdan,http://en.wikipedia.org/wiki/Jake_Kasdan,m,w
-829,Bad Teacher,http://en.wikipedia.org/wiki/Bad_Teacher,producer,Jimmy Miller,,m,w
+829,Bad Teacher,http://en.wikipedia.org/wiki/Bad_Teacher,producer,Jimmy Miller,https://en.wikipedia.org/wiki/Jimmy_Miller,m,w
 829,Bad Teacher,http://en.wikipedia.org/wiki/Bad_Teacher,producer,David Householter,,m,
 829,Bad Teacher,http://en.wikipedia.org/wiki/Bad_Teacher,writer,Lee Eisenberg,http://en.wikipedia.org/wiki/Lee_Eisenberg,m,w
 829,Bad Teacher,http://en.wikipedia.org/wiki/Bad_Teacher,writer,Gene Stupnitsky,http://en.wikipedia.org/wiki/Gene_Stupnitsky,m,
@@ -10100,16 +10100,16 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,screenplay,Rob Sprackling small,,m,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,screenplay,Kelly Asbury,http://en.wikipedia.org/wiki/Kelly_Asbury,f,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,screenplay,Mark Burton (writer),http://en.wikipedia.org/wiki/Mark_Burton_(writer),m,w
-831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,screenplay,Andy Riley,,m,w
-831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,screenplay,Kevin Cecil,,m,w
+831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,screenplay,Andy Riley,https://en.wikipedia.org/wiki/Andy_Riley,m,w
+831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,screenplay,Kevin Cecil,https://en.wikipedia.org/wiki/Kevin_Cecil,m,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,screenplay,Emily Cook,,f,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,screenplay,Kathy Greenberg,,f,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,screenplay,Steve Hamilton Shaw,,m,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,story,Kelly Asbury,http://en.wikipedia.org/wiki/Kelly_Asbury,f,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,story,John R. Smith,,m,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,story,Rob Sprackling,,m,
-831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,story,Andy Riley,,m,w
-831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,story,Kevin Cecil,,m,w
+831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,story,Andy Riley,https://en.wikipedia.org/wiki/Andy_Riley,m,w
+831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,story,Kevin Cecil,https://en.wikipedia.org/wiki/Kevin_Cecil,m,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,story,Steve Hamilton Shaw,,m,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,starring,James McAvoy,http://en.wikipedia.org/wiki/James_McAvoy,m,w
 831,Gnomeo & Juliet,http://en.wikipedia.org/wiki/Gnomeo_&_Juliet,starring,Emily Blunt,http://en.wikipedia.org/wiki/Emily_Blunt,f,w
@@ -10178,7 +10178,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 836,"Crazy, Stupid, Love","http://en.wikipedia.org/wiki/Crazy,_Stupid,_Love",starring,Kevin Bacon,http://en.wikipedia.org/wiki/Kevin_Bacon,m,w
 837,Battle: Los Angeles,http://en.wikipedia.org/wiki/Battle:_Los_Angeles,director,Jonathan Liebesman,http://en.wikipedia.org/wiki/Jonathan_Liebesman,m,
 837,Battle: Los Angeles,http://en.wikipedia.org/wiki/Battle:_Los_Angeles,producer,Jeffrey Chernov,http://en.wikipedia.org/wiki/Jeffrey_Chernov,m,w
-837,Battle: Los Angeles,http://en.wikipedia.org/wiki/Battle:_Los_Angeles,producer,David Greenblatt,,m,w
+837,Battle: Los Angeles,http://en.wikipedia.org/wiki/Battle:_Los_Angeles,producer,David Greenblatt,https://en.wikipedia.org/wiki/David_Greenblatt,m,w
 837,Battle: Los Angeles,http://en.wikipedia.org/wiki/Battle:_Los_Angeles,writer,Christopher Bertolini,http://en.wikipedia.org/wiki/Christopher_Bertolini,m,w
 837,Battle: Los Angeles,http://en.wikipedia.org/wiki/Battle:_Los_Angeles,starring,Aaron Eckhart,http://en.wikipedia.org/wiki/Aaron_Eckhart,m,w
 837,Battle: Los Angeles,http://en.wikipedia.org/wiki/Battle:_Los_Angeles,starring,Michelle Rodriguez,http://en.wikipedia.org/wiki/Michelle_Rodriguez,f,h
@@ -10276,7 +10276,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 845,Contagion (film),http://en.wikipedia.org/wiki/Contagion_(film),director,Steven Soderbergh,http://en.wikipedia.org/wiki/Steven_Soderbergh,m,
 845,Contagion (film),http://en.wikipedia.org/wiki/Contagion_(film),producer,Michael Shamberg,http://en.wikipedia.org/wiki/Michael_Shamberg,m,w
 845,Contagion (film),http://en.wikipedia.org/wiki/Contagion_(film),producer,Stacey Sher,http://en.wikipedia.org/wiki/Stacey_Sher,f,w
-845,Contagion (film),http://en.wikipedia.org/wiki/Contagion_(film),producer,Gregory Jacobs,,m,w
+845,Contagion (film),http://en.wikipedia.org/wiki/Contagion_(film),producer,Gregory Jacobs,https://en.wikipedia.org/wiki/Gregory_Jacobs,m,w
 845,Contagion (film),http://en.wikipedia.org/wiki/Contagion_(film),writer,Scott Z. Burns,http://en.wikipedia.org/wiki/Scott_Z._Burns,m,w
 845,Contagion (film),http://en.wikipedia.org/wiki/Contagion_(film),starring,Marion Cotillard,http://en.wikipedia.org/wiki/Marion_Cotillard,f,
 845,Contagion (film),http://en.wikipedia.org/wiki/Contagion_(film),starring,Matt Damon,http://en.wikipedia.org/wiki/Matt_Damon,m,w
@@ -10491,7 +10491,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 860,Madagascar 3: Europe's Most Wanted,http://en.wikipedia.org/wiki/Madagascar_3:_Europe's_Most_Wanted,starring,Martin Short,http://en.wikipedia.org/wiki/Martin_Short,m,w
 860,Madagascar 3: Europe's Most Wanted,http://en.wikipedia.org/wiki/Madagascar_3:_Europe's_Most_Wanted,starring,Frances McDormand,http://en.wikipedia.org/wiki/Frances_McDormand,f,
 861,The Lorax (film),http://en.wikipedia.org/wiki/The_Lorax_(film),director,Chris Renaud (animator),http://en.wikipedia.org/wiki/Chris_Renaud_(animator),m,w
-861,The Lorax (film),http://en.wikipedia.org/wiki/The_Lorax_(film),director,Kyle Balda,,m,w
+861,The Lorax (film),http://en.wikipedia.org/wiki/The_Lorax_(film),director,Kyle Balda,https://en.wikipedia.org/wiki/Kyle_Balda,m,w
 861,The Lorax (film),http://en.wikipedia.org/wiki/The_Lorax_(film),producer,Chris Meledandri,http://en.wikipedia.org/wiki/Chris_Meledandri,m,
 861,The Lorax (film),http://en.wikipedia.org/wiki/The_Lorax_(film),producer,Janet Healy,,f,w
 861,The Lorax (film),http://en.wikipedia.org/wiki/The_Lorax_(film),screenplay,Cinco Paul and Ken Daurio,http://en.wikipedia.org/wiki/Cinco_Paul_and_Ken_Daurio,,w
@@ -10505,9 +10505,9 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 861,The Lorax (film),http://en.wikipedia.org/wiki/The_Lorax_(film),starring,Jenny Slate,http://en.wikipedia.org/wiki/Jenny_Slate,f,w
 862,Wreck-It Ralph,http://en.wikipedia.org/wiki/Wreck-It_Ralph,director,Rich Moore,http://en.wikipedia.org/wiki/Rich_Moore,m,w
 862,Wreck-It Ralph,http://en.wikipedia.org/wiki/Wreck-It_Ralph,producer,Clark Spencer,http://en.wikipedia.org/wiki/Clark_Spencer,m,w
-862,Wreck-It Ralph,http://en.wikipedia.org/wiki/Wreck-It_Ralph,screenplay,Phil Johnston,,m,w
+862,Wreck-It Ralph,http://en.wikipedia.org/wiki/Wreck-It_Ralph,screenplay,Phil Johnston,https://en.wikipedia.org/wiki/Phil_Johnston,m,w
 862,Wreck-It Ralph,http://en.wikipedia.org/wiki/Wreck-It_Ralph,story,Rich Moore,http://en.wikipedia.org/wiki/Rich_Moore,m,w
-862,Wreck-It Ralph,http://en.wikipedia.org/wiki/Wreck-It_Ralph,story,Phil Johnston,,m,w
+862,Wreck-It Ralph,http://en.wikipedia.org/wiki/Wreck-It_Ralph,story,Phil Johnston,https://en.wikipedia.org/wiki/Phil_Johnston,m,w
 862,Wreck-It Ralph,http://en.wikipedia.org/wiki/Wreck-It_Ralph,story,Jim Reardon,http://en.wikipedia.org/wiki/Jim_Reardon,m,w
 862,Wreck-It Ralph,http://en.wikipedia.org/wiki/Wreck-It_Ralph,starring,John C. Reilly,http://en.wikipedia.org/wiki/John_C._Reilly,m,w
 862,Wreck-It Ralph,http://en.wikipedia.org/wiki/Wreck-It_Ralph,starring,Sarah Silverman,http://en.wikipedia.org/wiki/Sarah_Silverman,f,w
@@ -10531,7 +10531,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 864,Men in Black 3,http://en.wikipedia.org/wiki/Men_in_Black_3,starring,Will Smith,http://en.wikipedia.org/wiki/Will_Smith,m,w
 865,Django Unchained,http://en.wikipedia.org/wiki/Django_Unchained,producer,Stacey Sher,http://en.wikipedia.org/wiki/Stacey_Sher,f,w
 865,Django Unchained,http://en.wikipedia.org/wiki/Django_Unchained,producer,Reginald Hudlin,http://en.wikipedia.org/wiki/Reginald_Hudlin,m,b
-865,Django Unchained,http://en.wikipedia.org/wiki/Django_Unchained,producer,Pilar Savone,,f,w
+865,Django Unchained,http://en.wikipedia.org/wiki/Django_Unchained,producer,Pilar Savone,https://en.wikipedia.org/wiki/Pilar_Savone,f,w
 865,Django Unchained,http://en.wikipedia.org/wiki/Django_Unchained,starring,Jamie Foxx,http://en.wikipedia.org/wiki/Jamie_Foxx_,f,b
 865,Django Unchained,http://en.wikipedia.org/wiki/Django_Unchained,starring,Christoph Waltz,http://en.wikipedia.org/wiki/Christoph_Waltz,m,w
 865,Django Unchained,http://en.wikipedia.org/wiki/Django_Unchained,starring,Leonardo DiCaprio,http://en.wikipedia.org/wiki/Leonardo_DiCaprio,m,w
@@ -10549,9 +10549,9 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 866,Ice Age: Continental Drift,http://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift,director,Mike Thurmeier,http://en.wikipedia.org/wiki/Mike_Thurmeier,m,
 866,Ice Age: Continental Drift,http://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift,producer,John C. Donkin,,m,w
 866,Ice Age: Continental Drift,http://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift,producer,Lori Forte,,f,w
-866,Ice Age: Continental Drift,http://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift,screenplay,Michael Berg,,m,w
+866,Ice Age: Continental Drift,http://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift,screenplay,Michael Berg,https://en.wikipedia.org/wiki/Michael_Berg,m,w
 866,Ice Age: Continental Drift,http://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift,screenplay,Jason Fuchs,http://en.wikipedia.org/wiki/Jason_Fuchs,m,w
-866,Ice Age: Continental Drift,http://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift,story,Michael Berg,,m,w
+866,Ice Age: Continental Drift,http://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift,story,Michael Berg,https://en.wikipedia.org/wiki/Michael_Berg,m,w
 866,Ice Age: Continental Drift,http://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift,story,Lori Forte,,f,w
 867,Snow White and the Huntsman,http://en.wikipedia.org/wiki/Snow_White_and_the_Huntsman,producer,Sam Mercer,http://en.wikipedia.org/wiki/Sam_Mercer,m,w
 867,Snow White and the Huntsman,http://en.wikipedia.org/wiki/Snow_White_and_the_Huntsman,screenplay,Evan Daugherty,http://en.wikipedia.org/wiki/Evan_Daugherty,m,w
@@ -10676,7 +10676,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 877,Life of Pi (film),http://en.wikipedia.org/wiki/Life_of_Pi_(film),screenplay,David Magee,http://en.wikipedia.org/wiki/David_Magee,m,w
 878,Magic Mike,http://en.wikipedia.org/wiki/Magic_Mike,director,Steven Soderbergh,http://en.wikipedia.org/wiki/Steven_Soderbergh,m,
 878,Magic Mike,http://en.wikipedia.org/wiki/Magic_Mike,producer,Nick Wechsler (producer),http://en.wikipedia.org/wiki/Nick_Wechsler_(producer),m,w
-878,Magic Mike,http://en.wikipedia.org/wiki/Magic_Mike,producer,Gregory Jacobs,,m,w
+878,Magic Mike,http://en.wikipedia.org/wiki/Magic_Mike,producer,Gregory Jacobs,https://en.wikipedia.org/wiki/Gregory_Jacobs,m,w
 878,Magic Mike,http://en.wikipedia.org/wiki/Magic_Mike,producer,Channing Tatum,http://en.wikipedia.org/wiki/Channing_Tatum,f,w
 878,Magic Mike,http://en.wikipedia.org/wiki/Magic_Mike,producer,Reid Carolin,http://en.wikipedia.org/wiki/Reid_Carolin,m,w
 878,Magic Mike,http://en.wikipedia.org/wiki/Magic_Mike,writer,Reid Carolin,http://en.wikipedia.org/wiki/Reid_Carolin,m,w
@@ -10688,7 +10688,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 878,Magic Mike,http://en.wikipedia.org/wiki/Magic_Mike,starring,Joe Manganiello,http://en.wikipedia.org/wiki/Joe_Manganiello,m,w
 878,Magic Mike,http://en.wikipedia.org/wiki/Magic_Mike,starring,Matthew McConaughey,http://en.wikipedia.org/wiki/Matthew_McConaughey,m,w
 879,The Bourne Legacy (film),http://en.wikipedia.org/wiki/The_Bourne_Legacy_(film),producer,Frank Marshall (film producer),http://en.wikipedia.org/wiki/Frank_Marshall_(film_producer),m,w
-879,The Bourne Legacy (film),http://en.wikipedia.org/wiki/The_Bourne_Legacy_(film),producer,Patrick Crowley,,m,w
+879,The Bourne Legacy (film),http://en.wikipedia.org/wiki/The_Bourne_Legacy_(film),producer,Patrick Crowley,https://en.wikipedia.org/wiki/Patrick_Crowley,m,w
 879,The Bourne Legacy (film),http://en.wikipedia.org/wiki/The_Bourne_Legacy_(film),producer,Jeffrey M. Weiner,,m,w
 879,The Bourne Legacy (film),http://en.wikipedia.org/wiki/The_Bourne_Legacy_(film),producer,Ben Smith,,m,w
 879,The Bourne Legacy (film),http://en.wikipedia.org/wiki/The_Bourne_Legacy_(film),screenplay,Tony Gilroy,http://en.wikipedia.org/wiki/Tony_Gilroy,m,w
@@ -10710,10 +10710,10 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,producer,Tripp Vinson,,m,w
 880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,producer,Charlotte Huggins,,f,w
 880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,screenplay,Brian Gunn,,m,w
-880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,screenplay,Mark Gunn,,m,w
+880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,screenplay,Mark Gunn,https://en.wikipedia.org/wiki/Mark_Gunn,m,w
 880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,story,Richard Outten,http://en.wikipedia.org/wiki/Richard_Outten,m,w
 880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,story,Brian Gunn,,m,w
-880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,story,Mark Gunn,,m,w
+880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,story,Mark Gunn,https://en.wikipedia.org/wiki/Mark_Gunn,m,w
 880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,starring,Josh Hutcherson,http://en.wikipedia.org/wiki/Josh_Hutcherson,m,w
 880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,starring,Dwayne Johnson,http://en.wikipedia.org/wiki/Dwayne_Johnson,m,w
 880,Journey 2: The Mysterious Island,http://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,starring,Vanessa Hudgens,http://en.wikipedia.org/wiki/Vanessa_Hudgens,f,w
@@ -10812,7 +10812,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 887,Wrath of the Titans,http://en.wikipedia.org/wiki/Wrath_of_the_Titans,producer,Polly Cohen Johnsen,http://en.wikipedia.org/wiki/Polly_Cohen_Johnsen,f,w
 887,Wrath of the Titans,http://en.wikipedia.org/wiki/Wrath_of_the_Titans,screenplay,Dan Mazeau,http://en.wikipedia.org/wiki/Dan_Mazeau,m,
 887,Wrath of the Titans,http://en.wikipedia.org/wiki/Wrath_of_the_Titans,story,Greg Berlanti,http://en.wikipedia.org/wiki/Greg_Berlanti,m,
-887,Wrath of the Titans,http://en.wikipedia.org/wiki/Wrath_of_the_Titans,story,David Leslie Johnson,,m,w
+887,Wrath of the Titans,http://en.wikipedia.org/wiki/Wrath_of_the_Titans,story,David Leslie Johnson,https://en.wikipedia.org/wiki/David_Leslie_Johnson,m,w
 887,Wrath of the Titans,http://en.wikipedia.org/wiki/Wrath_of_the_Titans,story,Dan Mazeau,http://en.wikipedia.org/wiki/Dan_Mazeau,m,
 887,Wrath of the Titans,http://en.wikipedia.org/wiki/Wrath_of_the_Titans,starring,Sam Worthington,http://en.wikipedia.org/wiki/Sam_Worthington,m,w
 887,Wrath of the Titans,http://en.wikipedia.org/wiki/Wrath_of_the_Titans,starring,Bill Nighy,http://en.wikipedia.org/wiki/Bill_Nighy,m,
@@ -10906,7 +10906,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 894,Contraband (2012 film),http://en.wikipedia.org/wiki/Contraband_(2012_film),producer,Tim Bevan,http://en.wikipedia.org/wiki/Tim_Bevan,m,w
 894,Contraband (2012 film),http://en.wikipedia.org/wiki/Contraband_(2012_film),producer,Eric Fellner,http://en.wikipedia.org/wiki/Eric_Fellner,m,w
 894,Contraband (2012 film),http://en.wikipedia.org/wiki/Contraband_(2012_film),producer,Baltasar Kormákur,http://en.wikipedia.org/wiki/Baltasar_Kormákur,m,
-894,Contraband (2012 film),http://en.wikipedia.org/wiki/Contraband_(2012_film),producer,Stephen Levinson,,m,w
+894,Contraband (2012 film),http://en.wikipedia.org/wiki/Contraband_(2012_film),producer,Stephen Levinson,https://en.wikipedia.org/wiki/Stephen_Levinson,m,w
 894,Contraband (2012 film),http://en.wikipedia.org/wiki/Contraband_(2012_film),producer,Mark Wahlberg,http://en.wikipedia.org/wiki/Mark_Wahlberg,m,w
 894,Contraband (2012 film),http://en.wikipedia.org/wiki/Contraband_(2012_film),screenplay,Aaron Guzikowski,http://en.wikipedia.org/wiki/Aaron_Guzikowski,m,w
 894,Contraband (2012 film),http://en.wikipedia.org/wiki/Contraband_(2012_film),starring,Mark Wahlberg,http://en.wikipedia.org/wiki/Mark_Wahlberg,m,w
@@ -10937,7 +10937,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 897,Battleship (film),http://en.wikipedia.org/wiki/Battleship_(film),producer,Peter Berg,http://en.wikipedia.org/wiki/Peter_Berg,m,w
 897,Battleship (film),http://en.wikipedia.org/wiki/Battleship_(film),producer,Brian Goldner,http://en.wikipedia.org/wiki/Brian_Goldner,m,w
 897,Battleship (film),http://en.wikipedia.org/wiki/Battleship_(film),producer,Scott Stuber,http://en.wikipedia.org/wiki/Scott_Stuber,m,w
-897,Battleship (film),http://en.wikipedia.org/wiki/Battleship_(film),producer,Sarah Aubrey,,f,w
+897,Battleship (film),http://en.wikipedia.org/wiki/Battleship_(film),producer,Sarah Aubrey,https://en.wikipedia.org/wiki/Sarah_Aubrey,f,w
 897,Battleship (film),http://en.wikipedia.org/wiki/Battleship_(film),producer,Duncan Henderson,,m,w
 897,Battleship (film),http://en.wikipedia.org/wiki/Battleship_(film),producer,Bennett Schneir,,m,w
 897,Battleship (film),http://en.wikipedia.org/wiki/Battleship_(film),writer,Jon Hoeber,,m,w
@@ -11023,7 +11023,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 903,Frozen (2013 film),http://en.wikipedia.org/wiki/Frozen_(2013_film),director,Jennifer Lee (filmmaker),http://en.wikipedia.org/wiki/Jennifer_Lee_(filmmaker),f,w
 903,Frozen (2013 film),http://en.wikipedia.org/wiki/Frozen_(2013_film),story,Chris Buck,http://en.wikipedia.org/wiki/Chris_Buck,m,w
 903,Frozen (2013 film),http://en.wikipedia.org/wiki/Frozen_(2013_film),story,Jennifer Lee,,f,w
-903,Frozen (2013 film),http://en.wikipedia.org/wiki/Frozen_(2013_film),story,Shane Morris,,m,w
+903,Frozen (2013 film),http://en.wikipedia.org/wiki/Frozen_(2013_film),story,Shane Morris,https://en.wikipedia.org/wiki/Shane_Morris,m,w
 903,Frozen (2013 film),http://en.wikipedia.org/wiki/Frozen_(2013_film),starring,Kristen Bell,http://en.wikipedia.org/wiki/Kristen_Bell,f,w
 903,Frozen (2013 film),http://en.wikipedia.org/wiki/Frozen_(2013_film),starring,Idina Menzel,http://en.wikipedia.org/wiki/Idina_Menzel,,w
 903,Frozen (2013 film),http://en.wikipedia.org/wiki/Frozen_(2013_film),starring,Jonathan Groff,http://en.wikipedia.org/wiki/Jonathan_Groff,m,w
@@ -11189,7 +11189,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 914,The Croods,http://en.wikipedia.org/wiki/The_Croods,director,Kirk DeMicco,http://en.wikipedia.org/wiki/Kirk_DeMicco,m,w
 914,The Croods,http://en.wikipedia.org/wiki/The_Croods,director,Chris Sanders (director),http://en.wikipedia.org/wiki/Chris_Sanders_(director),m,w
 914,The Croods,http://en.wikipedia.org/wiki/The_Croods,producer,Kristine Belson,http://en.wikipedia.org/wiki/Kristine_Belson,f,w
-914,The Croods,http://en.wikipedia.org/wiki/The_Croods,producer,Jane Hartwell,,f,w
+914,The Croods,http://en.wikipedia.org/wiki/The_Croods,producer,Jane Hartwell,https://en.wikipedia.org/wiki/Jane_Hartwell,f,w
 914,The Croods,http://en.wikipedia.org/wiki/The_Croods,screenplay,Kirk DeMicco,http://en.wikipedia.org/wiki/Kirk_DeMicco,m,w
 914,The Croods,http://en.wikipedia.org/wiki/The_Croods,screenplay,Chris Sanders,,m,w
 914,The Croods,http://en.wikipedia.org/wiki/The_Croods,story,John Cleese,http://en.wikipedia.org/wiki/John_Cleese,m,
@@ -11325,13 +11325,13 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 923,Anchorman 2: The Legend Continues,http://en.wikipedia.org/wiki/Anchorman_2:_The_Legend_Continues,starring,Christina Applegate,http://en.wikipedia.org/wiki/Christina_Applegate,f,w
 923,Anchorman 2: The Legend Continues,http://en.wikipedia.org/wiki/Anchorman_2:_The_Legend_Continues,director,Adam McKay,http://en.wikipedia.org/wiki/Adam_McKay,m,w
 924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Peter Berg,http://en.wikipedia.org/wiki/Peter_Berg,m,w
-924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Sarah Aubrey,,f,w
+924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Sarah Aubrey,https://en.wikipedia.org/wiki/Sarah_Aubrey,f,w
 924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Randall Emmett,,m,w
 924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Norton Herrick,,m,w
 924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Barry Spikings,http://en.wikipedia.org/wiki/Barry_Spikings,m,
 924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Akiva Goldsman,http://en.wikipedia.org/wiki/Akiva_Goldsman,m,
 924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Mark Wahlberg,http://en.wikipedia.org/wiki/Mark_Wahlberg,m,w
-924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Stephen Levinson,,m,w
+924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Stephen Levinson,https://en.wikipedia.org/wiki/Stephen_Levinson,m,w
 924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),producer,Vitaly Grigoriants,,m,
 924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),starring,Mark Wahlberg,http://en.wikipedia.org/wiki/Mark_Wahlberg,m,w
 924,Lone Survivor (film),http://en.wikipedia.org/wiki/Lone_Survivor_(film),starring,Taylor Kitsch,http://en.wikipedia.org/wiki/Taylor_Kitsch,f,w
@@ -11440,13 +11440,13 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 930,The Hangover Part III,http://en.wikipedia.org/wiki/The_Hangover_Part_III,starring,Justin Bartha,http://en.wikipedia.org/wiki/Justin_Bartha,m,w
 930,The Hangover Part III,http://en.wikipedia.org/wiki/The_Hangover_Part_III,starring,John Goodman,http://en.wikipedia.org/wiki/John_Goodman,m,w
 931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),producer,Lori Forte,,f,w
-931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),producer,Jerry Davis,,m,w
+931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),producer,Jerry Davis,https://en.wikipedia.org/wiki/Jerry_Davis,m,w
 931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),screenplay,William Joyce (writer),http://en.wikipedia.org/wiki/William_Joyce_(writer),m,w
 931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),screenplay,James V. Hart,http://en.wikipedia.org/wiki/James_V._Hart,m,w
 931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),screenplay,Daniel Shere,,m,w
 931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),screenplay,Tom J. Astle,,m,w
 931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),screenplay,Matt Ember,,m,w
-931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),story,William Joyce,,m,w
+931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),story,William Joyce,https://en.wikipedia.org/wiki/William_Joyce,m,w
 931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),story,James V. Hart,http://en.wikipedia.org/wiki/James_V._Hart,m,w
 931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),story,Chris Wedge,http://en.wikipedia.org/wiki/Chris_Wedge,m,w
 931,Epic (2013 film),http://en.wikipedia.org/wiki/Epic_(2013_film),starring,Colin Farrell,http://en.wikipedia.org/wiki/Colin_Farrell,m,w
@@ -11477,7 +11477,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 933,Jackass Presents: Bad Grandpa,http://en.wikipedia.org/wiki/Jackass_Presents:_Bad_Grandpa,story,Fax Bahr,,,w
 933,Jackass Presents: Bad Grandpa,http://en.wikipedia.org/wiki/Jackass_Presents:_Bad_Grandpa,story,Spike Jonze,http://en.wikipedia.org/wiki/Spike_Jonze,m,
 933,Jackass Presents: Bad Grandpa,http://en.wikipedia.org/wiki/Jackass_Presents:_Bad_Grandpa,story,Johnny Knoxville,http://en.wikipedia.org/wiki/Johnny_Knoxville,m,
-933,Jackass Presents: Bad Grandpa,http://en.wikipedia.org/wiki/Jackass_Presents:_Bad_Grandpa,story,Adam Small,,m,w
+933,Jackass Presents: Bad Grandpa,http://en.wikipedia.org/wiki/Jackass_Presents:_Bad_Grandpa,story,Adam Small,https://en.wikipedia.org/wiki/Adam_Small,m,w
 933,Jackass Presents: Bad Grandpa,http://en.wikipedia.org/wiki/Jackass_Presents:_Bad_Grandpa,story,Jeff Tremaine,http://en.wikipedia.org/wiki/Jeff_Tremaine,m,w
 933,Jackass Presents: Bad Grandpa,http://en.wikipedia.org/wiki/Jackass_Presents:_Bad_Grandpa,director,Jeff Tremaine,http://en.wikipedia.org/wiki/Jeff_Tremaine,m,w
 933,Jackass Presents: Bad Grandpa,http://en.wikipedia.org/wiki/Jackass_Presents:_Bad_Grandpa,starring,Johnny Knoxville,http://en.wikipedia.org/wiki/Johnny_Knoxville,m,
@@ -11511,8 +11511,8 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 935,This Is the End,http://en.wikipedia.org/wiki/This_Is_the_End,starring,Emma Watson,http://en.wikipedia.org/wiki/Emma_Watson,f,w
 935,This Is the End,http://en.wikipedia.org/wiki/This_Is_the_End,starring,Michael Cera,http://en.wikipedia.org/wiki/Michael_Cera,m,h
 936,Olympus Has Fallen,http://en.wikipedia.org/wiki/Olympus_Has_Fallen,producer,Gerard Butler,http://en.wikipedia.org/wiki/Gerard_Butler,m,w
-936,Olympus Has Fallen,http://en.wikipedia.org/wiki/Olympus_Has_Fallen,producer,Alan Siegel,,m,w
-936,Olympus Has Fallen,http://en.wikipedia.org/wiki/Olympus_Has_Fallen,producer,Mark Gill,,m,w
+936,Olympus Has Fallen,http://en.wikipedia.org/wiki/Olympus_Has_Fallen,producer,Alan Siegel,https://en.wikipedia.org/wiki/Alan_Siegel,m,w
+936,Olympus Has Fallen,http://en.wikipedia.org/wiki/Olympus_Has_Fallen,producer,Mark Gill,https://en.wikipedia.org/wiki/Mark_Gill,m,w
 936,Olympus Has Fallen,http://en.wikipedia.org/wiki/Olympus_Has_Fallen,writer,Creighton Rothenberger,,m,w
 936,Olympus Has Fallen,http://en.wikipedia.org/wiki/Olympus_Has_Fallen,writer,Katrin Benedikt,,f,
 936,Olympus Has Fallen,http://en.wikipedia.org/wiki/Olympus_Has_Fallen,starring,Gerard Butler,http://en.wikipedia.org/wiki/Gerard_Butler,m,w
@@ -11584,7 +11584,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 941,Oblivion (2013 film),http://en.wikipedia.org/wiki/Oblivion_(2013_film),producer,Joseph Kosinski,http://en.wikipedia.org/wiki/Joseph_Kosinski,m,w
 941,Oblivion (2013 film),http://en.wikipedia.org/wiki/Oblivion_(2013_film),producer,Peter Chernin,http://en.wikipedia.org/wiki/Peter_Chernin,m,w
 941,Oblivion (2013 film),http://en.wikipedia.org/wiki/Oblivion_(2013_film),producer,Dylan Clark,,m,w
-941,Oblivion (2013 film),http://en.wikipedia.org/wiki/Oblivion_(2013_film),producer,Barry Levine,,m,w
+941,Oblivion (2013 film),http://en.wikipedia.org/wiki/Oblivion_(2013_film),producer,Barry Levine,https://en.wikipedia.org/wiki/Barry_B._Levine,m,w
 941,Oblivion (2013 film),http://en.wikipedia.org/wiki/Oblivion_(2013_film),producer,Duncan Henderson,,m,w
 941,Oblivion (2013 film),http://en.wikipedia.org/wiki/Oblivion_(2013_film),screenplay,Karl Gajdusek,http://en.wikipedia.org/wiki/Karl_Gajdusek,m,
 941,Oblivion (2013 film),http://en.wikipedia.org/wiki/Oblivion_(2013_film),screenplay,Michael Arndt,http://en.wikipedia.org/wiki/Michael_Arndt,m,w
@@ -11616,7 +11616,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 943,Saving Mr. Banks,http://en.wikipedia.org/wiki/Saving_Mr._Banks,starring,Bradley Whitford,http://en.wikipedia.org/wiki/Bradley_Whitford,m,w
 943,Saving Mr. Banks,http://en.wikipedia.org/wiki/Saving_Mr._Banks,director,John Lee Hancock,http://en.wikipedia.org/wiki/John_Lee_Hancock,m,w
 944,Turbo (film),http://en.wikipedia.org/wiki/Turbo_(film),director,David Soren (animator),http://en.wikipedia.org/wiki/David_Soren_(animator),m,w
-944,Turbo (film),http://en.wikipedia.org/wiki/Turbo_(film),producer,Lisa Stewart,,f,w
+944,Turbo (film),http://en.wikipedia.org/wiki/Turbo_(film),producer,Lisa Stewart,https://en.wikipedia.org/wiki/Lisa_Stewart,f,w
 944,Turbo (film),http://en.wikipedia.org/wiki/Turbo_(film),writer,David Soren,,m,w
 944,Turbo (film),http://en.wikipedia.org/wiki/Turbo_(film),writer,Robert D. Siegel,http://en.wikipedia.org/wiki/Robert_D._Siegel,m,w
 944,Turbo (film),http://en.wikipedia.org/wiki/Turbo_(film),writer,Darren Lemke,,m,w
@@ -11866,7 +11866,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 961,Dawn of the Planet of the Apes,http://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes,producer,Dylan Clark,,m,w
 961,Dawn of the Planet of the Apes,http://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes,producer,Rick Jaffa and Amanda Silver,http://en.wikipedia.org/wiki/Rick_Jaffa_and_Amanda_Silver,m,w
 961,Dawn of the Planet of the Apes,http://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes,writer,Mark Bomback,http://en.wikipedia.org/wiki/Mark_Bomback,m,w
-961,Dawn of the Planet of the Apes,http://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes,writer,Rick Jaffa,,m,w
+961,Dawn of the Planet of the Apes,http://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes,writer,Rick Jaffa,https://en.wikipedia.org/wiki/Rick_Jaffa_and_Amanda_Silver,m,w
 961,Dawn of the Planet of the Apes,http://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes,writer,Amanda Silver,,f,w
 961,Dawn of the Planet of the Apes,http://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes,starring,Andy Serkis,http://en.wikipedia.org/wiki/Andy_Serkis,m,
 961,Dawn of the Planet of the Apes,http://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes,starring,Jason Clarke (actor),http://en.wikipedia.org/wiki/Jason_Clarke_(actor),m,w
@@ -12042,7 +12042,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 972,Rio 2,http://en.wikipedia.org/wiki/Rio_2,story,Carlos Saldanha,http://en.wikipedia.org/wiki/Carlos_Saldanha,m,a
 973,Into the Woods (film),http://en.wikipedia.org/wiki/Into_the_Woods_(film),director,Rob Marshall,http://en.wikipedia.org/wiki/Rob_Marshall,m,w
 973,Into the Woods (film),http://en.wikipedia.org/wiki/Into_the_Woods_(film),producer,Rob Marshall,http://en.wikipedia.org/wiki/Rob_Marshall,m,w
-973,Into the Woods (film),http://en.wikipedia.org/wiki/Into_the_Woods_(film),producer,John DeLuca,,m,w
+973,Into the Woods (film),http://en.wikipedia.org/wiki/Into_the_Woods_(film),producer,John DeLuca,https://en.wikipedia.org/wiki/John_DeLuca,m,w
 973,Into the Woods (film),http://en.wikipedia.org/wiki/Into_the_Woods_(film),producer,Marc E. Platt,http://en.wikipedia.org/wiki/Marc_E._Platt,m,w
 973,Into the Woods (film),http://en.wikipedia.org/wiki/Into_the_Woods_(film),producer,Callum McDougall,,m,w
 973,Into the Woods (film),http://en.wikipedia.org/wiki/Into_the_Woods_(film),screenplay,James Lapine,http://en.wikipedia.org/wiki/James_Lapine,m,w
@@ -12088,11 +12088,11 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,director,Shawn Levy,http://en.wikipedia.org/wiki/Shawn_Levy,m,w
 977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,producer,Shawn Levy,http://en.wikipedia.org/wiki/Shawn_Levy,m,w
 977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,producer,Chris Columbus (filmmaker),http://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker),m,w
-977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,producer,Mark Radcliffe,,m,w
-977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,screenplay,David Guion,,m,w
+977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,producer,Mark Radcliffe,https://en.wikipedia.org/wiki/Mark_Radcliffe,m,w
+977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,screenplay,David Guion,https://en.wikipedia.org/wiki/David_Guion,m,w
 977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,screenplay,Michael Handelman,,m,w
-977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,story,Mark Friedman,,m,w
-977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,story,David Guion,,m,w
+977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,story,Mark Friedman,https://en.wikipedia.org/wiki/Mark_Friedman,m,w
+977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,story,David Guion,https://en.wikipedia.org/wiki/David_Guion,m,w
 977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,story,Michael Handelman,,m,w
 977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,starring,Ben Stiller,http://en.wikipedia.org/wiki/Ben_Stiller,m,w
 977,Night at the Museum: Secret of the Tomb,http://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,starring,Robin Williams,http://en.wikipedia.org/wiki/Robin_Williams,f,w
@@ -12143,7 +12143,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),producer,Alex Siskin,,m,w
 981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),producer,Steve Tisch,http://en.wikipedia.org/wiki/Steve_Tisch,m,w
 981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),producer,Mace Neufeld,http://en.wikipedia.org/wiki/Mace_Neufeld,m,w
-981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),producer,Tony Eldridge,,m,w
+981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),producer,Tony Eldridge,https://en.wikipedia.org/wiki/Tony_Eldridge,m,w
 981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),producer,Michael Sloan,,m,w
 981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),screenplay,Richard Wenk,,m,w
 981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),starring,Denzel Washington,http://en.wikipedia.org/wiki/Denzel_Washington,m,b
@@ -12152,7 +12152,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),starring,David Harbour,http://en.wikipedia.org/wiki/David_Harbour,m,w
 981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),starring,Bill Pullman,http://en.wikipedia.org/wiki/Bill_Pullman,m,w
 981,The Equalizer (film),http://en.wikipedia.org/wiki/The_Equalizer_(film),starring,Melissa Leo,http://en.wikipedia.org/wiki/Melissa_Leo,f,w
-982,Noah (2014 film),http://en.wikipedia.org/wiki/Noah_(2014_film),producer,Scott Franklin,,m,w
+982,Noah (2014 film),http://en.wikipedia.org/wiki/Noah_(2014_film),producer,Scott Franklin,https://en.wikipedia.org/wiki/Scott_Franklin,m,w
 982,Noah (2014 film),http://en.wikipedia.org/wiki/Noah_(2014_film),producer,Darren Aronofsky,http://en.wikipedia.org/wiki/Darren_Aronofsky,m,
 982,Noah (2014 film),http://en.wikipedia.org/wiki/Noah_(2014_film),producer,Mary Parent,http://en.wikipedia.org/wiki/Mary_Parent,f,w
 982,Noah (2014 film),http://en.wikipedia.org/wiki/Noah_(2014_film),producer,Arnon Milchan,http://en.wikipedia.org/wiki/Arnon_Milchan,m,
@@ -12169,7 +12169,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 983,Edge of Tomorrow (film),http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film),producer,Erwin Stoff,http://en.wikipedia.org/wiki/Erwin_Stoff,m,w
 983,Edge of Tomorrow (film),http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film),producer,Tom Lassally,,m,
 983,Edge of Tomorrow (film),http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film),producer,Jeffrey Silver,,m,w
-983,Edge of Tomorrow (film),http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film),producer,Gregory Jacobs,,m,w
+983,Edge of Tomorrow (film),http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film),producer,Gregory Jacobs,https://en.wikipedia.org/wiki/Gregory_Jacobs,m,w
 983,Edge of Tomorrow (film),http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film),producer,Jason Hoffs,,m,
 983,Edge of Tomorrow (film),http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film),screenplay,Christopher McQuarrie,http://en.wikipedia.org/wiki/Christopher_McQuarrie,m,w
 983,Edge of Tomorrow (film),http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film),screenplay,Jez Butterworth,http://en.wikipedia.org/wiki/Jez_Butterworth,,w
@@ -12181,7 +12181,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 983,Edge of Tomorrow (film),http://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film),director,Doug Liman,http://en.wikipedia.org/wiki/Doug_Liman,m,w
 984,Non-Stop (film),http://en.wikipedia.org/wiki/Non-Stop_(film),producer,Joel Silver,http://en.wikipedia.org/wiki/Joel_Silver,m,w
 984,Non-Stop (film),http://en.wikipedia.org/wiki/Non-Stop_(film),producer,Alex Heineman,,m,w
-984,Non-Stop (film),http://en.wikipedia.org/wiki/Non-Stop_(film),producer,Steve Richards,,m,w
+984,Non-Stop (film),http://en.wikipedia.org/wiki/Non-Stop_(film),producer,Steve Richards,https://en.wikipedia.org/wiki/Steve_Richards,m,w
 984,Non-Stop (film),http://en.wikipedia.org/wiki/Non-Stop_(film),producer,Andrew Rona,http://en.wikipedia.org/wiki/Andrew_Rona,m,w
 984,Non-Stop (film),http://en.wikipedia.org/wiki/Non-Stop_(film),screenplay,John W. Richardson,,m,w
 984,Non-Stop (film),http://en.wikipedia.org/wiki/Non-Stop_(film),screenplay,Chris Roach,,m,w
@@ -12202,7 +12202,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 985,Heaven Is for Real (film),http://en.wikipedia.org/wiki/Heaven_Is_for_Real_(film),producer,Joe Roth,http://en.wikipedia.org/wiki/Joe_Roth,m,w
 985,Heaven Is for Real (film),http://en.wikipedia.org/wiki/Heaven_Is_for_Real_(film),producer,T. D. Jakes,http://en.wikipedia.org/wiki/T._D._Jakes,,w
 985,Heaven Is for Real (film),http://en.wikipedia.org/wiki/Heaven_Is_for_Real_(film),screenplay,Randall Wallace,http://en.wikipedia.org/wiki/Randall_Wallace,m,w
-985,Heaven Is for Real (film),http://en.wikipedia.org/wiki/Heaven_Is_for_Real_(film),screenplay,Christopher Parker,,m,w
+985,Heaven Is for Real (film),http://en.wikipedia.org/wiki/Heaven_Is_for_Real_(film),screenplay,Christopher Parker,https://en.wikipedia.org/wiki/Christopher_Parker,m,w
 985,Heaven Is for Real (film),http://en.wikipedia.org/wiki/Heaven_Is_for_Real_(film),starring,Greg Kinnear,http://en.wikipedia.org/wiki/Greg_Kinnear,m,w
 985,Heaven Is for Real (film),http://en.wikipedia.org/wiki/Heaven_Is_for_Real_(film),starring,Kelly Reilly,http://en.wikipedia.org/wiki/Kelly_Reilly,f,w
 985,Heaven Is for Real (film),http://en.wikipedia.org/wiki/Heaven_Is_for_Real_(film),starring,Connor Corum,,m,w
@@ -12225,8 +12225,8 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 987,Dumb and Dumber To,http://en.wikipedia.org/wiki/Dumb_and_Dumber_To,producer,Riza Aziz,http://en.wikipedia.org/wiki/Riza_Aziz,f,w
 987,Dumb and Dumber To,http://en.wikipedia.org/wiki/Dumb_and_Dumber_To,producer,Joey McFarland,http://en.wikipedia.org/wiki/Joey_McFarland,m,w
 987,Dumb and Dumber To,http://en.wikipedia.org/wiki/Dumb_and_Dumber_To,producer,Bradley Thomas,,m,w
-987,Dumb and Dumber To,http://en.wikipedia.org/wiki/Dumb_and_Dumber_To,writer,Peter Farrelly,,m,w
-987,Dumb and Dumber To,http://en.wikipedia.org/wiki/Dumb_and_Dumber_To,writer,Bobby Farrelly,,m,w
+987,Dumb and Dumber To,http://en.wikipedia.org/wiki/Dumb_and_Dumber_To,writer,Peter Farrelly,https://en.wikipedia.org/wiki/Peter_Farrelly,m,w
+987,Dumb and Dumber To,http://en.wikipedia.org/wiki/Dumb_and_Dumber_To,writer,Bobby Farrelly,https://en.wikipedia.org/wiki/Bobby_Farrelly,m,w
 987,Dumb and Dumber To,http://en.wikipedia.org/wiki/Dumb_and_Dumber_To,writer,Sean Anders,http://en.wikipedia.org/wiki/Sean_Anders,m,w
 987,Dumb and Dumber To,http://en.wikipedia.org/wiki/Dumb_and_Dumber_To,writer,John Morris,,m,w
 987,Dumb and Dumber To,http://en.wikipedia.org/wiki/Dumb_and_Dumber_To,writer,Bennett Yellin,,m,w
@@ -12241,8 +12241,8 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 988,Annie (2014 film),http://en.wikipedia.org/wiki/Annie_(2014_film),producer,Jay Z,http://en.wikipedia.org/wiki/Jay_Z,m,
 988,Annie (2014 film),http://en.wikipedia.org/wiki/Annie_(2014_film),producer,Caleeb Pinkett,http://en.wikipedia.org/wiki/Caleeb_Pinkett,,b
 988,Annie (2014 film),http://en.wikipedia.org/wiki/Annie_(2014_film),producer,James Lassiter,http://en.wikipedia.org/wiki/James_Lassiter,m,w
-988,Annie (2014 film),http://en.wikipedia.org/wiki/Annie_(2014_film),producer,Jay Brown,,m,w
-988,Annie (2014 film),http://en.wikipedia.org/wiki/Annie_(2014_film),producer,Tyran Smith,,m,w
+988,Annie (2014 film),http://en.wikipedia.org/wiki/Annie_(2014_film),producer,Jay Brown,https://en.wikipedia.org/wiki/Jay_Brown,m,w
+988,Annie (2014 film),http://en.wikipedia.org/wiki/Annie_(2014_film),producer,Tyran Smith,https://en.wikipedia.org/wiki/Tyran_Smith,m,w
 988,Annie (2014 film),http://en.wikipedia.org/wiki/Annie_(2014_film),writer,Will Gluck,http://en.wikipedia.org/wiki/Will_Gluck,m,w
 988,Annie (2014 film),http://en.wikipedia.org/wiki/Annie_(2014_film),writer,Aline Brosh McKenna,http://en.wikipedia.org/wiki/Aline_Brosh_McKenna,f,w
 988,Annie (2014 film),http://en.wikipedia.org/wiki/Annie_(2014_film),writer,Emma Thompson,http://en.wikipedia.org/wiki/Emma_Thompson,f,w
@@ -12314,7 +12314,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 994,Let's Be Cops,http://en.wikipedia.org/wiki/Let's_Be_Cops,producer,Luke Greenfield,http://en.wikipedia.org/wiki/Luke_Greenfield,m,w
 994,Let's Be Cops,http://en.wikipedia.org/wiki/Let's_Be_Cops,producer,Simon Kinberg,http://en.wikipedia.org/wiki/Simon_Kinberg,m,w
 994,Let's Be Cops,http://en.wikipedia.org/wiki/Let's_Be_Cops,writer,Luke Greenfield,http://en.wikipedia.org/wiki/Luke_Greenfield,m,w
-994,Let's Be Cops,http://en.wikipedia.org/wiki/Let's_Be_Cops,writer,Nicholas Thomas,,m,w
+994,Let's Be Cops,http://en.wikipedia.org/wiki/Let's_Be_Cops,writer,Nicholas Thomas,https://en.wikipedia.org/wiki/Nicholas_Thomas,m,w
 994,Let's Be Cops,http://en.wikipedia.org/wiki/Let's_Be_Cops,starring,Jake Johnson,http://en.wikipedia.org/wiki/Jake_Johnson,m,w
 994,Let's Be Cops,http://en.wikipedia.org/wiki/Let's_Be_Cops,starring,"Damon Wayans, Jr.","http://en.wikipedia.org/wiki/Damon_Wayans,_Jr.",m,
 994,Let's Be Cops,http://en.wikipedia.org/wiki/Let's_Be_Cops,starring,Nina Dobrev,http://en.wikipedia.org/wiki/Nina_Dobrev,f,
@@ -12336,7 +12336,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 995,The Monuments Men,http://en.wikipedia.org/wiki/The_Monuments_Men,director,George Clooney,http://en.wikipedia.org/wiki/George_Clooney,m,w
 996,Hercules (2014 film),http://en.wikipedia.org/wiki/Hercules_(2014_film),director,Brett Ratner,http://en.wikipedia.org/wiki/Brett_Ratner,m,w
 996,Hercules (2014 film),http://en.wikipedia.org/wiki/Hercules_(2014_film),producer,Brett Ratner,http://en.wikipedia.org/wiki/Brett_Ratner,m,w
-996,Hercules (2014 film),http://en.wikipedia.org/wiki/Hercules_(2014_film),producer,Barry Levine,,m,w
+996,Hercules (2014 film),http://en.wikipedia.org/wiki/Hercules_(2014_film),producer,Barry Levine,https://en.wikipedia.org/wiki/Barry_B._Levine,m,w
 996,Hercules (2014 film),http://en.wikipedia.org/wiki/Hercules_(2014_film),producer,Beau Flynn,http://en.wikipedia.org/wiki/Beau_Flynn,m,w
 996,Hercules (2014 film),http://en.wikipedia.org/wiki/Hercules_(2014_film),screenplay,Ryan J. Condal,,m,
 996,Hercules (2014 film),http://en.wikipedia.org/wiki/Hercules_(2014_film),screenplay,Evan Spiliotopoulos,,m,
@@ -12383,7 +12383,7 @@ movie_id,movie_name,movie_url,role,name,url,gender,race
 1000,Exodus: Gods and Kings,http://en.wikipedia.org/wiki/Exodus:_Gods_and_Kings,producer,Peter Chernin,http://en.wikipedia.org/wiki/Peter_Chernin,m,w
 1000,Exodus: Gods and Kings,http://en.wikipedia.org/wiki/Exodus:_Gods_and_Kings,producer,Ridley Scott,http://en.wikipedia.org/wiki/Ridley_Scott,m,w
 1000,Exodus: Gods and Kings,http://en.wikipedia.org/wiki/Exodus:_Gods_and_Kings,producer,Jenno Topping,,,w
-1000,Exodus: Gods and Kings,http://en.wikipedia.org/wiki/Exodus:_Gods_and_Kings,producer,Michael Schaefer,,m,w
+1000,Exodus: Gods and Kings,http://en.wikipedia.org/wiki/Exodus:_Gods_and_Kings,producer,Michael Schaefer,https://en.wikipedia.org/wiki/Michael_P._Schaefer,m,w
 1000,Exodus: Gods and Kings,http://en.wikipedia.org/wiki/Exodus:_Gods_and_Kings,producer,Mark Huffam,,m,
 1000,Exodus: Gods and Kings,http://en.wikipedia.org/wiki/Exodus:_Gods_and_Kings,writer,Adam Cooper,,m,w
 1000,Exodus: Gods and Kings,http://en.wikipedia.org/wiki/Exodus:_Gods_and_Kings,writer,Bill Collage,,m,

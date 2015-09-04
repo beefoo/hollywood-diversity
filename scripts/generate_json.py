@@ -6,7 +6,7 @@ import os
 
 INPUT_FILE = '../data/people_box_office_top_50_movies_1995-2014.csv'
 OUTPUT_DIR = '../data/'
-WRITE_FILES = False
+WRITE_FILES = True
 
 people_movie_roles = []
 movies = []

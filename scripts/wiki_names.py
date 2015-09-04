@@ -1,10 +1,19 @@
 # -*- coding: utf-8 -*-
 
 import csv
+import os
+import sys
 import wikipedia
 
 INPUT_FILE = '../data/people_box_office_top_50_movies_1995-2014.csv'
-UPDATE_FILE = False
+UPDATE_FILE = True
+
+def is_int(s):
+    try:
+        int(s)
+        return True
+    except ValueError:
+        return False
 
 people_movie_roles = []
 headers = []
@@ -31,24 +40,29 @@ people_names = set([p['name'] for p in people_movie_roles if not p['url']])
 print('Found '+str(len(people_names))+' people without URLs.')
 
 # Add URLs if found
+matches = 0
 for n in people_names:
     page = False
     try:
         page = wikipedia.page(n)
-    except wikipedia.exceptions.DisambiguationError as e:
+    # except wikipedia.exceptions.DisambiguationError as e:
+    #     for i, o in enumerate(e.options):
+    #         print(str(i)+'. '+o)
+    #     selection = raw_input('Your selection for '+n+': ')
+    #     if is_int(selection):
+    #         page = wikipedia.page(e.options[selection])
+    except:
+        page = False
 
-    except wikipedia.exceptions.PageError as e:
-
-    except wikipedia.exceptions.RedirectError as e:
-
-    if page:
-        print('Found match: '+n+' -> '+page.url)
+    if page and page.title.split(' ')[0] == n.split(' ')[0]:
+        print('Found match: '+n.decode('utf-8')+' -> '+page.url.decode('utf-8'))
+        matches += 1
         for i, p in enumerate(people_movie_roles):
             if p['name']==n:
                 people_movie_roles[i]['url'] = page.url
     else:
-        print('No match for '+n)
-    break
+        print('No match for '+n.decode('utf-8'))
+print('Found '+str(matches)+' matches.')
 
 # Write data back to file
 if UPDATE_FILE:

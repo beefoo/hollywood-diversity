@@ -49,6 +49,13 @@ for p in no_urls:
         updated_urls += 1
 print('Found '+str(updated_urls)+ ' URLs for names')
 
+# Update names based on URLs
+urls = set([p['url'] for p in people_movie_roles if p['url']])
+for url in urls:
+    names = set([p['name'] for p in people_movie_roles if p['url']==url])
+    if len(names) > 1:
+        print('Found discrepancy: '+names.join(', '))
+
 # Write data back to file
 if UPDATE_FILE:
     with open(INPUT_FILE, 'wb') as f:
