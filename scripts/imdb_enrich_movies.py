@@ -1,6 +1,12 @@
 # -*- coding: utf-8 -*-
 
-# Example usage: python imdb_enrich_movies.py ../data/box_office_top_50_movies_1995-2014.csv
+# Description:
+#   This file takes in a .csv file of movies and adds IMDB information to it.
+#   The script prompts user for input if there are ambiguities for a title.
+#
+# Example usage:
+#   python imdb_enrich_movies.py ../data/box_office_top_50_movies_1995-2014.csv
+#       .csv file must have at least columns: movie_id, year, name
 
 import csv
 from imdb import IMDb
@@ -27,7 +33,7 @@ with open(MOVIE_FILE, 'rb') as f:
     headers = next(rows, None) # remove header
     # add new headers if not exist
     for h in headers_to_add:
-        if not h in headers:
+        if h not in headers:
             headers.append(h)
     # populate movies list
     for row in rows:
