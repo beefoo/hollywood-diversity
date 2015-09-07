@@ -86,8 +86,9 @@ def addRoleList(movie, role, role_list):
         person['order'] = i + 1
         person['name'] = r['name'].encode('utf-8')
         person['imdb_id'] = r.personID
-        people.append(person)
-        added_people.append(person)
+        if len([p for p in added_people if p['imdb_id']==person['imdb_id']]) <= 0: # Ensure no duplicates
+            people.append(person)
+            added_people.append(person)
 
     return added_people
 
