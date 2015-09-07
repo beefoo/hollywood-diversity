@@ -115,7 +115,7 @@ def savePeople():
             for h in people_headers:
                 row.append(p[h])
             w.writerow(row)
-        # print('Successfully updated file: '+MOVIE_FILE)
+        # print('Successfully wrote to file: '+PEOPLE_FILE)
 
 def appendPeople(added_people):
     global PEOPLE_FILE
@@ -128,7 +128,7 @@ def appendPeople(added_people):
             for h in people_headers:
                 row.append(p[h])
             w.writerow(row)
-        # print('Successfully updated file: '+MOVIE_FILE)
+        # print('Successfully updated file: '+PEOPLE_FILE)
 
 for movie in movies:
     # Already processed this movie

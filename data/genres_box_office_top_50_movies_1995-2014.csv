@@ -1,0 +1,3199 @@
+movie_id,movie_name,genre
+1,Toy Story,Animation
+1,Toy Story,Adventure
+1,Toy Story,Comedy
+1,Toy Story,Family
+1,Toy Story,Fantasy
+2,Batman Forever,Action
+2,Batman Forever,Adventure
+2,Batman Forever,Fantasy
+3,Apollo 13,Adventure
+3,Apollo 13,Drama
+3,Apollo 13,History
+4,Pocahontas,Animation
+4,Pocahontas,Adventure
+4,Pocahontas,Drama
+4,Pocahontas,Family
+4,Pocahontas,History
+4,Pocahontas,Musical
+4,Pocahontas,Romance
+5,Ace Ventura: When Nature Calls,Adventure
+5,Ace Ventura: When Nature Calls,Comedy
+6,GoldenEye,Action
+6,GoldenEye,Adventure
+6,GoldenEye,Sci-Fi
+6,GoldenEye,Thriller
+7,Jumanji,Adventure
+7,Jumanji,Family
+7,Jumanji,Fantasy
+7,Jumanji,Thriller
+8,Casper,Comedy
+8,Casper,Family
+8,Casper,Fantasy
+9,Seven,Drama
+9,Seven,Mystery
+9,Seven,Thriller
+10,Die Hard: With A Vengeance,Action
+10,Die Hard: With A Vengeance,Adventure
+10,Die Hard: With A Vengeance,Thriller
+11,Crimson Tide,Action
+11,Crimson Tide,Drama
+11,Crimson Tide,Thriller
+12,Waterworld,Action
+12,Waterworld,Adventure
+12,Waterworld,Sci-Fi
+12,Waterworld,Thriller
+13,Dangerous Minds,Biography
+13,Dangerous Minds,Drama
+14,Mr. Holland's Opus,Drama
+14,Mr. Holland's Opus,Music
+15,While You Were Sleeping,Comedy
+15,While You Were Sleeping,Drama
+15,While You Were Sleeping,Romance
+16,Congo,Action
+16,Congo,Adventure
+16,Congo,Mystery
+16,Congo,Sci-Fi
+17,Father of the Bride Part II,Comedy
+18,Braveheart,Biography
+18,Braveheart,Drama
+18,Braveheart,History
+18,Braveheart,War
+19,Get Shorty,Comedy
+19,Get Shorty,Crime
+19,Get Shorty,Thriller
+20,Grumpier Old Men,Comedy
+20,Grumpier Old Men,Romance
+21,The Bridges of Madison County,Drama
+21,The Bridges of Madison County,Romance
+22,Mortal Kombat,Action
+22,Mortal Kombat,Adventure
+22,Mortal Kombat,Fantasy
+22,Mortal Kombat,Sci-Fi
+22,Mortal Kombat,Thriller
+23,Nine Months,Comedy
+23,Nine Months,Romance
+24,Outbreak,Action
+24,Outbreak,Drama
+24,Outbreak,Thriller
+25,Heat,Action
+25,Heat,Crime
+25,Heat,Drama
+25,Heat,Thriller
+26,Waiting to Exhale,Comedy
+26,Waiting to Exhale,Drama
+26,Waiting to Exhale,Romance
+27,Bad Boys,Action
+27,Bad Boys,Comedy
+27,Bad Boys,Crime
+27,Bad Boys,Drama
+27,Bad Boys,Thriller
+28,Babe,Comedy
+28,Babe,Drama
+28,Babe,Family
+29,The American President,Comedy
+29,The American President,Drama
+29,The American President,Romance
+30,Species,Horror
+30,Species,Sci-Fi
+31,12 Monkeys,Mystery
+31,12 Monkeys,Sci-Fi
+31,12 Monkeys,Thriller
+32,Clueless,Comedy
+32,Clueless,Romance
+33,Sabrina,Comedy
+33,Sabrina,Drama
+34,Something to Talk About,Comedy
+34,Something to Talk About,Drama
+34,Something to Talk About,Romance
+35,The Net,Action
+35,The Net,Crime
+35,The Net,Drama
+35,The Net,Mystery
+35,The Net,Thriller
+36,Under Siege 2: Dark Territory,Action
+36,Under Siege 2: Dark Territory,Thriller
+37,A Walk in the Clouds,Drama
+37,A Walk in the Clouds,Romance
+38,The Brady Bunch Movie,Comedy
+39,Sense and Sensibility,Drama
+39,Sense and Sensibility,Romance
+40,Casino,Biography
+40,Casino,Crime
+40,Casino,Drama
+41,Man of the House,Comedy
+42,Dead Man Walking,Crime
+42,Dead Man Walking,Drama
+43,French Kiss,Comedy
+43,French Kiss,Drama
+43,French Kiss,Romance
+44,Higher Learning,Crime
+44,Higher Learning,Drama
+44,Higher Learning,Romance
+44,Higher Learning,Sport
+44,Higher Learning,Thriller
+45,Mighty Morphin' Power Rangers,Action
+45,Mighty Morphin' Power Rangers,Adventure
+45,Mighty Morphin' Power Rangers,Family
+45,Mighty Morphin' Power Rangers,Sci-Fi
+45,Mighty Morphin' Power Rangers,Thriller
+46,First Knight,Action
+46,First Knight,Adventure
+46,First Knight,Romance
+46,First Knight,Thriller
+47,Just Cause,Action
+47,Just Cause,Crime
+47,Just Cause,Drama
+47,Just Cause,Mystery
+47,Just Cause,Thriller
+48,"To Wong Foo, Thanks for Everything, Julie Newmar",Comedy
+48,"To Wong Foo, Thanks for Everything, Julie Newmar",Drama
+49,The Indian in the Cupboard,Family
+49,The Indian in the Cupboard,Adventure
+49,The Indian in the Cupboard,Fantasy
+50,Money Train,Action
+50,Money Train,Comedy
+50,Money Train,Crime
+50,Money Train,Drama
+50,Money Train,Thriller
+51,Independence Day,Action
+51,Independence Day,Adventure
+51,Independence Day,Sci-Fi
+52,Twister,Action
+52,Twister,Adventure
+52,Twister,Drama
+52,Twister,Thriller
+53,Mission: Impossible,Action
+53,Mission: Impossible,Adventure
+53,Mission: Impossible,Thriller
+54,Jerry Maguire,Comedy
+54,Jerry Maguire,Drama
+54,Jerry Maguire,Romance
+54,Jerry Maguire,Sport
+55,Ransom,Crime
+55,Ransom,Thriller
+56,101 Dalmatians (1996),Adventure
+56,101 Dalmatians (1996),Comedy
+56,101 Dalmatians (1996),Family
+57,The Rock,Action
+57,The Rock,Adventure
+57,The Rock,Thriller
+58,The Nutty Professor (1996),Comedy
+58,The Nutty Professor (1996),Romance
+58,The Nutty Professor (1996),Sci-Fi
+59,The Birdcage,Comedy
+60,A Time to Kill,Crime
+60,A Time to Kill,Drama
+60,A Time to Kill,Thriller
+61,The First Wives Club,Comedy
+62,Phenomenon,Drama
+62,Phenomenon,Fantasy
+62,Phenomenon,Romance
+62,Phenomenon,Sci-Fi
+63,Scream,Horror
+63,Scream,Mystery
+64,Eraser,Action
+64,Eraser,Drama
+64,Eraser,Mystery
+64,Eraser,Thriller
+65,The Hunchback of Notre Dame,Animation
+65,The Hunchback of Notre Dame,Drama
+65,The Hunchback of Notre Dame,Family
+65,The Hunchback of Notre Dame,Musical
+65,The Hunchback of Notre Dame,Romance
+66,Michael,Comedy
+66,Michael,Drama
+66,Michael,Fantasy
+67,Star Trek: First Contact,Action
+67,Star Trek: First Contact,Adventure
+67,Star Trek: First Contact,Sci-Fi
+67,Star Trek: First Contact,Thriller
+68,Space Jam,Animation
+68,Space Jam,Adventure
+68,Space Jam,Comedy
+68,Space Jam,Family
+68,Space Jam,Fantasy
+68,Space Jam,Sci-Fi
+68,Space Jam,Sport
+69,The English Patient,Drama
+69,The English Patient,Romance
+69,The English Patient,War
+70,Broken Arrow (1996),Action
+70,Broken Arrow (1996),Adventure
+70,Broken Arrow (1996),Comedy
+70,Broken Arrow (1996),Thriller
+71,Beavis and Butt-Head Do America,Animation
+71,Beavis and Butt-Head Do America,Adventure
+71,Beavis and Butt-Head Do America,Comedy
+71,Beavis and Butt-Head Do America,Crime
+72,Jingle All the Way,Comedy
+72,Jingle All the Way,Family
+73,The Cable Guy,Comedy
+73,The Cable Guy,Drama
+73,The Cable Guy,Thriller
+74,Courage Under Fire,Action
+74,Courage Under Fire,Drama
+74,Courage Under Fire,Mystery
+74,Courage Under Fire,Thriller
+74,Courage Under Fire,War
+75,Jack,Comedy
+75,Jack,Drama
+75,Jack,Fantasy
+76,Executive Decision,Action
+76,Executive Decision,Adventure
+76,Executive Decision,Thriller
+77,Primal Fear,Crime
+77,Primal Fear,Drama
+77,Primal Fear,Mystery
+77,Primal Fear,Thriller
+78,Tin Cup,Comedy
+78,Tin Cup,Drama
+78,Tin Cup,Romance
+78,Tin Cup,Sport
+79,Sleepers,Crime
+79,Sleepers,Drama
+79,Sleepers,Thriller
+80,Dragonheart,Action
+80,Dragonheart,Adventure
+80,Dragonheart,Drama
+80,Dragonheart,Fantasy
+81,Up Close and Personal,Drama
+81,Up Close and Personal,Romance
+82,Evita,Biography
+82,Evita,Drama
+82,Evita,History
+82,Evita,Musical
+83,The Preacher's Wife,Comedy
+83,The Preacher's Wife,Drama
+83,The Preacher's Wife,Fantasy
+83,The Preacher's Wife,Romance
+84,Romeo + Juliet,Drama
+84,Romeo + Juliet,Romance
+85,One Fine Day,Comedy
+85,One Fine Day,Drama
+85,One Fine Day,Romance
+86,The Mirror Has Two Faces,Comedy
+86,The Mirror Has Two Faces,Drama
+86,The Mirror Has Two Faces,Romance
+87,Happy Gilmore,Comedy
+87,Happy Gilmore,Sport
+88,The Ghost and the Darkness,Adventure
+88,The Ghost and the Darkness,Drama
+88,The Ghost and the Darkness,Thriller
+89,Mars Attacks!,Comedy
+89,Mars Attacks!,Sci-Fi
+90,Set It Off,Action
+90,Set It Off,Crime
+90,Set It Off,Drama
+90,Set It Off,Romance
+90,Set It Off,Thriller
+91,Shine,Biography
+91,Shine,Drama
+91,Shine,Music
+91,Shine,Romance
+92,The Truth About Cats & Dogs,Comedy
+92,The Truth About Cats & Dogs,Romance
+93,A Thin Line Between Love and Hate,Comedy
+93,A Thin Line Between Love and Hate,Crime
+93,A Thin Line Between Love and Hate,Drama
+93,A Thin Line Between Love and Hate,Romance
+93,A Thin Line Between Love and Hate,Thriller
+94,Muppet Treasure Island,Action
+94,Muppet Treasure Island,Adventure
+94,Muppet Treasure Island,Comedy
+94,Muppet Treasure Island,Family
+94,Muppet Treasure Island,Musical
+95,Matilda,Comedy
+95,Matilda,Fantasy
+96,The Long Kiss Goodnight,Action
+96,The Long Kiss Goodnight,Crime
+96,The Long Kiss Goodnight,Drama
+96,The Long Kiss Goodnight,Mystery
+96,The Long Kiss Goodnight,Thriller
+97,Striptease,Comedy
+97,Striptease,Crime
+97,Striptease,Drama
+97,Striptease,Thriller
+98,Daylight,Action
+98,Daylight,Adventure
+98,Daylight,Drama
+98,Daylight,Thriller
+99,Homeward Bound II: Lost in San Francisco,Adventure
+99,Homeward Bound II: Lost in San Francisco,Comedy
+99,Homeward Bound II: Lost in San Francisco,Family
+99,Homeward Bound II: Lost in San Francisco,Romance
+100,Black Sheep,Comedy
+101,Titanic,Drama
+101,Titanic,Romance
+102,Men in Black,Comedy
+102,Men in Black,Sci-Fi
+103,The Lost World: Jurassic Park,Action
+103,The Lost World: Jurassic Park,Adventure
+103,The Lost World: Jurassic Park,Sci-Fi
+104,Liar Liar,Comedy
+104,Liar Liar,Fantasy
+105,Air Force One,Action
+105,Air Force One,Adventure
+105,Air Force One,Drama
+105,Air Force One,Thriller
+106,As Good as It Gets,Comedy
+106,As Good as It Gets,Drama
+106,As Good as It Gets,Romance
+107,Good Will Hunting,Drama
+108,Star Wars (Special Edition),Action
+108,Star Wars (Special Edition),Adventure
+108,Star Wars (Special Edition),Fantasy
+108,Star Wars (Special Edition),Sci-Fi
+109,My Best Friend's Wedding,Comedy
+109,My Best Friend's Wedding,Romance
+110,Tomorrow Never Dies,Action
+110,Tomorrow Never Dies,Adventure
+110,Tomorrow Never Dies,Thriller
+111,Face/Off,Action
+111,Face/Off,Crime
+111,Face/Off,Sci-Fi
+111,Face/Off,Thriller
+112,Batman and Robin,Action
+113,George of the Jungle,Action
+113,George of the Jungle,Adventure
+113,George of the Jungle,Comedy
+113,George of the Jungle,Family
+113,George of the Jungle,Romance
+114,Scream 2,Horror
+114,Scream 2,Mystery
+115,Con Air,Action
+115,Con Air,Crime
+115,Con Air,Thriller
+116,Contact,Drama
+116,Contact,Mystery
+116,Contact,Sci-Fi
+116,Contact,Thriller
+117,Hercules,Animation
+117,Hercules,Adventure
+117,Hercules,Comedy
+117,Hercules,Family
+117,Hercules,Fantasy
+117,Hercules,Musical
+117,Hercules,Romance
+118,Flubber,Comedy
+118,Flubber,Family
+118,Flubber,Sci-Fi
+119,Conspiracy Theory,Action
+119,Conspiracy Theory,Crime
+119,Conspiracy Theory,Mystery
+119,Conspiracy Theory,Romance
+119,Conspiracy Theory,Thriller
+120,I Know What You Did Last Summer,Horror
+120,I Know What You Did Last Summer,Mystery
+120,I Know What You Did Last Summer,Thriller
+121,The Empire Strikes Back (Special Edition),Action
+121,The Empire Strikes Back (Special Edition),Adventure
+121,The Empire Strikes Back (Special Edition),Fantasy
+121,The Empire Strikes Back (Special Edition),Sci-Fi
+122,Dante's Peak,Action
+122,Dante's Peak,Adventure
+122,Dante's Peak,Thriller
+123,Anaconda,Action
+123,Anaconda,Adventure
+123,Anaconda,Horror
+123,Anaconda,Thriller
+124,L.A. Confidential,Crime
+124,L.A. Confidential,Drama
+124,L.A. Confidential,Mystery
+124,L.A. Confidential,Thriller
+125,In & Out,Comedy
+126,The Fifth Element,Action
+126,The Fifth Element,Adventure
+126,The Fifth Element,Romance
+126,The Fifth Element,Sci-Fi
+127,Mouse Hunt,Comedy
+127,Mouse Hunt,Family
+128,The Saint,Action
+128,The Saint,Adventure
+128,The Saint,Romance
+128,The Saint,Sci-Fi
+128,The Saint,Thriller
+129,The Devil's Advocate,Drama
+129,The Devil's Advocate,Mystery
+129,The Devil's Advocate,Thriller
+130,Kiss the Girls,Crime
+130,Kiss the Girls,Drama
+130,Kiss the Girls,Mystery
+130,Kiss the Girls,Thriller
+131,Jungle 2 Jungle,Comedy
+131,Jungle 2 Jungle,Family
+132,Anastasia,Animation
+132,Anastasia,Adventure
+132,Anastasia,Drama
+132,Anastasia,Family
+132,Anastasia,Fantasy
+132,Anastasia,Musical
+132,Anastasia,Mystery
+132,Anastasia,Romance
+133,The Jackal,Action
+133,The Jackal,Adventure
+133,The Jackal,Crime
+133,The Jackal,Thriller
+134,Spawn,Action
+134,Spawn,Horror
+135,Starship Troopers,Action
+135,Starship Troopers,Sci-Fi
+135,Starship Troopers,War
+136,Austin Powers: International Man of Mystery,Comedy
+136,Austin Powers: International Man of Mystery,Crime
+136,Austin Powers: International Man of Mystery,Sci-Fi
+137,Breakdown,Crime
+137,Breakdown,Drama
+137,Breakdown,Mystery
+137,Breakdown,Thriller
+138,Absolute Power,Action
+138,Absolute Power,Crime
+138,Absolute Power,Drama
+138,Absolute Power,Thriller
+139,Volcano,Action
+139,Volcano,Drama
+139,Volcano,Sci-Fi
+139,Volcano,Thriller
+140,Speed 2: Cruise Control,Action
+140,Speed 2: Cruise Control,Crime
+140,Speed 2: Cruise Control,Romance
+140,Speed 2: Cruise Control,Thriller
+141,The Game,Drama
+141,The Game,Mystery
+141,The Game,Thriller
+142,G.I. Jane,Action
+142,G.I. Jane,Drama
+143,Alien Resurrection,Action
+143,Alien Resurrection,Horror
+143,Alien Resurrection,Sci-Fi
+144,The Full Monty,Comedy
+144,The Full Monty,Drama
+144,The Full Monty,Music
+145,The Rainmaker (1997),Crime
+145,The Rainmaker (1997),Drama
+145,The Rainmaker (1997),Thriller
+146,Return of the Jedi (Special Edition),Action
+146,Return of the Jedi (Special Edition),Adventure
+146,Return of the Jedi (Special Edition),Fantasy
+146,Return of the Jedi (Special Edition),Sci-Fi
+147,Bean,Comedy
+147,Bean,Family
+148,Cop Land,Crime
+148,Cop Land,Drama
+148,Cop Land,Thriller
+149,Nothing to Lose,Action
+149,Nothing to Lose,Adventure
+149,Nothing to Lose,Comedy
+149,Nothing to Lose,Crime
+150,Amistad,Drama
+150,Amistad,History
+151,Saving Private Ryan,Action
+151,Saving Private Ryan,Drama
+151,Saving Private Ryan,War
+152,Armageddon,Action
+152,Armageddon,Adventure
+152,Armageddon,Sci-Fi
+152,Armageddon,Thriller
+153,There's Something About Mary,Comedy
+153,There's Something About Mary,Romance
+154,A Bug's Life,Animation
+154,A Bug's Life,Adventure
+154,A Bug's Life,Comedy
+154,A Bug's Life,Family
+155,The Waterboy,Comedy
+155,The Waterboy,Sport
+156,Doctor Dolittle,Comedy
+156,Doctor Dolittle,Family
+156,Doctor Dolittle,Fantasy
+157,Rush Hour,Action
+157,Rush Hour,Comedy
+157,Rush Hour,Crime
+157,Rush Hour,Thriller
+158,Deep Impact,Action
+158,Deep Impact,Drama
+158,Deep Impact,Sci-Fi
+158,Deep Impact,Thriller
+159,Godzilla,Action
+159,Godzilla,Sci-Fi
+159,Godzilla,Thriller
+160,Patch Adams,Biography
+160,Patch Adams,Comedy
+160,Patch Adams,Drama
+161,Lethal Weapon 4,Action
+161,Lethal Weapon 4,Crime
+161,Lethal Weapon 4,Thriller
+162,The Truman Show,Drama
+163,Mulan,Animation
+163,Mulan,Adventure
+163,Mulan,Family
+163,Mulan,Musical
+163,Mulan,War
+164,You've Got Mail,Comedy
+164,You've Got Mail,Drama
+164,You've Got Mail,Romance
+165,Enemy of the State,Action
+165,Enemy of the State,Crime
+165,Enemy of the State,Drama
+165,Enemy of the State,Mystery
+165,Enemy of the State,Thriller
+166,The Prince of Egypt,Animation
+166,The Prince of Egypt,Adventure
+166,The Prince of Egypt,Biography
+166,The Prince of Egypt,Drama
+166,The Prince of Egypt,Family
+166,The Prince of Egypt,Musical
+167,The Rugrats Movie,Animation
+167,The Rugrats Movie,Adventure
+167,The Rugrats Movie,Comedy
+167,The Rugrats Movie,Drama
+167,The Rugrats Movie,Family
+168,Shakespeare in Love,Comedy
+168,Shakespeare in Love,Drama
+168,Shakespeare in Love,Romance
+169,The Mask of Zorro,Action
+169,The Mask of Zorro,Adventure
+169,The Mask of Zorro,Comedy
+169,The Mask of Zorro,Romance
+169,The Mask of Zorro,Thriller
+169,The Mask of Zorro,Western
+170,Stepmom,Comedy
+170,Stepmom,Drama
+171,Antz,Animation
+171,Antz,Adventure
+171,Antz,Comedy
+171,Antz,Family
+172,Everest (IMAX),Documentary
+172,Everest (IMAX),Short
+173,The X-Files,Mystery
+173,The X-Files,Sci-Fi
+173,The X-Files,Thriller
+174,The Wedding Singer,Comedy
+174,The Wedding Singer,Romance
+175,City of Angels,Drama
+175,City of Angels,Fantasy
+175,City of Angels,Romance
+176,The Horse Whisperer,Drama
+176,The Horse Whisperer,Romance
+176,The Horse Whisperer,Western
+177,"Six Days, Seven Nights",Action
+177,"Six Days, Seven Nights",Adventure
+177,"Six Days, Seven Nights",Comedy
+177,"Six Days, Seven Nights",Romance
+178,Star Trek: Insurrection,Action
+178,Star Trek: Insurrection,Adventure
+178,Star Trek: Insurrection,Sci-Fi
+178,Star Trek: Insurrection,Thriller
+179,Blade,Action
+179,Blade,Horror
+180,Lost in Space,Action
+180,Lost in Space,Adventure
+180,Lost in Space,Family
+180,Lost in Space,Sci-Fi
+180,Lost in Space,Thriller
+181,A Perfect Murder,Crime
+181,A Perfect Murder,Drama
+181,A Perfect Murder,Thriller
+182,The Parent Trap,Adventure
+182,The Parent Trap,Comedy
+182,The Parent Trap,Drama
+182,The Parent Trap,Family
+182,The Parent Trap,Romance
+183,Ever After: A Cinderella Story,Comedy
+183,Ever After: A Cinderella Story,Drama
+183,Ever After: A Cinderella Story,Romance
+184,Hope Floats,Drama
+184,Hope Floats,Romance
+185,Life Is Beautiful,Comedy
+185,Life Is Beautiful,Drama
+185,Life Is Beautiful,Romance
+186,U.S. Marshals,Action
+186,U.S. Marshals,Crime
+186,U.S. Marshals,Thriller
+187,The Man in the Iron Mask,Action
+187,The Man in the Iron Mask,Adventure
+188,A Civil Action,Drama
+189,Snake Eyes,Action
+189,Snake Eyes,Crime
+189,Snake Eyes,Drama
+189,Snake Eyes,Mystery
+189,Snake Eyes,Thriller
+190,What Dreams May Come,Drama
+190,What Dreams May Come,Fantasy
+190,What Dreams May Come,Romance
+191,Halloween: H20,Horror
+191,Halloween: H20,Thriller
+192,Small Soldiers,Action
+192,Small Soldiers,Adventure
+192,Small Soldiers,Comedy
+192,Small Soldiers,Fantasy
+192,Small Soldiers,Sci-Fi
+193,T-Rex: Back to the Cretaceous (IMAX),Adventure
+193,T-Rex: Back to the Cretaceous (IMAX),Family
+193,T-Rex: Back to the Cretaceous (IMAX),Fantasy
+194,Mighty Joe Young,Action
+194,Mighty Joe Young,Adventure
+194,Mighty Joe Young,Family
+194,Mighty Joe Young,Fantasy
+194,Mighty Joe Young,Sci-Fi
+194,Mighty Joe Young,Thriller
+195,Practical Magic,Comedy
+195,Practical Magic,Fantasy
+195,Practical Magic,Romance
+196,Meet Joe Black,Drama
+196,Meet Joe Black,Fantasy
+196,Meet Joe Black,Romance
+197,The Negotiator,Action
+197,The Negotiator,Crime
+197,The Negotiator,Drama
+197,The Negotiator,Mystery
+197,The Negotiator,Thriller
+198,Ronin,Action
+198,Ronin,Adventure
+198,Ronin,Crime
+198,Ronin,Thriller
+199,The Siege,Action
+199,The Siege,Thriller
+200,Mysteries of Egypt (IMAX),Documentary
+200,Mysteries of Egypt (IMAX),Drama
+200,Mysteries of Egypt (IMAX),Family
+201,Star Wars: Episode I - The Phantom Menace,Action
+201,Star Wars: Episode I - The Phantom Menace,Adventure
+201,Star Wars: Episode I - The Phantom Menace,Fantasy
+201,Star Wars: Episode I - The Phantom Menace,Sci-Fi
+202,The Sixth Sense,Drama
+202,The Sixth Sense,Mystery
+202,The Sixth Sense,Thriller
+203,Toy Story 2,Animation
+203,Toy Story 2,Adventure
+203,Toy Story 2,Comedy
+203,Toy Story 2,Family
+203,Toy Story 2,Fantasy
+204,Austin Powers: The Spy Who Shagged Me,Action
+204,Austin Powers: The Spy Who Shagged Me,Adventure
+204,Austin Powers: The Spy Who Shagged Me,Comedy
+204,Austin Powers: The Spy Who Shagged Me,Crime
+204,Austin Powers: The Spy Who Shagged Me,Sci-Fi
+205,The Matrix,Action
+205,The Matrix,Sci-Fi
+206,Tarzan,Animation
+206,Tarzan,Adventure
+206,Tarzan,Family
+206,Tarzan,Romance
+207,Big Daddy,Comedy
+207,Big Daddy,Drama
+208,The Mummy,Action
+208,The Mummy,Adventure
+208,The Mummy,Fantasy
+209,Runaway Bride,Comedy
+209,Runaway Bride,Romance
+210,The Blair Witch Project,Horror
+211,Stuart Little,Adventure
+211,Stuart Little,Comedy
+211,Stuart Little,Family
+211,Stuart Little,Fantasy
+212,The Green Mile,Crime
+212,The Green Mile,Drama
+212,The Green Mile,Fantasy
+212,The Green Mile,Mystery
+213,American Beauty,Drama
+213,American Beauty,Romance
+214,The World Is Not Enough,Action
+214,The World Is Not Enough,Adventure
+214,The World Is Not Enough,Thriller
+215,Double Jeopardy,Crime
+215,Double Jeopardy,Mystery
+215,Double Jeopardy,Thriller
+216,Notting Hill,Comedy
+216,Notting Hill,Drama
+216,Notting Hill,Romance
+217,Wild Wild West,Action
+217,Wild Wild West,Western
+217,Wild Wild West,Comedy
+217,Wild Wild West,Sci-Fi
+218,Analyze This,Comedy
+218,Analyze This,Crime
+219,The General's Daughter,Drama
+219,The General's Daughter,Mystery
+219,The General's Daughter,Thriller
+220,American Pie,Comedy
+220,American Pie,Romance
+221,Sleepy Hollow,Drama
+221,Sleepy Hollow,Horror
+221,Sleepy Hollow,Mystery
+222,Inspector Gadget,Action
+222,Inspector Gadget,Adventure
+222,Inspector Gadget,Comedy
+222,Inspector Gadget,Family
+222,Inspector Gadget,Sci-Fi
+223,The Haunting,Fantasy
+223,The Haunting,Horror
+223,The Haunting,Mystery
+223,The Haunting,Thriller
+224,Entrapment,Action
+224,Entrapment,Crime
+224,Entrapment,Romance
+224,Entrapment,Thriller
+225,Pokemon: The First Movie,Animation
+225,Pokemon: The First Movie,Action
+225,Pokemon: The First Movie,Adventure
+225,Pokemon: The First Movie,Family
+225,Pokemon: The First Movie,Sci-Fi
+226,Payback,Action
+226,Payback,Crime
+226,Payback,Drama
+226,Payback,Thriller
+227,The Talented Mr. Ripley,Crime
+227,The Talented Mr. Ripley,Drama
+227,The Talented Mr. Ripley,Thriller
+228,Any Given Sunday,Drama
+228,Any Given Sunday,Sport
+229,Deep Blue Sea,Action
+229,Deep Blue Sea,Sci-Fi
+229,Deep Blue Sea,Thriller
+230,Galaxy Quest,Adventure
+230,Galaxy Quest,Comedy
+230,Galaxy Quest,Sci-Fi
+231,The Thomas Crown Affair,Crime
+231,The Thomas Crown Affair,Romance
+231,The Thomas Crown Affair,Thriller
+232,Blue Streak,Action
+232,Blue Streak,Comedy
+232,Blue Streak,Crime
+232,Blue Streak,Thriller
+233,End of Days,Action
+233,End of Days,Fantasy
+233,End of Days,Horror
+233,End of Days,Mystery
+234,The Bone Collector,Crime
+234,The Bone Collector,Drama
+234,The Bone Collector,Mystery
+234,The Bone Collector,Thriller
+235,Bowfinger,Comedy
+236,Deuce Bigalow: Male Gigolo,Comedy
+236,Deuce Bigalow: Male Gigolo,Romance
+237,Life,Comedy
+237,Life,Crime
+237,Life,Drama
+238,She's All That,Comedy
+238,She's All That,Romance
+239,Three Kings,Action
+239,Three Kings,Adventure
+239,Three Kings,Comedy
+239,Three Kings,Drama
+239,Three Kings,War
+240,Bicentennial Man,Comedy
+240,Bicentennial Man,Drama
+240,Bicentennial Man,Fantasy
+240,Bicentennial Man,Romance
+240,Bicentennial Man,Sci-Fi
+241,The Cider House Rules,Drama
+241,The Cider House Rules,Romance
+242,Eyes Wide Shut,Drama
+242,Eyes Wide Shut,Mystery
+242,Eyes Wide Shut,Thriller
+243,Never Been Kissed,Comedy
+243,Never Been Kissed,Drama
+243,Never Been Kissed,Romance
+244,Varsity Blues,Comedy
+244,Varsity Blues,Drama
+244,Varsity Blues,Romance
+244,Varsity Blues,Sport
+245,Forces of Nature,Comedy
+245,Forces of Nature,Romance
+246,Message in a Bottle,Drama
+246,Message in a Bottle,Romance
+247,"South Park - Bigger, Longer and Uncut",Animation
+247,"South Park - Bigger, Longer and Uncut",Comedy
+247,"South Park - Bigger, Longer and Uncut",Musical
+248,The Hurricane,Biography
+248,The Hurricane,Drama
+248,The Hurricane,Sport
+249,Stigmata,Horror
+249,Stigmata,Thriller
+250,House on Haunted Hill,Horror
+250,House on Haunted Hill,Mystery
+250,House on Haunted Hill,Thriller
+251,How the Grinch Stole Christmas,Comedy
+251,How the Grinch Stole Christmas,Family
+251,How the Grinch Stole Christmas,Fantasy
+252,Cast Away,Adventure
+252,Cast Away,Drama
+253,Mission: Impossible II,Action
+253,Mission: Impossible II,Adventure
+253,Mission: Impossible II,Thriller
+254,Gladiator,Action
+254,Gladiator,Drama
+255,What Women Want,Comedy
+255,What Women Want,Fantasy
+255,What Women Want,Romance
+256,The Perfect Storm,Action
+256,The Perfect Storm,Adventure
+256,The Perfect Storm,Drama
+256,The Perfect Storm,Thriller
+257,Meet the Parents,Comedy
+258,X-Men,Action
+258,X-Men,Adventure
+258,X-Men,Sci-Fi
+259,Scary Movie,Comedy
+260,What Lies Beneath,Drama
+260,What Lies Beneath,Horror
+260,What Lies Beneath,Mystery
+260,What Lies Beneath,Thriller
+261,Dinosaur,Animation
+261,Dinosaur,Adventure
+261,Dinosaur,Family
+261,Dinosaur,Sci-Fi
+261,Dinosaur,Thriller
+262,"Crouching Tiger, Hidden Dragon",Action
+262,"Crouching Tiger, Hidden Dragon",Drama
+262,"Crouching Tiger, Hidden Dragon",Romance
+263,Erin Brockovich,Biography
+263,Erin Brockovich,Drama
+264,Charlie's Angels,Action
+264,Charlie's Angels,Adventure
+264,Charlie's Angels,Comedy
+264,Charlie's Angels,Crime
+264,Charlie's Angels,Thriller
+265,Traffic,Crime
+265,Traffic,Drama
+265,Traffic,Thriller
+266,The Nutty Professor II: The Klumps,Comedy
+266,The Nutty Professor II: The Klumps,Fantasy
+266,The Nutty Professor II: The Klumps,Romance
+266,The Nutty Professor II: The Klumps,Sci-Fi
+267,Big Momma's House,Action
+267,Big Momma's House,Comedy
+267,Big Momma's House,Crime
+268,Remember the Titans,Biography
+268,Remember the Titans,Drama
+268,Remember the Titans,Sport
+269,The Patriot,Action
+269,The Patriot,Drama
+269,The Patriot,History
+269,The Patriot,War
+270,Chicken Run,Animation
+270,Chicken Run,Family
+270,Chicken Run,Comedy
+271,Miss Congeniality,Action
+271,Miss Congeniality,Comedy
+271,Miss Congeniality,Crime
+272,Gone in 60 Seconds,Action
+272,Gone in 60 Seconds,Crime
+272,Gone in 60 Seconds,Thriller
+273,Unbreakable,Drama
+273,Unbreakable,Mystery
+273,Unbreakable,Sci-Fi
+273,Unbreakable,Thriller
+274,"Me, Myself and Irene",Comedy
+275,Space Cowboys,Action
+275,Space Cowboys,Adventure
+275,Space Cowboys,Thriller
+276,The Emperor's New Groove,Animation
+276,The Emperor's New Groove,Adventure
+276,The Emperor's New Groove,Comedy
+276,The Emperor's New Groove,Family
+276,The Emperor's New Groove,Fantasy
+277,Scream 3,Horror
+277,Scream 3,Mystery
+278,U-571,Action
+278,U-571,War
+279,Rugrats in Paris: The Movie,Animation
+279,Rugrats in Paris: The Movie,Adventure
+279,Rugrats in Paris: The Movie,Comedy
+279,Rugrats in Paris: The Movie,Family
+279,Rugrats in Paris: The Movie,Romance
+280,The Family Man,Comedy
+280,The Family Man,Drama
+280,The Family Man,Fantasy
+280,The Family Man,Romance
+281,Hollow Man,Sci-Fi
+281,Hollow Man,Thriller
+282,Chocolat,Drama
+282,Chocolat,Romance
+283,Shaft,Action
+283,Shaft,Crime
+283,Shaft,Thriller
+284,Disney's The Kid,Comedy
+284,Disney's The Kid,Family
+284,Disney's The Kid,Fantasy
+285,Vertical Limit,Action
+285,Vertical Limit,Adventure
+285,Vertical Limit,Drama
+285,Vertical Limit,Thriller
+286,Road Trip,Comedy
+287,Bring It On,Comedy
+287,Bring It On,Sport
+288,102 Dalmatians,Adventure
+288,102 Dalmatians,Comedy
+288,102 Dalmatians,Family
+289,Rules of Engagement,Action
+289,Rules of Engagement,Drama
+289,Rules of Engagement,War
+290,The Cell,Horror
+290,The Cell,Sci-Fi
+290,The Cell,Thriller
+291,Mission to Mars,Adventure
+291,Mission to Mars,Drama
+291,Mission to Mars,Sci-Fi
+291,Mission to Mars,Thriller
+292,Coyote Ugly,Comedy
+292,Coyote Ugly,Drama
+292,Coyote Ugly,Music
+292,Coyote Ugly,Romance
+293,Fantasia 2000 (35mm & IMAX),Animation
+293,Fantasia 2000 (35mm & IMAX),Family
+293,Fantasia 2000 (35mm & IMAX),Fantasy
+293,Fantasia 2000 (35mm & IMAX),Music
+294,Snow Day,Adventure
+294,Snow Day,Comedy
+294,Snow Day,Family
+295,Next Friday,Comedy
+296,The Whole Nine Yards,Comedy
+296,The Whole Nine Yards,Crime
+297,Shanghai Noon,Action
+297,Shanghai Noon,Adventure
+297,Shanghai Noon,Comedy
+297,Shanghai Noon,Western
+298,Romeo Must Die,Action
+298,Romeo Must Die,Crime
+298,Romeo Must Die,Thriller
+299,Final Destination,Horror
+299,Final Destination,Thriller
+300,Finding Forrester,Drama
+301,Harry Potter and the Sorcerer's Stone,Adventure
+301,Harry Potter and the Sorcerer's Stone,Family
+301,Harry Potter and the Sorcerer's Stone,Fantasy
+302,The Lord of the Rings: The Fellowship of the Ring,Adventure
+302,The Lord of the Rings: The Fellowship of the Ring,Fantasy
+303,Shrek,Animation
+303,Shrek,Adventure
+303,Shrek,Comedy
+303,Shrek,Family
+303,Shrek,Fantasy
+304,"Monsters, Inc.",Animation
+304,"Monsters, Inc.",Adventure
+304,"Monsters, Inc.",Comedy
+304,"Monsters, Inc.",Family
+304,"Monsters, Inc.",Fantasy
+305,Rush Hour 2,Action
+305,Rush Hour 2,Comedy
+305,Rush Hour 2,Crime
+305,Rush Hour 2,Mystery
+305,Rush Hour 2,Thriller
+306,The Mummy Returns,Action
+306,The Mummy Returns,Adventure
+306,The Mummy Returns,Fantasy
+307,Pearl Harbor,Action
+307,Pearl Harbor,Drama
+307,Pearl Harbor,Romance
+307,Pearl Harbor,War
+308,Ocean's Eleven,Crime
+308,Ocean's Eleven,Thriller
+309,Jurassic Park III,Action
+309,Jurassic Park III,Adventure
+309,Jurassic Park III,Sci-Fi
+309,Jurassic Park III,Thriller
+310,Planet of the Apes (2001),Action
+310,Planet of the Apes (2001),Adventure
+310,Planet of the Apes (2001),Sci-Fi
+311,A Beautiful Mind,Biography
+311,A Beautiful Mind,Drama
+312,Hannibal,Crime
+312,Hannibal,Drama
+312,Hannibal,Thriller
+313,American Pie 2,Comedy
+313,American Pie 2,Romance
+314,The Fast and the Furious,Action
+314,The Fast and the Furious,Crime
+314,The Fast and the Furious,Thriller
+315,Lara Croft: Tomb Raider,Action
+315,Lara Croft: Tomb Raider,Adventure
+315,Lara Croft: Tomb Raider,Fantasy
+315,Lara Croft: Tomb Raider,Thriller
+316,Dr. Dolittle 2,Comedy
+316,Dr. Dolittle 2,Family
+316,Dr. Dolittle 2,Fantasy
+316,Dr. Dolittle 2,Romance
+317,Spy Kids,Action
+317,Spy Kids,Adventure
+317,Spy Kids,Comedy
+317,Spy Kids,Family
+317,Spy Kids,Sci-Fi
+318,Black Hawk Down,Drama
+318,Black Hawk Down,History
+318,Black Hawk Down,Thriller
+318,Black Hawk Down,War
+319,The Princess Diaries,Comedy
+319,The Princess Diaries,Family
+319,The Princess Diaries,Romance
+320,Vanilla Sky,Fantasy
+320,Vanilla Sky,Mystery
+320,Vanilla Sky,Romance
+320,Vanilla Sky,Sci-Fi
+320,Vanilla Sky,Thriller
+321,The Others,Horror
+321,The Others,Thriller
+322,Legally Blonde,Comedy
+322,Legally Blonde,Romance
+323,America's Sweethearts,Comedy
+323,America's Sweethearts,Romance
+324,Cats & Dogs,Action
+324,Cats & Dogs,Comedy
+324,Cats & Dogs,Family
+324,Cats & Dogs,Fantasy
+325,Save the Last Dance,Drama
+325,Save the Last Dance,Music
+325,Save the Last Dance,Romance
+326,Atlantis: The Lost Empire,Animation
+326,Atlantis: The Lost Empire,Action
+326,Atlantis: The Lost Empire,Adventure
+326,Atlantis: The Lost Empire,Family
+326,Atlantis: The Lost Empire,Fantasy
+326,Atlantis: The Lost Empire,Sci-Fi
+327,Jimmy Neutron: Boy Genius,Animation
+327,Jimmy Neutron: Boy Genius,Action
+327,Jimmy Neutron: Boy Genius,Adventure
+327,Jimmy Neutron: Boy Genius,Comedy
+327,Jimmy Neutron: Boy Genius,Family
+327,Jimmy Neutron: Boy Genius,Sci-Fi
+328,A.I. Artificial Intelligence,Adventure
+328,A.I. Artificial Intelligence,Drama
+328,A.I. Artificial Intelligence,Sci-Fi
+329,Training Day,Crime
+329,Training Day,Drama
+329,Training Day,Thriller
+330,Along Came a Spider,Thriller
+331,Bridget Jones's Diary,Comedy
+331,Bridget Jones's Diary,Drama
+331,Bridget Jones's Diary,Romance
+332,Scary Movie 2,Comedy
+332,Scary Movie 2,Horror
+333,The Score,Action
+333,The Score,Crime
+333,The Score,Romance
+333,The Score,Thriller
+334,Shallow Hal,Comedy
+334,Shallow Hal,Drama
+334,Shallow Hal,Fantasy
+334,Shallow Hal,Romance
+335,Swordfish,Action
+335,Swordfish,Crime
+335,Swordfish,Thriller
+336,The Mexican,Adventure
+336,The Mexican,Comedy
+336,The Mexican,Crime
+336,The Mexican,Romance
+337,Down to Earth,Comedy
+337,Down to Earth,Fantasy
+338,Spy Game,Action
+338,Spy Game,Crime
+338,Spy Game,Thriller
+339,The Wedding Planner,Comedy
+339,The Wedding Planner,Romance
+340,Behind Enemy Lines,Action
+340,Behind Enemy Lines,War
+340,Behind Enemy Lines,Drama
+340,Behind Enemy Lines,Thriller
+341,Ali,Biography
+341,Ali,Drama
+341,Ali,Sport
+342,The Animal,Comedy
+343,Moulin Rouge!,Drama
+343,Moulin Rouge!,Musical
+343,Moulin Rouge!,Romance
+344,Rat Race,Adventure
+344,Rat Race,Comedy
+345,A Knight's Tale,Action
+345,A Knight's Tale,Adventure
+345,A Knight's Tale,Romance
+346,Don't Say a Word,Crime
+346,Don't Say a Word,Drama
+346,Don't Say a Word,Mystery
+346,Don't Say a Word,Thriller
+347,Blow,Biography
+347,Blow,Crime
+347,Blow,Drama
+348,The Royal Tenenbaums,Comedy
+348,The Royal Tenenbaums,Drama
+349,Exit Wounds,Action
+349,Exit Wounds,Comedy
+349,Exit Wounds,Crime
+349,Exit Wounds,Drama
+349,Exit Wounds,Thriller
+350,Enemy at the Gates,Drama
+350,Enemy at the Gates,History
+350,Enemy at the Gates,Romance
+350,Enemy at the Gates,Thriller
+350,Enemy at the Gates,War
+351,Spider-Man,Action
+351,Spider-Man,Adventure
+352,The Lord of the Rings: The Two Towers,Adventure
+352,The Lord of the Rings: The Two Towers,Fantasy
+353,Star Wars: Episode II - Attack of the Clones,Action
+353,Star Wars: Episode II - Attack of the Clones,Adventure
+353,Star Wars: Episode II - Attack of the Clones,Fantasy
+353,Star Wars: Episode II - Attack of the Clones,Sci-Fi
+354,Harry Potter and the Chamber of Secrets,Adventure
+354,Harry Potter and the Chamber of Secrets,Family
+354,Harry Potter and the Chamber of Secrets,Fantasy
+354,Harry Potter and the Chamber of Secrets,Mystery
+355,My Big Fat Greek Wedding,Comedy
+355,My Big Fat Greek Wedding,Romance
+356,Signs,Drama
+356,Signs,Sci-Fi
+356,Signs,Thriller
+357,Austin Powers in Goldmember,Action
+357,Austin Powers in Goldmember,Comedy
+357,Austin Powers in Goldmember,Crime
+357,Austin Powers in Goldmember,Sci-Fi
+358,Men in Black II,Action
+358,Men in Black II,Adventure
+358,Men in Black II,Comedy
+358,Men in Black II,Fantasy
+358,Men in Black II,Sci-Fi
+359,Ice Age,Animation
+359,Ice Age,Adventure
+359,Ice Age,Comedy
+359,Ice Age,Family
+360,Chicago,Comedy
+360,Chicago,Crime
+360,Chicago,Musical
+361,Catch Me If You Can,Biography
+361,Catch Me If You Can,Crime
+361,Catch Me If You Can,Drama
+362,Die Another Day,Action
+362,Die Another Day,Adventure
+362,Die Another Day,Thriller
+363,Scooby-Doo,Adventure
+363,Scooby-Doo,Comedy
+363,Scooby-Doo,Mystery
+364,Lilo & Stitch,Animation
+364,Lilo & Stitch,Adventure
+364,Lilo & Stitch,Comedy
+364,Lilo & Stitch,Drama
+364,Lilo & Stitch,Family
+364,Lilo & Stitch,Fantasy
+364,Lilo & Stitch,Music
+364,Lilo & Stitch,Sci-Fi
+365,XXX,Action
+365,XXX,Adventure
+365,XXX,Thriller
+366,The Santa Clause 2,Comedy
+366,The Santa Clause 2,Family
+366,The Santa Clause 2,Fantasy
+367,Minority Report,Action
+367,Minority Report,Mystery
+367,Minority Report,Sci-Fi
+367,Minority Report,Thriller
+368,The Ring,Horror
+368,The Ring,Mystery
+369,Sweet Home Alabama,Comedy
+369,Sweet Home Alabama,Romance
+370,Mr. Deeds,Comedy
+370,Mr. Deeds,Romance
+371,The Bourne Identity,Action
+371,The Bourne Identity,Mystery
+371,The Bourne Identity,Thriller
+372,The Sum of All Fears,Action
+372,The Sum of All Fears,Drama
+372,The Sum of All Fears,Thriller
+373,8 Mile,Drama
+373,8 Mile,Music
+374,Road to Perdition,Crime
+374,Road to Perdition,Drama
+374,Road to Perdition,Thriller
+375,Panic Room,Thriller
+376,Maid in Manhattan,Comedy
+376,Maid in Manhattan,Drama
+376,Maid in Manhattan,Romance
+377,Two Weeks Notice,Comedy
+377,Two Weeks Notice,Romance
+378,Red Dragon,Crime
+378,Red Dragon,Thriller
+379,Space Station 3-D (IMAX),Documentary
+380,The Scorpion King,Action
+380,The Scorpion King,Adventure
+380,The Scorpion King,Fantasy
+380,The Scorpion King,Thriller
+381,Spy Kids 2: The Island of Lost Dreams,Action
+381,Spy Kids 2: The Island of Lost Dreams,Adventure
+381,Spy Kids 2: The Island of Lost Dreams,Comedy
+381,Spy Kids 2: The Island of Lost Dreams,Family
+381,Spy Kids 2: The Island of Lost Dreams,Sci-Fi
+382,Blade II,Action
+382,Blade II,Horror
+382,Blade II,Sci-Fi
+382,Blade II,Thriller
+383,Snow Dogs,Adventure
+383,Snow Dogs,Comedy
+383,Snow Dogs,Family
+383,Snow Dogs,Sport
+384,We Were Soldiers,Action
+384,We Were Soldiers,Drama
+384,We Were Soldiers,History
+384,We Were Soldiers,War
+385,Gangs of New York,Crime
+385,Gangs of New York,Drama
+385,Gangs of New York,History
+386,Barbershop,Comedy
+386,Barbershop,Drama
+387,The Rookie,Drama
+387,The Rookie,Family
+387,The Rookie,Sport
+388,Spirit: Stallion of the Cimarron,Animation
+388,Spirit: Stallion of the Cimarron,Adventure
+388,Spirit: Stallion of the Cimarron,Comedy
+388,Spirit: Stallion of the Cimarron,Family
+388,Spirit: Stallion of the Cimarron,Romance
+388,Spirit: Stallion of the Cimarron,Western
+389,John Q.,Crime
+389,John Q.,Drama
+389,John Q.,Thriller
+390,Divine Secrets of the Ya-Ya Sisterhood,Drama
+391,Insomnia,Mystery
+391,Insomnia,Thriller
+392,Changing Lanes,Drama
+392,Changing Lanes,Thriller
+393,About Schmidt,Comedy
+393,About Schmidt,Drama
+394,Stuart Little 2,Animation
+394,Stuart Little 2,Adventure
+394,Stuart Little 2,Comedy
+394,Stuart Little 2,Family
+394,Stuart Little 2,Fantasy
+395,Jackass: The Movie,Documentary
+395,Jackass: The Movie,Comedy
+396,The Time Machine,Sci-Fi
+396,The Time Machine,Adventure
+396,The Time Machine,Action
+397,Drumline,Comedy
+397,Drumline,Drama
+397,Drumline,Romance
+397,Drumline,Music
+398,The Count of Monte Cristo,Action
+398,The Count of Monte Cristo,Adventure
+398,The Count of Monte Cristo,Drama
+398,The Count of Monte Cristo,Romance
+398,The Count of Monte Cristo,Thriller
+399,Unfaithful,Drama
+399,Unfaithful,Romance
+399,Unfaithful,Thriller
+400,Like Mike,Comedy
+400,Like Mike,Family
+400,Like Mike,Fantasy
+400,Like Mike,Sport
+401,The Lord of the Rings: The Return of the King,Adventure
+401,The Lord of the Rings: The Return of the King,Fantasy
+402,Finding Nemo,Animation
+402,Finding Nemo,Adventure
+402,Finding Nemo,Comedy
+402,Finding Nemo,Family
+403,Pirates of the Caribbean: The Curse of the Black Pearl,Action
+403,Pirates of the Caribbean: The Curse of the Black Pearl,Adventure
+403,Pirates of the Caribbean: The Curse of the Black Pearl,Fantasy
+404,The Matrix Reloaded,Action
+404,The Matrix Reloaded,Sci-Fi
+405,Bruce Almighty,Comedy
+405,Bruce Almighty,Drama
+405,Bruce Almighty,Fantasy
+406,X2: X-Men United,Action
+406,X2: X-Men United,Adventure
+406,X2: X-Men United,Sci-Fi
+406,X2: X-Men United,Thriller
+407,Elf,Comedy
+407,Elf,Family
+407,Elf,Fantasy
+407,Elf,Romance
+408,Terminator 3: Rise of the Machines,Action
+408,Terminator 3: Rise of the Machines,Sci-Fi
+409,The Matrix Revolutions,Action
+409,The Matrix Revolutions,Sci-Fi
+410,Cheaper by the Dozen,Comedy
+410,Cheaper by the Dozen,Family
+411,Bad Boys II,Action
+411,Bad Boys II,Comedy
+411,Bad Boys II,Crime
+411,Bad Boys II,Thriller
+412,Anger Management,Comedy
+413,Bringing Down the House,Comedy
+414,Hulk,Action
+414,Hulk,Sci-Fi
+415,2 Fast 2 Furious,Action
+415,2 Fast 2 Furious,Crime
+415,2 Fast 2 Furious,Thriller
+416,Something's Gotta Give,Comedy
+416,Something's Gotta Give,Drama
+416,Something's Gotta Give,Romance
+417,Seabiscuit,Drama
+417,Seabiscuit,History
+417,Seabiscuit,Sport
+418,S.W.A.T.,Action
+418,S.W.A.T.,Crime
+418,S.W.A.T.,Thriller
+419,Spy Kids 3D: Game Over,Action
+419,Spy Kids 3D: Game Over,Adventure
+419,Spy Kids 3D: Game Over,Comedy
+419,Spy Kids 3D: Game Over,Family
+419,Spy Kids 3D: Game Over,Sci-Fi
+420,The Last Samurai,Action
+420,The Last Samurai,Drama
+420,The Last Samurai,History
+420,The Last Samurai,War
+421,Freaky Friday,Comedy
+421,Freaky Friday,Family
+421,Freaky Friday,Fantasy
+422,Scary Movie 3,Comedy
+423,The Italian Job,Action
+423,The Italian Job,Crime
+423,The Italian Job,Thriller
+424,How to Lose a Guy in 10 Days,Comedy
+424,How to Lose a Guy in 10 Days,Romance
+425,American Wedding,Comedy
+425,American Wedding,Romance
+426,Daddy Day Care,Comedy
+426,Daddy Day Care,Family
+427,Daredevil,Action
+427,Daredevil,Crime
+427,Daredevil,Fantasy
+427,Daredevil,Sci-Fi
+427,Daredevil,Thriller
+428,The Cat in the Hat,Adventure
+428,The Cat in the Hat,Comedy
+428,The Cat in the Hat,Family
+428,The Cat in the Hat,Fantasy
+429,Charlie's Angels: Full Throttle,Action
+429,Charlie's Angels: Full Throttle,Adventure
+429,Charlie's Angels: Full Throttle,Comedy
+429,Charlie's Angels: Full Throttle,Crime
+430,Cold Mountain,Drama
+430,Cold Mountain,History
+430,Cold Mountain,Romance
+430,Cold Mountain,War
+431,Master and Commander: The Far Side of the World,Action
+431,Master and Commander: The Far Side of the World,Adventure
+431,Master and Commander: The Far Side of the World,Drama
+431,Master and Commander: The Far Side of the World,War
+432,"Legally Blonde 2: Red, White and Blonde",Comedy
+433,Mystic River,Crime
+433,Mystic River,Drama
+433,Mystic River,Mystery
+433,Mystic River,Thriller
+434,Brother Bear,Animation
+434,Brother Bear,Adventure
+434,Brother Bear,Family
+434,Brother Bear,Fantasy
+435,Freddy Vs. Jason,Horror
+435,Freddy Vs. Jason,Thriller
+436,School of Rock,Comedy
+436,School of Rock,Music
+437,The Texas Chainsaw Massacre,Horror
+438,The Haunted Mansion,Comedy
+438,The Haunted Mansion,Family
+438,The Haunted Mansion,Fantasy
+438,The Haunted Mansion,Mystery
+438,The Haunted Mansion,Thriller
+439,Old School,Comedy
+440,Kill Bill Vol. 1,Action
+441,Holes,Adventure
+441,Holes,Comedy
+441,Holes,Drama
+441,Holes,Family
+441,Holes,Mystery
+442,Kangaroo Jack,Action
+442,Kangaroo Jack,Adventure
+442,Kangaroo Jack,Comedy
+442,Kangaroo Jack,Crime
+443,Big Fish,Adventure
+443,Big Fish,Drama
+443,Big Fish,Fantasy
+444,The League of Extraordinary Gentlemen,Action
+444,The League of Extraordinary Gentlemen,Adventure
+444,The League of Extraordinary Gentlemen,Fantasy
+444,The League of Extraordinary Gentlemen,Sci-Fi
+445,Lara Croft Tomb Raider: The Cradle of Life,Action
+445,Lara Croft Tomb Raider: The Cradle of Life,Adventure
+445,Lara Croft Tomb Raider: The Cradle of Life,Fantasy
+445,Lara Croft Tomb Raider: The Cradle of Life,Thriller
+446,Mona Lisa Smile,Drama
+447,Shanghai Knights,Action
+447,Shanghai Knights,Adventure
+447,Shanghai Knights,Comedy
+448,Bad Santa,Comedy
+448,Bad Santa,Crime
+448,Bad Santa,Drama
+449,Love Actually,Comedy
+449,Love Actually,Drama
+449,Love Actually,Romance
+450,Gothika,Horror
+450,Gothika,Thriller
+451,Shrek 2,Animation
+451,Shrek 2,Adventure
+451,Shrek 2,Comedy
+451,Shrek 2,Family
+451,Shrek 2,Fantasy
+452,Spider-Man 2,Action
+452,Spider-Man 2,Adventure
+452,Spider-Man 2,Fantasy
+453,The Passion of the Christ,Drama
+454,Meet the Fockers,Comedy
+454,Meet the Fockers,Romance
+455,The Incredibles,Animation
+455,The Incredibles,Action
+455,The Incredibles,Adventure
+455,The Incredibles,Family
+456,Harry Potter and the Prisoner of Azkaban,Adventure
+456,Harry Potter and the Prisoner of Azkaban,Family
+456,Harry Potter and the Prisoner of Azkaban,Fantasy
+456,Harry Potter and the Prisoner of Azkaban,Mystery
+457,The Day After Tomorrow,Action
+457,The Day After Tomorrow,Adventure
+457,The Day After Tomorrow,Sci-Fi
+457,The Day After Tomorrow,Thriller
+458,The Bourne Supremacy,Action
+458,The Bourne Supremacy,Thriller
+459,National Treasure,Action
+459,National Treasure,Adventure
+459,National Treasure,Mystery
+459,National Treasure,Thriller
+460,The Polar Express,Animation
+460,The Polar Express,Adventure
+460,The Polar Express,Family
+460,The Polar Express,Fantasy
+461,Shark Tale,Animation
+461,Shark Tale,Adventure
+461,Shark Tale,Comedy
+461,Shark Tale,Family
+462,"I, Robot",Action
+462,"I, Robot",Mystery
+462,"I, Robot",Sci-Fi
+462,"I, Robot",Thriller
+463,Troy,Adventure
+464,Ocean's Twelve,Crime
+464,Ocean's Twelve,Thriller
+465,50 First Dates,Comedy
+465,50 First Dates,Romance
+466,Van Helsing,Action
+466,Van Helsing,Adventure
+466,Van Helsing,Fantasy
+466,Van Helsing,Mystery
+466,Van Helsing,Thriller
+467,Fahrenheit 9/11,Documentary
+468,Lemony Snicket's A Series of Unfortunate Events,Adventure
+468,Lemony Snicket's A Series of Unfortunate Events,Comedy
+468,Lemony Snicket's A Series of Unfortunate Events,Family
+468,Lemony Snicket's A Series of Unfortunate Events,Fantasy
+469,DodgeBall: A True Underdog Story,Comedy
+469,DodgeBall: A True Underdog Story,Sport
+470,The Village,Drama
+470,The Village,Mystery
+470,The Village,Thriller
+471,The Grudge,Horror
+471,The Grudge,Mystery
+471,The Grudge,Thriller
+472,The Aviator,Biography
+472,The Aviator,Drama
+473,Collateral,Crime
+473,Collateral,Drama
+473,Collateral,Thriller
+474,Million Dollar Baby,Drama
+474,Million Dollar Baby,Sport
+475,The Princess Diaries 2: Royal Engagement,Comedy
+475,The Princess Diaries 2: Royal Engagement,Family
+475,The Princess Diaries 2: Royal Engagement,Romance
+476,Starsky and Hutch,Comedy
+476,Starsky and Hutch,Crime
+477,Along Came Polly,Comedy
+477,Along Came Polly,Romance
+478,Mean Girls,Comedy
+479,The SpongeBob SquarePants Movie,Animation
+479,The SpongeBob SquarePants Movie,Adventure
+479,The SpongeBob SquarePants Movie,Comedy
+479,The SpongeBob SquarePants Movie,Family
+480,Anchorman: The Legend of Ron Burgundy,Comedy
+481,Scooby-Doo 2: Monsters Unleashed,Animation
+481,Scooby-Doo 2: Monsters Unleashed,Adventure
+481,Scooby-Doo 2: Monsters Unleashed,Comedy
+481,Scooby-Doo 2: Monsters Unleashed,Family
+481,Scooby-Doo 2: Monsters Unleashed,Fantasy
+481,Scooby-Doo 2: Monsters Unleashed,Horror
+481,Scooby-Doo 2: Monsters Unleashed,Mystery
+482,The Notebook,Drama
+482,The Notebook,Romance
+483,Alien Vs. Predator,Action
+483,Alien Vs. Predator,Adventure
+483,Alien Vs. Predator,Sci-Fi
+483,Alien Vs. Predator,Thriller
+484,Man on Fire,Action
+484,Man on Fire,Crime
+484,Man on Fire,Drama
+484,Man on Fire,Thriller
+485,The Terminal,Comedy
+485,The Terminal,Drama
+486,Garfield: The Movie,Animation
+486,Garfield: The Movie,Comedy
+486,Garfield: The Movie,Family
+486,Garfield: The Movie,Fantasy
+487,Ray,Biography
+487,Ray,Drama
+487,Ray,Music
+488,Ladder 49,Action
+488,Ladder 49,Drama
+488,Ladder 49,Thriller
+489,Christmas with the Kranks,Comedy
+489,Christmas with the Kranks,Family
+490,Sideways,Comedy
+490,Sideways,Drama
+490,Sideways,Romance
+491,White Chicks,Crime
+491,White Chicks,Comedy
+492,Hidalgo,Action
+492,Hidalgo,Adventure
+492,Hidalgo,Western
+493,The Forgotten,Drama
+493,The Forgotten,Horror
+493,The Forgotten,Mystery
+493,The Forgotten,Sci-Fi
+493,The Forgotten,Thriller
+494,Kill Bill Vol. 2,Action
+494,Kill Bill Vol. 2,Crime
+494,Kill Bill Vol. 2,Thriller
+495,The Manchurian Candidate,Drama
+495,The Manchurian Candidate,Mystery
+495,The Manchurian Candidate,Sci-Fi
+495,The Manchurian Candidate,Thriller
+496,Barbershop 2: Back in Business,Comedy
+496,Barbershop 2: Back in Business,Drama
+497,Miracle,Biography
+497,Miracle,Drama
+497,Miracle,History
+497,Miracle,Sport
+498,Friday Night Lights,Action
+498,Friday Night Lights,Drama
+498,Friday Night Lights,Sport
+499,Hellboy,Action
+499,Hellboy,Fantasy
+499,Hellboy,Sci-Fi
+500,The Stepford Wives,Comedy
+500,The Stepford Wives,Sci-Fi
+500,The Stepford Wives,Thriller
+501,Star Wars: Episode III - Revenge of the Sith,Action
+501,Star Wars: Episode III - Revenge of the Sith,Adventure
+501,Star Wars: Episode III - Revenge of the Sith,Fantasy
+501,Star Wars: Episode III - Revenge of the Sith,Sci-Fi
+502,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Adventure
+502,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Family
+502,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Fantasy
+503,Harry Potter and the Goblet of Fire,Adventure
+503,Harry Potter and the Goblet of Fire,Family
+503,Harry Potter and the Goblet of Fire,Fantasy
+503,Harry Potter and the Goblet of Fire,Mystery
+504,War of the Worlds,Adventure
+504,War of the Worlds,Sci-Fi
+504,War of the Worlds,Thriller
+505,King Kong,Action
+505,King Kong,Adventure
+505,King Kong,Drama
+505,King Kong,Romance
+506,Wedding Crashers,Comedy
+506,Wedding Crashers,Romance
+507,Charlie and the Chocolate Factory,Adventure
+507,Charlie and the Chocolate Factory,Comedy
+507,Charlie and the Chocolate Factory,Family
+507,Charlie and the Chocolate Factory,Fantasy
+508,Batman Begins,Action
+508,Batman Begins,Adventure
+509,Madagascar,Animation
+509,Madagascar,Adventure
+509,Madagascar,Comedy
+509,Madagascar,Family
+510,Mr. & Mrs. Smith,Action
+510,Mr. & Mrs. Smith,Comedy
+510,Mr. & Mrs. Smith,Crime
+510,Mr. & Mrs. Smith,Romance
+510,Mr. & Mrs. Smith,Thriller
+511,Hitch,Comedy
+511,Hitch,Romance
+512,The Longest Yard,Comedy
+512,The Longest Yard,Crime
+512,The Longest Yard,Sport
+513,Fantastic Four (2005),Action
+513,Fantastic Four (2005),Adventure
+513,Fantastic Four (2005),Sci-Fi
+514,Chicken Little,Animation
+514,Chicken Little,Adventure
+514,Chicken Little,Comedy
+514,Chicken Little,Family
+514,Chicken Little,Sci-Fi
+515,Robots,Animation
+515,Robots,Adventure
+515,Robots,Comedy
+515,Robots,Family
+515,Robots,Romance
+515,Robots,Sci-Fi
+516,Walk the Line,Biography
+516,Walk the Line,Drama
+516,Walk the Line,Music
+516,Walk the Line,Romance
+517,The Pacifier,Action
+517,The Pacifier,Comedy
+517,The Pacifier,Drama
+517,The Pacifier,Family
+517,The Pacifier,Thriller
+518,Fun with Dick and Jane,Comedy
+518,Fun with Dick and Jane,Crime
+519,The 40-Year-Old Virgin,Comedy
+519,The 40-Year-Old Virgin,Romance
+520,Flightplan,Action
+520,Flightplan,Drama
+520,Flightplan,Mystery
+520,Flightplan,Thriller
+521,Saw II,Horror
+522,Brokeback Mountain,Drama
+522,Brokeback Mountain,Romance
+523,Monster-in-Law,Comedy
+524,Are We There Yet?,Adventure
+524,Are We There Yet?,Comedy
+524,Are We There Yet?,Family
+524,Are We There Yet?,Romance
+525,Cheaper by the Dozen 2,Adventure
+525,Cheaper by the Dozen 2,Comedy
+525,Cheaper by the Dozen 2,Family
+526,The Dukes of Hazzard,Action
+526,The Dukes of Hazzard,Adventure
+526,The Dukes of Hazzard,Comedy
+527,March of the Penguins,Documentary
+528,The Ring Two,Horror
+528,The Ring Two,Mystery
+528,The Ring Two,Thriller
+529,Constantine,Drama
+529,Constantine,Fantasy
+529,Constantine,Horror
+530,The Exorcism of Emily Rose,Drama
+530,The Exorcism of Emily Rose,Horror
+530,The Exorcism of Emily Rose,Thriller
+531,Four Brothers,Action
+531,Four Brothers,Crime
+531,Four Brothers,Drama
+531,Four Brothers,Mystery
+531,Four Brothers,Thriller
+532,Sin City,Crime
+532,Sin City,Thriller
+533,The Interpreter,Mystery
+533,The Interpreter,Thriller
+534,Guess Who,Comedy
+534,Guess Who,Romance
+535,Sahara,Action
+535,Sahara,Adventure
+535,Sahara,Comedy
+535,Sahara,Thriller
+535,Sahara,War
+536,Coach Carter,Drama
+536,Coach Carter,Sport
+537,Herbie: Fully Loaded,Adventure
+537,Herbie: Fully Loaded,Comedy
+537,Herbie: Fully Loaded,Family
+537,Herbie: Fully Loaded,Fantasy
+537,Herbie: Fully Loaded,Romance
+537,Herbie: Fully Loaded,Sport
+538,The Amityville Horror (2005),Drama
+538,The Amityville Horror (2005),Horror
+538,The Amityville Horror (2005),Mystery
+538,The Amityville Horror (2005),Thriller
+539,Sky High,Adventure
+539,Sky High,Comedy
+539,Sky High,Family
+539,Sky High,Sci-Fi
+540,Bewitched,Comedy
+540,Bewitched,Fantasy
+540,Bewitched,Romance
+541,Jarhead,Drama
+541,Jarhead,War
+542,Cinderella Man,Biography
+542,Cinderella Man,Drama
+542,Cinderella Man,Sport
+543,The Family Stone,Comedy
+543,The Family Stone,Drama
+543,The Family Stone,Romance
+544,Red Eye,Mystery
+544,Red Eye,Thriller
+545,Memoirs of a Geisha,Drama
+545,Memoirs of a Geisha,Romance
+546,White Noise,Drama
+546,White Noise,Horror
+546,White Noise,Mystery
+546,White Noise,Thriller
+547,Wallace and Gromit: The Curse of the Were-Rabbit,Animation
+547,Wallace and Gromit: The Curse of the Were-Rabbit,Comedy
+547,Wallace and Gromit: The Curse of the Were-Rabbit,Family
+547,Wallace and Gromit: The Curse of the Were-Rabbit,Mystery
+548,Be Cool,Comedy
+548,Be Cool,Crime
+548,Be Cool,Music
+549,Crash,Short
+549,Crash,Drama
+549,Crash,Music
+550,"Yours, Mine and Ours",Comedy
+550,"Yours, Mine and Ours",Family
+550,"Yours, Mine and Ours",Fantasy
+550,"Yours, Mine and Ours",Romance
+551,Pirates of the Caribbean: Dead Man's Chest,Action
+551,Pirates of the Caribbean: Dead Man's Chest,Adventure
+551,Pirates of the Caribbean: Dead Man's Chest,Fantasy
+552,Night at the Museum,Action
+552,Night at the Museum,Adventure
+552,Night at the Museum,Comedy
+552,Night at the Museum,Family
+552,Night at the Museum,Fantasy
+553,Cars,Animation
+553,Cars,Adventure
+553,Cars,Comedy
+553,Cars,Family
+553,Cars,Sport
+554,X-Men: The Last Stand,Action
+554,X-Men: The Last Stand,Adventure
+554,X-Men: The Last Stand,Sci-Fi
+554,X-Men: The Last Stand,Thriller
+555,The Da Vinci Code,Mystery
+555,The Da Vinci Code,Thriller
+556,Superman Returns,Action
+556,Superman Returns,Adventure
+556,Superman Returns,Fantasy
+556,Superman Returns,Sci-Fi
+557,Happy Feet,Animation
+557,Happy Feet,Comedy
+557,Happy Feet,Family
+557,Happy Feet,Music
+558,Ice Age: The Meltdown,Animation
+558,Ice Age: The Meltdown,Action
+558,Ice Age: The Meltdown,Adventure
+558,Ice Age: The Meltdown,Comedy
+558,Ice Age: The Meltdown,Family
+558,Ice Age: The Meltdown,Fantasy
+559,Casino Royale,Action
+559,Casino Royale,Adventure
+559,Casino Royale,Thriller
+560,The Pursuit of Happyness,Biography
+560,The Pursuit of Happyness,Drama
+561,Over the Hedge,Animation
+561,Over the Hedge,Adventure
+561,Over the Hedge,Comedy
+561,Over the Hedge,Family
+562,Talladega Nights: The Ballad of Ricky Bobby,Action
+562,Talladega Nights: The Ballad of Ricky Bobby,Comedy
+562,Talladega Nights: The Ballad of Ricky Bobby,Sport
+563,Click,Comedy
+563,Click,Drama
+563,Click,Fantasy
+563,Click,Romance
+564,Mission: Impossible III,Action
+564,Mission: Impossible III,Adventure
+564,Mission: Impossible III,Thriller
+565,The Departed,Crime
+565,The Departed,Drama
+565,The Departed,Thriller
+566,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Comedy
+567,The Devil Wears Prada,Comedy
+567,The Devil Wears Prada,Drama
+567,The Devil Wears Prada,Romance
+568,The Break-Up,Comedy
+568,The Break-Up,Drama
+568,The Break-Up,Romance
+569,Dreamgirls,Drama
+569,Dreamgirls,Music
+569,Dreamgirls,Musical
+570,Scary Movie 4,Comedy
+571,Failure to Launch,Comedy
+571,Failure to Launch,Romance
+572,Inside Man,Crime
+572,Inside Man,Drama
+572,Inside Man,Mystery
+572,Inside Man,Thriller
+573,Open Season,Animation
+573,Open Season,Adventure
+573,Open Season,Comedy
+573,Open Season,Family
+574,The Santa Clause 3: The Escape Clause,Adventure
+574,The Santa Clause 3: The Escape Clause,Comedy
+574,The Santa Clause 3: The Escape Clause,Family
+574,The Santa Clause 3: The Escape Clause,Fantasy
+575,Charlotte's Web (2006),Comedy
+575,Charlotte's Web (2006),Family
+575,Charlotte's Web (2006),Fantasy
+576,The Pink Panther (2006),Adventure
+576,The Pink Panther (2006),Comedy
+576,The Pink Panther (2006),Crime
+576,The Pink Panther (2006),Mystery
+577,Eight Below,Adventure
+577,Eight Below,Drama
+577,Eight Below,Family
+578,Saw III,Horror
+578,Saw III,Mystery
+579,Nacho Libre,Comedy
+579,Nacho Libre,Family
+579,Nacho Libre,Sport
+580,"You, Me and Dupree",Comedy
+580,"You, Me and Dupree",Romance
+581,Eragon,Action
+581,Eragon,Adventure
+581,Eragon,Family
+581,Eragon,Fantasy
+582,Monster House,Animation
+582,Monster House,Comedy
+582,Monster House,Family
+582,Monster House,Fantasy
+582,Monster House,Mystery
+583,Jackass: Number Two,Documentary
+583,Jackass: Number Two,Action
+583,Jackass: Number Two,Comedy
+584,Barnyard: The Original Party Animals,Animation
+584,Barnyard: The Original Party Animals,Comedy
+584,Barnyard: The Original Party Animals,Family
+585,RV,Adventure
+585,RV,Comedy
+585,RV,Family
+586,V for Vendetta,Action
+586,V for Vendetta,Drama
+586,V for Vendetta,Thriller
+587,World Trade Center,Drama
+587,World Trade Center,History
+587,World Trade Center,Thriller
+588,Rocky Balboa,Drama
+588,Rocky Balboa,Sport
+589,Big Momma's House 2,Comedy
+589,Big Momma's House 2,Crime
+590,Step Up,Crime
+590,Step Up,Drama
+590,Step Up,Music
+590,Step Up,Romance
+591,Flushed Away,Animation
+591,Flushed Away,Adventure
+591,Flushed Away,Comedy
+591,Flushed Away,Family
+592,Deja Vu,Action
+592,Deja Vu,Sci-Fi
+592,Deja Vu,Thriller
+593,Miami Vice,Action
+593,Miami Vice,Crime
+593,Miami Vice,Thriller
+594,Tyler Perry's Madea's Family Reunion,Comedy
+594,Tyler Perry's Madea's Family Reunion,Drama
+594,Tyler Perry's Madea's Family Reunion,Romance
+595,The Holiday,Comedy
+595,The Holiday,Romance
+596,The Fast and the Furious: Tokyo Drift,Action
+596,The Fast and the Furious: Tokyo Drift,Crime
+596,The Fast and the Furious: Tokyo Drift,Drama
+596,The Fast and the Furious: Tokyo Drift,Thriller
+597,Underworld: Evolution,Action
+597,Underworld: Evolution,Fantasy
+597,Underworld: Evolution,Sci-Fi
+597,Underworld: Evolution,Thriller
+598,The Shaggy Dog,Comedy
+598,The Shaggy Dog,Family
+598,The Shaggy Dog,Fantasy
+599,Poseidon,Action
+599,Poseidon,Adventure
+599,Poseidon,Drama
+599,Poseidon,Thriller
+600,The Good Shepherd,Drama
+600,The Good Shepherd,History
+600,The Good Shepherd,Thriller
+601,Spider-Man 3,Action
+601,Spider-Man 3,Adventure
+602,Shrek the Third,Animation
+602,Shrek the Third,Adventure
+602,Shrek the Third,Comedy
+602,Shrek the Third,Family
+602,Shrek the Third,Fantasy
+603,Transformers,Action
+603,Transformers,Adventure
+603,Transformers,Sci-Fi
+604,Pirates of the Caribbean: At World's End,Action
+604,Pirates of the Caribbean: At World's End,Adventure
+604,Pirates of the Caribbean: At World's End,Fantasy
+605,Harry Potter and the Order of the Phoenix,Adventure
+605,Harry Potter and the Order of the Phoenix,Family
+605,Harry Potter and the Order of the Phoenix,Fantasy
+605,Harry Potter and the Order of the Phoenix,Mystery
+606,I Am Legend,Drama
+606,I Am Legend,Sci-Fi
+606,I Am Legend,Thriller
+607,The Bourne Ultimatum,Action
+607,The Bourne Ultimatum,Thriller
+608,National Treasure: Book of Secrets,Action
+608,National Treasure: Book of Secrets,Adventure
+608,National Treasure: Book of Secrets,Mystery
+608,National Treasure: Book of Secrets,Thriller
+609,Alvin and the Chipmunks,Animation
+609,Alvin and the Chipmunks,Comedy
+609,Alvin and the Chipmunks,Family
+609,Alvin and the Chipmunks,Fantasy
+609,Alvin and the Chipmunks,Music
+610,300,Action
+610,300,Fantasy
+610,300,War
+611,Ratatouille,Animation
+611,Ratatouille,Comedy
+611,Ratatouille,Family
+611,Ratatouille,Fantasy
+612,The Simpsons Movie,Animation
+612,The Simpsons Movie,Adventure
+612,The Simpsons Movie,Comedy
+613,Wild Hogs,Action
+613,Wild Hogs,Adventure
+613,Wild Hogs,Comedy
+614,Knocked Up,Comedy
+614,Knocked Up,Drama
+614,Knocked Up,Romance
+615,Juno,Comedy
+615,Juno,Drama
+615,Juno,Romance
+616,Rush Hour 3,Action
+616,Rush Hour 3,Comedy
+616,Rush Hour 3,Crime
+616,Rush Hour 3,Thriller
+617,Live Free or Die Hard,Action
+617,Live Free or Die Hard,Adventure
+617,Live Free or Die Hard,Thriller
+618,Fantastic Four: Rise of the Silver Surfer,Action
+618,Fantastic Four: Rise of the Silver Surfer,Adventure
+618,Fantastic Four: Rise of the Silver Surfer,Fantasy
+618,Fantastic Four: Rise of the Silver Surfer,Sci-Fi
+618,Fantastic Four: Rise of the Silver Surfer,Thriller
+619,American Gangster,Biography
+619,American Gangster,Crime
+619,American Gangster,Drama
+620,Enchanted,Animation
+620,Enchanted,Comedy
+620,Enchanted,Family
+620,Enchanted,Fantasy
+620,Enchanted,Musical
+620,Enchanted,Romance
+621,Bee Movie,Animation
+621,Bee Movie,Adventure
+621,Bee Movie,Comedy
+621,Bee Movie,Family
+622,Superbad,Comedy
+623,I Now Pronounce You Chuck and Larry,Comedy
+623,I Now Pronounce You Chuck and Larry,Romance
+624,Hairspray (2007),Comedy
+624,Hairspray (2007),Musical
+624,Hairspray (2007),Romance
+625,Blades of Glory,Comedy
+625,Blades of Glory,Sport
+626,Ocean's Thirteen,Crime
+626,Ocean's Thirteen,Thriller
+627,Ghost Rider,Action
+627,Ghost Rider,Fantasy
+627,Ghost Rider,Thriller
+628,Evan Almighty,Comedy
+628,Evan Almighty,Family
+628,Evan Almighty,Fantasy
+629,Meet the Robinsons,Animation
+629,Meet the Robinsons,Adventure
+629,Meet the Robinsons,Comedy
+629,Meet the Robinsons,Family
+629,Meet the Robinsons,Sci-Fi
+630,Norbit,Comedy
+630,Norbit,Drama
+630,Norbit,Romance
+631,The Bucket List,Adventure
+631,The Bucket List,Comedy
+631,The Bucket List,Drama
+632,The Game Plan,Comedy
+632,The Game Plan,Family
+632,The Game Plan,Sport
+633,Beowulf,Animation
+633,Beowulf,Action
+633,Beowulf,Adventure
+633,Beowulf,Fantasy
+634,Bridge to Terabithia,Adventure
+634,Bridge to Terabithia,Drama
+634,Bridge to Terabithia,Family
+634,Bridge to Terabithia,Fantasy
+635,Disturbia,Drama
+635,Disturbia,Mystery
+635,Disturbia,Thriller
+636,No Country for Old Men,Crime
+636,No Country for Old Men,Drama
+636,No Country for Old Men,Thriller
+637,Fred Claus,Comedy
+637,Fred Claus,Family
+637,Fred Claus,Fantasy
+638,1408,Horror
+639,The Golden Compass,Adventure
+639,The Golden Compass,Family
+639,The Golden Compass,Fantasy
+640,Charlie Wilson's War,Biography
+640,Charlie Wilson's War,Comedy
+640,Charlie Wilson's War,Drama
+640,Charlie Wilson's War,History
+641,Saw IV,Horror
+641,Saw IV,Mystery
+642,Stomp the Yard,Drama
+642,Stomp the Yard,Music
+642,Stomp the Yard,Romance
+643,Surf's Up,Animation
+643,Surf's Up,Comedy
+643,Surf's Up,Family
+643,Surf's Up,Sport
+644,Halloween (2007),Horror
+645,Tyler Perry's Why Did I Get Married?,Comedy
+645,Tyler Perry's Why Did I Get Married?,Drama
+646,TMNT,Animation
+646,TMNT,Action
+646,TMNT,Adventure
+646,TMNT,Comedy
+646,TMNT,Family
+646,TMNT,Fantasy
+646,TMNT,Sci-Fi
+647,P.S. I Love You,Drama
+647,P.S. I Love You,Romance
+648,3:10 to Yuma (2007),Adventure
+648,3:10 to Yuma (2007),Crime
+648,3:10 to Yuma (2007),Drama
+648,3:10 to Yuma (2007),Western
+649,Sweeney Todd: The Demon Barber of Fleet Street,Drama
+649,Sweeney Todd: The Demon Barber of Fleet Street,Horror
+649,Sweeney Todd: The Demon Barber of Fleet Street,Musical
+649,Sweeney Todd: The Demon Barber of Fleet Street,Thriller
+650,Atonement,Drama
+650,Atonement,Mystery
+650,Atonement,Romance
+650,Atonement,War
+651,The Dark Knight,Action
+651,The Dark Knight,Crime
+651,The Dark Knight,Drama
+652,Iron Man,Action
+652,Iron Man,Adventure
+652,Iron Man,Sci-Fi
+653,Indiana Jones and the Kingdom of the Crystal Skull,Action
+653,Indiana Jones and the Kingdom of the Crystal Skull,Adventure
+654,Hancock,Action
+654,Hancock,Fantasy
+655,WALL-E,Animation
+655,WALL-E,Adventure
+655,WALL-E,Family
+655,WALL-E,Sci-Fi
+656,Kung Fu Panda,Animation
+656,Kung Fu Panda,Action
+656,Kung Fu Panda,Adventure
+656,Kung Fu Panda,Comedy
+656,Kung Fu Panda,Family
+657,Twilight,Drama
+657,Twilight,Fantasy
+657,Twilight,Romance
+658,Madagascar: Escape 2 Africa,Animation
+658,Madagascar: Escape 2 Africa,Action
+658,Madagascar: Escape 2 Africa,Adventure
+658,Madagascar: Escape 2 Africa,Comedy
+658,Madagascar: Escape 2 Africa,Family
+659,Quantum of Solace,Action
+659,Quantum of Solace,Adventure
+660,Dr. Seuss' Horton Hears a Who!,Animation
+660,Dr. Seuss' Horton Hears a Who!,Adventure
+660,Dr. Seuss' Horton Hears a Who!,Comedy
+660,Dr. Seuss' Horton Hears a Who!,Family
+660,Dr. Seuss' Horton Hears a Who!,Fantasy
+661,Sex and the City,Comedy
+661,Sex and the City,Drama
+661,Sex and the City,Romance
+662,Gran Torino,Drama
+663,Mamma Mia!,Comedy
+663,Mamma Mia!,Musical
+663,Mamma Mia!,Romance
+664,Marley and Me,Comedy
+664,Marley and Me,Drama
+664,Marley and Me,Family
+664,Marley and Me,Romance
+665,The Chronicles of Narnia: Prince Caspian,Action
+665,The Chronicles of Narnia: Prince Caspian,Adventure
+665,The Chronicles of Narnia: Prince Caspian,Family
+665,The Chronicles of Narnia: Prince Caspian,Fantasy
+666,Slumdog Millionaire,Drama
+666,Slumdog Millionaire,Romance
+667,The Incredible Hulk,Action
+667,The Incredible Hulk,Adventure
+667,The Incredible Hulk,Sci-Fi
+668,Wanted,Action
+668,Wanted,Crime
+668,Wanted,Fantasy
+668,Wanted,Thriller
+669,Get Smart,Action
+669,Get Smart,Adventure
+669,Get Smart,Comedy
+669,Get Smart,Romance
+669,Get Smart,Thriller
+670,The Curious Case of Benjamin Button,Drama
+670,The Curious Case of Benjamin Button,Fantasy
+670,The Curious Case of Benjamin Button,Romance
+671,Four Christmases,Comedy
+671,Four Christmases,Drama
+671,Four Christmases,Romance
+672,Bolt,Animation
+672,Bolt,Adventure
+672,Bolt,Comedy
+672,Bolt,Family
+673,Tropic Thunder,Action
+673,Tropic Thunder,Comedy
+674,Bedtime Stories,Comedy
+674,Bedtime Stories,Family
+674,Bedtime Stories,Fantasy
+674,Bedtime Stories,Romance
+675,The Mummy: Tomb of the Dragon Emperor,Action
+675,The Mummy: Tomb of the Dragon Emperor,Adventure
+675,The Mummy: Tomb of the Dragon Emperor,Fantasy
+675,The Mummy: Tomb of the Dragon Emperor,Thriller
+676,Journey to the Center of the Earth,Action
+676,Journey to the Center of the Earth,Adventure
+676,Journey to the Center of the Earth,Family
+676,Journey to the Center of the Earth,Fantasy
+676,Journey to the Center of the Earth,Sci-Fi
+677,Eagle Eye,Action
+677,Eagle Eye,Mystery
+677,Eagle Eye,Thriller
+678,Step Brothers,Comedy
+679,You Don't Mess with the Zohan,Action
+679,You Don't Mess with the Zohan,Comedy
+680,Yes Man,Comedy
+680,Yes Man,Romance
+681,"10,000 B.C.",Action
+681,"10,000 B.C.",Adventure
+681,"10,000 B.C.",Drama
+681,"10,000 B.C.",Fantasy
+681,"10,000 B.C.",History
+682,Beverly Hills Chihuahua,Adventure
+682,Beverly Hills Chihuahua,Comedy
+682,Beverly Hills Chihuahua,Drama
+682,Beverly Hills Chihuahua,Family
+682,Beverly Hills Chihuahua,Romance
+683,High School Musical 3: Senior Year,Comedy
+683,High School Musical 3: Senior Year,Drama
+683,High School Musical 3: Senior Year,Family
+683,High School Musical 3: Senior Year,Musical
+683,High School Musical 3: Senior Year,Romance
+684,Pineapple Express,Action
+684,Pineapple Express,Comedy
+684,Pineapple Express,Crime
+685,Valkyrie,Drama
+685,Valkyrie,Thriller
+685,Valkyrie,War
+686,21,Action
+686,21,Biography
+686,21,Crime
+686,21,Drama
+686,21,Thriller
+687,What Happens in Vegas,Comedy
+687,What Happens in Vegas,Romance
+688,Jumper,Action
+688,Jumper,Adventure
+688,Jumper,Sci-Fi
+688,Jumper,Thriller
+689,Cloverfield,Adventure
+689,Cloverfield,Horror
+689,Cloverfield,Sci-Fi
+690,The Day the Earth Stood Still (2008),Drama
+690,The Day the Earth Stood Still (2008),Sci-Fi
+690,The Day the Earth Stood Still (2008),Thriller
+691,27 Dresses,Comedy
+691,27 Dresses,Romance
+692,Hellboy II: The Golden Army,Action
+692,Hellboy II: The Golden Army,Adventure
+692,Hellboy II: The Golden Army,Fantasy
+692,Hellboy II: The Golden Army,Sci-Fi
+693,Vantage Point,Action
+693,Vantage Point,Crime
+693,Vantage Point,Drama
+693,Vantage Point,Thriller
+694,The Spiderwick Chronicles,Adventure
+694,The Spiderwick Chronicles,Family
+694,The Spiderwick Chronicles,Fantasy
+695,Fool's Gold,Action
+695,Fool's Gold,Adventure
+695,Fool's Gold,Comedy
+695,Fool's Gold,Romance
+695,Fool's Gold,Thriller
+696,Seven Pounds,Drama
+697,Role Models,Comedy
+698,Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour,Documentary
+698,Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour,Music
+699,The Happening,Drama
+699,The Happening,Sci-Fi
+699,The Happening,Thriller
+700,Forgetting Sarah Marshall,Comedy
+700,Forgetting Sarah Marshall,Drama
+700,Forgetting Sarah Marshall,Romance
+701,Avatar,Action
+701,Avatar,Adventure
+701,Avatar,Fantasy
+701,Avatar,Sci-Fi
+702,Transformers: Revenge of the Fallen,Action
+702,Transformers: Revenge of the Fallen,Adventure
+702,Transformers: Revenge of the Fallen,Sci-Fi
+703,Harry Potter and the Half-Blood Prince,Adventure
+703,Harry Potter and the Half-Blood Prince,Family
+703,Harry Potter and the Half-Blood Prince,Fantasy
+703,Harry Potter and the Half-Blood Prince,Mystery
+704,The Twilight Saga: New Moon,Adventure
+704,The Twilight Saga: New Moon,Drama
+704,The Twilight Saga: New Moon,Fantasy
+704,The Twilight Saga: New Moon,Romance
+705,Up,Animation
+705,Up,Adventure
+705,Up,Comedy
+705,Up,Family
+706,The Hangover,Comedy
+707,Star Trek,Action
+707,Star Trek,Adventure
+707,Star Trek,Sci-Fi
+708,The Blind Side,Biography
+708,The Blind Side,Drama
+708,The Blind Side,Sport
+709,Alvin and the Chipmunks: The Squeakquel,Animation
+709,Alvin and the Chipmunks: The Squeakquel,Comedy
+709,Alvin and the Chipmunks: The Squeakquel,Family
+709,Alvin and the Chipmunks: The Squeakquel,Fantasy
+709,Alvin and the Chipmunks: The Squeakquel,Music
+710,Sherlock Holmes,Action
+710,Sherlock Holmes,Adventure
+710,Sherlock Holmes,Crime
+710,Sherlock Holmes,Mystery
+710,Sherlock Holmes,Thriller
+711,Monsters Vs. Aliens,Animation
+711,Monsters Vs. Aliens,Action
+711,Monsters Vs. Aliens,Adventure
+711,Monsters Vs. Aliens,Comedy
+711,Monsters Vs. Aliens,Family
+711,Monsters Vs. Aliens,Sci-Fi
+712,Ice Age: Dawn of the Dinosaurs,Animation
+712,Ice Age: Dawn of the Dinosaurs,Action
+712,Ice Age: Dawn of the Dinosaurs,Adventure
+712,Ice Age: Dawn of the Dinosaurs,Comedy
+712,Ice Age: Dawn of the Dinosaurs,Family
+713,X-Men Origins: Wolverine,Action
+713,X-Men Origins: Wolverine,Adventure
+713,X-Men Origins: Wolverine,Sci-Fi
+713,X-Men Origins: Wolverine,Thriller
+714,Night at the Museum: Battle of the Smithsonian,Action
+714,Night at the Museum: Battle of the Smithsonian,Adventure
+714,Night at the Museum: Battle of the Smithsonian,Comedy
+714,Night at the Museum: Battle of the Smithsonian,Family
+714,Night at the Museum: Battle of the Smithsonian,Fantasy
+715,2012,Action
+715,2012,Adventure
+715,2012,Sci-Fi
+716,The Proposal,Comedy
+716,The Proposal,Drama
+716,The Proposal,Romance
+717,Fast and Furious,Action
+717,Fast and Furious,Crime
+717,Fast and Furious,Drama
+717,Fast and Furious,Thriller
+718,G.I. Joe: The Rise of Cobra,Action
+718,G.I. Joe: The Rise of Cobra,Adventure
+718,G.I. Joe: The Rise of Cobra,Sci-Fi
+718,G.I. Joe: The Rise of Cobra,Thriller
+719,Paul Blart: Mall Cop,Action
+719,Paul Blart: Mall Cop,Comedy
+719,Paul Blart: Mall Cop,Crime
+720,Taken,Short
+721,A Christmas Carol (2009),Animation
+721,A Christmas Carol (2009),Drama
+721,A Christmas Carol (2009),Family
+721,A Christmas Carol (2009),Fantasy
+722,Angels & Demons,Mystery
+722,Angels & Demons,Thriller
+723,Terminator Salvation,Action
+723,Terminator Salvation,Sci-Fi
+724,Cloudy with a Chance of Meatballs,Animation
+724,Cloudy with a Chance of Meatballs,Comedy
+724,Cloudy with a Chance of Meatballs,Family
+724,Cloudy with a Chance of Meatballs,Romance
+724,Cloudy with a Chance of Meatballs,Sci-Fi
+725,Inglourious Basterds,Adventure
+725,Inglourious Basterds,Drama
+725,Inglourious Basterds,War
+726,G-Force,Action
+726,G-Force,Adventure
+726,G-Force,Comedy
+726,G-Force,Family
+726,G-Force,Fantasy
+726,G-Force,Sci-Fi
+727,District 9,Action
+727,District 9,Sci-Fi
+727,District 9,Thriller
+728,It's Complicated,Comedy
+728,It's Complicated,Romance
+729,Couples Retreat,Comedy
+730,Paranormal Activity,Horror
+731,Watchmen,Action
+731,Watchmen,Mystery
+731,Watchmen,Sci-Fi
+732,The Princess and the Frog,Animation
+732,The Princess and the Frog,Family
+732,The Princess and the Frog,Fantasy
+732,The Princess and the Frog,Musical
+732,The Princess and the Frog,Romance
+733,Public Enemies,Biography
+733,Public Enemies,Crime
+733,Public Enemies,Drama
+733,Public Enemies,History
+734,Julie & Julia,Biography
+734,Julie & Julia,Drama
+734,Julie & Julia,Romance
+735,He's Just Not That Into You,Comedy
+735,He's Just Not That Into You,Drama
+735,He's Just Not That Into You,Romance
+736,Tyler Perry's Madea Goes to Jail,Comedy
+736,Tyler Perry's Madea Goes to Jail,Crime
+736,Tyler Perry's Madea Goes to Jail,Drama
+737,The Ugly Truth,Comedy
+737,The Ugly Truth,Romance
+738,Up in the Air,Drama
+738,Up in the Air,Romance
+739,Knowing,Action
+739,Knowing,Drama
+739,Knowing,Mystery
+739,Knowing,Sci-Fi
+739,Knowing,Thriller
+740,Hannah Montana The Movie,Comedy
+740,Hannah Montana The Movie,Drama
+740,Hannah Montana The Movie,Family
+740,Hannah Montana The Movie,Music
+740,Hannah Montana The Movie,Romance
+741,Where the Wild Things Are,Adventure
+741,Where the Wild Things Are,Drama
+741,Where the Wild Things Are,Family
+741,Where the Wild Things Are,Fantasy
+742,Zombieland,Adventure
+742,Zombieland,Comedy
+742,Zombieland,Horror
+743,Coraline,Animation
+743,Coraline,Fantasy
+744,Law Abiding Citizen,Crime
+744,Law Abiding Citizen,Drama
+744,Law Abiding Citizen,Thriller
+745,Hotel for Dogs,Comedy
+745,Hotel for Dogs,Family
+746,Michael Jackson's This Is It,Documentary
+746,Michael Jackson's This Is It,Music
+747,"I Love You, Man",Comedy
+747,"I Love You, Man",Romance
+748,Obsessed,Drama
+748,Obsessed,Thriller
+749,Race to Witch Mountain,Action
+749,Race to Witch Mountain,Adventure
+749,Race to Witch Mountain,Family
+749,Race to Witch Mountain,Fantasy
+749,Race to Witch Mountain,Sci-Fi
+749,Race to Witch Mountain,Thriller
+750,The Final Destination,Horror
+750,The Final Destination,Thriller
+751,Toy Story 3,Animation
+751,Toy Story 3,Adventure
+751,Toy Story 3,Comedy
+751,Toy Story 3,Family
+751,Toy Story 3,Fantasy
+752,Alice in Wonderland (2010),Adventure
+752,Alice in Wonderland (2010),Family
+752,Alice in Wonderland (2010),Fantasy
+753,Iron Man 2,Action
+753,Iron Man 2,Adventure
+753,Iron Man 2,Sci-Fi
+754,The Twilight Saga: Eclipse,Adventure
+754,The Twilight Saga: Eclipse,Drama
+754,The Twilight Saga: Eclipse,Fantasy
+754,The Twilight Saga: Eclipse,Romance
+755,Harry Potter and the Deathly Hallows Part 1,Adventure
+755,Harry Potter and the Deathly Hallows Part 1,Family
+755,Harry Potter and the Deathly Hallows Part 1,Fantasy
+755,Harry Potter and the Deathly Hallows Part 1,Mystery
+756,Inception,Action
+756,Inception,Mystery
+756,Inception,Sci-Fi
+756,Inception,Thriller
+757,Despicable Me,Animation
+757,Despicable Me,Comedy
+757,Despicable Me,Family
+758,Shrek Forever After,Animation
+758,Shrek Forever After,Adventure
+758,Shrek Forever After,Comedy
+758,Shrek Forever After,Family
+758,Shrek Forever After,Fantasy
+759,How to Train Your Dragon,Animation
+759,How to Train Your Dragon,Adventure
+759,How to Train Your Dragon,Family
+759,How to Train Your Dragon,Fantasy
+760,Tangled,Animation
+760,Tangled,Comedy
+760,Tangled,Family
+760,Tangled,Fantasy
+760,Tangled,Musical
+760,Tangled,Romance
+761,The Karate Kid,Action
+761,The Karate Kid,Drama
+761,The Karate Kid,Family
+761,The Karate Kid,Sport
+762,Tron Legacy,Action
+762,Tron Legacy,Adventure
+762,Tron Legacy,Fantasy
+762,Tron Legacy,Sci-Fi
+763,True Grit,Adventure
+763,True Grit,Drama
+763,True Grit,Western
+764,Clash of the Titans (2010),Action
+764,Clash of the Titans (2010),Adventure
+764,Clash of the Titans (2010),Fantasy
+765,Grown Ups,Comedy
+766,Little Fockers,Comedy
+766,Little Fockers,Romance
+767,Megamind,Animation
+767,Megamind,Action
+767,Megamind,Comedy
+767,Megamind,Family
+767,Megamind,Sci-Fi
+768,The King's Speech,Biography
+768,The King's Speech,Drama
+768,The King's Speech,History
+769,The Last Airbender,Action
+769,The Last Airbender,Adventure
+769,The Last Airbender,Family
+769,The Last Airbender,Fantasy
+770,Shutter Island,Mystery
+770,Shutter Island,Thriller
+771,The Other Guys,Action
+771,The Other Guys,Comedy
+771,The Other Guys,Crime
+772,Salt,Action
+772,Salt,Crime
+772,Salt,Mystery
+772,Salt,Thriller
+773,Jackass 3-D,Documentary
+773,Jackass 3-D,Action
+773,Jackass 3-D,Comedy
+774,Valentine's Day,Comedy
+774,Valentine's Day,Romance
+775,Black Swan,Drama
+775,Black Swan,Thriller
+776,Robin Hood,Action
+776,Robin Hood,Adventure
+776,Robin Hood,Drama
+776,Robin Hood,History
+777,The Chronicles of Narnia: The Voyage of the Dawn Treader,Adventure
+777,The Chronicles of Narnia: The Voyage of the Dawn Treader,Family
+777,The Chronicles of Narnia: The Voyage of the Dawn Treader,Fantasy
+778,The Expendables,Action
+778,The Expendables,Adventure
+778,The Expendables,Thriller
+779,Due Date,Comedy
+780,Yogi Bear,Animation
+780,Yogi Bear,Adventure
+780,Yogi Bear,Comedy
+780,Yogi Bear,Family
+781,Date Night,Comedy
+781,Date Night,Crime
+781,Date Night,Romance
+781,Date Night,Thriller
+782,The Social Network,Biography
+782,The Social Network,Drama
+783,Sex and the City 2,Comedy
+783,Sex and the City 2,Drama
+783,Sex and the City 2,Romance
+784,The Book of Eli,Action
+784,The Book of Eli,Adventure
+784,The Book of Eli,Drama
+784,The Book of Eli,Thriller
+785,The Fighter,Biography
+785,The Fighter,Drama
+785,The Fighter,Sport
+786,The Town,Crime
+786,The Town,Drama
+786,The Town,Thriller
+787,Prince of Persia: The Sands of Time,Action
+787,Prince of Persia: The Sands of Time,Adventure
+787,Prince of Persia: The Sands of Time,Fantasy
+787,Prince of Persia: The Sands of Time,Romance
+788,Red,Action
+788,Red,Comedy
+788,Red,Crime
+788,Red,Thriller
+789,Percy Jackson & The Olympians: The Lightning Thief,Adventure
+789,Percy Jackson & The Olympians: The Lightning Thief,Family
+789,Percy Jackson & The Olympians: The Lightning Thief,Fantasy
+790,Paranormal Activity 2,Horror
+791,Unstoppable,Action
+791,Unstoppable,Thriller
+792,Eat Pray Love,Drama
+792,Eat Pray Love,Romance
+793,Dear John,Drama
+793,Dear John,Romance
+793,Dear John,War
+794,The A-Team,Action
+794,The A-Team,Adventure
+794,The A-Team,Comedy
+794,The A-Team,Crime
+794,The A-Team,Thriller
+795,Knight & Day,Action
+795,Knight & Day,Comedy
+795,Knight & Day,Romance
+796,Dinner for Schmucks,Comedy
+797,The Tourist,Action
+797,The Tourist,Romance
+797,The Tourist,Thriller
+798,The Bounty Hunter,Action
+798,The Bounty Hunter,Comedy
+798,The Bounty Hunter,Romance
+799,Diary of a Wimpy Kid,Comedy
+799,Diary of a Wimpy Kid,Family
+800,The Sorcerer's Apprentice,Action
+800,The Sorcerer's Apprentice,Adventure
+800,The Sorcerer's Apprentice,Comedy
+800,The Sorcerer's Apprentice,Drama
+800,The Sorcerer's Apprentice,Fantasy
+801,Harry Potter and the Deathly Hallows Part 2,Adventure
+801,Harry Potter and the Deathly Hallows Part 2,Drama
+801,Harry Potter and the Deathly Hallows Part 2,Fantasy
+801,Harry Potter and the Deathly Hallows Part 2,Mystery
+802,Transformers: Dark of the Moon,Action
+802,Transformers: Dark of the Moon,Adventure
+802,Transformers: Dark of the Moon,Sci-Fi
+803,The Twilight Saga: Breaking Dawn Part 1,Adventure
+803,The Twilight Saga: Breaking Dawn Part 1,Drama
+803,The Twilight Saga: Breaking Dawn Part 1,Fantasy
+803,The Twilight Saga: Breaking Dawn Part 1,Romance
+804,The Hangover Part II,Comedy
+805,Pirates of the Caribbean: On Stranger Tides,Action
+805,Pirates of the Caribbean: On Stranger Tides,Adventure
+805,Pirates of the Caribbean: On Stranger Tides,Fantasy
+806,Fast Five,Action
+806,Fast Five,Crime
+806,Fast Five,Thriller
+807,Mission: Impossible - Ghost Protocol,Action
+807,Mission: Impossible - Ghost Protocol,Adventure
+807,Mission: Impossible - Ghost Protocol,Thriller
+808,Cars 2,Animation
+808,Cars 2,Adventure
+808,Cars 2,Comedy
+808,Cars 2,Family
+808,Cars 2,Sport
+809,Sherlock Holmes: A Game of Shadows,Action
+809,Sherlock Holmes: A Game of Shadows,Adventure
+809,Sherlock Holmes: A Game of Shadows,Crime
+809,Sherlock Holmes: A Game of Shadows,Mystery
+809,Sherlock Holmes: A Game of Shadows,Thriller
+810,Thor,Action
+810,Thor,Adventure
+810,Thor,Fantasy
+811,Rise of the Planet of the Apes,Action
+811,Rise of the Planet of the Apes,Drama
+811,Rise of the Planet of the Apes,Sci-Fi
+811,Rise of the Planet of the Apes,Thriller
+812,Captain America: The First Avenger,Action
+812,Captain America: The First Avenger,Adventure
+812,Captain America: The First Avenger,Sci-Fi
+813,The Help,Drama
+814,Bridesmaids,Comedy
+814,Bridesmaids,Romance
+815,Kung Fu Panda 2,Animation
+815,Kung Fu Panda 2,Action
+815,Kung Fu Panda 2,Adventure
+815,Kung Fu Panda 2,Comedy
+815,Kung Fu Panda 2,Drama
+815,Kung Fu Panda 2,Family
+816,Puss in Boots,Animation
+816,Puss in Boots,Adventure
+816,Puss in Boots,Comedy
+816,Puss in Boots,Family
+817,X-Men: First Class,Action
+817,X-Men: First Class,Adventure
+817,X-Men: First Class,Sci-Fi
+818,Rio,Animation
+818,Rio,Adventure
+818,Rio,Comedy
+818,Rio,Family
+818,Rio,Musical
+819,The Smurfs,Animation
+819,The Smurfs,Adventure
+819,The Smurfs,Comedy
+819,The Smurfs,Family
+819,The Smurfs,Fantasy
+820,Alvin and the Chipmunks: Chipwrecked,Animation
+820,Alvin and the Chipmunks: Chipwrecked,Adventure
+820,Alvin and the Chipmunks: Chipwrecked,Comedy
+820,Alvin and the Chipmunks: Chipwrecked,Family
+820,Alvin and the Chipmunks: Chipwrecked,Fantasy
+820,Alvin and the Chipmunks: Chipwrecked,Music
+821,Super 8,Mystery
+821,Super 8,Sci-Fi
+821,Super 8,Thriller
+822,Rango,Animation
+822,Rango,Adventure
+822,Rango,Comedy
+822,Rango,Family
+822,Rango,Western
+823,Horrible Bosses,Comedy
+823,Horrible Bosses,Crime
+824,Green Lantern,Action
+824,Green Lantern,Adventure
+824,Green Lantern,Romance
+824,Green Lantern,Sci-Fi
+824,Green Lantern,Thriller
+825,Hop,Animation
+825,Hop,Adventure
+825,Hop,Comedy
+825,Hop,Family
+825,Hop,Fantasy
+826,Paranormal Activity 3,Horror
+827,Just Go With It,Comedy
+827,Just Go With It,Romance
+828,The Girl with the Dragon Tattoo (2011),Crime
+828,The Girl with the Dragon Tattoo (2011),Drama
+828,The Girl with the Dragon Tattoo (2011),Mystery
+828,The Girl with the Dragon Tattoo (2011),Thriller
+829,Bad Teacher,Comedy
+830,Cowboys & Aliens,Action
+830,Cowboys & Aliens,Sci-Fi
+830,Cowboys & Aliens,Thriller
+830,Cowboys & Aliens,Western
+831,Gnomeo and Juliet,Animation
+831,Gnomeo and Juliet,Comedy
+831,Gnomeo and Juliet,Family
+831,Gnomeo and Juliet,Romance
+832,The Green Hornet,Action
+832,The Green Hornet,Comedy
+832,The Green Hornet,Crime
+832,The Green Hornet,Sci-Fi
+832,The Green Hornet,Thriller
+833,The Lion King (in 3D),Animation
+833,The Lion King (in 3D),Adventure
+833,The Lion King (in 3D),Drama
+833,The Lion King (in 3D),Family
+833,The Lion King (in 3D),Musical
+834,The Muppets,Comedy
+834,The Muppets,Family
+834,The Muppets,Musical
+835,Real Steel,Action
+835,Real Steel,Drama
+835,Real Steel,Sci-Fi
+835,Real Steel,Sport
+836,"Crazy, Stupid, Love.",Comedy
+836,"Crazy, Stupid, Love.",Drama
+836,"Crazy, Stupid, Love.",Romance
+837,Battle: Los Angeles,Action
+837,Battle: Los Angeles,Sci-Fi
+838,Immortals,Action
+838,Immortals,Drama
+838,Immortals,Fantasy
+839,The Descendants,Comedy
+839,The Descendants,Drama
+840,Zookeeper,Comedy
+840,Zookeeper,Family
+840,Zookeeper,Romance
+841,War Horse,Drama
+841,War Horse,War
+842,Limitless,Mystery
+842,Limitless,Sci-Fi
+842,Limitless,Thriller
+843,Tower Heist,Action
+843,Tower Heist,Comedy
+843,Tower Heist,Crime
+844,The Adventures of Tintin,Animation
+844,The Adventures of Tintin,Action
+844,The Adventures of Tintin,Adventure
+844,The Adventures of Tintin,Family
+844,The Adventures of Tintin,Mystery
+845,Contagion,Drama
+845,Contagion,Sci-Fi
+845,Contagion,Thriller
+846,We Bought a Zoo,Comedy
+846,We Bought a Zoo,Drama
+846,We Bought a Zoo,Family
+847,Moneyball,Biography
+847,Moneyball,Drama
+847,Moneyball,Sport
+848,Jack and Jill,Comedy
+849,Hugo,Adventure
+849,Hugo,Drama
+849,Hugo,Family
+849,Hugo,Mystery
+850,Justin Bieber: Never Say Never,Documentary
+850,Justin Bieber: Never Say Never,Music
+851,Marvel's The Avengers,Action
+851,Marvel's The Avengers,Adventure
+851,Marvel's The Avengers,Sci-Fi
+852,The Dark Knight Rises,Action
+852,The Dark Knight Rises,Thriller
+853,The Hunger Games,Adventure
+853,The Hunger Games,Sci-Fi
+853,The Hunger Games,Thriller
+854,Skyfall,Action
+854,Skyfall,Adventure
+854,Skyfall,Thriller
+855,The Hobbit: An Unexpected Journey,Adventure
+855,The Hobbit: An Unexpected Journey,Fantasy
+856,The Twilight Saga: Breaking Dawn Part 2,Adventure
+856,The Twilight Saga: Breaking Dawn Part 2,Drama
+856,The Twilight Saga: Breaking Dawn Part 2,Fantasy
+856,The Twilight Saga: Breaking Dawn Part 2,Romance
+857,The Amazing Spider-Man,Action
+857,The Amazing Spider-Man,Adventure
+857,The Amazing Spider-Man,Fantasy
+858,Brave,Animation
+858,Brave,Adventure
+858,Brave,Comedy
+858,Brave,Family
+858,Brave,Fantasy
+859,Ted,Comedy
+859,Ted,Fantasy
+860,Madagascar 3: Europe's Most Wanted,Animation
+860,Madagascar 3: Europe's Most Wanted,Adventure
+860,Madagascar 3: Europe's Most Wanted,Comedy
+860,Madagascar 3: Europe's Most Wanted,Family
+861,Dr. Seuss' The Lorax,Animation
+861,Dr. Seuss' The Lorax,Comedy
+861,Dr. Seuss' The Lorax,Family
+861,Dr. Seuss' The Lorax,Fantasy
+862,Wreck-It Ralph,Animation
+862,Wreck-It Ralph,Adventure
+862,Wreck-It Ralph,Comedy
+862,Wreck-It Ralph,Family
+863,Lincoln,Biography
+863,Lincoln,Drama
+863,Lincoln,History
+863,Lincoln,War
+864,MIB 3,Action
+864,MIB 3,Comedy
+864,MIB 3,Sci-Fi
+865,Django Unchained,Western
+866,Ice Age: Continental Drift,Animation
+866,Ice Age: Continental Drift,Adventure
+866,Ice Age: Continental Drift,Comedy
+866,Ice Age: Continental Drift,Family
+867,Snow White and the Huntsman,Action
+867,Snow White and the Huntsman,Adventure
+867,Snow White and the Huntsman,Drama
+867,Snow White and the Huntsman,Fantasy
+868,Les Miserables (2012),Drama
+868,Les Miserables (2012),Musical
+868,Les Miserables (2012),Romance
+869,Hotel Transylvania,Animation
+869,Hotel Transylvania,Comedy
+869,Hotel Transylvania,Family
+869,Hotel Transylvania,Fantasy
+870,Taken 2,Action
+870,Taken 2,Thriller
+871,21 Jump Street,Action
+871,21 Jump Street,Comedy
+871,21 Jump Street,Crime
+872,Argo,Drama
+872,Argo,History
+872,Argo,Thriller
+873,Silver Linings Playbook,Comedy
+873,Silver Linings Playbook,Drama
+873,Silver Linings Playbook,Romance
+874,Prometheus,Adventure
+874,Prometheus,Mystery
+874,Prometheus,Sci-Fi
+875,Safe House,Action
+875,Safe House,Crime
+875,Safe House,Mystery
+875,Safe House,Thriller
+876,The Vow,Drama
+876,The Vow,Romance
+877,Life of Pi,Adventure
+877,Life of Pi,Drama
+877,Life of Pi,Fantasy
+878,Magic Mike,Comedy
+878,Magic Mike,Drama
+879,The Bourne Legacy,Action
+879,The Bourne Legacy,Adventure
+879,The Bourne Legacy,Mystery
+879,The Bourne Legacy,Thriller
+880,Journey 2: The Mysterious Island,Action
+880,Journey 2: The Mysterious Island,Adventure
+880,Journey 2: The Mysterious Island,Comedy
+880,Journey 2: The Mysterious Island,Family
+880,Journey 2: The Mysterious Island,Fantasy
+880,Journey 2: The Mysterious Island,Sci-Fi
+881,Rise of the Guardians,Animation
+881,Rise of the Guardians,Adventure
+881,Rise of the Guardians,Family
+881,Rise of the Guardians,Fantasy
+882,Zero Dark Thirty,Drama
+882,Zero Dark Thirty,History
+882,Zero Dark Thirty,Thriller
+883,Flight,Drama
+883,Flight,Thriller
+884,Think Like a Man,Comedy
+884,Think Like a Man,Romance
+885,The Campaign,Comedy
+886,The Expendables 2,Action
+886,The Expendables 2,Adventure
+886,The Expendables 2,Thriller
+887,Wrath of the Titans,Action
+887,Wrath of the Titans,Adventure
+887,Wrath of the Titans,Fantasy
+888,Jack Reacher,Action
+888,Jack Reacher,Crime
+888,Jack Reacher,Mystery
+888,Jack Reacher,Thriller
+889,Dark Shadows,Comedy
+889,Dark Shadows,Horror
+890,Parental Guidance,Comedy
+890,Parental Guidance,Family
+891,John Carter,Action
+891,John Carter,Adventure
+891,John Carter,Fantasy
+891,John Carter,Sci-Fi
+892,Act of Valor,Action
+892,Act of Valor,Thriller
+892,Act of Valor,War
+893,This Is 40,Comedy
+894,Contraband,Action
+894,Contraband,Crime
+894,Contraband,Drama
+894,Contraband,Thriller
+895,Looper,Action
+895,Looper,Crime
+895,Looper,Sci-Fi
+895,Looper,Thriller
+896,Tyler Perry's Madea's Witness Protection,Comedy
+896,Tyler Perry's Madea's Witness Protection,Crime
+896,Tyler Perry's Madea's Witness Protection,Drama
+897,Battleship,Action
+897,Battleship,Adventure
+897,Battleship,Sci-Fi
+897,Battleship,Thriller
+898,Pitch Perfect,Comedy
+898,Pitch Perfect,Music
+898,Pitch Perfect,Romance
+899,Mirror Mirror,Adventure
+899,Mirror Mirror,Comedy
+899,Mirror Mirror,Drama
+899,Mirror Mirror,Family
+899,Mirror Mirror,Fantasy
+900,Chronicle (2012),Drama
+900,Chronicle (2012),Sci-Fi
+900,Chronicle (2012),Thriller
+901,The Hunger Games: Catching Fire,Adventure
+901,The Hunger Games: Catching Fire,Sci-Fi
+901,The Hunger Games: Catching Fire,Thriller
+902,Iron Man 3,Action
+902,Iron Man 3,Adventure
+902,Iron Man 3,Sci-Fi
+903,Frozen,Animation
+903,Frozen,Adventure
+903,Frozen,Comedy
+903,Frozen,Family
+903,Frozen,Fantasy
+903,Frozen,Musical
+904,Despicable Me 2,Animation
+904,Despicable Me 2,Comedy
+904,Despicable Me 2,Family
+905,Man of Steel,Action
+905,Man of Steel,Adventure
+905,Man of Steel,Fantasy
+905,Man of Steel,Sci-Fi
+906,Gravity,Sci-Fi
+906,Gravity,Thriller
+907,Monsters University,Animation
+907,Monsters University,Adventure
+907,Monsters University,Comedy
+907,Monsters University,Family
+907,Monsters University,Fantasy
+908,The Hobbit: The Desolation of Smaug,Adventure
+908,The Hobbit: The Desolation of Smaug,Fantasy
+909,Fast & Furious 6,Action
+909,Fast & Furious 6,Crime
+909,Fast & Furious 6,Thriller
+910,Oz The Great and Powerful,Adventure
+910,Oz The Great and Powerful,Family
+910,Oz The Great and Powerful,Fantasy
+911,Star Trek Into Darkness,Action
+911,Star Trek Into Darkness,Adventure
+911,Star Trek Into Darkness,Sci-Fi
+912,Thor: The Dark World,Action
+912,Thor: The Dark World,Adventure
+912,Thor: The Dark World,Fantasy
+913,World War Z,Action
+913,World War Z,Adventure
+913,World War Z,Horror
+913,World War Z,Sci-Fi
+913,World War Z,Thriller
+914,The Croods,Animation
+914,The Croods,Adventure
+914,The Croods,Comedy
+914,The Croods,Family
+914,The Croods,Fantasy
+915,The Heat,Action
+915,The Heat,Comedy
+915,The Heat,Crime
+916,We're the Millers,Action
+916,We're the Millers,Adventure
+916,We're the Millers,Comedy
+916,We're the Millers,Crime
+917,American Hustle,Crime
+917,American Hustle,Drama
+918,The Great Gatsby (2013),Drama
+918,The Great Gatsby (2013),Romance
+919,The Conjuring,Horror
+920,Identity Thief,Comedy
+920,Identity Thief,Crime
+921,Grown Ups 2,Comedy
+922,The Wolverine,Action
+922,The Wolverine,Adventure
+922,The Wolverine,Sci-Fi
+922,The Wolverine,Thriller
+923,Anchorman 2: The Legend Continues,Comedy
+924,Lone Survivor,Action
+924,Lone Survivor,Biography
+924,Lone Survivor,Drama
+924,Lone Survivor,Thriller
+924,Lone Survivor,War
+925,G.I. Joe: Retaliation,Action
+925,G.I. Joe: Retaliation,Adventure
+925,G.I. Joe: Retaliation,Sci-Fi
+925,G.I. Joe: Retaliation,Thriller
+926,Cloudy with a Chance of Meatballs 2,Animation
+926,Cloudy with a Chance of Meatballs 2,Comedy
+926,Cloudy with a Chance of Meatballs 2,Family
+926,Cloudy with a Chance of Meatballs 2,Fantasy
+927,Now You See Me,Crime
+927,Now You See Me,Mystery
+927,Now You See Me,Thriller
+928,The Wolf of Wall Street,Biography
+928,The Wolf of Wall Street,Comedy
+928,The Wolf of Wall Street,Crime
+928,The Wolf of Wall Street,Drama
+929,Lee Daniels' The Butler,Biography
+929,Lee Daniels' The Butler,Drama
+930,The Hangover Part III,Comedy
+931,Epic,Animation
+931,Epic,Adventure
+931,Epic,Family
+931,Epic,Fantasy
+932,Captain Phillips,Biography
+932,Captain Phillips,Drama
+932,Captain Phillips,Thriller
+933,Jackass Presents: Bad Grandpa,Comedy
+934,Pacific Rim,Action
+934,Pacific Rim,Adventure
+934,Pacific Rim,Sci-Fi
+935,This is the End,Comedy
+935,This is the End,Fantasy
+936,Olympus Has Fallen,Action
+936,Olympus Has Fallen,Thriller
+937,42,Biography
+937,42,Drama
+937,42,Sport
+938,Elysium,Action
+938,Elysium,Drama
+938,Elysium,Sci-Fi
+938,Elysium,Thriller
+939,Planes,Animation
+939,Planes,Adventure
+939,Planes,Comedy
+939,Planes,Family
+940,The Lone Ranger,Action
+940,The Lone Ranger,Adventure
+940,The Lone Ranger,Western
+941,Oblivion,Action
+941,Oblivion,Adventure
+941,Oblivion,Mystery
+941,Oblivion,Sci-Fi
+942,Insidious Chapter 2,Horror
+942,Insidious Chapter 2,Thriller
+943,Saving Mr. Banks,Biography
+943,Saving Mr. Banks,Comedy
+943,Saving Mr. Banks,Drama
+943,Saving Mr. Banks,History
+943,Saving Mr. Banks,Music
+944,Turbo,Animation
+944,Turbo,Adventure
+944,Turbo,Comedy
+944,Turbo,Family
+944,Turbo,Sport
+945,2 Guns,Action
+945,2 Guns,Comedy
+945,2 Guns,Crime
+945,2 Guns,Drama
+945,2 Guns,Thriller
+946,White House Down,Action
+946,White House Down,Drama
+946,White House Down,Thriller
+947,Mama,Horror
+948,Safe Haven,Drama
+948,Safe Haven,Romance
+948,Safe Haven,Thriller
+949,The Smurfs 2,Animation
+949,The Smurfs 2,Adventure
+949,The Smurfs 2,Comedy
+949,The Smurfs 2,Family
+949,The Smurfs 2,Fantasy
+950,The Best Man Holiday,Comedy
+950,The Best Man Holiday,Drama
+951,American Sniper,Action
+951,American Sniper,Biography
+951,American Sniper,Drama
+951,American Sniper,History
+951,American Sniper,Thriller
+951,American Sniper,War
+952,The Hunger Games: Mockingjay - Part 1,Adventure
+952,The Hunger Games: Mockingjay - Part 1,Sci-Fi
+952,The Hunger Games: Mockingjay - Part 1,Thriller
+952,The Hunger Games: Mockingjay - Part 1,War
+953,Guardians of the Galaxy,Action
+953,Guardians of the Galaxy,Adventure
+953,Guardians of the Galaxy,Sci-Fi
+954,Captain America: The Winter Soldier,Action
+954,Captain America: The Winter Soldier,Adventure
+954,Captain America: The Winter Soldier,Sci-Fi
+955,The LEGO Movie,Animation
+955,The LEGO Movie,Action
+955,The LEGO Movie,Adventure
+955,The LEGO Movie,Comedy
+955,The LEGO Movie,Family
+955,The LEGO Movie,Fantasy
+956,The Hobbit: The Battle of the Five Armies,Adventure
+956,The Hobbit: The Battle of the Five Armies,Fantasy
+957,Transformers: Age of Extinction,Action
+957,Transformers: Age of Extinction,Adventure
+957,Transformers: Age of Extinction,Sci-Fi
+958,Maleficent,Action
+958,Maleficent,Adventure
+958,Maleficent,Family
+958,Maleficent,Fantasy
+958,Maleficent,Romance
+959,X-Men: Days of Future Past,Action
+959,X-Men: Days of Future Past,Adventure
+959,X-Men: Days of Future Past,Sci-Fi
+959,X-Men: Days of Future Past,Thriller
+960,Big Hero 6,Animation
+960,Big Hero 6,Action
+960,Big Hero 6,Adventure
+960,Big Hero 6,Comedy
+960,Big Hero 6,Family
+960,Big Hero 6,Sci-Fi
+961,Dawn of the Planet of the Apes,Action
+961,Dawn of the Planet of the Apes,Drama
+961,Dawn of the Planet of the Apes,Sci-Fi
+961,Dawn of the Planet of the Apes,Thriller
+962,The Amazing Spider-Man 2,Action
+962,The Amazing Spider-Man 2,Adventure
+962,The Amazing Spider-Man 2,Fantasy
+962,The Amazing Spider-Man 2,Sci-Fi
+963,Godzilla (2014),Action
+963,Godzilla (2014),Adventure
+963,Godzilla (2014),Sci-Fi
+963,Godzilla (2014),Thriller
+964,22 Jump Street,Action
+964,22 Jump Street,Comedy
+964,22 Jump Street,Crime
+965,Teenage Mutant Ninja Turtles (2014),Action
+965,Teenage Mutant Ninja Turtles (2014),Adventure
+965,Teenage Mutant Ninja Turtles (2014),Comedy
+965,Teenage Mutant Ninja Turtles (2014),Fantasy
+965,Teenage Mutant Ninja Turtles (2014),Sci-Fi
+966,Interstellar,Adventure
+966,Interstellar,Drama
+966,Interstellar,Sci-Fi
+967,How to Train Your Dragon 2,Animation
+967,How to Train Your Dragon 2,Action
+967,How to Train Your Dragon 2,Adventure
+967,How to Train Your Dragon 2,Comedy
+967,How to Train Your Dragon 2,Family
+967,How to Train Your Dragon 2,Fantasy
+968,Gone Girl,Drama
+968,Gone Girl,Mystery
+968,Gone Girl,Thriller
+969,Divergent,Adventure
+969,Divergent,Mystery
+969,Divergent,Sci-Fi
+970,Neighbors,Comedy
+971,Ride Along,Action
+971,Ride Along,Comedy
+972,Rio 2,Animation
+972,Rio 2,Adventure
+972,Rio 2,Comedy
+972,Rio 2,Family
+972,Rio 2,Musical
+973,Into the Woods,Adventure
+973,Into the Woods,Fantasy
+973,Into the Woods,Musical
+974,Lucy,Action
+974,Lucy,Sci-Fi
+974,Lucy,Thriller
+975,The Fault in our Stars,Drama
+975,The Fault in our Stars,Romance
+976,Unbroken,Biography
+976,Unbroken,Drama
+976,Unbroken,Sport
+976,Unbroken,War
+977,Night at the Museum: Secret of the Tomb,Adventure
+977,Night at the Museum: Secret of the Tomb,Comedy
+977,Night at the Museum: Secret of the Tomb,Family
+977,Night at the Museum: Secret of the Tomb,Fantasy
+978,Mr. Peabody & Sherman,Animation
+978,Mr. Peabody & Sherman,Adventure
+978,Mr. Peabody & Sherman,Comedy
+978,Mr. Peabody & Sherman,Family
+978,Mr. Peabody & Sherman,Sci-Fi
+979,300: Rise of An Empire,Action
+979,300: Rise of An Empire,Drama
+979,300: Rise of An Empire,Fantasy
+979,300: Rise of An Empire,War
+980,The Maze Runner,Action
+980,The Maze Runner,Mystery
+980,The Maze Runner,Sci-Fi
+980,The Maze Runner,Thriller
+981,The Equalizer,Action
+981,The Equalizer,Crime
+981,The Equalizer,Thriller
+982,Noah,Action
+982,Noah,Adventure
+982,Noah,Drama
+983,Edge of Tomorrow,Action
+983,Edge of Tomorrow,Adventure
+983,Edge of Tomorrow,Sci-Fi
+984,Non-Stop,Action
+984,Non-Stop,Mystery
+984,Non-Stop,Thriller
+985,Heaven is for Real,Drama
+986,The Imitation Game,Biography
+986,The Imitation Game,Drama
+986,The Imitation Game,Thriller
+986,The Imitation Game,War
+987,Dumb and Dumber To,Comedy
+988,Annie (2014),Comedy
+988,Annie (2014),Drama
+988,Annie (2014),Family
+988,Annie (2014),Musical
+989,Fury (2014),Action
+989,Fury (2014),Drama
+989,Fury (2014),War
+990,Tammy,Comedy
+991,Annabelle,Horror
+991,Annabelle,Mystery
+992,The Other Woman (2014),Comedy
+992,The Other Woman (2014),Romance
+993,Penguins of Madagascar,Animation
+993,Penguins of Madagascar,Adventure
+993,Penguins of Madagascar,Comedy
+993,Penguins of Madagascar,Family
+994,Let's Be Cops,Comedy
+995,The Monuments Men,Drama
+995,The Monuments Men,War
+996,Hercules (2014),Action
+996,Hercules (2014),Adventure
+997,The Purge: Anarchy,Action
+997,The Purge: Anarchy,Horror
+997,The Purge: Anarchy,Sci-Fi
+997,The Purge: Anarchy,Thriller
+998,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Comedy
+998,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Family
+999,Think Like a Man Too,Comedy
+999,Think Like a Man Too,Romance
+1000,Exodus: Gods and Kings,Action
+1000,Exodus: Gods and Kings,Adventure
+1000,Exodus: Gods and Kings,Biography
+1000,Exodus: Gods and Kings,Drama
