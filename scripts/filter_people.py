@@ -14,7 +14,7 @@ if len(sys.argv) < 2:
 INPUT_FILE = sys.argv[1]
 OUTPUT_FILE = sys.argv[2]
 filters = [
-    {'column': 'role', 'value': 'cast', 'limit': 5}
+    {'column': 'role', 'value': 'cast', 'limit': 6}
 ]
 
 people = []
