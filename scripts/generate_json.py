@@ -1,53 +1,77 @@
 # -*- coding: utf-8 -*-
 
+# Example usage:
+#   python generate_json.py ../data/box_office_top_50_movies_1995-2014.csv ../data/people_box_office_top_50_movies_1995-2014_imdb_subset.csv
+
 import csv
 import json
-import os
+import sys
 
-INPUT_FILE = '../data/people_box_office_top_50_movies_1995-2014.csv'
+if len(sys.argv) < 2:
+    print "Usage: %s <inputfile movie csv> <inputfile people-roles csv>" % sys.argv[0]
+    sys.exit(1)
+
+MOVIE_FILE = sys.argv[1]
+PEOPLE_FILE = sys.argv[2]
 OUTPUT_DIR = '../data/'
 WRITE_FILES = True
 
-people_movie_roles = []
+movie_required_headers = ['movie_id', 'wiki_name', 'imdb_id']
+people_required_headers = ['name', 'imdb_id', 'gender', 'race']
+roles_required_headers = ['movie_id', 'movie_name', 'role', 'imdb_id']
+
 movies = []
 people = []
 roles = []
 
-# Read data from csv
-with open(INPUT_FILE, 'rb') as f:
-    r = csv.reader(f, delimiter=',')
-    next(r, None) # remove header
-    for movie_id, movie_name, movie_url, role, name, url, gender, race in r:
-        people_movie_roles.append({
-            'movie_id': int(movie_id),
-            'movie_name': movie_name,
-            'movie_url': movie_url,
-            'role': role,
-            'name': name,
-            'url': url,
-            'gender': gender,
-            'race': race
-        })
+# Read movies from csv
+with open(MOVIE_FILE, 'rb') as f:
+    rows = csv.reader(f, delimiter=',')
+    headers = next(rows, None) # remove header
+    # add new headers if not exist
+    for h in movie_required_headers:
+        if h not in headers:
+            print "The following movie fields are required: " + movie_required_headers.join(", ")
+            sys.exit(1)
+    # populate movies list
+    for row in rows:
+        movie = {}
+        for h in movie_required_headers:
+            i = headers.index(h)
+            movie[h] = row[i]
+        movies.append(movie)
 
-# Find unique movies
-movies = [{'id': p['movie_id'], 'name': p['movie_name'], 'url': p['movie_url']} for p in people_movie_roles]
-movies = {m['id']:m for m in movies}.values()
-print('Found '+str(len(movies))+' movies.')
+# Read movies from csv
+with open(PEOPLE_FILE, 'rb') as f:
+    rows = csv.reader(f, delimiter=',')
+    headers = next(rows, None) # remove header
+    # add new headers if not exist
+    required_headers = people_required_headers + roles_required_headers
+    for h in required_headers:
+        if h not in headers:
+            print "The following role/people fields are required: " + ", ".join(required_headers)
+            sys.exit(1)
+    # populate people/roles lists
+    for row in rows:
+        # add person
+        person = {}
+        for h in people_required_headers:
+            i = headers.index(h)
+            person[h] = row[i]
+        people.append(person)
+        # add role
+        role = {}
+        for h in roles_required_headers:
+            i = headers.index(h)
+            role[h] = row[i]
+        roles.append(role)
 
 # Find unique people
-people = [{'name': p['name'], 'url': p['url'], 'gender': p['gender'], 'race': p['race']} for p in people_movie_roles]
-people = {p['name']:p for p in people}.values()
-print('Found '+str(len(people))+' people.')
-print('Found '+str(len([p for p in people if p['url']]))+' people with URLS.')
+people = {p['imdb_id']:p for p in people}.values()
 
-# Find roles in movies
-for r in people_movie_roles:
-    roles.append({
-        'movie_name': r['movie_name'],
-        'movie_url': r['movie_url'],
-        'name': p['name'],
-        'role': r['role']
-    })
+# Report counts
+print('Found '+str(len(movies))+' movies.')
+print('Found '+str(len(people))+' people.')
 print('Found '+str(len(roles))+' roles.')
 
 # Write JSON files
