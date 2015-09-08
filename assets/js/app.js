@@ -88,8 +88,8 @@ var Classify = (function() {
     var person = _.sample(this.people);
 
     // pre-select gender/race
-    if (person.gender) $('.gender-input[data-value="'+person.gender+'"]').addClass('selected')
-    if (person.race) $('.race-input[data-value="'+person.race+'"]').addClass('selected')
+    // if (person.gender) $('.gender-input[data-value="'+person.gender+'"]').addClass('selected')
+    // if (person.race) $('.race-input[data-value="'+person.race+'"]').addClass('selected')
 
     // retrieve roles and determine most frequent role
     person.roles = _.where(this.roles, {imdb_id: person.imdb_id});

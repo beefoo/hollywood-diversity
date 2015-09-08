@@ -4,18 +4,19 @@
     <div id="info-container"></div>
     <script id="info-template" type="x-tmpl-mustache">
     <h1>{{name}}</h1>
-    <h3>Credits</h3>
-    <ul>
-      {{#roles}}
-      <li>{{movie_name}} <em>({{role}})</em></li>
-      {{/roles}}
-    </ul>
+    <div class="image"></div>
     <div class="button-group">
       <a class="button" href="{{google_image_url}}" target="_blank">Do Google Image Search</a>
       <a class="button" href="{{imdb_url}}" target="_blank">Go To IMDb Page</a>
       <a class="button" href="{{wiki_url}}" target="_blank">Search on Wikipedia</a>
       <a class="button" href="{{google_url}}" target="_blank">Search on Google</a>
     </div>
+    <h3>Credits</h3>
+    <ul>
+      {{#roles}}
+      <li>{{movie_name}} <em>({{role}})</em></li>
+      {{/roles}}
+    </ul>
     <input id="imdb_id" type="hidden" value="{{imdb_id}}" />
     </script>
   </div>
