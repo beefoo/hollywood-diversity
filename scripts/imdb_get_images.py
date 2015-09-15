@@ -92,3 +92,5 @@ for i, p in enumerate(people):
     if update_file and unsaved >= save_after:
         save_people()
         unsaved = 0
+
+save_people()
