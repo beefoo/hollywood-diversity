@@ -48,10 +48,10 @@
     </div>
 
     <button data-value="u" class="input race-input unsure">I am unsure</button>
-
     <h4>Add a note about this person</h4>
     <textarea id="note"></textarea>
 
+    <input id="user_id" type="hidden" value="<?= $user_id ?>" />
     <button class="submit">Submit</button>
 
   </div>

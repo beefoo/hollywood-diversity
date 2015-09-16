@@ -126,7 +126,6 @@ var Classify = (function() {
 
   Classify.prototype.submitClassification = function(){
     var data = {
-      'user_id': '',
       'imdb_id': $('#imdb_id').val(),
       'gender': '',
       'races': [],
