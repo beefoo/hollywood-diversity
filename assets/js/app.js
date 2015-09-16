@@ -87,17 +87,13 @@ var Classify = (function() {
     // select a random person
     var person = _.sample(this.people);
 
-    // pre-select gender/race
-    // if (person.gender) $('.gender-input[data-value="'+person.gender+'"]').addClass('selected')
-    // if (person.race) $('.race-input[data-value="'+person.race+'"]').addClass('selected')
-
     // retrieve roles and determine most frequent role
     person.roles = _.where(this.roles, {imdb_id: person.imdb_id});
     var roles = _.pluck(person.roles, 'role');
     var most_frequent_role = _.chain(roles).countBy().pairs().max(_.last).head().value();
     if (most_frequent_role=='cast') {
       most_frequent_role = 'actor';
-      if (person.gender=='f') most_frequent_role = 'actress';
+      // if (person.gender=='f') most_frequent_role = 'actress';
     }
 
     // generate urls
@@ -105,6 +101,11 @@ var Classify = (function() {
     person.imdb_url = 'http://www.imdb.com/name/nm'+person.imdb_id+'/';
     person.wiki_url = 'https://en.wikipedia.org/wiki/'+person.name.replace(' ','_');
     person.google_url = 'https://www.google.com/search?q='+encodeURIComponent(person.name +' '+most_frequent_role);
+
+    // check for image
+    if (!person.img || person.img == "none") {
+      person.img = false;
+    }
 
     var rendered = Mustache.render(this.info_template, person);
     $('#info-container').html(rendered);

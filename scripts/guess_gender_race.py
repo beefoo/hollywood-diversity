@@ -4,7 +4,7 @@
 #   Attempts to populate columns "gender" and "race" based on "name" in csv
 
 # Example usage:
-#   python guess_gender_race.py ../data/people_box_office_top_50_movies_1995-2014_imdb_subset.csv
+#   python guess_gender_race.py ../data/people_box_office_top_50_movies_1995-2014_imdb.csv
 #       .csv file must have at least column "name"
 
 # Data Sources:

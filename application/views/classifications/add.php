@@ -4,7 +4,10 @@
     <div id="info-container"></div>
     <script id="info-template" type="x-tmpl-mustache">
     <h1>{{name}}</h1>
-    <div class="image"></div>
+    <div class="image">
+      {{#img}}<img src="{{{img}}}" />{{/img}}
+      {{^img}}<p>No image found</p>{{/img}}
+    </div>
     <div class="button-group">
       <a class="button" href="{{google_image_url}}" target="_blank">Do Google Image Search</a>
       <a class="button" href="{{imdb_url}}" target="_blank">Go To IMDb Page</a>
