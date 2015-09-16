@@ -19,9 +19,10 @@
  *
  */
 	if ( strstr($_SERVER['SERVER_NAME'], 'localhost') )
-    define('ENVIRONMENT', 'development');
-  else
-    define('ENVIRONMENT', 'production');
+		define('ENVIRONMENT', 'development');
+	else
+		define('ENVIRONMENT', 'production');
+
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING

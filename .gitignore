@@ -8,6 +8,8 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 
+application/config/production/*.php
+
 _dev/
 tmp/
 assets/.sass-cache/
