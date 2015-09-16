@@ -9,4 +9,5 @@ application/logs/*
 !application/logs/.htaccess
 
 _dev/
+tmp/
 assets/.sass-cache/

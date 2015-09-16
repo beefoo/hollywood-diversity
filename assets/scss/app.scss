@@ -76,6 +76,11 @@ button,
     font-size: 2em;
   }
 
+  h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+
   h2 {
     margin-bottom: 0;
   }
@@ -97,13 +102,18 @@ button,
     max-height: 400px;
     width: auto;
     height: auto;
-    margin-bottom: 10px;
+    background: $gray;
   }
 
   p {
     font-size: 1em;
     line-height: 1.5;
     margin: 0;
+  }
+
+  .image {
+    margin-bottom: 10px;
+    font-style: italic;
   }
 
   button,

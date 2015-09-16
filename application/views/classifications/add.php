@@ -6,7 +6,7 @@
     <h1>{{name}}</h1>
     <div class="image">
       {{#img}}<img src="{{{img}}}" />{{/img}}
-      {{^img}}<p>No image found</p>{{/img}}
+      {{^img}}<p>(No image available)</p>{{/img}}
     </div>
     <div class="button-group">
       <a class="button" href="{{google_image_url}}" target="_blank">Do Google Image Search</a>
