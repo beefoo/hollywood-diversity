@@ -90,7 +90,7 @@ button,
     &:hover {
       color: $white;
     }
-    &.progress {
+    &.right {
       float: right;
       margin-right: 0;
     }
@@ -209,4 +209,8 @@ button,
     outline: 0;
   }
 
+}
+
+.guide {
+  padding-top: 30px;
 }

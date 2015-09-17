@@ -1,6 +1,7 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 $route['classify'] = "classifications/add";
+$route['guide'] = "pages/guide";
 
 $route['default_controller'] = "home";
 $route['404_override'] = '';

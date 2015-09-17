@@ -1,8 +1,8 @@
 <div class="menu">
   <div class="container">
-    <a href="/">About</a>
-    <a href="/help">Help</a>
-    <a class="progress"><span class="classifications-count">0</span> Classifications Made</a>
+    <a href="/">About This Project</a>
+    <a href="/guide">Classification Guide</a>
+    <a class="right"><span class="classifications-count">0</span> Classifications Made</a>
   </div>
 </div>
 
@@ -17,8 +17,8 @@
       {{^img}}<p>(No image available)</p>{{/img}}
     </div>
     <div class="button-group">
-      <a class="button" href="{{google_image_url}}" target="_blank">Do Google Image Search</a>
       <a class="button" href="{{imdb_url}}" target="_blank">Go To IMDb Page</a>
+      <a class="button" href="{{google_image_url}}" target="_blank">Do Google Image Search</a>
       <a class="button" href="{{wiki_url}}" target="_blank">Search on Wikipedia</a>
       <a class="button" href="{{google_url}}" target="_blank">Search on Google</a>
     </div>
@@ -57,6 +57,7 @@
 
     <button data-value="u" class="input race-input unsure">I am unsure</button>
     <h4>Add a note about this person</h4>
+    <p>Include reference links here if applicable</p>
     <textarea id="note"></textarea>
 
     <input id="user_id" type="hidden" value="<?= $user_id ?>" />

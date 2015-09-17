@@ -102,7 +102,7 @@ var Classify = (function() {
 
     // generate urls
     person.google_image_url = 'https://www.google.com/search?q='+encodeURIComponent(person.name +' '+most_frequent_role)+'&tbm=isch';
-    person.imdb_url = 'http://www.imdb.com/name/nm'+person.imdb_id+'/';
+    person.imdb_url = 'http://www.imdb.com/name/nm'+person.imdb_id+'/bio';
     person.wiki_url = 'https://en.wikipedia.org/wiki/'+person.name.replace(' ','_');
     person.google_url = 'https://www.google.com/search?q='+encodeURIComponent(person.name +' '+most_frequent_role);
 
