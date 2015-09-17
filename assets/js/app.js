@@ -30,8 +30,12 @@ var Classify = (function() {
 
     $.getJSON('/data/people.json', function(data) {
       _this.people = data;
-      _this.people_loaded.resolve();
       console.log('Loaded '+_this.people.length+' people');
+      // remove people user already classified
+      var classified_imdb_ids = _.pluck(UserClassifications, 'imdb_id');
+      _this.people = _.filter(_this.people, function(p){ return !_.contains(classified_imdb_ids, p['imdb_id']); });
+      _this.people_loaded.resolve();
+      console.log('Loaded '+_this.people.length+' unclassified people');
     });
 
     $.getJSON('/data/movies.json', function(data) {
@@ -155,7 +159,12 @@ var Classify = (function() {
       // Success
     });
 
-    // TODO: remove person from queue
+    // remove person from queue
+    this.people = _.reject(this.people, function(p){ return p['imdb_id']==data['imdb_id']; });
+
+    // increment count
+    UserClassifications.push(data);
+    $('.classifications-count').text(UserClassifications.length);
 
     // load another person
     this.loadPerson();

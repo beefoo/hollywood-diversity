@@ -15,7 +15,7 @@ class Classifications_model extends CI_Model {
   }
 
   function getEntriesByUser($user_id){
-    $query = $this->db->get_where('classifications', array('user_id' => $user_id));
+    $query = $this->db->select('id, imdb_id, gender, races, note')->get_where('classifications', array('user_id' => $user_id));
     return $query->result();
   }
 

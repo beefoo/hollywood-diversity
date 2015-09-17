@@ -10,12 +10,16 @@ class Classifications extends CI_Controller {
 
   public function index(){}
 
+  public function me(){}
+
   public function show($id){}
 
   public function add(){
+    $user_id = $this->input->ip_address();
     $data = array(
       'title' => 'Classify',
-      'user_id' => $this->input->ip_address()
+      'user_id' => $user_id,
+      'classifications' => $this->classifications_model->getEntriesByUser($user_id)
     );
     $this->load->view('layout/head', $data);
     $this->load->view('classifications/add', $data);

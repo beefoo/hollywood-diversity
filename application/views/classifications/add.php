@@ -2,7 +2,7 @@
   <div class="container">
     <a href="/">About This Project</a>
     <a href="/guide">Classification Guide</a>
-    <a class="right"><span class="classifications-count">0</span> Classifications Made</a>
+    <a class="right"><span class="classifications-count"><?=count($classifications)?></span> Classifications Made</a>
   </div>
 </div>
 
@@ -69,3 +69,7 @@
   <div class="loading">Loading data. One moment please...</div>
 
 </div>
+
+<script>
+var UserClassifications = <?= json_encode($classifications) ?>;
+</script>
