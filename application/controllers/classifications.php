@@ -47,7 +47,7 @@ class Classifications extends CI_Controller {
     $data = array();
 
     foreach($fields as $field){
-      $data[$field] = $this->_cleanInput( $this->input->get_post($field) );
+      $data[$field] = $this->_cleanInput($this->input->get_post($field));
     }
 
     return $data;

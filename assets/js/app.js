@@ -68,6 +68,10 @@ var Classify = (function() {
     $('.submit').on('click', function(){
       _this.submitClassification();
     });
+
+    $('.skip').on('click', function(){
+      _this.loadPerson();
+    });
   };
 
   Classify.prototype.loadingOn = function(){
@@ -143,9 +147,15 @@ var Classify = (function() {
         data.races.push($(this).attr('data-value'));
       });
     }
+    data.races = data.races.join(',');
 
     // save data
     console.log('Saving:', data);
+    $.post('/classifications/create', data, function(response) {
+      // Success
+    });
+
+    // TODO: remove person from queue
 
     // load another person
     this.loadPerson();

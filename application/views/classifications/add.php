@@ -1,3 +1,11 @@
+<div class="menu">
+  <div class="container">
+    <a href="/">About</a>
+    <a href="/help">Help</a>
+    <a class="progress"><span class="classifications-count">0</span> Classifications Made</a>
+  </div>
+</div>
+
 <div class="classifications container">
 
   <div class="info col half hide">
@@ -53,6 +61,7 @@
 
     <input id="user_id" type="hidden" value="<?= $user_id ?>" />
     <button class="submit">Submit</button>
+    <button class="skip">Skip</button>
 
   </div>
 

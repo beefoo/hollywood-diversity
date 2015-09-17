@@ -70,7 +70,36 @@ button,
   }
 }
 
+.menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: $medium;
+  border-bottom: 1px solid darken($medium, 15%);
+  @include clearfix();
+
+  .container {
+    padding: 0.3em 1em;
+  }
+
+  a {
+    display: inline-block;
+    margin-right: 1em;
+    color: $light;
+    &:hover {
+      color: $white;
+    }
+    &.progress {
+      float: right;
+      margin-right: 0;
+    }
+  }
+}
+
 .classifications {
+
+  padding-top: 50px;
 
   .loading {
     font-size: 2em;
@@ -134,11 +163,20 @@ button,
       }
     }
 
-    &.submit {
+    &.submit,
+    &.skip {
       display: inline-block;
       font-size: 1.4em;
       float: right;
       margin-top: 1em;
+      margin-left: 10px;
+    }
+
+    &.submit {
+      background: $green;
+      &:hover {
+        background: lighten($green, 10%);
+      }
     }
   }
 
