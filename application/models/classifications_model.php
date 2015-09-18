@@ -8,6 +8,24 @@ class Classifications_model extends CI_Model {
     return array('imdb_id', 'gender', 'races', 'note');
   }
 
+  function imdbIdsClassified(){
+    $query = $this->db->distinct()->select('imdb_id')->get('classifications');
+    $imdb_ids = array();
+    foreach ($query->result() as $row) {
+      array_push($imdb_ids, $row->imdb_id);
+    }
+    return $imdb_ids;
+  }
+
+  function imdbIdsClassifiedByUser($user_id){
+    $query = $this->db->select('imdb_id')->get_where('classifications', array('user_id' => $user_id));
+    $imdb_ids = array();
+    foreach ($query->result() as $row) {
+      array_push($imdb_ids, $row->imdb_id);
+    }
+    return $imdb_ids;
+  }
+
   function getEntryById($id){
     $query = $this->db->get_where('classifications', array('id' => $id), 1);
     $result = $query->result();
@@ -15,7 +33,7 @@ class Classifications_model extends CI_Model {
   }
 
   function getEntriesByUser($user_id){
-    $query = $this->db->select('id, imdb_id, gender, races, note')->get_where('classifications', array('user_id' => $user_id));
+    $query = $this->db->select('imdb_id')->get_where('classifications', array('user_id' => $user_id));
     return $query->result();
   }
 

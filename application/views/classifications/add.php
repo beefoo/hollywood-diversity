@@ -2,7 +2,7 @@
   <div class="container">
     <a href="/">About This Project</a>
     <a href="/guide">Classification Guide</a>
-    <a class="right"><span class="classifications-count"><?=count($classifications)?></span> Classifications Made</a>
+    <a class="right"><span class="classifications-count"><?=count($user_classifications)?></span> Classifications Made</a>
   </div>
 </div>
 
@@ -71,5 +71,6 @@
 </div>
 
 <script>
-var UserClassifications = <?= json_encode($classifications) ?>;
+var UserClassifications = <?= json_encode($user_classifications) ?>;
+var ImdbIdsClassified = <?= json_encode($imdb_ids_classified) ?>;
 </script>

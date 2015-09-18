@@ -8,6 +8,7 @@ var Classify = (function() {
   Classify.prototype.init = function(){
     var _this = this;
 
+    this.people_all = [];
     this.people = [];
     this.movies = [];
     this.roles = [];
@@ -30,10 +31,10 @@ var Classify = (function() {
 
     $.getJSON('/data/people.json', function(data) {
       _this.people = data;
+      _this.people_all = data;
       console.log('Loaded '+_this.people.length+' people');
       // remove people user already classified
-      var classified_imdb_ids = _.pluck(UserClassifications, 'imdb_id');
-      _this.people = _.filter(_this.people, function(p){ return !_.contains(classified_imdb_ids, p['imdb_id']); });
+      _this.people = _.filter(_this.people, function(p){ return !_.contains(ImdbIdsClassified, p['imdb_id']); });
       _this.people_loaded.resolve();
       console.log('Loaded '+_this.people.length+' unclassified people');
     });
@@ -91,6 +92,11 @@ var Classify = (function() {
   Classify.prototype.loadPerson = function(){
     this.loadingOn();
     this.resetForm();
+
+    // ran out of people! replenish
+    if (this.people.length <= 0) {
+      this.people = this.people_all.slice(0);
+    }
 
     // select a random person
     var person = _.sample(this.people);
@@ -163,7 +169,7 @@ var Classify = (function() {
     this.people = _.reject(this.people, function(p){ return p['imdb_id']==data['imdb_id']; });
 
     // increment count
-    UserClassifications.push(data);
+    UserClassifications.push(data['imdb_id']);
     $('.classifications-count').text(UserClassifications.length);
 
     // load another person
