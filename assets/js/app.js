@@ -33,6 +33,7 @@ var Classify = (function() {
       _this.people = data;
       _this.people_all = data;
       console.log('Loaded '+_this.people.length+' people');
+      $('.classifications-total').text(_this.people.length);
       // remove people user already classified
       _this.people = _.filter(_this.people, function(p){ return !_.contains(ImdbIdsClassified, p['imdb_id']); });
       _this.people_loaded.resolve();
@@ -170,7 +171,8 @@ var Classify = (function() {
 
     // increment count
     UserClassifications.push(data['imdb_id']);
-    $('.classifications-count').text(UserClassifications.length);
+    ImdbIdsClassified.push(data['imdb_id']);
+    $('.classifications-count').text(ImdbIdsClassified.length);
 
     // load another person
     this.loadPerson();

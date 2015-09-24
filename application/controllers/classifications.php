@@ -19,8 +19,8 @@ class Classifications extends CI_Controller {
     $data = array(
       'title' => 'Classify',
       'user_id' => $user_id,
-      'imdb_ids_classified' => $this->classifications_model->imdbIdsClassified(),
-      'user_classifications' => $this->classifications_model->imdbIdsClassifiedByUser($user_id)
+      'imdb_ids_classified' => array_unique($this->classifications_model->imdbIdsClassified()),
+      'user_classifications' => array_unique($this->classifications_model->imdbIdsClassifiedByUser($user_id))
     );
     $this->load->view('layout/head', $data);
     $this->load->view('classifications/add', $data);
