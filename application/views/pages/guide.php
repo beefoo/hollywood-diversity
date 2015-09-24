@@ -9,6 +9,8 @@
 
   <h2>A Quick Guide For Making Classifications</h2>
 
+  <hr />
+
   <h4>Don't judge just based on name, image, or prior assumptions.</h4>
 
   <p>Names like Casey, Jesse, or Morgan can be either gender. Someone may look white or black, but may have a mixed racial background. Bottom line: don't guess or assume anything!</p>
@@ -21,9 +23,11 @@
 
   <p>Some people are really hard to find information on such as producers or writers. If you are unsure a person's gender, race, or both, just select <em>I am unsure</em> or simply skip them</p>
 
-  <h4>Classifications of race</h4>
+  <h4>Someone could be multiple races</h4>
 
-  <p>Racial groups are adapted from the <a href="http://quickfacts.census.gov/qfd/meta/long_RHI525214.htm" target="_blank">how the U.S. Census Bureau defined them</a>.</p>
+  <p>If someone belongs to more than one racial group, select all that apply.</p>
+
+  <p>Racial groups are adapted from the <a href="http://quickfacts.census.gov/qfd/meta/long_RHI525214.htm" target="_blank">how the U.S. Census Bureau defines them</a>:</p>
 
   <ul>
     <li><strong>White</strong>: A person having origins in any of the original peoples of Europe, the Middle East, or North Africa </li>
