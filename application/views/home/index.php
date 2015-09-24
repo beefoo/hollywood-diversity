@@ -18,6 +18,6 @@
     The resulting data will be released freely in the <a href="https://creativecommons.org/publicdomain/mark/1.0/" target="_blank">Public Domain</a> for anyone to use. The data will also be annotated with the sources and a confidence score if it was sourced through this app. It will also be accompanied by a report and detailed analysis by yours truly.
   </p>
 
-  <a class="button" href="/classify">Start Classifying Now!</a>
+  <a class="button large" href="/classify">Start Classifying Now!</a>
 
 </div>

@@ -57,7 +57,7 @@
 
     <button data-value="u" class="input race-input unsure">I am unsure</button>
     <h4>Add a note about this person</h4>
-    <p>Include reference links here if applicable</p>
+    <p>Include source/reference links here if applicable</p>
     <textarea id="note"></textarea>
 
     <input id="user_id" type="hidden" value="<?= $user_id ?>" />
