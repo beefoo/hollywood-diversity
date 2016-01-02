@@ -5,6 +5,7 @@
 
 # Example usage:
 #   python imdb_get_people.py ../data/box_office_top_50_movies_1995-2014.csv ../data/people_box_office_top_50_movies_1995-2014_imdb.csv
+#   python imdb_get_people.py ../data/box_office_top_10_movies_2011-2015.csv ../data/people_box_office_top_10_movies_2011-2015_imdb.csv
 
 import csv
 from imdb import IMDb
