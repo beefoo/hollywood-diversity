@@ -5,6 +5,7 @@
 
 # Example usage:
 #   python imdb_get_images.py ../data/people_box_office_top_50_movies_1995-2014_imdb.csv
+#   python imdb_get_images.py ../data/people_box_office_top_10_movies_2011-2015_imdb_subset.csv
 
 from bs4 import BeautifulSoup
 import csv

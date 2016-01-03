@@ -2,6 +2,7 @@
 
 # Example usage:
 #   python filter_people.py ../data/people_box_office_top_50_movies_1995-2014_imdb.csv ../data/people_box_office_top_50_movies_1995-2014_imdb_subset.csv
+#   python filter_people.py ../data/people_box_office_top_10_movies_2011-2015_imdb.csv ../data/people_box_office_top_10_movies_2011-2015_imdb_subset.csv
 
 import csv
 import sys
@@ -14,9 +15,9 @@ if len(sys.argv) < 2:
 INPUT_FILE = sys.argv[1]
 OUTPUT_FILE = sys.argv[2]
 filters = [
-    {'column': 'role', 'value': 'cast', 'limit': 6},
-    {'column': 'role', 'value': 'producer', 'limit': 6},
-    {'column': 'role', 'value': 'writer', 'limit': 6}
+    {'column': 'role', 'value': 'cast', 'limit': 5},
+    {'column': 'role', 'value': 'producer', 'limit': 3},
+    {'column': 'role', 'value': 'writer', 'limit': 3}
 ]
 
 people = []

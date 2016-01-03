@@ -16,7 +16,7 @@ PEOPLE_FILE = sys.argv[2]
 OUTPUT_DIR = '../data/'
 WRITE_FILES = True
 
-movie_required_headers = ['movie_id', 'wiki_name', 'imdb_id']
+movie_required_headers = ['movie_id', 'name', 'imdb_id']
 people_required_headers = ['name', 'imdb_id', 'img']
 roles_required_headers = ['movie_id', 'movie_name', 'role', 'imdb_id']
 
