@@ -136,7 +136,7 @@ var Classify = (function() {
 
   Classify.prototype.resetForm = function(){
     $('.input').removeClass('selected');
-    $('textarea').val('');
+    $('input').val('');
   };
 
   Classify.prototype.submitClassification = function(){
@@ -144,6 +144,8 @@ var Classify = (function() {
       'imdb_id': $('#imdb_id').val(),
       'gender': '',
       'races': [],
+      'reference_url': $('#reference_url').val(),
+      'image_url': $('#image_url').val(),
       'note': $('#note').val()
     };
 

@@ -56,9 +56,14 @@
     </div>
 
     <button data-value="u" class="input race-input unsure">I am unsure</button>
+    <h4>Reference/source URL</h4>
+    <input id="reference_url" type="text" />
+
+    <h4>Image URL</h4>
+    <input id="image_url" type="text" />
+
     <h4>Add a note about this person</h4>
-    <p>Include source/reference links here if applicable</p>
-    <textarea id="note"></textarea>
+    <input id="note" type="text" />
 
     <input id="user_id" type="hidden" value="<?= $user_id ?>" />
     <button class="submit">Submit</button>

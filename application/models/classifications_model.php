@@ -5,7 +5,7 @@ class Classifications_model extends CI_Model {
   }
 
   function accessibleFields(){
-    return array('imdb_id', 'gender', 'races', 'note');
+    return array('imdb_id', 'gender', 'races', 'reference_url', 'image_url', 'note');
   }
 
   function imdbIdsClassified(){

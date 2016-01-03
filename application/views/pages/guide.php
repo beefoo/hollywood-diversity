@@ -17,7 +17,7 @@
 
   <h4>Do some research</h4>
 
-  <p>Links to the person's IMDB Page, Wikipedia page, and Google search are provided on each screen. Sometimes the person's family background is listed in their bio or in articles about them. It is very helpful to add a reference to you the source you find in the <em>Notes</em> field in the form.</p>
+  <p>Links to the person's IMDB Page, Wikipedia page, and Google search are provided on each screen. Sometimes the person's family background is listed in their bio or in articles about them. It is very helpful to add a reference to the source you find.</p>
 
   <h4>When in doubt, skip it or say you are unsure</h4>
 
