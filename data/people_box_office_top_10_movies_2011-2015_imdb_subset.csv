@@ -4,9 +4,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 1,Thor,cast,3,Tom Hiddleston,1089991,http://s3.amazonaws.com/brianfoo_art/hollywood/1089991.jpg
 1,Thor,cast,4,Anthony Hopkins,164,http://s3.amazonaws.com/brianfoo_art/hollywood/164.jpg
 1,Thor,cast,5,Stellan Skarsgård,1745,http://s3.amazonaws.com/brianfoo_art/hollywood/1745.jpg
-1,Thor,producer,1,Victoria Alonso,22285,http://s3.amazonaws.com/brianfoo_art/hollywood/22285.jpg
-1,Thor,producer,2,Louis D'Esposito,195669,http://s3.amazonaws.com/brianfoo_art/hollywood/195669.jpg
-1,Thor,producer,3,Kevin Feige,270559,http://s3.amazonaws.com/brianfoo_art/hollywood/270559.jpg
 1,Thor,director,1,Kenneth Branagh,110,http://s3.amazonaws.com/brianfoo_art/hollywood/110.jpg
 1,Thor,writer,1,Ashley Miller,1005420,none
 1,Thor,writer,2,Zack Stentz,826714,none
@@ -16,9 +13,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 2,Sherlock Holmes: A Game of Shadows,cast,3,Noomi Rapace,636426,http://s3.amazonaws.com/brianfoo_art/hollywood/636426.jpg
 2,Sherlock Holmes: A Game of Shadows,cast,4,Rachel McAdams,1046097,http://s3.amazonaws.com/brianfoo_art/hollywood/1046097.jpg
 2,Sherlock Holmes: A Game of Shadows,cast,5,Jared Harris,364813,http://s3.amazonaws.com/brianfoo_art/hollywood/364813.jpg
-2,Sherlock Holmes: A Game of Shadows,producer,1,Bruce Berman,75732,http://s3.amazonaws.com/brianfoo_art/hollywood/75732.jpg
-2,Sherlock Holmes: A Game of Shadows,producer,2,Steve Clark-Hall,164626,http://s3.amazonaws.com/brianfoo_art/hollywood/164626.jpg
-2,Sherlock Holmes: A Game of Shadows,producer,3,Susan Downey,1206265,http://s3.amazonaws.com/brianfoo_art/hollywood/1206265.jpg
 2,Sherlock Holmes: A Game of Shadows,director,1,Guy Ritchie,5363,http://s3.amazonaws.com/brianfoo_art/hollywood/5363.jpg
 2,Sherlock Holmes: A Game of Shadows,writer,1,Michele Mulroney,1802251,http://s3.amazonaws.com/brianfoo_art/hollywood/1802251.jpg
 2,Sherlock Holmes: A Game of Shadows,writer,2,Kieran Mulroney,612487,http://s3.amazonaws.com/brianfoo_art/hollywood/612487.jpg
@@ -28,8 +22,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 3,Cars 2,cast,3,Michael Caine,323,http://s3.amazonaws.com/brianfoo_art/hollywood/323.jpg
 3,Cars 2,cast,4,Emily Mortimer,607865,http://s3.amazonaws.com/brianfoo_art/hollywood/607865.jpg
 3,Cars 2,cast,5,Eddie Izzard,412850,http://s3.amazonaws.com/brianfoo_art/hollywood/412850.jpg
-3,Cars 2,producer,1,Mark Nielsen,630923,none
-3,Cars 2,producer,2,Denise Ream,714066,none
 3,Cars 2,director,1,John Lasseter,5124,http://s3.amazonaws.com/brianfoo_art/hollywood/5124.jpg
 3,Cars 2,director,2,Brad Lewis,506977,none
 3,Cars 2,writer,1,John Lasseter,5124,http://s3.amazonaws.com/brianfoo_art/hollywood/5124.jpg
@@ -40,9 +32,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 4,Mission: Impossible - Ghost Protocol,cast,3,Simon Pegg,670408,http://s3.amazonaws.com/brianfoo_art/hollywood/670408.jpg
 4,Mission: Impossible - Ghost Protocol,cast,4,Jeremy Renner,719637,http://s3.amazonaws.com/brianfoo_art/hollywood/719637.jpg
 4,Mission: Impossible - Ghost Protocol,cast,5,Michael Nyqvist,638824,http://s3.amazonaws.com/brianfoo_art/hollywood/638824.jpg
-4,Mission: Impossible - Ghost Protocol,producer,1,J.J. Abrams,9190,http://s3.amazonaws.com/brianfoo_art/hollywood/9190.jpg
-4,Mission: Impossible - Ghost Protocol,producer,2,Josh Appelbaum,32227,none
-4,Mission: Impossible - Ghost Protocol,producer,3,Bryan Burk,1333357,http://s3.amazonaws.com/brianfoo_art/hollywood/1333357.jpg
 4,Mission: Impossible - Ghost Protocol,director,1,Brad Bird,83348,http://s3.amazonaws.com/brianfoo_art/hollywood/83348.jpg
 4,Mission: Impossible - Ghost Protocol,writer,1,Bruce Geller,312367,none
 4,Mission: Impossible - Ghost Protocol,writer,2,Josh Appelbaum,32227,none
@@ -52,9 +41,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 5,Fast Five,cast,3,Jordana Brewster,108287,http://s3.amazonaws.com/brianfoo_art/hollywood/108287.jpg
 5,Fast Five,cast,4,Tyrese Gibson,879085,http://s3.amazonaws.com/brianfoo_art/hollywood/879085.jpg
 5,Fast Five,cast,5,Ludacris,524839,http://s3.amazonaws.com/brianfoo_art/hollywood/524839.jpg
-5,Fast Five,producer,1,Vin Diesel,4874,http://s3.amazonaws.com/brianfoo_art/hollywood/4874.jpg
-5,Fast Five,producer,2,Michael Fottrell,288202,none
-5,Fast Five,producer,3,Amanda Lewis,1070966,none
 5,Fast Five,director,1,Justin Lin,510912,http://s3.amazonaws.com/brianfoo_art/hollywood/510912.jpg
 5,Fast Five,writer,1,Chris Morgan,604555,none
 5,Fast Five,writer,2,Gary Scott Thompson,860155,none
@@ -63,9 +49,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 6,Pirates of the Caribbean: On Stranger Tides,cast,3,Geoffrey Rush,1691,http://s3.amazonaws.com/brianfoo_art/hollywood/1691.jpg
 6,Pirates of the Caribbean: On Stranger Tides,cast,4,Ian McShane,574534,http://s3.amazonaws.com/brianfoo_art/hollywood/574534.jpg
 6,Pirates of the Caribbean: On Stranger Tides,cast,5,Kevin McNally,573618,http://s3.amazonaws.com/brianfoo_art/hollywood/573618.jpg
-6,Pirates of the Caribbean: On Stranger Tides,producer,1,Jerry Bruckheimer,988,http://s3.amazonaws.com/brianfoo_art/hollywood/988.jpg
-6,Pirates of the Caribbean: On Stranger Tides,producer,2,John DeLuca,217896,none
-6,Pirates of the Caribbean: On Stranger Tides,producer,3,Ted Elliott,254645,none
 6,Pirates of the Caribbean: On Stranger Tides,director,1,Rob Marshall,551128,http://s3.amazonaws.com/brianfoo_art/hollywood/551128.jpg
 6,Pirates of the Caribbean: On Stranger Tides,writer,1,Ted Elliott,254645,none
 6,Pirates of the Caribbean: On Stranger Tides,writer,2,Terry Rossio,744429,none
@@ -74,9 +57,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 7,The Hangover Part II,cast,3,Zach Galifianakis,302108,http://s3.amazonaws.com/brianfoo_art/hollywood/302108.jpg
 7,The Hangover Part II,cast,4,Justin Bartha,58581,http://s3.amazonaws.com/brianfoo_art/hollywood/58581.jpg
 7,The Hangover Part II,cast,5,Ken Jeong,421822,http://s3.amazonaws.com/brianfoo_art/hollywood/421822.jpg
-7,The Hangover Part II,producer,1,Chris Bender,70454,none
-7,The Hangover Part II,producer,2,Scott Budnick,119056,none
-7,The Hangover Part II,producer,3,Joseph Garner,1765354,http://s3.amazonaws.com/brianfoo_art/hollywood/1765354.jpg
 7,The Hangover Part II,director,1,Todd Phillips,680846,http://s3.amazonaws.com/brianfoo_art/hollywood/680846.jpg
 7,The Hangover Part II,writer,1,Craig Mazin,563301,http://s3.amazonaws.com/brianfoo_art/hollywood/563301.jpg
 7,The Hangover Part II,writer,2,Scot Armstrong,35905,none
@@ -86,9 +66,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 8,The Twilight Saga: Breaking Dawn Part 1,cast,3,Billy Burke,121605,http://s3.amazonaws.com/brianfoo_art/hollywood/121605.jpg
 8,The Twilight Saga: Breaking Dawn Part 1,cast,4,Sarah Clarke,1020124,http://s3.amazonaws.com/brianfoo_art/hollywood/1020124.jpg
 8,The Twilight Saga: Breaking Dawn Part 1,cast,5,Ty Olsson,648153,http://s3.amazonaws.com/brianfoo_art/hollywood/648153.jpg
-8,The Twilight Saga: Breaking Dawn Part 1,producer,1,Roberto Bakker,49169,none
-8,The Twilight Saga: Breaking Dawn Part 1,producer,2,Bill Bannerman,3806,none
-8,The Twilight Saga: Breaking Dawn Part 1,producer,3,Marty Bowen,2125212,none
 8,The Twilight Saga: Breaking Dawn Part 1,director,1,Bill Condon,174374,http://s3.amazonaws.com/brianfoo_art/hollywood/174374.jpg
 8,The Twilight Saga: Breaking Dawn Part 1,writer,1,Melissa Rosenberg,742279,http://s3.amazonaws.com/brianfoo_art/hollywood/742279.jpg
 8,The Twilight Saga: Breaking Dawn Part 1,writer,2,Stephenie Meyer,2769412,http://s3.amazonaws.com/brianfoo_art/hollywood/2769412.jpg
@@ -97,9 +74,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 9,Transformers: Dark of the Moon,cast,3,Josh Duhamel,241049,http://s3.amazonaws.com/brianfoo_art/hollywood/241049.jpg
 9,Transformers: Dark of the Moon,cast,4,John Turturro,1806,http://s3.amazonaws.com/brianfoo_art/hollywood/1806.jpg
 9,Transformers: Dark of the Moon,cast,5,Tyrese Gibson,879085,http://s3.amazonaws.com/brianfoo_art/hollywood/879085.jpg
-9,Transformers: Dark of the Moon,producer,1,Kenny Bates,60962,none
-9,Transformers: Dark of the Moon,producer,2,Michael Bay,881,http://s3.amazonaws.com/brianfoo_art/hollywood/881.jpg
-9,Transformers: Dark of the Moon,producer,3,Ian Bryce,117290,http://s3.amazonaws.com/brianfoo_art/hollywood/117290.jpg
 9,Transformers: Dark of the Moon,director,1,Michael Bay,881,http://s3.amazonaws.com/brianfoo_art/hollywood/881.jpg
 9,Transformers: Dark of the Moon,writer,1,Ehren Kruger,472567,http://s3.amazonaws.com/brianfoo_art/hollywood/472567.jpg
 10,Harry Potter and the Deathly Hallows Part 2,cast,1,Ralph Fiennes,146,http://s3.amazonaws.com/brianfoo_art/hollywood/146.jpg
@@ -107,9 +81,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 10,Harry Potter and the Deathly Hallows Part 2,cast,3,Alan Rickman,614,http://s3.amazonaws.com/brianfoo_art/hollywood/614.jpg
 10,Harry Potter and the Deathly Hallows Part 2,cast,4,Daniel Radcliffe,705356,http://s3.amazonaws.com/brianfoo_art/hollywood/705356.jpg
 10,Harry Potter and the Deathly Hallows Part 2,cast,5,Rupert Grint,342488,http://s3.amazonaws.com/brianfoo_art/hollywood/342488.jpg
-10,Harry Potter and the Deathly Hallows Part 2,producer,1,David Barron,57655,http://s3.amazonaws.com/brianfoo_art/hollywood/57655.jpg
-10,Harry Potter and the Deathly Hallows Part 2,producer,2,Debbi Bossi,98149,none
-10,Harry Potter and the Deathly Hallows Part 2,producer,3,Roy Button,125423,none
 10,Harry Potter and the Deathly Hallows Part 2,director,1,David Yates,946734,
 10,Harry Potter and the Deathly Hallows Part 2,writer,1,Steve Kloves,460141,none
 10,Harry Potter and the Deathly Hallows Part 2,writer,2,J.K. Rowling,746830,http://s3.amazonaws.com/brianfoo_art/hollywood/746830.jpg
@@ -118,9 +89,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 11,Madagascar 3: Europe's Most Wanted,cast,3,David Schwimmer,1710,http://s3.amazonaws.com/brianfoo_art/hollywood/1710.jpg
 11,Madagascar 3: Europe's Most Wanted,cast,4,Jada Pinkett Smith,586,http://s3.amazonaws.com/brianfoo_art/hollywood/586.jpg
 11,Madagascar 3: Europe's Most Wanted,cast,5,Sacha Baron Cohen,56187,http://s3.amazonaws.com/brianfoo_art/hollywood/56187.jpg
-11,Madagascar 3: Europe's Most Wanted,producer,1,Holly Edwards,1108093,none
-11,Madagascar 3: Europe's Most Wanted,producer,2,Chad Hammes,1428647,none
-11,Madagascar 3: Europe's Most Wanted,producer,3,Mireille Soria,814969,http://s3.amazonaws.com/brianfoo_art/hollywood/814969.jpg
 11,Madagascar 3: Europe's Most Wanted,director,1,Eric Darnell,201509,http://s3.amazonaws.com/brianfoo_art/hollywood/201509.jpg
 11,Madagascar 3: Europe's Most Wanted,director,2,Tom McGrath,569891,http://s3.amazonaws.com/brianfoo_art/hollywood/569891.jpg
 11,Madagascar 3: Europe's Most Wanted,director,3,Conrad Vernon,970447,http://s3.amazonaws.com/brianfoo_art/hollywood/970447.jpg
@@ -131,9 +99,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 12,Ted,cast,3,Seth MacFarlane,532235,http://s3.amazonaws.com/brianfoo_art/hollywood/532235.jpg
 12,Ted,cast,4,Joel McHale,570364,http://s3.amazonaws.com/brianfoo_art/hollywood/570364.jpg
 12,Ted,cast,5,Giovanni Ribisi,610,http://s3.amazonaws.com/brianfoo_art/hollywood/610.jpg
-12,Ted,producer,1,Jason Clark,164063,http://s3.amazonaws.com/brianfoo_art/hollywood/164063.jpg
-12,Ted,producer,2,Eric Heffron,373610,none
-12,Ted,producer,3,John Jacobs,1124997,http://s3.amazonaws.com/brianfoo_art/hollywood/1124997.jpg
 12,Ted,director,1,Seth MacFarlane,532235,http://s3.amazonaws.com/brianfoo_art/hollywood/532235.jpg
 12,Ted,writer,1,Seth MacFarlane,532235,http://s3.amazonaws.com/brianfoo_art/hollywood/532235.jpg
 12,Ted,writer,2,Alec Sulkin,1273148,http://s3.amazonaws.com/brianfoo_art/hollywood/1273148.jpg
@@ -143,9 +108,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 13,Brave,cast,3,Emma Thompson,668,http://s3.amazonaws.com/brianfoo_art/hollywood/668.jpg
 13,Brave,cast,4,Julie Walters,910278,http://s3.amazonaws.com/brianfoo_art/hollywood/910278.jpg
 13,Brave,cast,5,Robbie Coltrane,1059,http://s3.amazonaws.com/brianfoo_art/hollywood/1059.jpg
-13,Brave,producer,1,Pete Docter,230032,http://s3.amazonaws.com/brianfoo_art/hollywood/230032.jpg
-13,Brave,producer,2,Mary Alice Drumm,1216321,none
-13,Brave,producer,3,John Lasseter,5124,http://s3.amazonaws.com/brianfoo_art/hollywood/5124.jpg
 13,Brave,director,1,Mark Andrews,28764,http://s3.amazonaws.com/brianfoo_art/hollywood/28764.jpg
 13,Brave,director,2,Brenda Chapman,152312,http://s3.amazonaws.com/brianfoo_art/hollywood/152312.jpg
 13,Brave,director,3,Steve Purcell,700760,none
@@ -157,9 +119,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 14,The Amazing Spider-Man,cast,3,Rhys Ifans,406975,http://s3.amazonaws.com/brianfoo_art/hollywood/406975.jpg
 14,The Amazing Spider-Man,cast,4,Denis Leary,1459,http://s3.amazonaws.com/brianfoo_art/hollywood/1459.jpg
 14,The Amazing Spider-Man,cast,5,Martin Sheen,640,http://s3.amazonaws.com/brianfoo_art/hollywood/640.jpg
-14,The Amazing Spider-Man,producer,1,Avi Arad,32696,http://s3.amazonaws.com/brianfoo_art/hollywood/32696.jpg
-14,The Amazing Spider-Man,producer,2,Tom Cohen,5081880,none
-14,The Amazing Spider-Man,producer,3,Kevin Feige,270559,http://s3.amazonaws.com/brianfoo_art/hollywood/270559.jpg
 14,The Amazing Spider-Man,director,1,Marc Webb,1989536,http://s3.amazonaws.com/brianfoo_art/hollywood/1989536.jpg
 14,The Amazing Spider-Man,writer,1,James Vanderbilt,888743,http://s3.amazonaws.com/brianfoo_art/hollywood/888743.jpg
 14,The Amazing Spider-Man,writer,2,Alvin Sargent,765091,none
@@ -169,9 +128,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 15,The Twilight Saga: Breaking Dawn Part 2,cast,3,Taylor Lautner,1210124,http://s3.amazonaws.com/brianfoo_art/hollywood/1210124.jpg
 15,The Twilight Saga: Breaking Dawn Part 2,cast,4,Peter Facinelli,4906,http://s3.amazonaws.com/brianfoo_art/hollywood/4906.jpg
 15,The Twilight Saga: Breaking Dawn Part 2,cast,5,Elizabeth Reaser,714147,http://s3.amazonaws.com/brianfoo_art/hollywood/714147.jpg
-15,The Twilight Saga: Breaking Dawn Part 2,producer,1,Bill Bannerman,3806,none
-15,The Twilight Saga: Breaking Dawn Part 2,producer,2,Marty Bowen,2125212,none
-15,The Twilight Saga: Breaking Dawn Part 2,producer,3,Wyck Godfrey,324041,none
 15,The Twilight Saga: Breaking Dawn Part 2,director,1,Bill Condon,174374,http://s3.amazonaws.com/brianfoo_art/hollywood/174374.jpg
 15,The Twilight Saga: Breaking Dawn Part 2,writer,1,Melissa Rosenberg,742279,http://s3.amazonaws.com/brianfoo_art/hollywood/742279.jpg
 15,The Twilight Saga: Breaking Dawn Part 2,writer,2,Stephenie Meyer,2769412,http://s3.amazonaws.com/brianfoo_art/hollywood/2769412.jpg
@@ -180,9 +136,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 16,The Hobbit: An Unexpected Journey,cast,3,Richard Armitage,35514,http://s3.amazonaws.com/brianfoo_art/hollywood/35514.jpg
 16,The Hobbit: An Unexpected Journey,cast,4,Ken Stott,832792,http://s3.amazonaws.com/brianfoo_art/hollywood/832792.jpg
 16,The Hobbit: An Unexpected Journey,cast,5,Graham McTavish,574615,http://s3.amazonaws.com/brianfoo_art/hollywood/574615.jpg
-16,The Hobbit: An Unexpected Journey,producer,1,Carolyn Blackwood,1147891,none
-16,The Hobbit: An Unexpected Journey,producer,2,Philippa Boyens,101991,http://s3.amazonaws.com/brianfoo_art/hollywood/101991.jpg
-16,The Hobbit: An Unexpected Journey,producer,3,Carolynne Cunningham,192254,none
 16,The Hobbit: An Unexpected Journey,director,1,Peter Jackson,1392,http://s3.amazonaws.com/brianfoo_art/hollywood/1392.jpg
 16,The Hobbit: An Unexpected Journey,writer,1,Fran Walsh,909638,http://s3.amazonaws.com/brianfoo_art/hollywood/909638.jpg
 16,The Hobbit: An Unexpected Journey,writer,2,Philippa Boyens,101991,http://s3.amazonaws.com/brianfoo_art/hollywood/101991.jpg
@@ -192,9 +145,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 17,Skyfall,cast,3,Javier Bardem,849,http://s3.amazonaws.com/brianfoo_art/hollywood/849.jpg
 17,Skyfall,cast,4,Ralph Fiennes,146,http://s3.amazonaws.com/brianfoo_art/hollywood/146.jpg
 17,Skyfall,cast,5,Naomie Harris,365140,http://s3.amazonaws.com/brianfoo_art/hollywood/365140.jpg
-17,Skyfall,producer,1,Barbara Broccoli,110483,http://s3.amazonaws.com/brianfoo_art/hollywood/110483.jpg
-17,Skyfall,producer,2,Chiu Wah Lee,2414937,none
-17,Skyfall,producer,3,Callum McDougall,568223,none
 17,Skyfall,director,1,Sam Mendes,5222,http://s3.amazonaws.com/brianfoo_art/hollywood/5222.jpg
 17,Skyfall,writer,1,Neal Purvis,701031,none
 17,Skyfall,writer,2,Robert Wade,905498,none
@@ -204,9 +154,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 18,The Hunger Games,cast,3,Jennifer Lawrence,2225369,http://s3.amazonaws.com/brianfoo_art/hollywood/2225369.jpg
 18,The Hunger Games,cast,4,Willow Shields,3094377,http://s3.amazonaws.com/brianfoo_art/hollywood/3094377.jpg
 18,The Hunger Games,cast,5,Liam Hemsworth,2955013,http://s3.amazonaws.com/brianfoo_art/hollywood/2955013.jpg
-18,The Hunger Games,producer,1,Diana Alvarez,1162642,none
-18,The Hunger Games,producer,2,Robin Bissell,84312,http://s3.amazonaws.com/brianfoo_art/hollywood/84312.jpg
-18,The Hunger Games,producer,3,Martin Cohen,169591,none
 18,The Hunger Games,director,1,Gary Ross,2657,http://s3.amazonaws.com/brianfoo_art/hollywood/2657.jpg
 18,The Hunger Games,writer,1,Gary Ross,2657,http://s3.amazonaws.com/brianfoo_art/hollywood/2657.jpg
 18,The Hunger Games,writer,2,Suzanne Collins,1056741,http://s3.amazonaws.com/brianfoo_art/hollywood/1056741.jpg
@@ -216,9 +163,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 19,The Dark Knight Rises,cast,3,Tom Hardy,362766,http://s3.amazonaws.com/brianfoo_art/hollywood/362766.jpg
 19,The Dark Knight Rises,cast,4,Joseph Gordon-Levitt,330687,http://s3.amazonaws.com/brianfoo_art/hollywood/330687.jpg
 19,The Dark Knight Rises,cast,5,Anne Hathaway,4266,http://s3.amazonaws.com/brianfoo_art/hollywood/4266.jpg
-19,The Dark Knight Rises,producer,1,Kevin De La Noy,209326,none
-19,The Dark Knight Rises,producer,2,Jordan Goldberg,2044373,none
-19,The Dark Knight Rises,producer,3,Benjamin Melniker,578195,none
 19,The Dark Knight Rises,director,1,Christopher Nolan,634240,http://s3.amazonaws.com/brianfoo_art/hollywood/634240.jpg
 19,The Dark Knight Rises,writer,1,Jonathan Nolan,634300,http://s3.amazonaws.com/brianfoo_art/hollywood/634300.jpg
 19,The Dark Knight Rises,writer,2,Christopher Nolan,634240,http://s3.amazonaws.com/brianfoo_art/hollywood/634240.jpg
@@ -227,9 +171,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 20,Marvel's The Avengers,cast,3,Mark Ruffalo,749263,http://s3.amazonaws.com/brianfoo_art/hollywood/749263.jpg
 20,Marvel's The Avengers,cast,4,Chris Hemsworth,1165110,http://s3.amazonaws.com/brianfoo_art/hollywood/1165110.jpg
 20,Marvel's The Avengers,cast,5,Scarlett Johansson,424060,http://s3.amazonaws.com/brianfoo_art/hollywood/424060.jpg
-20,Marvel's The Avengers,producer,1,Victoria Alonso,22285,http://s3.amazonaws.com/brianfoo_art/hollywood/22285.jpg
-20,Marvel's The Avengers,producer,2,Louis D'Esposito,195669,http://s3.amazonaws.com/brianfoo_art/hollywood/195669.jpg
-20,Marvel's The Avengers,producer,3,Jon Favreau,269463,http://s3.amazonaws.com/brianfoo_art/hollywood/269463.jpg
 20,Marvel's The Avengers,director,1,Joss Whedon,923736,http://s3.amazonaws.com/brianfoo_art/hollywood/923736.jpg
 20,Marvel's The Avengers,writer,1,Joss Whedon,923736,http://s3.amazonaws.com/brianfoo_art/hollywood/923736.jpg
 20,Marvel's The Avengers,writer,2,Zak Penn,672015,http://s3.amazonaws.com/brianfoo_art/hollywood/672015.jpg
@@ -238,9 +179,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 21,Oz The Great and Powerful,cast,3,Rachel Weisz,1838,http://s3.amazonaws.com/brianfoo_art/hollywood/1838.jpg
 21,Oz The Great and Powerful,cast,4,Michelle Williams,931329,http://s3.amazonaws.com/brianfoo_art/hollywood/931329.jpg
 21,Oz The Great and Powerful,cast,5,Zach Braff,103785,http://s3.amazonaws.com/brianfoo_art/hollywood/103785.jpg
-21,Oz The Great and Powerful,producer,1,Debbi Bossi,98149,none
-21,Oz The Great and Powerful,producer,2,Grant Curtis,193344,none
-21,Oz The Great and Powerful,producer,3,Joshua Donen,232433,none
 21,Oz The Great and Powerful,director,1,Sam Raimi,600,http://s3.amazonaws.com/brianfoo_art/hollywood/600.jpg
 21,Oz The Great and Powerful,writer,1,Mitchell Kapner,438449,none
 21,Oz The Great and Powerful,writer,2,David Lindsay-Abaire,1865755,http://s3.amazonaws.com/brianfoo_art/hollywood/1865755.jpg
@@ -249,9 +187,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 22,Fast & Furious 6,cast,3,Dwayne Johnson,425005,http://s3.amazonaws.com/brianfoo_art/hollywood/425005.jpg
 22,Fast & Furious 6,cast,4,Jordana Brewster,108287,http://s3.amazonaws.com/brianfoo_art/hollywood/108287.jpg
 22,Fast & Furious 6,cast,5,Michelle Rodriguez,735442,http://s3.amazonaws.com/brianfoo_art/hollywood/735442.jpg
-22,Fast & Furious 6,producer,1,Vin Diesel,4874,http://s3.amazonaws.com/brianfoo_art/hollywood/4874.jpg
-22,Fast & Furious 6,producer,2,Alexander Dostal,4165420,none
-22,Fast & Furious 6,producer,3,Amanda Lewis,1070966,none
 22,Fast & Furious 6,director,1,Justin Lin,510912,http://s3.amazonaws.com/brianfoo_art/hollywood/510912.jpg
 22,Fast & Furious 6,writer,1,Chris Morgan,604555,none
 22,Fast & Furious 6,writer,2,Gary Scott Thompson,860155,none
@@ -260,9 +195,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 23,The Hobbit: The Desolation of Smaug,cast,3,Richard Armitage,35514,http://s3.amazonaws.com/brianfoo_art/hollywood/35514.jpg
 23,The Hobbit: The Desolation of Smaug,cast,4,Ken Stott,832792,http://s3.amazonaws.com/brianfoo_art/hollywood/832792.jpg
 23,The Hobbit: The Desolation of Smaug,cast,5,Graham McTavish,574615,http://s3.amazonaws.com/brianfoo_art/hollywood/574615.jpg
-23,The Hobbit: The Desolation of Smaug,producer,1,Carolyn Blackwood,1147891,none
-23,The Hobbit: The Desolation of Smaug,producer,2,Philippa Boyens,101991,http://s3.amazonaws.com/brianfoo_art/hollywood/101991.jpg
-23,The Hobbit: The Desolation of Smaug,producer,3,Carolynne Cunningham,192254,none
 23,The Hobbit: The Desolation of Smaug,director,1,Peter Jackson,1392,http://s3.amazonaws.com/brianfoo_art/hollywood/1392.jpg
 23,The Hobbit: The Desolation of Smaug,writer,1,Fran Walsh,909638,http://s3.amazonaws.com/brianfoo_art/hollywood/909638.jpg
 23,The Hobbit: The Desolation of Smaug,writer,2,Philippa Boyens,101991,http://s3.amazonaws.com/brianfoo_art/hollywood/101991.jpg
@@ -272,9 +204,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 24,Monsters University,cast,3,Steve Buscemi,114,http://s3.amazonaws.com/brianfoo_art/hollywood/114.jpg
 24,Monsters University,cast,4,Helen Mirren,545,http://s3.amazonaws.com/brianfoo_art/hollywood/545.jpg
 24,Monsters University,cast,5,Peter Sohn,812307,http://s3.amazonaws.com/brianfoo_art/hollywood/812307.jpg
-24,Monsters University,producer,1,Pete Docter,230032,http://s3.amazonaws.com/brianfoo_art/hollywood/230032.jpg
-24,Monsters University,producer,2,Nicole Paradis Grindle,342430,none
-24,Monsters University,producer,3,John Lasseter,5124,http://s3.amazonaws.com/brianfoo_art/hollywood/5124.jpg
 24,Monsters University,director,1,Dan Scanlon,768959,http://s3.amazonaws.com/brianfoo_art/hollywood/768959.jpg
 24,Monsters University,writer,1,Dan Scanlon,768959,http://s3.amazonaws.com/brianfoo_art/hollywood/768959.jpg
 24,Monsters University,writer,2,Daniel Gerson,314870,none
@@ -284,9 +213,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 25,Gravity,cast,3,Ed Harris,438,http://s3.amazonaws.com/brianfoo_art/hollywood/438.jpg
 25,Gravity,cast,4,Orto Ignatiussen,1241511,none
 25,Gravity,cast,5,Phaldut Sharma,2060857,http://s3.amazonaws.com/brianfoo_art/hollywood/2060857.jpg
-25,Gravity,producer,1,Alfonso Cuarón,190859,http://s3.amazonaws.com/brianfoo_art/hollywood/190859.jpg
-25,Gravity,producer,2,Christopher DeFaria,2211,none
-25,Gravity,producer,3,David Heyman,382268,http://s3.amazonaws.com/brianfoo_art/hollywood/382268.jpg
 25,Gravity,director,1,Alfonso Cuarón,190859,http://s3.amazonaws.com/brianfoo_art/hollywood/190859.jpg
 25,Gravity,writer,1,Alfonso Cuarón,190859,http://s3.amazonaws.com/brianfoo_art/hollywood/190859.jpg
 25,Gravity,writer,2,Jonás Cuarón,190861,http://s3.amazonaws.com/brianfoo_art/hollywood/190861.jpg
@@ -296,9 +222,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 26,Man of Steel,cast,3,Michael Shannon,788335,http://s3.amazonaws.com/brianfoo_art/hollywood/788335.jpg
 26,Man of Steel,cast,4,Diane Lane,178,http://s3.amazonaws.com/brianfoo_art/hollywood/178.jpg
 26,Man of Steel,cast,5,Russell Crowe,128,http://s3.amazonaws.com/brianfoo_art/hollywood/128.jpg
-26,Man of Steel,producer,1,Wesley Coller,1418292,none
-26,Man of Steel,producer,2,Curt Kanemoto,2294683,none
-26,Man of Steel,producer,3,Christopher Nolan,634240,http://s3.amazonaws.com/brianfoo_art/hollywood/634240.jpg
 26,Man of Steel,director,1,Zack Snyder,811583,http://s3.amazonaws.com/brianfoo_art/hollywood/811583.jpg
 26,Man of Steel,writer,1,David S. Goyer,333060,http://s3.amazonaws.com/brianfoo_art/hollywood/333060.jpg
 26,Man of Steel,writer,3,Christopher Nolan,634240,http://s3.amazonaws.com/brianfoo_art/hollywood/634240.jpg
@@ -307,9 +230,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 27,Despicable Me 2,cast,3,Benjamin Bratt,973,http://s3.amazonaws.com/brianfoo_art/hollywood/973.jpg
 27,Despicable Me 2,cast,4,Miranda Cosgrove,1388927,http://s3.amazonaws.com/brianfoo_art/hollywood/1388927.jpg
 27,Despicable Me 2,cast,5,Russell Brand,1258970,http://s3.amazonaws.com/brianfoo_art/hollywood/1258970.jpg
-27,Despicable Me 2,producer,1,Janet Healy,372329,none
-27,Despicable Me 2,producer,2,Christopher Meledandri,577560,none
-27,Despicable Me 2,producer,3,Robert Taylor,2454185,none
 27,Despicable Me 2,director,1,Pierre Coffin,1853544,http://s3.amazonaws.com/brianfoo_art/hollywood/1853544.jpg
 27,Despicable Me 2,director,2,Chris Renaud,719208,http://s3.amazonaws.com/brianfoo_art/hollywood/719208.jpg
 27,Despicable Me 2,writer,1,Cinco Paul,666791,none
@@ -319,9 +239,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 28,Frozen,cast,3,Jonathan Groff,2676147,http://s3.amazonaws.com/brianfoo_art/hollywood/2676147.jpg
 28,Frozen,cast,4,Josh Gad,1265802,http://s3.amazonaws.com/brianfoo_art/hollywood/1265802.jpg
 28,Frozen,cast,5,Santino Fontana,2949014,http://s3.amazonaws.com/brianfoo_art/hollywood/2949014.jpg
-28,Frozen,producer,1,Peter Del Vecho,1275326,http://s3.amazonaws.com/brianfoo_art/hollywood/1275326.jpg
-28,Frozen,producer,2,John Lasseter,5124,http://s3.amazonaws.com/brianfoo_art/hollywood/5124.jpg
-28,Frozen,producer,3,Aimee Scribner,2134370,none
 28,Frozen,director,1,Chris Buck,118333,http://s3.amazonaws.com/brianfoo_art/hollywood/118333.jpg
 28,Frozen,director,2,Jennifer Lee,1601644,http://s3.amazonaws.com/brianfoo_art/hollywood/1601644.jpg
 28,Frozen,writer,1,Jennifer Lee,1601644,http://s3.amazonaws.com/brianfoo_art/hollywood/1601644.jpg
@@ -332,9 +249,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 29,Iron Man 3,cast,3,Don Cheadle,332,http://s3.amazonaws.com/brianfoo_art/hollywood/332.jpg
 29,Iron Man 3,cast,4,Guy Pearce,1602,http://s3.amazonaws.com/brianfoo_art/hollywood/1602.jpg
 29,Iron Man 3,cast,5,Rebecca Hall,356017,http://s3.amazonaws.com/brianfoo_art/hollywood/356017.jpg
-29,Iron Man 3,producer,1,Victoria Alonso,22285,http://s3.amazonaws.com/brianfoo_art/hollywood/22285.jpg
-29,Iron Man 3,producer,2,Mitchell Bell,68416,none
-29,Iron Man 3,producer,3,Stephen Broussard,112780,none
 29,Iron Man 3,director,1,Shane Black,948,http://s3.amazonaws.com/brianfoo_art/hollywood/948.jpg
 29,Iron Man 3,writer,1,Drew Pearce,1510800,http://s3.amazonaws.com/brianfoo_art/hollywood/1510800.jpg
 29,Iron Man 3,writer,2,Shane Black,948,http://s3.amazonaws.com/brianfoo_art/hollywood/948.jpg
@@ -344,9 +258,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 30,The Hunger Games: Catching Fire,cast,3,Jack Quaid,4425051,http://s3.amazonaws.com/brianfoo_art/hollywood/4425051.jpg
 30,The Hunger Games: Catching Fire,cast,4,Taylor St. Clair,1193262,http://s3.amazonaws.com/brianfoo_art/hollywood/1193262.jpg
 30,The Hunger Games: Catching Fire,cast,5,Sandra Ellis Lafferty,480808,http://s3.amazonaws.com/brianfoo_art/hollywood/480808.jpg
-30,The Hunger Games: Catching Fire,producer,1,Suzanne Collins,1056741,http://s3.amazonaws.com/brianfoo_art/hollywood/1056741.jpg
-30,The Hunger Games: Catching Fire,producer,2,Joseph Drake,236944,none
-30,The Hunger Games: Catching Fire,producer,3,Nina Jacobson,1749221,http://s3.amazonaws.com/brianfoo_art/hollywood/1749221.jpg
 30,The Hunger Games: Catching Fire,director,1,Francis Lawrence,1349376,http://s3.amazonaws.com/brianfoo_art/hollywood/1349376.jpg
 30,The Hunger Games: Catching Fire,writer,1,Simon Beaufoy,64479,http://s3.amazonaws.com/brianfoo_art/hollywood/64479.jpg
 30,The Hunger Games: Catching Fire,writer,2,Michael Arndt,1578335,http://s3.amazonaws.com/brianfoo_art/hollywood/1578335.jpg
@@ -356,9 +267,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 31,Big Hero 6,cast,3,Daniel Henney,2024644,http://s3.amazonaws.com/brianfoo_art/hollywood/2024644.jpg
 31,Big Hero 6,cast,4,T.J. Miller,2554352,http://s3.amazonaws.com/brianfoo_art/hollywood/2554352.jpg
 31,Big Hero 6,cast,5,Jamie Chung,1512166,http://s3.amazonaws.com/brianfoo_art/hollywood/1512166.jpg
-31,Big Hero 6,producer,1,Roy Conli,174807,http://s3.amazonaws.com/brianfoo_art/hollywood/174807.jpg
-31,Big Hero 6,producer,2,John Lasseter,5124,http://s3.amazonaws.com/brianfoo_art/hollywood/5124.jpg
-31,Big Hero 6,producer,3,Kristina Reed,715534,none
 31,Big Hero 6,director,1,Don Hall,2320658,http://s3.amazonaws.com/brianfoo_art/hollywood/2320658.jpg
 31,Big Hero 6,director,2,Chris Williams,930261,http://s3.amazonaws.com/brianfoo_art/hollywood/930261.jpg
 31,Big Hero 6,writer,1,Jordan Roberts,1471001,none
@@ -369,9 +277,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 32,X-Men: Days of Future Past,cast,3,Michael Fassbender,1055413,http://s3.amazonaws.com/brianfoo_art/hollywood/1055413.jpg
 32,X-Men: Days of Future Past,cast,4,Jennifer Lawrence,2225369,http://s3.amazonaws.com/brianfoo_art/hollywood/2225369.jpg
 32,X-Men: Days of Future Past,cast,5,Halle Berry,932,http://s3.amazonaws.com/brianfoo_art/hollywood/932.jpg
-32,X-Men: Days of Future Past,producer,1,Tom Cohen,5081880,none
-32,X-Men: Days of Future Past,producer,2,Todd Hallowell,356745,none
-32,X-Men: Days of Future Past,producer,3,Derek Hoffman,1173736,none
 32,X-Men: Days of Future Past,director,1,Bryan Singer,1741,http://s3.amazonaws.com/brianfoo_art/hollywood/1741.jpg
 32,X-Men: Days of Future Past,writer,1,Simon Kinberg,1334526,http://s3.amazonaws.com/brianfoo_art/hollywood/1334526.jpg
 32,X-Men: Days of Future Past,writer,2,Jane Goldman,963359,http://s3.amazonaws.com/brianfoo_art/hollywood/963359.jpg
@@ -380,9 +285,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 33,Maleficent,cast,3,Sharlto Copley,1663205,http://s3.amazonaws.com/brianfoo_art/hollywood/1663205.jpg
 33,Maleficent,cast,4,Lesley Manville,544334,http://s3.amazonaws.com/brianfoo_art/hollywood/544334.jpg
 33,Maleficent,cast,5,Imelda Staunton,1767,http://s3.amazonaws.com/brianfoo_art/hollywood/1767.jpg
-33,Maleficent,producer,1,Sarah Bradshaw,103530,none
-33,Maleficent,producer,2,Don Hahn,353893,http://s3.amazonaws.com/brianfoo_art/hollywood/353893.jpg
-33,Maleficent,producer,3,Angelina Jolie,1401,http://s3.amazonaws.com/brianfoo_art/hollywood/1401.jpg
 33,Maleficent,director,1,Robert Stromberg,834902,http://s3.amazonaws.com/brianfoo_art/hollywood/834902.jpg
 33,Maleficent,writer,1,Linda Woolverton,941314,http://s3.amazonaws.com/brianfoo_art/hollywood/941314.jpg
 33,Maleficent,writer,2,Charles Perrault,674518,none
@@ -392,9 +294,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 34,Transformers: Age of Extinction,cast,3,Kelsey Grammer,1288,http://s3.amazonaws.com/brianfoo_art/hollywood/1288.jpg
 34,Transformers: Age of Extinction,cast,4,Nicola Peltz,2443758,http://s3.amazonaws.com/brianfoo_art/hollywood/2443758.jpg
 34,Transformers: Age of Extinction,cast,5,Jack Reynor,2930503,http://s3.amazonaws.com/brianfoo_art/hollywood/2930503.jpg
-34,Transformers: Age of Extinction,producer,1,Michael Bay,881,http://s3.amazonaws.com/brianfoo_art/hollywood/881.jpg
-34,Transformers: Age of Extinction,producer,2,Ian Bryce,117290,http://s3.amazonaws.com/brianfoo_art/hollywood/117290.jpg
-34,Transformers: Age of Extinction,producer,3,Allegra Clegg,165937,none
 34,Transformers: Age of Extinction,director,1,Michael Bay,881,http://s3.amazonaws.com/brianfoo_art/hollywood/881.jpg
 34,Transformers: Age of Extinction,writer,1,Ehren Kruger,472567,http://s3.amazonaws.com/brianfoo_art/hollywood/472567.jpg
 35,The Hobbit: The Battle of the Five Armies,cast,1,Ian McKellen,5212,http://s3.amazonaws.com/brianfoo_art/hollywood/5212.jpg
@@ -402,9 +301,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 35,The Hobbit: The Battle of the Five Armies,cast,3,Richard Armitage,35514,http://s3.amazonaws.com/brianfoo_art/hollywood/35514.jpg
 35,The Hobbit: The Battle of the Five Armies,cast,4,Ken Stott,832792,http://s3.amazonaws.com/brianfoo_art/hollywood/832792.jpg
 35,The Hobbit: The Battle of the Five Armies,cast,5,Graham McTavish,574615,http://s3.amazonaws.com/brianfoo_art/hollywood/574615.jpg
-35,The Hobbit: The Battle of the Five Armies,producer,1,Carolyn Blackwood,1147891,none
-35,The Hobbit: The Battle of the Five Armies,producer,2,Philippa Boyens,101991,http://s3.amazonaws.com/brianfoo_art/hollywood/101991.jpg
-35,The Hobbit: The Battle of the Five Armies,producer,3,Carolynne Cunningham,192254,none
 35,The Hobbit: The Battle of the Five Armies,director,1,Peter Jackson,1392,http://s3.amazonaws.com/brianfoo_art/hollywood/1392.jpg
 35,The Hobbit: The Battle of the Five Armies,writer,1,Fran Walsh,909638,http://s3.amazonaws.com/brianfoo_art/hollywood/909638.jpg
 35,The Hobbit: The Battle of the Five Armies,writer,2,Philippa Boyens,101991,http://s3.amazonaws.com/brianfoo_art/hollywood/101991.jpg
@@ -414,9 +310,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 36,The LEGO Movie,cast,3,Craig Berry,1911947,none
 36,The LEGO Movie,cast,4,Alison Brie,1555340,http://s3.amazonaws.com/brianfoo_art/hollywood/1555340.jpg
 36,The LEGO Movie,cast,5,David Burrows,123262,http://s3.amazonaws.com/brianfoo_art/hollywood/123262.jpg
-36,The LEGO Movie,producer,1,Allison Abbate,7831,http://s3.amazonaws.com/brianfoo_art/hollywood/7831.jpg
-36,The LEGO Movie,producer,2,Will Allegra,4611870,none
-36,The LEGO Movie,producer,3,Matthew Ashton,5768327,none
 36,The LEGO Movie,director,1,Phil Lord,520488,http://s3.amazonaws.com/brianfoo_art/hollywood/520488.jpg
 36,The LEGO Movie,director,2,Christopher Miller,588087,http://s3.amazonaws.com/brianfoo_art/hollywood/588087.jpg
 36,The LEGO Movie,writer,1,Phil Lord,520488,http://s3.amazonaws.com/brianfoo_art/hollywood/520488.jpg
@@ -427,9 +320,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 37,Captain America: The Winter Soldier,cast,3,Scarlett Johansson,424060,http://s3.amazonaws.com/brianfoo_art/hollywood/424060.jpg
 37,Captain America: The Winter Soldier,cast,4,Robert Redford,602,http://s3.amazonaws.com/brianfoo_art/hollywood/602.jpg
 37,Captain America: The Winter Soldier,cast,5,Sebastian Stan,1659221,http://s3.amazonaws.com/brianfoo_art/hollywood/1659221.jpg
-37,Captain America: The Winter Soldier,producer,1,Victoria Alonso,22285,http://s3.amazonaws.com/brianfoo_art/hollywood/22285.jpg
-37,Captain America: The Winter Soldier,producer,2,Mitchell Bell,68416,none
-37,Captain America: The Winter Soldier,producer,3,Louis D'Esposito,195669,http://s3.amazonaws.com/brianfoo_art/hollywood/195669.jpg
 37,Captain America: The Winter Soldier,director,1,Anthony Russo,751577,http://s3.amazonaws.com/brianfoo_art/hollywood/751577.jpg
 37,Captain America: The Winter Soldier,director,2,Joe Russo,751648,http://s3.amazonaws.com/brianfoo_art/hollywood/751648.jpg
 37,Captain America: The Winter Soldier,writer,1,Christopher Markus,1321655,http://s3.amazonaws.com/brianfoo_art/hollywood/1321655.jpg
@@ -440,9 +330,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 38,Guardians of the Galaxy,cast,3,Dave Bautista,1176985,http://s3.amazonaws.com/brianfoo_art/hollywood/1176985.jpg
 38,Guardians of the Galaxy,cast,4,Vin Diesel,4874,http://s3.amazonaws.com/brianfoo_art/hollywood/4874.jpg
 38,Guardians of the Galaxy,cast,5,Bradley Cooper,177896,http://s3.amazonaws.com/brianfoo_art/hollywood/177896.jpg
-38,Guardians of the Galaxy,producer,1,Victoria Alonso,22285,http://s3.amazonaws.com/brianfoo_art/hollywood/22285.jpg
-38,Guardians of the Galaxy,producer,2,Jamie Christopher,160577,http://s3.amazonaws.com/brianfoo_art/hollywood/160577.jpg
-38,Guardians of the Galaxy,producer,3,Louis D'Esposito,195669,http://s3.amazonaws.com/brianfoo_art/hollywood/195669.jpg
 38,Guardians of the Galaxy,director,1,James Gunn,348181,http://s3.amazonaws.com/brianfoo_art/hollywood/348181.jpg
 38,Guardians of the Galaxy,writer,1,James Gunn,348181,http://s3.amazonaws.com/brianfoo_art/hollywood/348181.jpg
 38,Guardians of the Galaxy,writer,2,Nicole Perlman,2270979,http://s3.amazonaws.com/brianfoo_art/hollywood/2270979.jpg
@@ -452,9 +339,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 39,The Hunger Games: Mockingjay - Part 1,cast,3,Liam Hemsworth,2955013,http://s3.amazonaws.com/brianfoo_art/hollywood/2955013.jpg
 39,The Hunger Games: Mockingjay - Part 1,cast,4,Woody Harrelson,437,http://s3.amazonaws.com/brianfoo_art/hollywood/437.jpg
 39,The Hunger Games: Mockingjay - Part 1,cast,5,Donald Sutherland,661,http://s3.amazonaws.com/brianfoo_art/hollywood/661.jpg
-39,The Hunger Games: Mockingjay - Part 1,producer,1,Suzanne Collins,1056741,http://s3.amazonaws.com/brianfoo_art/hollywood/1056741.jpg
-39,The Hunger Games: Mockingjay - Part 1,producer,2,Jan Foster,287865,none
-39,The Hunger Games: Mockingjay - Part 1,producer,3,Nina Jacobson,1749221,http://s3.amazonaws.com/brianfoo_art/hollywood/1749221.jpg
 39,The Hunger Games: Mockingjay - Part 1,director,1,Francis Lawrence,1349376,http://s3.amazonaws.com/brianfoo_art/hollywood/1349376.jpg
 39,The Hunger Games: Mockingjay - Part 1,writer,1,Peter Craig,185976,http://s3.amazonaws.com/brianfoo_art/hollywood/185976.jpg
 39,The Hunger Games: Mockingjay - Part 1,writer,2,Danny Strong,834960,http://s3.amazonaws.com/brianfoo_art/hollywood/834960.jpg
@@ -464,9 +348,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 40,American Sniper,cast,3,Cole Konis,6518675,http://s3.amazonaws.com/brianfoo_art/hollywood/6518675.jpg
 40,American Sniper,cast,4,Ben Reed,715314,http://s3.amazonaws.com/brianfoo_art/hollywood/715314.jpg
 40,American Sniper,cast,5,Elise Robertson,731826,http://s3.amazonaws.com/brianfoo_art/hollywood/731826.jpg
-40,American Sniper,producer,1,Zakaria Alaoui,15997,http://s3.amazonaws.com/brianfoo_art/hollywood/15997.jpg
-40,American Sniper,producer,2,Bruce Berman,75732,http://s3.amazonaws.com/brianfoo_art/hollywood/75732.jpg
-40,American Sniper,producer,3,Bradley Cooper,177896,http://s3.amazonaws.com/brianfoo_art/hollywood/177896.jpg
 40,American Sniper,director,1,Clint Eastwood,142,http://s3.amazonaws.com/brianfoo_art/hollywood/142.jpg
 40,American Sniper,writer,1,Jason Hall,355699,http://s3.amazonaws.com/brianfoo_art/hollywood/355699.jpg
 40,American Sniper,writer,2,Chris Kyle,4881574,none
@@ -476,9 +357,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 41,Spectre,cast,3,Léa Seydoux,2244205,http://s3.amazonaws.com/brianfoo_art/hollywood/2244205.jpg
 41,Spectre,cast,4,Ralph Fiennes,146,http://s3.amazonaws.com/brianfoo_art/hollywood/146.jpg
 41,Spectre,cast,5,Monica Bellucci,899,http://s3.amazonaws.com/brianfoo_art/hollywood/899.jpg
-41,Spectre,producer,1,Zakaria Alaoui,15997,http://s3.amazonaws.com/brianfoo_art/hollywood/15997.jpg
-41,Spectre,producer,2,Barbara Broccoli,110483,http://s3.amazonaws.com/brianfoo_art/hollywood/110483.jpg
-41,Spectre,producer,3,Daniel Craig,185819,http://s3.amazonaws.com/brianfoo_art/hollywood/185819.jpg
 41,Spectre,director,1,Sam Mendes,5222,http://s3.amazonaws.com/brianfoo_art/hollywood/5222.jpg
 41,Spectre,writer,1,John Logan,517589,http://s3.amazonaws.com/brianfoo_art/hollywood/517589.jpg
 41,Spectre,writer,2,Neal Purvis,701031,none
@@ -488,9 +366,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 42,Cinderella (2015),cast,3,Richard Madden,534635,http://s3.amazonaws.com/brianfoo_art/hollywood/534635.jpg
 42,Cinderella (2015),cast,4,Helena Bonham Carter,307,http://s3.amazonaws.com/brianfoo_art/hollywood/307.jpg
 42,Cinderella (2015),cast,5,Nonso Anozie,1996829,http://s3.amazonaws.com/brianfoo_art/hollywood/1996829.jpg
-42,Cinderella (2015),producer,1,David Barron,57655,http://s3.amazonaws.com/brianfoo_art/hollywood/57655.jpg
-42,Cinderella (2015),producer,2,Simon Kinberg,1334526,http://s3.amazonaws.com/brianfoo_art/hollywood/1334526.jpg
-42,Cinderella (2015),producer,3,Tim Lewis,507815,none
 42,Cinderella (2015),director,1,Kenneth Branagh,110,http://s3.amazonaws.com/brianfoo_art/hollywood/110.jpg
 42,Cinderella (2015),writer,1,Chris Weitz,919363,http://s3.amazonaws.com/brianfoo_art/hollywood/919363.jpg
 43,The Martian,cast,1,Matt Damon,354,http://s3.amazonaws.com/brianfoo_art/hollywood/354.jpg
@@ -498,9 +373,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 43,The Martian,cast,3,Kristen Wiig,1325419,http://s3.amazonaws.com/brianfoo_art/hollywood/1325419.jpg
 43,The Martian,cast,4,Jeff Daniels,1099,http://s3.amazonaws.com/brianfoo_art/hollywood/1099.jpg
 43,The Martian,cast,5,Michael Peña,671567,http://s3.amazonaws.com/brianfoo_art/hollywood/671567.jpg
-43,The Martian,producer,1,Howard Ellis,254872,none
-43,The Martian,producer,2,Drew Goddard,1206844,http://s3.amazonaws.com/brianfoo_art/hollywood/1206844.jpg
-43,The Martian,producer,3,Adam Goodman,328996,none
 43,The Martian,director,1,Ridley Scott,631,http://s3.amazonaws.com/brianfoo_art/hollywood/631.jpg
 43,The Martian,writer,1,Drew Goddard,1206844,http://s3.amazonaws.com/brianfoo_art/hollywood/1206844.jpg
 43,The Martian,writer,2,Andy Weir,1083982,none
@@ -509,9 +381,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 44,The Hunger Games: Mockingjay - Part 2,cast,3,Liam Hemsworth,2955013,http://s3.amazonaws.com/brianfoo_art/hollywood/2955013.jpg
 44,The Hunger Games: Mockingjay - Part 2,cast,4,Woody Harrelson,437,http://s3.amazonaws.com/brianfoo_art/hollywood/437.jpg
 44,The Hunger Games: Mockingjay - Part 2,cast,5,Donald Sutherland,661,http://s3.amazonaws.com/brianfoo_art/hollywood/661.jpg
-44,The Hunger Games: Mockingjay - Part 2,producer,1,Suzanne Collins,1056741,http://s3.amazonaws.com/brianfoo_art/hollywood/1056741.jpg
-44,The Hunger Games: Mockingjay - Part 2,producer,2,Christoph Fisser,2862529,none
-44,The Hunger Games: Mockingjay - Part 2,producer,3,Jan Foster,287865,none
 44,The Hunger Games: Mockingjay - Part 2,director,1,Francis Lawrence,1349376,http://s3.amazonaws.com/brianfoo_art/hollywood/1349376.jpg
 44,The Hunger Games: Mockingjay - Part 2,writer,1,Peter Craig,185976,http://s3.amazonaws.com/brianfoo_art/hollywood/185976.jpg
 44,The Hunger Games: Mockingjay - Part 2,writer,2,Danny Strong,834960,http://s3.amazonaws.com/brianfoo_art/hollywood/834960.jpg
@@ -521,9 +390,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 45,Minions,cast,3,Michael Keaton,474,http://s3.amazonaws.com/brianfoo_art/hollywood/474.jpg
 45,Minions,cast,4,Allison Janney,5049,http://s3.amazonaws.com/brianfoo_art/hollywood/5049.jpg
 45,Minions,cast,5,Steve Coogan,176869,http://s3.amazonaws.com/brianfoo_art/hollywood/176869.jpg
-45,Minions,producer,1,Janet Healy,372329,none
-45,Minions,producer,2,Brett Hoffman,1873168,none
-45,Minions,producer,3,Christopher Meledandri,577560,none
 45,Minions,director,1,Kyle Balda,49633,none
 45,Minions,director,2,Pierre Coffin,1853544,http://s3.amazonaws.com/brianfoo_art/hollywood/1853544.jpg
 45,Minions,writer,1,Brian Lynch,528244,none
@@ -532,9 +398,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 46,Furious 7,cast,3,Jason Statham,5458,http://s3.amazonaws.com/brianfoo_art/hollywood/5458.jpg
 46,Furious 7,cast,4,Michelle Rodriguez,735442,http://s3.amazonaws.com/brianfoo_art/hollywood/735442.jpg
 46,Furious 7,cast,5,Jordana Brewster,108287,http://s3.amazonaws.com/brianfoo_art/hollywood/108287.jpg
-46,Furious 7,producer,1,Brandon Birtell,1771385,none
-46,Furious 7,producer,2,Vin Diesel,4874,http://s3.amazonaws.com/brianfoo_art/hollywood/4874.jpg
-46,Furious 7,producer,3,Michael Fottrell,288202,none
 46,Furious 7,director,1,James Wan,1490123,http://s3.amazonaws.com/brianfoo_art/hollywood/1490123.jpg
 46,Furious 7,writer,1,Chris Morgan,604555,none
 46,Furious 7,writer,2,Gary Scott Thompson,860155,none
@@ -543,9 +406,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 47,Inside Out,cast,3,Richard Kind,454236,http://s3.amazonaws.com/brianfoo_art/hollywood/454236.jpg
 47,Inside Out,cast,4,Bill Hader,352778,http://s3.amazonaws.com/brianfoo_art/hollywood/352778.jpg
 47,Inside Out,cast,5,Lewis Black,85400,http://s3.amazonaws.com/brianfoo_art/hollywood/85400.jpg
-47,Inside Out,producer,1,John Lasseter,5124,http://s3.amazonaws.com/brianfoo_art/hollywood/5124.jpg
-47,Inside Out,producer,2,Mark Nielsen,630923,none
-47,Inside Out,producer,3,Jonas Rivera,729304,none
 47,Inside Out,director,1,Pete Docter,230032,http://s3.amazonaws.com/brianfoo_art/hollywood/230032.jpg
 47,Inside Out,director,2,Ronnie Del Carmen,215455,http://s3.amazonaws.com/brianfoo_art/hollywood/215455.jpg
 47,Inside Out,writer,1,Pete Docter,230032,http://s3.amazonaws.com/brianfoo_art/hollywood/230032.jpg
@@ -555,9 +415,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 48,Avengers: Age of Ultron,cast,3,Mark Ruffalo,749263,http://s3.amazonaws.com/brianfoo_art/hollywood/749263.jpg
 48,Avengers: Age of Ultron,cast,4,Chris Evans,262635,http://s3.amazonaws.com/brianfoo_art/hollywood/262635.jpg
 48,Avengers: Age of Ultron,cast,5,Scarlett Johansson,424060,http://s3.amazonaws.com/brianfoo_art/hollywood/424060.jpg
-48,Avengers: Age of Ultron,producer,1,Victoria Alonso,22285,http://s3.amazonaws.com/brianfoo_art/hollywood/22285.jpg
-48,Avengers: Age of Ultron,producer,2,Mitchell Bell,68416,none
-48,Avengers: Age of Ultron,producer,3,Jamie Christopher,160577,http://s3.amazonaws.com/brianfoo_art/hollywood/160577.jpg
 48,Avengers: Age of Ultron,director,1,Joss Whedon,923736,http://s3.amazonaws.com/brianfoo_art/hollywood/923736.jpg
 48,Avengers: Age of Ultron,writer,1,Joss Whedon,923736,http://s3.amazonaws.com/brianfoo_art/hollywood/923736.jpg
 48,Avengers: Age of Ultron,writer,2,Stan Lee,498278,http://s3.amazonaws.com/brianfoo_art/hollywood/498278.jpg
@@ -567,9 +424,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 49,Star Wars: The Force Awakens,cast,3,Carrie Fisher,402,http://s3.amazonaws.com/brianfoo_art/hollywood/402.jpg
 49,Star Wars: The Force Awakens,cast,4,Adam Driver,3485845,http://s3.amazonaws.com/brianfoo_art/hollywood/3485845.jpg
 49,Star Wars: The Force Awakens,cast,5,Daisy Ridley,5397459,http://s3.amazonaws.com/brianfoo_art/hollywood/5397459.jpg
-49,Star Wars: The Force Awakens,producer,1,J.J. Abrams,9190,http://s3.amazonaws.com/brianfoo_art/hollywood/9190.jpg
-49,Star Wars: The Force Awakens,producer,2,Michael Arndt,1578335,http://s3.amazonaws.com/brianfoo_art/hollywood/1578335.jpg
-49,Star Wars: The Force Awakens,producer,3,Bryan Burk,1333357,http://s3.amazonaws.com/brianfoo_art/hollywood/1333357.jpg
 49,Star Wars: The Force Awakens,director,1,J.J. Abrams,9190,http://s3.amazonaws.com/brianfoo_art/hollywood/9190.jpg
 49,Star Wars: The Force Awakens,writer,1,Lawrence Kasdan,1410,http://s3.amazonaws.com/brianfoo_art/hollywood/1410.jpg
 49,Star Wars: The Force Awakens,writer,2,J.J. Abrams,9190,http://s3.amazonaws.com/brianfoo_art/hollywood/9190.jpg
@@ -579,9 +433,6 @@ movie_id,movie_name,role,order,name,imdb_id,img
 50,Jurassic World,cast,3,Irrfan Khan,451234,http://s3.amazonaws.com/brianfoo_art/hollywood/451234.jpg
 50,Jurassic World,cast,4,Vincent D'Onofrio,352,http://s3.amazonaws.com/brianfoo_art/hollywood/352.jpg
 50,Jurassic World,cast,5,Ty Simpkins,1339223,http://s3.amazonaws.com/brianfoo_art/hollywood/1339223.jpg
-50,Jurassic World,producer,1,Patrick Crowley,189777,none
-50,Jurassic World,producer,2,Frank Marshall,550881,http://s3.amazonaws.com/brianfoo_art/hollywood/550881.jpg
-50,Jurassic World,producer,3,Christopher Raimo,706903,none
 50,Jurassic World,director,1,Colin Trevorrow,1119880,http://s3.amazonaws.com/brianfoo_art/hollywood/1119880.jpg
 50,Jurassic World,writer,1,Rick Jaffa,415425,none
 50,Jurassic World,writer,2,Amanda Silver,798646,none
