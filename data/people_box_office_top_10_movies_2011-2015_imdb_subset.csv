@@ -61,11 +61,11 @@ movie_id,movie_name,role,order,name,imdb_id,img
 7,The Hangover Part II,writer,1,Craig Mazin,563301,http://s3.amazonaws.com/brianfoo_art/hollywood/563301.jpg
 7,The Hangover Part II,writer,2,Scot Armstrong,35905,none
 7,The Hangover Part II,writer,3,Todd Phillips,680846,http://s3.amazonaws.com/brianfoo_art/hollywood/680846.jpg
-8,The Twilight Saga: Breaking Dawn Part 1,cast,1,Taylor Lautner,1210124,http://s3.amazonaws.com/brianfoo_art/hollywood/1210124.jpg
-8,The Twilight Saga: Breaking Dawn Part 1,cast,2,Gil Birmingham,83655,http://s3.amazonaws.com/brianfoo_art/hollywood/83655.jpg
-8,The Twilight Saga: Breaking Dawn Part 1,cast,3,Billy Burke,121605,http://s3.amazonaws.com/brianfoo_art/hollywood/121605.jpg
-8,The Twilight Saga: Breaking Dawn Part 1,cast,4,Sarah Clarke,1020124,http://s3.amazonaws.com/brianfoo_art/hollywood/1020124.jpg
-8,The Twilight Saga: Breaking Dawn Part 1,cast,5,Ty Olsson,648153,http://s3.amazonaws.com/brianfoo_art/hollywood/648153.jpg
+8,The Twilight Saga: Breaking Dawn Part 1,cast,1,Kristen Stewart,829576,http://s3.amazonaws.com/brianfoo_art/hollywood/829576.jpg
+8,The Twilight Saga: Breaking Dawn Part 1,cast,2,Robert Pattinson,1500155,http://s3.amazonaws.com/brianfoo_art/hollywood/1500155.jpg
+8,The Twilight Saga: Breaking Dawn Part 1,cast,3,Taylor Lautner,1210124,http://s3.amazonaws.com/brianfoo_art/hollywood/1210124.jpg
+8,The Twilight Saga: Breaking Dawn Part 1,cast,4,Billy Burke,121605,http://s3.amazonaws.com/brianfoo_art/hollywood/121605.jpg
+8,The Twilight Saga: Breaking Dawn Part 1,cast,5,Peter Facinelli,4906,http://s3.amazonaws.com/brianfoo_art/hollywood/4906.jpg
 8,The Twilight Saga: Breaking Dawn Part 1,director,1,Bill Condon,174374,http://s3.amazonaws.com/brianfoo_art/hollywood/174374.jpg
 8,The Twilight Saga: Breaking Dawn Part 1,writer,1,Melissa Rosenberg,742279,http://s3.amazonaws.com/brianfoo_art/hollywood/742279.jpg
 8,The Twilight Saga: Breaking Dawn Part 1,writer,2,Stephenie Meyer,2769412,http://s3.amazonaws.com/brianfoo_art/hollywood/2769412.jpg
@@ -76,11 +76,11 @@ movie_id,movie_name,role,order,name,imdb_id,img
 9,Transformers: Dark of the Moon,cast,5,Tyrese Gibson,879085,http://s3.amazonaws.com/brianfoo_art/hollywood/879085.jpg
 9,Transformers: Dark of the Moon,director,1,Michael Bay,881,http://s3.amazonaws.com/brianfoo_art/hollywood/881.jpg
 9,Transformers: Dark of the Moon,writer,1,Ehren Kruger,472567,http://s3.amazonaws.com/brianfoo_art/hollywood/472567.jpg
-10,Harry Potter and the Deathly Hallows Part 2,cast,1,Ralph Fiennes,146,http://s3.amazonaws.com/brianfoo_art/hollywood/146.jpg
-10,Harry Potter and the Deathly Hallows Part 2,cast,2,Michael Gambon,2091,http://s3.amazonaws.com/brianfoo_art/hollywood/2091.jpg
-10,Harry Potter and the Deathly Hallows Part 2,cast,3,Alan Rickman,614,http://s3.amazonaws.com/brianfoo_art/hollywood/614.jpg
-10,Harry Potter and the Deathly Hallows Part 2,cast,4,Daniel Radcliffe,705356,http://s3.amazonaws.com/brianfoo_art/hollywood/705356.jpg
-10,Harry Potter and the Deathly Hallows Part 2,cast,5,Rupert Grint,342488,http://s3.amazonaws.com/brianfoo_art/hollywood/342488.jpg
+10,Harry Potter and the Deathly Hallows Part 2,cast,1,Daniel Radcliffe,705356,http://s3.amazonaws.com/brianfoo_art/hollywood/705356.jpg
+10,Harry Potter and the Deathly Hallows Part 2,cast,2,Rupert Grint,342488,http://s3.amazonaws.com/brianfoo_art/hollywood/342488.jpg
+10,Harry Potter and the Deathly Hallows Part 2,cast,3,Emma Watson,914612,http://s3.amazonaws.com/brianfoo_art/hollywood/0914612.jpg
+10,Harry Potter and the Deathly Hallows Part 2,cast,4,Helena Bonham Carter,307,http://s3.amazonaws.com/brianfoo_art/hollywood/307.jpg
+10,Harry Potter and the Deathly Hallows Part 2,cast,5,Ralph Fiennes,146,http://s3.amazonaws.com/brianfoo_art/hollywood/146.jpg
 10,Harry Potter and the Deathly Hallows Part 2,director,1,David Yates,946734,
 10,Harry Potter and the Deathly Hallows Part 2,writer,1,Steve Kloves,460141,none
 10,Harry Potter and the Deathly Hallows Part 2,writer,2,J.K. Rowling,746830,http://s3.amazonaws.com/brianfoo_art/hollywood/746830.jpg
@@ -149,11 +149,11 @@ movie_id,movie_name,role,order,name,imdb_id,img
 17,Skyfall,writer,1,Neal Purvis,701031,none
 17,Skyfall,writer,2,Robert Wade,905498,none
 17,Skyfall,writer,3,John Logan,517589,http://s3.amazonaws.com/brianfoo_art/hollywood/517589.jpg
-18,The Hunger Games,cast,1,Stanley Tucci,1804,http://s3.amazonaws.com/brianfoo_art/hollywood/1804.jpg
-18,The Hunger Games,cast,2,Wes Bentley,4747,http://s3.amazonaws.com/brianfoo_art/hollywood/4747.jpg
-18,The Hunger Games,cast,3,Jennifer Lawrence,2225369,http://s3.amazonaws.com/brianfoo_art/hollywood/2225369.jpg
-18,The Hunger Games,cast,4,Willow Shields,3094377,http://s3.amazonaws.com/brianfoo_art/hollywood/3094377.jpg
-18,The Hunger Games,cast,5,Liam Hemsworth,2955013,http://s3.amazonaws.com/brianfoo_art/hollywood/2955013.jpg
+18,The Hunger Games,cast,1,Jennifer Lawrence,2225369,http://s3.amazonaws.com/brianfoo_art/hollywood/2225369.jpg
+18,The Hunger Games,cast,2,Josh Hutcherson,1242688,http://s3.amazonaws.com/brianfoo_art/hollywood/1242688.jpg
+18,The Hunger Games,cast,3,Liam Hemsworth,2955013,http://s3.amazonaws.com/brianfoo_art/hollywood/2955013.jpg
+18,The Hunger Games,cast,4,Woody Harrelson,437,http://s3.amazonaws.com/brianfoo_art/hollywood/437.jpg
+18,The Hunger Games,cast,5,Elizabeth Banks,6969,http://s3.amazonaws.com/brianfoo_art/hollywood/6969.jpg
 18,The Hunger Games,director,1,Gary Ross,2657,http://s3.amazonaws.com/brianfoo_art/hollywood/2657.jpg
 18,The Hunger Games,writer,1,Gary Ross,2657,http://s3.amazonaws.com/brianfoo_art/hollywood/2657.jpg
 18,The Hunger Games,writer,2,Suzanne Collins,1056741,http://s3.amazonaws.com/brianfoo_art/hollywood/1056741.jpg
@@ -305,11 +305,11 @@ movie_id,movie_name,role,order,name,imdb_id,img
 35,The Hobbit: The Battle of the Five Armies,writer,1,Fran Walsh,909638,http://s3.amazonaws.com/brianfoo_art/hollywood/909638.jpg
 35,The Hobbit: The Battle of the Five Armies,writer,2,Philippa Boyens,101991,http://s3.amazonaws.com/brianfoo_art/hollywood/101991.jpg
 35,The Hobbit: The Battle of the Five Armies,writer,3,Peter Jackson,1392,http://s3.amazonaws.com/brianfoo_art/hollywood/1392.jpg
-36,The LEGO Movie,cast,1,Will Arnett,4715,http://s3.amazonaws.com/brianfoo_art/hollywood/4715.jpg
-36,The LEGO Movie,cast,2,Elizabeth Banks,6969,http://s3.amazonaws.com/brianfoo_art/hollywood/6969.jpg
-36,The LEGO Movie,cast,3,Craig Berry,1911947,none
-36,The LEGO Movie,cast,4,Alison Brie,1555340,http://s3.amazonaws.com/brianfoo_art/hollywood/1555340.jpg
-36,The LEGO Movie,cast,5,David Burrows,123262,http://s3.amazonaws.com/brianfoo_art/hollywood/123262.jpg
+36,The LEGO Movie,cast,1,Chris Pratt,695435,http://s3.amazonaws.com/brianfoo_art/hollywood/695435.jpg
+36,The LEGO Movie,cast,2,Will Ferrell,2071,http://s3.amazonaws.com/brianfoo_art/hollywood/0002071.jpg
+36,The LEGO Movie,cast,3,Elizabeth Banks,6969,http://s3.amazonaws.com/brianfoo_art/hollywood/6969.jpg
+36,The LEGO Movie,cast,4,Will Arnett,4715,http://s3.amazonaws.com/brianfoo_art/hollywood/4715.jpg
+36,The LEGO Movie,cast,5,Nick Offerman,644406,http://s3.amazonaws.com/brianfoo_art/hollywood/0644406.jpg
 36,The LEGO Movie,director,1,Phil Lord,520488,http://s3.amazonaws.com/brianfoo_art/hollywood/520488.jpg
 36,The LEGO Movie,director,2,Christopher Miller,588087,http://s3.amazonaws.com/brianfoo_art/hollywood/588087.jpg
 36,The LEGO Movie,writer,1,Phil Lord,520488,http://s3.amazonaws.com/brianfoo_art/hollywood/520488.jpg
