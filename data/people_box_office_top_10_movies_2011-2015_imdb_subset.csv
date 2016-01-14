@@ -65,12 +65,12 @@ movie_id,movie_name,role,order,name,imdb_id,img,gender,races,note,reference_url
 8,The Twilight Saga: Breaking Dawn Part 1,cast,2,Robert Pattinson,1500155,http://s3.amazonaws.com/brianfoo_art/hollywood/1500155.jpg,m,w,,
 8,The Twilight Saga: Breaking Dawn Part 1,cast,3,Taylor Lautner,1210124,http://s3.amazonaws.com/brianfoo_art/hollywood/1210124.jpg,m,w,"Austrian, English, German, Swiss-German, French, Irish, and Dutch",http://www.imdb.com/name/nm1210124/bio
 8,The Twilight Saga: Breaking Dawn Part 1,cast,4,Billy Burke,121605,http://s3.amazonaws.com/brianfoo_art/hollywood/121605.jpg,m,w,,
-8,The Twilight Saga: Breaking Dawn Part 1,cast,5,Peter Facinelli,4906,http://s3.amazonaws.com/brianfoo_art/hollywood/4906.jpg,m,,Italian,http://www.imdb.com/name/nm0004906/bio
+8,The Twilight Saga: Breaking Dawn Part 1,cast,5,Peter Facinelli,4906,http://s3.amazonaws.com/brianfoo_art/hollywood/4906.jpg,m,w,Italian,http://www.imdb.com/name/nm0004906/bio
 8,The Twilight Saga: Breaking Dawn Part 1,director,1,Bill Condon,174374,http://s3.amazonaws.com/brianfoo_art/hollywood/174374.jpg,m,w,Irish Catholic,http://www.films42.com/chats/bill_condon.asp
 8,The Twilight Saga: Breaking Dawn Part 1,writer,1,Melissa Rosenberg,742279,http://s3.amazonaws.com/brianfoo_art/hollywood/742279.jpg,f,w,"Irish Catholic, Jewish",https://en.wikipedia.org/wiki/Melissa_Rosenberg#Early_life
 8,The Twilight Saga: Breaking Dawn Part 1,writer,2,Stephenie Meyer,2769412,http://s3.amazonaws.com/brianfoo_art/hollywood/2769412.jpg,f,w,,
 9,Transformers: Dark of the Moon,cast,1,Shia LaBeouf,479471,http://s3.amazonaws.com/brianfoo_art/hollywood/479471.jpg,m,w,"His mother is from an Ashkenazi Jewish family, while his father has Cajun (French) ancestry",http://www.imdb.com/name/nm0479471/bio
-9,Transformers: Dark of the Moon,cast,2,Rosie Huntington-Whiteley,2492819,http://s3.amazonaws.com/brianfoo_art/hollywood/2492819.jpg,f,,Ashkenazi Jewish and English,http://www.imdb.com/name/nm2492819/bio
+9,Transformers: Dark of the Moon,cast,2,Rosie Huntington-Whiteley,2492819,http://s3.amazonaws.com/brianfoo_art/hollywood/2492819.jpg,f,w,Ashkenazi Jewish and English,http://www.imdb.com/name/nm2492819/bio
 9,Transformers: Dark of the Moon,cast,3,Josh Duhamel,241049,http://s3.amazonaws.com/brianfoo_art/hollywood/241049.jpg,m,w,"French-Canadian (from his great-great-grandfather; his last name is a very common last name among Francophones in the world), Norwegian, German, Irish, and English",http://www.imdb.com/name/nm0241049/bio
 9,Transformers: Dark of the Moon,cast,4,John Turturro,1806,http://s3.amazonaws.com/brianfoo_art/hollywood/1806.jpg,m,w,"The Turturro family originates from Sicily, Italy",http://www.imdb.com/name/nm0001806/bio
 9,Transformers: Dark of the Moon,cast,5,Tyrese Gibson,879085,http://s3.amazonaws.com/brianfoo_art/hollywood/879085.jpg,m,b,,http://www.imdb.com/name/nm0879085/awards
@@ -126,7 +126,7 @@ movie_id,movie_name,role,order,name,imdb_id,img,gender,races,note,reference_url
 15,The Twilight Saga: Breaking Dawn Part 2,cast,1,Kristen Stewart,829576,http://s3.amazonaws.com/brianfoo_art/hollywood/829576.jpg,f,w,,
 15,The Twilight Saga: Breaking Dawn Part 2,cast,2,Robert Pattinson,1500155,http://s3.amazonaws.com/brianfoo_art/hollywood/1500155.jpg,m,w,,
 15,The Twilight Saga: Breaking Dawn Part 2,cast,3,Taylor Lautner,1210124,http://s3.amazonaws.com/brianfoo_art/hollywood/1210124.jpg,m,w,"Austrian, English, German, Swiss-German, French, Irish, and Dutch",http://www.imdb.com/name/nm1210124/bio
-15,The Twilight Saga: Breaking Dawn Part 2,cast,4,Peter Facinelli,4906,http://s3.amazonaws.com/brianfoo_art/hollywood/4906.jpg,m,,Italian,http://www.imdb.com/name/nm0004906/bio
+15,The Twilight Saga: Breaking Dawn Part 2,cast,4,Peter Facinelli,4906,http://s3.amazonaws.com/brianfoo_art/hollywood/4906.jpg,m,w,Italian,http://www.imdb.com/name/nm0004906/bio
 15,The Twilight Saga: Breaking Dawn Part 2,cast,5,Elizabeth Reaser,714147,http://s3.amazonaws.com/brianfoo_art/hollywood/714147.jpg,f,w,"German, Swedish, English, Irish, and Scottish",http://www.imdb.com/name/nm0714147/bio
 15,The Twilight Saga: Breaking Dawn Part 2,director,1,Bill Condon,174374,http://s3.amazonaws.com/brianfoo_art/hollywood/174374.jpg,m,w,Irish Catholic,http://www.films42.com/chats/bill_condon.asp
 15,The Twilight Saga: Breaking Dawn Part 2,writer,1,Melissa Rosenberg,742279,http://s3.amazonaws.com/brianfoo_art/hollywood/742279.jpg,f,w,"Irish Catholic, Jewish",https://en.wikipedia.org/wiki/Melissa_Rosenberg#Early_life
@@ -247,7 +247,7 @@ movie_id,movie_name,role,order,name,imdb_id,img,gender,races,note,reference_url
 29,Iron Man 3,cast,1,Robert Downey Jr.,375,http://s3.amazonaws.com/brianfoo_art/hollywood/375.jpg,m,w,"Robert's father is of half Lithuanian Jewish, one quarter Hungarian Jewish, and one quarter Irish, descent, while Robert's mother was of English, Scottish, German, and Swiss-German",http://www.imdb.com/name/nm0000375/bio
 29,Iron Man 3,cast,2,Gwyneth Paltrow,569,http://s3.amazonaws.com/brianfoo_art/hollywood/569.jpg,f,w,"German, and some English and Irish; Eastern European",http://www.imdb.com/name/nm0000569/bio
 29,Iron Man 3,cast,3,Don Cheadle,332,http://s3.amazonaws.com/brianfoo_art/hollywood/332.jpg,m,b,,http://www.pbs.org/wnet/aalives/profiles/cheadle.html
-29,Iron Man 3,cast,4,Guy Pearce,1602,http://s3.amazonaws.com/brianfoo_art/hollywood/1602.jpg,m,,English and Scottish,http://www.imdb.com/name/nm0001602/bio
+29,Iron Man 3,cast,4,Guy Pearce,1602,http://s3.amazonaws.com/brianfoo_art/hollywood/1602.jpg,m,w,English and Scottish,http://www.imdb.com/name/nm0001602/bio
 29,Iron Man 3,cast,5,Rebecca Hall,356017,http://s3.amazonaws.com/brianfoo_art/hollywood/356017.jpg,f,"w,b,o","Dutch, Scottish, Sioux, and African American",http://www.imdb.com/name/nm0356017/bio
 29,Iron Man 3,director,1,Shane Black,948,http://s3.amazonaws.com/brianfoo_art/hollywood/948.jpg,m,w,,
 29,Iron Man 3,writer,1,Drew Pearce,1510800,http://s3.amazonaws.com/brianfoo_art/hollywood/1510800.jpg,m,w,,
@@ -291,7 +291,7 @@ movie_id,movie_name,role,order,name,imdb_id,img,gender,races,note,reference_url
 33,Maleficent,writer,3,Milt Banta,52520,none,m,w,,
 34,Transformers: Age of Extinction,cast,1,Mark Wahlberg,242,http://s3.amazonaws.com/brianfoo_art/hollywood/242.jpg,m,w,"Irish, Swedish (from his paternal grandfather), and more distant French-Canadian and English",http://www.imdb.com/name/nm0000242/bio
 34,Transformers: Age of Extinction,cast,2,Stanley Tucci,1804,http://s3.amazonaws.com/brianfoo_art/hollywood/1804.jpg,m,w,"His family is Italian-American, with origins in Calabria",http://www.imdb.com/name/nm0001804/bio
-34,Transformers: Age of Extinction,cast,3,Kelsey Grammer,1288,http://s3.amazonaws.com/brianfoo_art/hollywood/1288.jpg,m,,"English, German, Irish and Scottish",http://www.imdb.com/name/nm0001288/bio
+34,Transformers: Age of Extinction,cast,3,Kelsey Grammer,1288,http://s3.amazonaws.com/brianfoo_art/hollywood/1288.jpg,m,w,"English, German, Irish and Scottish",http://www.imdb.com/name/nm0001288/bio
 34,Transformers: Age of Extinction,cast,4,Nicola Peltz,2443758,http://s3.amazonaws.com/brianfoo_art/hollywood/2443758.jpg,f,w,"Ashkenazi Jewish (from her father) and German, Welsh, and English (from her mother)",http://www.imdb.com/name/nm2443758/bio
 34,Transformers: Age of Extinction,cast,5,Jack Reynor,2930503,http://s3.amazonaws.com/brianfoo_art/hollywood/2930503.jpg,m,w,Irish mother,http://www.imdb.com/name/nm2930503/bio
 34,Transformers: Age of Extinction,director,1,Michael Bay,881,http://s3.amazonaws.com/brianfoo_art/hollywood/881.jpg,m,w,Grandfather was Russian,https://en.wikipedia.org/wiki/Michael_Bay#Early_life
