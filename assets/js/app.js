@@ -34,8 +34,12 @@ var Classify = (function() {
       _this.people_all = data;
       console.log('Loaded '+_this.people.length+' people');
       $('.classifications-total').text(_this.people.length);
+      var validImdbIds = _.pluck(_this.people, 'imdb_id');
       // remove people user already classified
       _this.people = _.filter(_this.people, function(p){ return !_.contains(ImdbIdsClassified, p['imdb_id']); });
+      // remove people with invalid imdb id
+      ImdbIdsClassified = _.filter(ImdbIdsClassified, function(imdbId){ return _.indexOf(validImdbIds, imdbId) >= 0; });
+      $('.classifications-count').text(ImdbIdsClassified.length);
       _this.people_loaded.resolve();
       console.log('Loaded '+_this.people.length+' unclassified people');
     });
