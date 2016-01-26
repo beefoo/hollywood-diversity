@@ -2,6 +2,7 @@
 
 # Example usage:
 #   python generate_json.py ../data/box_office_top_50_movies_1995-2014.csv ../data/people_box_office_top_50_movies_1995-2014_imdb_subset.csv
+#   python generate_json.py ../data/box_office_top_10_movies_2006-2010.csv ../data/people_box_office_top_10_movies_2006-2010_imdb_subset.csv
 
 import csv
 import json
@@ -18,7 +19,7 @@ WRITE_FILES = True
 
 movie_required_headers = ['movie_id', 'name', 'imdb_id']
 people_required_headers = ['name', 'imdb_id', 'img']
-roles_required_headers = ['movie_id', 'movie_name', 'role', 'imdb_id']
+roles_required_headers = ['movie_imdb_id', 'movie_name', 'role', 'imdb_id']
 
 movies = []
 people = []
