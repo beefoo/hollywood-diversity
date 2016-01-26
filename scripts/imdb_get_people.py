@@ -5,7 +5,7 @@
 
 # Example usage:
 #   python imdb_get_people.py ../data/box_office_top_50_movies_1995-2014.csv ../data/people_box_office_top_50_movies_1995-2014_imdb.csv
-#   python imdb_get_people.py ../data/box_office_top_10_movies_2011-2015.csv ../data/people_box_office_top_10_movies_2011-2015_imdb.csv
+#   python imdb_get_people.py ../data/box_office_top_10_movies_2006-2015.csv ../data/people_box_office_top_10_movies_2006-2015_imdb.csv
 
 import csv
 from imdb import IMDb
@@ -27,7 +27,7 @@ movies = []
 movie_headers = []
 people = []
 people_headers = []
-people_headers_to_add = ['movie_id', 'movie_name', 'role', 'order', 'name', 'imdb_id']
+people_headers_to_add = ['movie_imdb_id', 'movie_name', 'role', 'order', 'name', 'imdb_id']
 
 ia = IMDb()
 
@@ -81,7 +81,7 @@ def addRoleList(movie, role, role_list):
         person = {}
         for h in people_headers:
             person[h] = ''
-        person['movie_id'] = movie['movie_id']
+        person['movie_imdb_id'] = movie['imdb_id']
         person['movie_name'] = movie['name']
         person['role'] = role
         person['order'] = i + 1
@@ -133,7 +133,7 @@ def appendPeople(added_people):
 
 for movie in movies:
     # Already processed this movie
-    if len([p for p in people if p['movie_id']==movie['movie_id']]) > 0:
+    if len([p for p in people if p['movie_imdb_id']==movie['imdb_id']]) > 0:
         continue
     imdb_movie = ia.get_movie(movie['imdb_id'])
     if not imdb_movie:

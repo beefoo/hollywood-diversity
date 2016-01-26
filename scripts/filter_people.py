@@ -16,8 +16,9 @@ INPUT_FILE = sys.argv[1]
 OUTPUT_FILE = sys.argv[2]
 filters = [
     {'column': 'role', 'value': 'cast', 'limit': 5},
-    {'column': 'role', 'value': 'producer', 'limit': 3},
-    {'column': 'role', 'value': 'writer', 'limit': 3}
+    {'column': 'role', 'value': 'producer', 'limit': 0},
+    {'column': 'role', 'value': 'writer', 'limit': 0},
+    {'column': 'role', 'value': 'director', 'limit': 0}
 ]
 
 people = []

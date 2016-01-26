@@ -2,6 +2,7 @@
 
 # Example usage:
 #   python imdb_get_featured_cast.py ../data/box_office_top_10_movies_2011-2015.csv ../data/people_box_office_top_10_movies_2011-2015_imdb_subset.csv ../tmp/
+#   python imdb_get_featured_cast.py ../data/box_office_top_10_movies_2006-2010.csv ../data/people_box_office_top_10_movies_2006-2010_imdb_subset.csv ../tmp/
 
 from bs4 import BeautifulSoup
 import csv
@@ -81,7 +82,7 @@ for i, m in enumerate(movies):
             elif name:
                 print "Could not find IMDB ID for %s in movie %s (%s)" % (name, m['name'], m['imdb_id'])
 
-    cast = [p for p in people if p['movie_id']==m['movie_id']]
+    cast = [p for p in people if p['movie_imdb_id']==m['imdb_id']]
     cast_ids = [p['imdb_id'] for p in cast]
     missing = [p for p in featured if p['imdb_id'] not in cast_ids]
     if len(missing) > 0:
